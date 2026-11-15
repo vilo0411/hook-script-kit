@@ -1,20 +1,23 @@
-mindmap
-  root((Từ giả định tăng lương đồng loạt đến<br/>cơ chế lạm phát))
-    b0["Mở 00:00–00:12.86"]
-      b0c0["Lương tăng đồng loạt"]
-      b0c1["Đảo trực giác giàu lên"]
-    b1["Hệ quả 00:13.28–00:49.26"]
-      b1c0["Giá phản ứng"]
-      b1c1["Ca Venezuela theo lời tác giả"]
-    b2["Gọi tên 00:49.70–01:07.60"]
-      b2c0["Giá cả và sức mua"]
-      b2c1["Khái niệm sau tình huống"]
-    b3["Hai cơ chế 01:08.02–02:20.16"]
-      b3c0["Chi phí đẩy"]
-      b3c1["Cầu kéo/cùng đồ thị"]
-    b4["Vòng hỏi mới 02:20.22–03:05.60"]
-      b4c0["Vì sao không bơm tiền mãi"]
-      b4c1["Lập luận chính sách cần kiểm"]
-    b5["Callback 03:06.22–03:27.70"]
-      b5c0["Quay về ví dụ lương"]
-      b5c1["Câu hỏi cuối rộng hơn mô hình"]
+%%{init: {"htmlLabels": false, "themeVariables": {"fontSize": "18px"}, "flowchart": {"padding": 16, "rankSpacing": 22, "wrappingWidth": 360}}}%%
+flowchart TD
+  n0["01 · 00:00.00–00:12.86<br/>Đặt tình huống mọi người nhận mức<br/>lương cao hơn và gọi người xem vào<br/>trải nghiệm ấy, sau đó phủ định suy<br/>nghĩ giàu lên ngay."]
+  n1["02 · 00:13.28–00:28.14<br/>Kể tiếp phản ứng tăng giá của các bên<br/>bán và sức ép người mua phải chấp nhận<br/>giá mới trong tình huống tác giả dựng."]
+  n0 --> n1
+  n2["03 · 00:28.40–00:49.26<br/>Chuyển từ giả định sang câu chuyện<br/>Venezuela và hình ảnh đồng tiền mất<br/>sức mua."]
+  n1 --> n2
+  n3["04 · 00:49.70–01:07.60<br/>Đặt câu hỏi trung tâm và giải thích<br/>lạm phát qua giá cả, sức mua."]
+  n2 --> n3
+  n4["05 · 01:08.02–01:52.20<br/>Tách nguyên nhân chi phí đẩy, kể ca<br/>vận tải rồi diễn giải trên đường<br/>cung/cầu."]
+  n3 --> n4
+  n5["06 · 01:52.62–02:20.16<br/>Đưa giá khẩu trang trong dịch vào<br/>nhánh cầu kéo và biểu diễn sự dịch<br/>chuyển đường cầu."]
+  n4 --> n5
+  n6["07 · 02:20.22–03:05.60<br/>Mở rộng sang chính sách trong dịch và<br/>câu hỏi vì sao không bơm tiền liên<br/>tục."]
+  n5 --> n6
+  n7["08 · 03:06.22–03:27.70<br/>Quay lại giả định đầu và kết bằng câu<br/>hỏi đánh giá việc tăng cung tiền."]
+  n6 --> n7
+  classDef phase fill:#F8FAFC,stroke:#CBD5E1,color:#0F172A,font-size:18px;
+  classDef opening fill:#DBEAFE,stroke:#2563EB,color:#172554,font-size:18px;
+  classDef ending fill:#DCFCE7,stroke:#16A34A,color:#14532D,font-size:18px;
+  class n0,n1,n2,n3,n4,n5,n6,n7 phase;
+  class n0 opening;
+  class n7 ending;

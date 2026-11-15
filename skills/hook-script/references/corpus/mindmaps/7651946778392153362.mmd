@@ -1,20 +1,21 @@
-mindmap
-  root((Hai chuyện tưởng không liên quan được<br/>nối qua áp lực thương mại))
-    b0["Mở 00:00–00:10.66"]
-      b0c0["Hai miền E10 và phần mềm lậu"]
-      b0c1["Thừa nhận trực giác khó tin"]
-    b1["Bối cảnh 00:10.80–00:47.98"]
-      b1c0["Áp lực thương mại theo lời tác giả"]
-      b1c1["Đặt mức hệ quả"]
-    b2["Cầu nối 00:47.98–01:00.94"]
-      b2c0["Khách lớn và giao dịch hai chiều"]
-      b2c1["Giảm trừu tượng"]
-    b3["Hai nhánh 01:00.94–01:46.22"]
-      b3c0["Ethanol → nhu cầu E10"]
-      b3c1["Sở hữu trí tuệ → phần mềm"]
-    b4["Giải đáp 01:46.34–01:59.22"]
-      b4c0["Gom về luật chơi hội nhập"]
-      b4c1["Lập luận cần kiểm nhân quả"]
-    b5["Kết 01:59.22–02:17.48"]
-      b5c0["Lợi ích đi cùng chi phí"]
-      b5c1["Mở ra đánh đổi rộng hơn"]
+%%{init: {"htmlLabels": false, "themeVariables": {"fontSize": "18px"}, "flowchart": {"padding": 16, "rankSpacing": 22, "wrappingWidth": 360}}}%%
+flowchart TD
+  n0["01 · 00:00.00–00:10.66<br/>Đặt hai hiện tượng khác miền, thừa<br/>nhận khó tin, rồi hỏi nguyên nhân<br/>chung."]
+  n1["02 · 00:10.80–00:47.98<br/>Nêu bối cảnh thuế đối ứng, phản ứng<br/>thị trường và thặng dư thương mại theo<br/>lời tác giả."]
+  n0 --> n1
+  n2["03 · 00:47.98–01:00.94<br/>Chuyển cán cân thương mại thành tình<br/>huống khách hàng mua nhiều nhưng chưa<br/>được mua lại tương xứng."]
+  n1 --> n2
+  n3["04 · 01:00.94–01:32.34<br/>Tách nhánh tăng nhập khẩu, rồi nối<br/>ethanol với nhu cầu chuyển sang E10."]
+  n2 --> n3
+  n4["05 · 01:32.34–01:46.22<br/>Chuyển sang nhánh sở hữu trí tuệ và<br/>hành động với phần mềm lậu."]
+  n3 --> n4
+  n5["06 · 01:46.34–01:59.22<br/>Gộp hai nhánh dưới một cách giải thích<br/>về luật chơi và sức ép hội nhập."]
+  n4 --> n5
+  n6["07 · 01:59.22–02:17.48<br/>Mở rộng sang lợi ích và chi phí tham<br/>gia dòng vốn/công nghệ quốc tế."]
+  n5 --> n6
+  classDef phase fill:#F8FAFC,stroke:#CBD5E1,color:#0F172A,font-size:18px;
+  classDef opening fill:#DBEAFE,stroke:#2563EB,color:#172554,font-size:18px;
+  classDef ending fill:#DCFCE7,stroke:#16A34A,color:#14532D,font-size:18px;
+  class n0,n1,n2,n3,n4,n5,n6 phase;
+  class n0 opening;
+  class n6 ending;

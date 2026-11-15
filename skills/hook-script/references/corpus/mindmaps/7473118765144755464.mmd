@@ -1,20 +1,19 @@
-mindmap
-  root((Lời hứa làm giàu nhẹ công và quá trình<br/>chất vấn Pi))
-    b0["00:00–00:18.42 | Lời hứa và người hứa"]
-      b0c0["Công sức nhỏ, phần thưởng lớn"]
-      b0c1["Quy viễn cảnh cho dự án"]
-    b1["00:18.88–00:52.86 | Khoảng trống giá<br/>trị"]
-      b1c0["Cộng đồng so với trạng thái tài khoản"]
-      b1c1["Ai mua và vì sao có giá"]
-    b2["00:53.76–01:02.88 | CTA ngoài lập luận"]
-      b2c0["Quảng bá cộng đồng tác giả"]
-      b2c1["Ngắt trước bộ tiêu chí"]
-    b3["01:03.40–01:51.50 | Đặt thước kiểm"]
-      b3c0["Tiêu chí do tác giả trình bày"]
-      b3c1["Minh họa qua một đối tượng so sánh"]
-    b4["01:51.90–03:03.46 | Áp lại tiêu chí"]
-      b4c0["Nguồn cung, hữu dụng, lòng tin"]
-      b4c1["Mục tiêu người tạo"]
-    b5["03:03.92–03:19.00 | Đánh giá lại"]
-      b5c0["Cơ hội và rủi ro"]
-      b5c1["Câu hỏi niềm tin cuối"]
+%%{init: {"htmlLabels": false, "themeVariables": {"fontSize": "18px"}, "flowchart": {"padding": 16, "rankSpacing": 22, "wrappingWidth": 360}}}%%
+flowchart TD
+  n0["01 · 00:00.00–00:18.42<br/>Nêu viễn cảnh giàu nhanh nhờ một thao<br/>tác nhỏ, rồi quy nó cho dự án và cộng<br/>đồng tin theo."]
+  n1["02 · 00:18.88–00:52.86<br/>Đưa kỳ vọng thay thế một tài sản lớn<br/>đối lập với trạng thái tài khoản và<br/>câu hỏi ai sẽ mua."]
+  n0 --> n1
+  n2["03 · 00:53.76–01:02.88<br/>Chèn quảng bá cộng đồng thông tin."]
+  n1 --> n2
+  n3["04 · 01:03.40–01:51.50<br/>Đặt bộ tiêu chí giá trị rồi minh họa<br/>bằng trường hợp Bitcoin theo cách diễn<br/>giải của tác giả."]
+  n2 --> n3
+  n4["05 · 01:51.90–03:03.46<br/>Đối chiếu Pi lần lượt theo các tiêu<br/>chí đã đặt, dùng câu hỏi về nguồn<br/>cung, tính hữu dụng, lòng tin và mục<br/>tiêu người tạo."]
+  n3 --> n4
+  n5["06 · 03:03.92–03:19.00<br/>Quay về rủi ro lựa chọn tài sản số và<br/>hỏi người xem đánh giá lại niềm tin."]
+  n4 --> n5
+  classDef phase fill:#F8FAFC,stroke:#CBD5E1,color:#0F172A,font-size:18px;
+  classDef opening fill:#DBEAFE,stroke:#2563EB,color:#172554,font-size:18px;
+  classDef ending fill:#DCFCE7,stroke:#16A34A,color:#14532D,font-size:18px;
+  class n0,n1,n2,n3,n4,n5 phase;
+  class n0 opening;
+  class n5 ending;

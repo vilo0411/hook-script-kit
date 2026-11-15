@@ -1,20 +1,21 @@
-mindmap
-  root((Mua trước trả sau: xung đột giữa thu<br/>nhập và mức chi tiêu))
-    b0["Mở 0–10,44s"]
-      b0c0["Lương và món hàng lớn"]
-      b0c1["Khoản trả nhỏ làm đổi cảm nhận"]
-    b1["Nối 10,78–32,60s"]
-      b1c0["Nhiều khoản nhỏ tới cùng kỳ"]
-      b1c1["Mở câu hỏi về sức hút mô hình"]
-    b2["Giải mã 32,98–98,86s"]
-      b2c0["Tên mô hình và trải nghiệm xét duyệt"]
-      b2c1["Nguồn thu bên cung cấp"]
-    b3["Tâm lý 99,10–163,46s"]
-      b3c0["Chia nhỏ cảm giác mất tiền"]
-      b3c1["Hình ảnh tiêu dùng và hành vi"]
-    b4["Hệ quả 163,46–200,78s"]
-      b4c0["Cộng nghĩa vụ"]
-      b4c1["Vòng nợ và hệ quả tín dụng tác giả nêu"]
-    b5["Kết 201,22–222,08s"]
-      b5c0["Từ mua sắm sang tiếp cận tín dụng"]
-      b5c1["Điều kiện quản lý tài chính cá nhân"]
+%%{init: {"htmlLabels": false, "themeVariables": {"fontSize": "18px"}, "flowchart": {"padding": 16, "rankSpacing": 22, "wrappingWidth": 360}}}%%
+flowchart TD
+  n0["01 · 00:00.00–00:10.44<br/>Đặt lương, giá điện thoại và khoản trả<br/>tháng cạnh nhau, rồi đổi từ cảm giác<br/>hợp lý sang cảnh báo mắc bẫy."]
+  n1["02 · 00:10.78–00:32.60<br/>Mô tả các khoản trả nhỏ cộng lại khi<br/>nhận lương, sau đó đưa số liệu người<br/>dùng trẻ và đặt câu hỏi về sức hút của<br/>mô hình."]
+  n0 --> n1
+  n2["03 · 00:32.98–01:01.70<br/>Gọi tên bản chất cho vay tiêu dùng, so<br/>cách diễn đạt và xét duyệt với ngân<br/>hàng truyền thống."]
+  n1 --> n2
+  n3["04 · 01:02.00–01:38.86<br/>Đặt câu hỏi bên cung cấp kiếm tiền từ<br/>đâu khi quảng bá không thu lãi, rồi<br/>trình bày hoa hồng và phí chậm trả."]
+  n2 --> n3
+  n4["05 · 01:39.10–02:43.46<br/>Nối tăng trưởng nền tảng với việc giảm<br/>cảm giác mất tiền, so số tiền lớn trả<br/>ngay và số nhỏ trả từng kỳ, rồi kể về<br/>nhu cầu giữ hình ảnh tiêu dùng."]
+  n3 --> n4
+  n5["06 · 02:43.46–03:20.78<br/>Quay lại tổng nghĩa vụ thanh toán, mô<br/>tả vòng nợ và tác giả nêu hệ quả tín<br/>dụng dài hạn."]
+  n4 --> n5
+  n6["07 · 03:21.22–03:42.08<br/>Đặt mua sắm trực tuyến như lần đầu một<br/>số người tiếp cận tín dụng, kết bằng<br/>khả năng thành khoản nợ xấu khi thiếu<br/>quản lý."]
+  n5 --> n6
+  classDef phase fill:#F8FAFC,stroke:#CBD5E1,color:#0F172A,font-size:18px;
+  classDef opening fill:#DBEAFE,stroke:#2563EB,color:#172554,font-size:18px;
+  classDef ending fill:#DCFCE7,stroke:#16A34A,color:#14532D,font-size:18px;
+  class n0,n1,n2,n3,n4,n5,n6 phase;
+  class n0 opening;
+  class n6 ending;

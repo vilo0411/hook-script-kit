@@ -1,0 +1,17 @@
+%%{init: {"htmlLabels": false, "themeVariables": {"fontSize": "18px"}, "flowchart": {"padding": 16, "rankSpacing": 22, "wrappingWidth": 360}}}%%
+flowchart TD
+  n0["01 · 00:00.00–00:08.96<br/>Tự thuật thu nhập cao lúc trẻ nhưng<br/>vẫn áp lực."]
+  n1["02 · 00:09.08–00:17.36<br/>Mục tiêu năm đạt trong tháng, rồi nhìn<br/>người kiếm nhiều hơn."]
+  n0 --> n1
+  n2["03 · 00:17.36–00:29.16<br/>Tự thấy chưa tốt và đẩy chuẩn đủ ngày<br/>càng xa."]
+  n1 --> n2
+  n3["04 · 00:29.44–00:38.56<br/>Có con khiến ưu tiên chuyển sang gia<br/>đình, sức khỏe và thời gian."]
+  n2 --> n3
+  n4["05 · 00:38.56–00:46.64<br/>Định nghĩa đủ là những điều quan trọng<br/>đều có chỗ."]
+  n3 --> n4
+  classDef phase fill:#F8FAFC,stroke:#CBD5E1,color:#0F172A,font-size:18px;
+  classDef opening fill:#DBEAFE,stroke:#2563EB,color:#172554,font-size:18px;
+  classDef ending fill:#DCFCE7,stroke:#16A34A,color:#14532D,font-size:18px;
+  class n0,n1,n2,n3,n4 phase;
+  class n0 opening;
+  class n4 ending;

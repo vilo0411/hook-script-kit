@@ -1,20 +1,23 @@
-mindmap
-  root((Tiki: từ ký ức giao sách nhanh đến câu<br/>hỏi về mô hình chi phí))
-    b0["Cảnh mở 0–15,48s"]
-      b0c0["Đặt sách và nhận nhanh"]
-      b0c1["Ký ức trải nghiệm tốt"]
-    b1["Nghịch lý 15,88–31,70s"]
-      b1c0["Vị thế cũ và quy mô hiện tại"]
-      b1c1["Câu hỏi doanh nghiệp"]
-    b2["Lật lợi thế 32,30–120,10s"]
-      b2c0["Xây kho và giao nhanh"]
-      b2c1["Trải nghiệm tốt gặp chi phí quy mô"]
-    b3["Các tầng 121,06–204,88s"]
-      b3c0["Mạng lưới và tần suất sử dụng"]
-      b3c1["Chi tiền cho chú ý hay giao dịch"]
-    b4["Cuộc chơi đổi 205,18–259,40s"]
-      b4c0["Mua sắm qua nội dung"]
-      b4c1["Dòng vốn và biến động được kể"]
-    b5["Callback 259,84–276,94s"]
-      b5c0["Ký ức yêu sách"]
-      b5c1["Chi phí, dòng tiền và thích nghi"]
+%%{init: {"htmlLabels": false, "themeVariables": {"fontSize": "18px"}, "flowchart": {"padding": 16, "rankSpacing": 22, "wrappingWidth": 360}}}%%
+flowchart TD
+  n0["01 · 00:00.00–00:15.48<br/>Gợi một trải nghiệm mua sách/giao<br/>nhanh chi tiết và xác định đây là ký<br/>ức quen thuộc với người dùng."]
+  n1["02 · 00:15.88–00:31.70<br/>Đặt vị thế lớn trong quá khứ cạnh thị<br/>phần nhỏ mà tác giả nêu, rồi hỏi điều<br/>gì đã xảy ra."]
+  n0 --> n1
+  n2["03 · 00:32.30–01:02.58<br/>Tóm lịch sử từ sách tới bán nhiều<br/>ngành, quản hàng và xây dịch vụ giao<br/>nhanh."]
+  n1 --> n2
+  n3["04 · 01:03.08–02:00.10<br/>So nền tảng quy mô lớn với Tiki, dùng<br/>kho và tuyến giao để giải thích chi<br/>phí bình quân, sau đó đối chiếu giao<br/>nhanh với nhu cầu giảm phí."]
+  n2 --> n3
+  n4["05 · 02:01.06–02:49.14<br/>Nêu tiêu chuẩn người bán và vòng tương<br/>tác giữa số người bán, hàng hóa, người<br/>mua; so độ rộng danh mục và tần suất<br/>sử dụng."]
+  n3 --> n4
+  n5["06 · 02:49.72–03:24.88<br/>Đối chiếu tiền mua nhận diện qua giải<br/>trí với tiền tác động ngay vào giỏ<br/>hàng và quyết định mua."]
+  n4 --> n5
+  n6["07 · 03:25.18–04:19.40<br/>Đưa sự xuất hiện của mua sắm qua nội<br/>dung, vốn đầu tư thắt lại và các biến<br/>động doanh nghiệp mà tác giả nêu."]
+  n5 --> n6
+  n7["08 · 04:19.84–04:36.94<br/>Quay lại ký ức yêu sách rồi rút bài<br/>học về chi phí, dòng tiền và khả năng<br/>thích nghi."]
+  n6 --> n7
+  classDef phase fill:#F8FAFC,stroke:#CBD5E1,color:#0F172A,font-size:18px;
+  classDef opening fill:#DBEAFE,stroke:#2563EB,color:#172554,font-size:18px;
+  classDef ending fill:#DCFCE7,stroke:#16A34A,color:#14532D,font-size:18px;
+  class n0,n1,n2,n3,n4,n5,n6,n7 phase;
+  class n0 opening;
+  class n7 ending;

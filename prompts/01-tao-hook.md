@@ -14,7 +14,7 @@ Mỗi hướng ghi Học từ: nhóm, ID/link clip, đoạn quan sát, điều g
 Mặc định cho tôi 10 option (nếu tôi yêu cầu số khác thì theo số đó), dạng
 bảng ID / hook nguyên văn / góc-cơ chế / nhóm và clip nguồn / hợp khi nào.
 Các option phải khác thực sự, ưu tiên ít nhất 6 cơ chế nếu brief và kho cho
-phép, không ép nguồn không liên quan để đủ số. Đọc cả mindmap, diễn biến
+phép, không ép nguồn không liên quan để đủ số. Đọc cả sơ đồ diễn biến, diễn biến
 và điểm mạnh-yếu của ca. Chọn 3 ID đáng phát triển: thêm nhịp nối nguyên văn,
 hình mở gợi ý và điều thân/kết phải giải đáp; dẫn rõ đoạn nguồn và điều đổi.
 Khuyến nghị 1 ID, không nhận đã A/B test. Không chép lời hoặc chỉ thay danh
@@ -29,3 +29,6 @@ Nếu thiếu file hoặc không có ca đủ liên quan, nói rõ thiếu gì; 
 nguồn và không chuyển sang cào. Bổ sung corpus là nhiệm vụ riêng. Dữ kiện
 thực tế của bài mới cần nguồn riêng, ví dụ giả định cần nhãn.
 ```
+
+
+Đa dạng nguồn: với 10 hook, ưu tiên ≥5 kênh, ≥3 cách thể hiện, ≤2 option/kênh khi có đủ ca phù hợp. Brief và yêu cầu người dùng được ưu tiên; ghi rõ khi kho chưa đủ.

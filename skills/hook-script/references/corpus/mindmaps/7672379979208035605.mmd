@@ -1,20 +1,17 @@
-mindmap
-  root((Khoản trả chậm nhỏ và hệ quả tín dụng<br/>kéo dài))
-    b0["00:00–00:11.10 | Nhỏ trước mắt, lớn về<br/>sau"]
-      b0c0["Lời nhắc trách nhiệm"]
-      b0c1["Thay trọng tâm từ số tiền sang đúng<br/>hạn"]
-    b1["00:11.10–00:38.96 | Giá phải trả trực<br/>tiếp"]
-      b1c0["Phí và lãi theo lời tác giả"]
-      b1c1["Không bê điều kiện sản phẩm sang mọi<br/>khoản vay"]
-    b2["00:38.96–00:54.40 | Mắt xích hồ sơ"]
-      b2c0["Giải thích lịch sử tín dụng"]
-      b2c1["Cách hồ sơ được xem xét"]
-    b3["00:54.40–01:20.70 | Kế hoạch dài hạn"]
-      b3c0["Nhà, xe, học tập hoặc kinh doanh"]
-      b3c1["So hai kiểu lịch sử trả nợ"]
-    b4["01:20.70–01:33.58 | Hành động cuối"]
-      b4c0["Nhắc hạn và trả đúng thời điểm"]
-      b4c1["Tỷ lệ ASR có lỗi không dùng lại"]
-    b5["Giới hạn nguồn"]
-      b5c0["Hình có giao diện ví và ưu đãi"]
-      b5c1["Chưa kiểm quy định hoặc điều kiện phí"]
+%%{init: {"htmlLabels": false, "themeVariables": {"fontSize": "18px"}, "flowchart": {"padding": 16, "rankSpacing": 22, "wrappingWidth": 360}}}%%
+flowchart TD
+  n0["01 · 00:00.00–00:11.10<br/>Nêu lời nhắc trách nhiệm rồi đối chiếu<br/>khoản chậm trả nhỏ với trở ngại vay<br/>lớn, giải thích điểm khác biệt là thời<br/>điểm trả."]
+  n1["02 · 00:11.10–00:38.96<br/>Đi qua phí/lãi trả chậm và một ví dụ<br/>dư nợ theo cách kể của tác giả."]
+  n0 --> n1
+  n2["03 · 00:38.96–00:54.40<br/>Gọi tên hệ thống lưu lịch sử tín dụng<br/>và mô tả cách người cho vay đọc hồ sơ."]
+  n1 --> n2
+  n3["04 · 00:54.40–01:20.70<br/>Mở rộng tới những kế hoạch vốn lớn và<br/>so hai kiểu lịch sử trả nợ."]
+  n2 --> n3
+  n4["05 · 01:20.70–01:33.58<br/>Trở về lời nhắc ban đầu và liệt kê các<br/>thói quen quản lý thanh toán."]
+  n3 --> n4
+  classDef phase fill:#F8FAFC,stroke:#CBD5E1,color:#0F172A,font-size:18px;
+  classDef opening fill:#DBEAFE,stroke:#2563EB,color:#172554,font-size:18px;
+  classDef ending fill:#DCFCE7,stroke:#16A34A,color:#14532D,font-size:18px;
+  class n0,n1,n2,n3,n4 phase;
+  class n0 opening;
+  class n4 ending;

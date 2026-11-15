@@ -1,24 +1,30 @@
 {
   "schemaVersion": 1,
-  "collectionCompletedAt": "2026-11-15T03:46:23.460068+00:00",
+  "collectionCompletedAt": "2026-11-15T04:13:44.061324+00:00",
   "platform": "TikTok",
-  "scope": "Tài chính/kinh tế tiếng Việt, bốn kênh được chọn có chủ đích",
-  "channels": 6,
-  "channelRecords": 749,
-  "videosDownloaded": 24,
-  "videosAnalyzed": 24,
+  "scope": "Kinh tế, tài chính và hành vi tiếng Việt; 14 kênh được chọn có chủ đích",
+  "channels": 14,
+  "channelRecords": 1949,
+  "videosDownloaded": 40,
+  "videosAnalyzed": 40,
   "viralOperationalRule": ">=100.000 view và >=3× trung vị snapshot kênh sau lọc tuổi 48h; ngưỡng tuyển mẫu thực dụng, không chứng minh nhân quả.",
-  "samplingLimit": "Không lấy mẫu ngẫu nhiên hay đầy đủ toàn TikTok VN; tuyển ứng viên từ cache có ASR rồi cập nhật metadata/media. Có video cũ ngoài cửa sổ 150 bài của baseline.",
+  "samplingLimit": "Mẫu có chủ đích; 24 ca trước từ kho ứng viên, 16 ca mới từ 8 snapshot kênh mới. Không đại diện toàn TikTok VN; một số ca ngoài cửa sổ baseline 150 bài.",
   "evidenceLimit": "Đã tải media, kiểm các khung chọn lọc và đọc ASR có mốc; chưa nghe toàn âm/xem liên tục. Không có retention hoặc analytics địa lý.",
   "publicData": "Metadata chuẩn hóa, đoạn hook ngắn và phân tích tự viết; không xuất signed CDN URLs, cookie, raw info.json, toàn transcript hoặc media của tác giả.",
   "ytDlpVersion": "2026.08.19",
-  "hookGroups": 19,
-  "mindmaps": 24,
-  "expansionNote": "Đợt mở rộng thêm 12 clip, hai kênh và phân tích sâu/mindmap riêng toàn bộ 24 ca. Metadata bốn kênh giữ timestamp đợt trước cùng ngày; hai kênh mới có timestamp riêng.",
+  "hookGroups": 26,
+  "mindmaps": 40,
+  "expansionNote": "Đợt đa dạng hóa: thêm 8 kênh, hai clip/kênh, ASR mới và khung hình. Giữ 24 ca trước; đổi toàn bộ sơ đồ sang một cột theo thời gian. Mỗi nguồn giữ timestamp riêng.",
   "excludedCandidates": [
     {
       "id": "7472734993308060948",
       "reason": "ASR cache lặp tiếng Anh không liên quan; không đưa vào corpus tiếng Việt."
+    },
+    {
+      "id": "7703890632300973364",
+      "handle": "taichinhcanhan2026",
+      "reason": "Lượt tải chỉ trả media audio MP3, không có video để kiểm khung trong lượt này. Không đếm là clip đã phân tích."
     }
-  ]
+  ],
+  "diagramType": "chronological-flowchart-TD"
 }

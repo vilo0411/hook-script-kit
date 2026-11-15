@@ -1,20 +1,19 @@
-mindmap
-  root((Từ nghi vấn về GDP sang vấn đề nhà đất<br/>Trung Quốc))
-    b0["00:00–00:07.40 | Nghi vấn thước đo"]
-      b0c0["Phát biểu được quy thẩm quyền"]
-      b0c1["Hứa ba dấu hiệu"]
-    b1["00:07.40–00:29.46 | Trả lời hứa đầu"]
-      b1c0["Điện và sản xuất"]
-      b1c1["Đường sắt/hàng hóa và tín dụng/vốn"]
-    b2["00:29.46–00:48.94 | Mở tầng rủi ro"]
-      b2c0["Tăng trưởng bằng nợ"]
-      b2c1["Chuyển trọng tâm sang nhà đất"]
-    b3["00:48.94–01:15.22 | Ba động lực"]
-      b3c0["Kỳ vọng giá"]
-      b3c1["Lựa chọn đầu tư và nhu cầu xã hội"]
-    b4["01:15.22–01:33.02 | Ràng buộc giải<br/>pháp"]
-      b4c0["Can thiệp và hệ quả"]
-      b4c1["Cấu trúc quyền/nguồn thu theo clip"]
-    b5["01:33.02–01:44.16 | Kết cảnh báo mở"]
-      b5c0["Ngân sách và đất"]
-      b5c1["Khả năng rủi ro tiếp theo"]
+%%{init: {"htmlLabels": false, "themeVariables": {"fontSize": "18px"}, "flowchart": {"padding": 16, "rankSpacing": 22, "wrappingWidth": 360}}}%%
+flowchart TD
+  n0["01 · 00:00.00–00:07.40<br/>Nêu sự hoài nghi về GDP qua lời quy<br/>cho một nhân vật và giới thiệu bộ ba<br/>chỉ báo."]
+  n1["02 · 00:07.40–00:29.46<br/>Lần lượt giải thích điện, hàng hóa<br/>đường sắt và tín dụng như dấu hiệu<br/>hoạt động."]
+  n0 --> n1
+  n2["03 · 00:29.46–00:48.94<br/>Chuyển sang tăng trưởng bằng nợ và sức<br/>nặng bất động sản."]
+  n1 --> n2
+  n3["04 · 00:48.94–01:15.22<br/>Tổ chức lý do nhà đất đắt thành ba<br/>nhánh kỳ vọng, lựa chọn đầu tư và nhu<br/>cầu xã hội."]
+  n2 --> n3
+  n4["05 · 01:15.22–01:33.02<br/>Nêu giới hạn của cách can thiệp và cấu<br/>trúc sở hữu/nguồn thu đất."]
+  n3 --> n4
+  n5["06 · 01:33.02–01:44.16<br/>Nối nguồn thu ngân sách với một khả<br/>năng rủi ro tiếp theo."]
+  n4 --> n5
+  classDef phase fill:#F8FAFC,stroke:#CBD5E1,color:#0F172A,font-size:18px;
+  classDef opening fill:#DBEAFE,stroke:#2563EB,color:#172554,font-size:18px;
+  classDef ending fill:#DCFCE7,stroke:#16A34A,color:#14532D,font-size:18px;
+  class n0,n1,n2,n3,n4,n5 phase;
+  class n0 opening;
+  class n5 ending;

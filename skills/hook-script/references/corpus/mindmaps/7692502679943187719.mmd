@@ -1,17 +1,19 @@
-mindmap
-  root((Hai game cùng thể loại nhưng phục vụ<br/>hai nhu cầu khác nhau))
-    b0["Mở 00:00–00:14.38"]
-      b0c0["Cùng thể loại"]
-      b0c1["Đổi góc nhìn sang kinh doanh"]
-    b1["Nền doanh nghiệp 00:14.72–00:27"]
-      b1c0["Các bên phát triển/phát hành"]
-      b1c1["Tải tên riêng cần cân nhắc"]
-    b2["Vế PUBG 00:27.28–00:36.10"]
-      b2c0["Trải nghiệm chiến đấu"]
-      b2c1["Thuộc tính cụ thể"]
-    b3["Vế Free Fire 00:36.32–00:48.84"]
-      b3c0["Dễ tiếp cận/nhịp nhanh"]
-      b3c1["Trả khác biệt định vị"]
-    b4["Kết 00:49.16–00:53.06"]
-      b4c0["Mở câu kiếm tiền"]
-      b4c1["Lời hứa tiêu đề chưa được trả"]
+%%{init: {"htmlLabels": false, "themeVariables": {"fontSize": "18px"}, "flowchart": {"padding": 16, "rankSpacing": 22, "wrappingWidth": 360}}}%%
+flowchart TD
+  n0["01 · 00:00.00–00:04.20<br/>Đặt hai sản phẩm cùng nhóm cạnh nhau<br/>nhưng khẳng định chúng hướng tới nhóm<br/>người chơi khác nhau."]
+  n1["02 · 00:04.60–00:14.38<br/>Nhắc phần giống về luật sinh tồn, rồi<br/>đổi góc nhìn từ trải nghiệm chơi sang<br/>kinh doanh."]
+  n0 --> n1
+  n2["03 · 00:14.72–00:27.00<br/>Giới thiệu các bên phát triển/phát<br/>hành rồi chuyển tới cách hai game tiếp<br/>cận người chơi."]
+  n1 --> n2
+  n3["04 · 00:27.28–00:36.10<br/>Mô tả phía PUBG bằng quy mô bản đồ,<br/>thời lượng trận và cảm giác chiến đấu."]
+  n2 --> n3
+  n4["05 · 00:36.32–00:48.84<br/>Đặt phía Free Fire ở khả năng tiếp cận<br/>thiết bị, nhịp trận và nhu cầu giải<br/>trí nhanh; tổng hợp khác biệt trải<br/>nghiệm."]
+  n3 --> n4
+  n5["06 · 00:49.16–00:53.06<br/>Chuyển từ khác biệt khách hàng sang<br/>câu hỏi cách kiếm tiền nhưng hẹn câu<br/>trả lời ở phần sau."]
+  n4 --> n5
+  classDef phase fill:#F8FAFC,stroke:#CBD5E1,color:#0F172A,font-size:18px;
+  classDef opening fill:#DBEAFE,stroke:#2563EB,color:#172554,font-size:18px;
+  classDef ending fill:#DCFCE7,stroke:#16A34A,color:#14532D,font-size:18px;
+  class n0,n1,n2,n3,n4,n5 phase;
+  class n0 opening;
+  class n5 ending;

@@ -1,17 +1,19 @@
-mindmap
-  root((Cổ phiếu và trái phiếu được phân biệt<br/>qua vai trò của người đưa vốn))
-    b0["Mở 00:00–00:04.16"]
-      b0c0["Hai tài sản dễ nhầm"]
-      b0c1["Hứa phân biệt"]
-    b1["Vế đầu 00:04.50–00:29.62"]
-      b1c0["Nhân vật góp vốn"]
-      b1c1["Quyền lợi/tăng trưởng/cổ tức"]
-    b2["Đánh đổi 00:29.98–00:43.16"]
-      b2c0["Biến động giá"]
-      b2c1["Rủi ro hoạt động doanh nghiệp"]
-    b3["So hai vế 00:43.52–01:02.48"]
-      b3c0["Chủ sở hữu và chủ nợ"]
-      b3c1["Trả trục phân biệt"]
-    b4["Kết 01:02.88–01:06.26"]
-      b4c0["Câu hỏi vận hành trái phiếu"]
-      b4c1["Vòng hỏi mới sau đáp án cũ"]
+%%{init: {"htmlLabels": false, "themeVariables": {"fontSize": "18px"}, "flowchart": {"padding": 16, "rankSpacing": 22, "wrappingWidth": 360}}}%%
+flowchart TD
+  n0["01 · 00:00.00–00:04.16<br/>Gọi tên cặp khái niệm quen nhưng<br/>thường bị nhầm."]
+  n1["02 · 00:04.50–00:18.20<br/>Giới thiệu Sóc với khả năng chấp nhận<br/>biến động; giải thích mua cổ phiếu là<br/>nắm quyền lợi kinh tế, không phải cho<br/>doanh nghiệp vay."]
+  n0 --> n1
+  n2["03 · 00:18.68–00:29.62<br/>Dùng tình huống sở hữu cổ phần để mô<br/>tả giá có thể tăng và khả năng nhận cổ<br/>tức."]
+  n1 --> n2
+  n3["04 · 00:29.98–00:43.16<br/>Chuyển sang biến động giá và tổn thất<br/>có thể xảy ra khi doanh nghiệp hoạt<br/>động không tốt."]
+  n2 --> n3
+  n4["05 · 00:43.52–01:02.48<br/>Đưa mong muốn cho doanh nghiệp vay vào<br/>làm vế đối chiếu; chốt khác biệt tư<br/>cách chủ sở hữu và chủ nợ."]
+  n3 --> n4
+  n5["06 · 01:02.88–01:06.26<br/>Nêu câu hỏi mới về cách tiền trong<br/>trái phiếu vận hành và hẹn tập sau."]
+  n4 --> n5
+  classDef phase fill:#F8FAFC,stroke:#CBD5E1,color:#0F172A,font-size:18px;
+  classDef opening fill:#DBEAFE,stroke:#2563EB,color:#172554,font-size:18px;
+  classDef ending fill:#DCFCE7,stroke:#16A34A,color:#14532D,font-size:18px;
+  class n0,n1,n2,n3,n4,n5 phase;
+  class n0 opening;
+  class n5 ending;

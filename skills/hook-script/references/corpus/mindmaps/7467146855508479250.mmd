@@ -1,20 +1,19 @@
-mindmap
-  root((Một giả định bỏ nghỉ Tết và phép cân<br/>hai loại giá trị))
-    b0["00:00–00:04.26 | Viễn cảnh và nhãn giả<br/>định"]
-      b0c0["Tuyên bố mạnh làm đổi kỳ vọng"]
-      b0c1["Nhịp sau xác lập tưởng tượng"]
-    b1["00:04.54–00:35.56 | Cuối năm đổi khác"]
-      b1c0["Không về quê và chuẩn bị như cũ"]
-      b1c1["Câu hỏi về cái giá kỳ nghỉ"]
-    b2["00:36.54–00:45.44 | Ngắt bởi CTA"]
-      b2c0["Quảng bá cộng đồng tác giả"]
-      b2c1["Không phải bằng chứng kinh tế"]
-    b3["00:46.24–01:35.24 | Mặt chi phí"]
-      b3c0["Sản xuất và nhịp làm việc"]
-      b3c1["Lệch lịch với đối tác"]
-    b4["01:35.64–02:27.06 | Đổi hệ giá trị"]
-      b4c0["Tiêu dùng, dịch vụ, du lịch"]
-      b4c1["Văn hóa và thương hiệu"]
-    b5["02:27.46–02:44.80 | Tái đặt câu hỏi"]
-      b5c0["Nghỉ ngơi và đoàn tụ"]
-      b5c1["Kết vào cách dùng kỳ nghỉ"]
+%%{init: {"htmlLabels": false, "themeVariables": {"fontSize": "18px"}, "flowchart": {"padding": 16, "rankSpacing": 22, "wrappingWidth": 360}}}%%
+flowchart TD
+  n0["01 · 00:00.00–00:04.26<br/>Đưa viễn cảnh rất mạnh rồi xác lập<br/>ngay trạng thái giả định."]
+  n1["02 · 00:04.54–00:35.56<br/>Cho người xem hình dung một cuối năm<br/>không chuẩn bị về quê, rồi nêu ý kiến<br/>cho rằng nghỉ dài có tổn thất và hỏi<br/>có cần kỳ nghỉ."]
+  n0 --> n1
+  n2["03 · 00:36.54–00:45.44<br/>Quảng bá cộng đồng thông tin của người<br/>kể."]
+  n1 --> n2
+  n3["04 · 00:46.24–01:35.24<br/>Mô tả gián đoạn sản xuất, nhịp<br/>trước/sau kỳ nghỉ và sự lệch lịch với<br/>đối tác."]
+  n2 --> n3
+  n4["05 · 01:35.64–02:27.06<br/>Đổi sang tiêu dùng, dịch vụ, du lịch<br/>và thương hiệu văn hóa."]
+  n3 --> n4
+  n5["06 · 02:27.46–02:44.80<br/>Nối giá trị nghỉ ngơi, đoàn tụ rồi<br/>chuyển câu hỏi từ bỏ hay giữ sang dùng<br/>kỳ nghỉ tốt hơn."]
+  n4 --> n5
+  classDef phase fill:#F8FAFC,stroke:#CBD5E1,color:#0F172A,font-size:18px;
+  classDef opening fill:#DBEAFE,stroke:#2563EB,color:#172554,font-size:18px;
+  classDef ending fill:#DCFCE7,stroke:#16A34A,color:#14532D,font-size:18px;
+  class n0,n1,n2,n3,n4,n5 phase;
+  class n0 opening;
+  class n5 ending;

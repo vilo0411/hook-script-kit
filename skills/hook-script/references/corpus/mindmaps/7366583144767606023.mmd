@@ -1,20 +1,21 @@
-mindmap
-  root((Từ dòng Mekong đến lợi ích và rủi ro<br/>của một tuyến kênh))
-    b0["00:00.20–00:30.58 | Hệ thống sông"]
-      b0c0["Tuyến Mekong và thượng/hạ lưu"]
-      b0c1["Bản đồ làm nền cho lập luận"]
-    b1["00:31.22–00:58.20 | Sinh kế và tác<br/>nhân"]
-      b1c0["Đồng bằng gắn với thu nhập"]
-      b1c1["Dự án kênh được đưa vào sau"]
-    b2["00:59.06–01:41.34 | Lợi ích phía xây"]
-      b2c0["Lộ trình tàu và độ sâu"]
-      b2c1["Nhu cầu giảm phụ thuộc"]
-    b3["01:41.84–02:07.34 | Cơ chế công trình"]
-      b3c0["Tuyến kênh"]
-      b3c1["Âu tàu điều tiết mực nước"]
-    b4["02:07.68–02:58.96 | Đổi điều kiện vận<br/>hành"]
-      b4c0["Mục đích vận tải so với giả định khác"]
-      b4c1["Các tác động được tác giả dự báo"]
-    b5["02:59.46–03:22.78 | Giới hạn và kết mở"]
-      b5c0["Lãnh thổ, quy trình theo lời clip"]
-      b5c1["Trở về đời sống hạ lưu"]
+%%{init: {"htmlLabels": false, "themeVariables": {"fontSize": "18px"}, "flowchart": {"padding": 16, "rankSpacing": 22, "wrappingWidth": 360}}}%%
+flowchart TD
+  n0["01 · 00:00.20–00:30.58<br/>Giới thiệu đường sông và giải thích<br/>vai trò hạ lưu qua địa lý, phù sa."]
+  n1["02 · 00:31.22–00:58.20<br/>Nối vùng đồng bằng với sinh kế rồi đưa<br/>khả năng thiếu nước và dự án kênh vào<br/>câu chuyện."]
+  n0 --> n1
+  n2["03 · 00:59.06–01:41.34<br/>Lần theo đường tàu đến Phnom Penh và<br/>giải thích những phụ thuộc/độ sâu mà<br/>tác giả cho là động cơ xây tuyến mới."]
+  n1 --> n2
+  n3["04 · 01:41.84–02:07.34<br/>Mô tả tuyến kênh và giải thích các cửa<br/>âu bằng nguyên lý điều tiết mực nước."]
+  n2 --> n3
+  n4["05 · 02:07.68–02:58.96<br/>Đặt câu hỏi vấn đề nằm ở đâu, rồi so<br/>mục đích vận tải với một tình huống<br/>vận hành khác và các hệ quả nước/phù<br/>sa/mặn được tác giả dự báo."]
+  n3 --> n4
+  n5["06 · 02:59.46–03:16.56<br/>Nêu giới hạn lãnh thổ, thủ tục và quan<br/>điểm tôn trọng quyền phát triển."]
+  n4 --> n5
+  n6["07 · 03:17.00–03:22.78<br/>Kết bằng câu hỏi đời sống vùng đồng<br/>bằng sau khi dự án hoàn thành."]
+  n5 --> n6
+  classDef phase fill:#F8FAFC,stroke:#CBD5E1,color:#0F172A,font-size:18px;
+  classDef opening fill:#DBEAFE,stroke:#2563EB,color:#172554,font-size:18px;
+  classDef ending fill:#DCFCE7,stroke:#16A34A,color:#14532D,font-size:18px;
+  class n0,n1,n2,n3,n4,n5,n6 phase;
+  class n0 opening;
+  class n6 ending;

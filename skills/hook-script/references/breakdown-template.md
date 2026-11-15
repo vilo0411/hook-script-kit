@@ -42,6 +42,8 @@ Không đăng toàn transcript/ảnh khi chưa có quyền chia sẻ. Trích ng�
 
 Được duyệt cho một tác vụ không tự trở thành mẫu giọng. Bản phân tích và bản sáng tác phải giữ riêng về nguồn và trạng thái.
 
-## Phân tích sâu và mindmap
+## Phân tích sâu và sơ đồ diễn biến
 
 Khi thêm vào corpus, ghi `detail` trong analyses.json: `promise`, `centralQuestion`, `emotionalArc` (mốc, cảm xúc giả thuyết, bằng chứng, diễn giải), `informationDesign` (mốc, động tác viết, lý do), `strengths`/`weaknesses` (nhận định + bằng chứng), `shareabilityHypotheses`, `adaptationRules` và `mindmapBranches` (nhãn + các chi tiết con). Mỗi nhánh phải của chính clip và có mốc khi biết; không dùng một sơ đồ lý thuyết chung làm bằng chứng cho tất cả ca.
+
+Sơ đồ hiện sinh từ `beats` dưới dạng `flowchart TD` một cột theo thời gian, chữ 18px và rộng khoảng 400px. `mindmapBranches` giữ ghi chú phân loại và tương thích dữ liệu cũ, không dùng làm bố cục tỏa nhánh. Mỗi ca cần `deliveryStyle` mô tả hình đã xem; ghi hợp tác thương mại và tự quảng bá riêng nếu có bằng chứng.

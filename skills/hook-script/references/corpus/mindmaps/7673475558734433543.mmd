@@ -1,0 +1,21 @@
+%%{init: {"htmlLabels": false, "themeVariables": {"fontSize": "18px"}, "flowchart": {"padding": 16, "rankSpacing": 22, "wrappingWidth": 360}}}%%
+flowchart TD
+  n0["01 · 00:00.00–00:12.10<br/>Đối chiếu biệt thự 25 tỷ cho thuê 15<br/>triệu/tháng với gửi cùng vốn được<br/>khoảng 200 triệu/tháng, rồi gọi là<br/>nghịch lý có thật."]
+  n1["02 · 00:12.10–00:46.42<br/>Kể khách mua phần thô, chi thêm nội<br/>thất, để không rồi chấp nhận mức thuê<br/>thấp; nhấn việc chủ nhà chăm chút nên<br/>ngại cho thuê."]
+  n0 --> n1
+  n2["03 · 00:46.42–01:22.22<br/>Nối nhiều tháng không có dòng tiền với<br/>hao mòn nội thất, phí quản lý và dọn<br/>dẹp."]
+  n1 --> n2
+  n3["04 · 01:22.22–02:00.62<br/>Kể giảm giá vẫn khó bán, thiếu hỏi mua<br/>rồi quay lại ý định ban đầu là mua để<br/>sang tay."]
+  n2 --> n3
+  n4["05 · 02:00.62–02:29.48<br/>Gọi tên chi phí cơ hội, nhắc lại 200<br/>triệu/tháng và gợi cơ hội bất động sản<br/>tương lai cho người giữ tiền."]
+  n3 --> n4
+  n5["06 · 02:29.48–02:45.70<br/>Liên hệ người xem có thể ở tình huống<br/>tương tự, chơi chữ lãi kép thành lỗ<br/>kép."]
+  n4 --> n5
+  n6["07 · 02:45.70–03:00.58<br/>Mời nhắn trợ lý để sắp lịch tư vấn,<br/>thông báo tình trạng lịch cá nhân."]
+  n5 --> n6
+  classDef phase fill:#F8FAFC,stroke:#CBD5E1,color:#0F172A,font-size:18px;
+  classDef opening fill:#DBEAFE,stroke:#2563EB,color:#172554,font-size:18px;
+  classDef ending fill:#DCFCE7,stroke:#16A34A,color:#14532D,font-size:18px;
+  class n0,n1,n2,n3,n4,n5,n6 phase;
+  class n0 opening;
+  class n6 ending;

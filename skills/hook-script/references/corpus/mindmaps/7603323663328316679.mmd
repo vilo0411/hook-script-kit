@@ -1,20 +1,21 @@
-mindmap
-  root((GDP tăng nhưng thu nhập đứng yên:<br/>khoảng cách giữa chỉ số và đời sống))
-    b0["Mở 0–9,42s"]
-      b0c0["Lương đứng yên"]
-      b0c1["Chi tiêu khó hơn"]
-    b1["Nghịch lý 9,88–29,74s"]
-      b1c0["Tin kinh tế tăng trưởng"]
-      b1c1["Túi tiền cá nhân không theo"]
-    b2["Phân rã 30,14–69,88s"]
-      b2c0["Tổng giá trị không chỉ gồm lương"]
-      b2c1["Ví dụ nhà máy cần kiểm phạm vi"]
-    b3["Thước đo 71,02–97,70s"]
-      b3c0["Đưa chỉ số thu nhập"]
-      b3c1["Dòng thu nhập qua biên giới"]
-    b4["Diễn biến 99,14–149,46s"]
-      b4c0["Ai nhận giá trị và độ trễ"]
-      b4c1["Chi phí sinh hoạt"]
-    b5["Kết 150,16–176,12s"]
-      b5c0["Quy mô khác mức sống"]
-      b5c1["Quay lại cảm giác cá nhân"]
+%%{init: {"htmlLabels": false, "themeVariables": {"fontSize": "18px"}, "flowchart": {"padding": 16, "rankSpacing": 22, "wrappingWidth": 360}}}%%
+flowchart TD
+  n0["01 · 00:00.00–00:09.42<br/>Nêu thu nhập giữ nguyên và người lao<br/>động phải tính kỹ các khoản chi."]
+  n1["02 · 00:09.88–00:29.74<br/>Đặt các tin tăng trưởng cạnh ví tiền<br/>không đổi rồi hỏi tiền chảy về đâu."]
+  n0 --> n1
+  n2["03 · 00:30.14–01:09.88<br/>Dùng hình dung một giỏ giá trị, tách<br/>lương, lợi nhuận và các phần khác;<br/>minh họa bằng một nhà máy."]
+  n1 --> n2
+  n3["04 · 01:11.02–01:37.70<br/>Đưa một chỉ số thu nhập khác, giải<br/>thích dòng thu nhập qua biên giới và<br/>nêu một tỷ lệ."]
+  n2 --> n3
+  n4["05 · 01:39.14–02:12.44<br/>Chuyển từ tổng quy mô sang ai tạo giá<br/>trị và độ trễ để dòng tiền tới người<br/>dân."]
+  n3 --> n4
+  n5["06 · 02:13.10–02:29.46<br/>Đưa chi phí sinh hoạt và nhà ở để giải<br/>thích cảm giác mức sống nặng hơn."]
+  n4 --> n5
+  n6["07 · 02:30.16–02:56.12<br/>Phân biệt quy mô nền kinh tế với những<br/>câu hỏi về sự thoải mái và cơ hội của<br/>người dân."]
+  n5 --> n6
+  classDef phase fill:#F8FAFC,stroke:#CBD5E1,color:#0F172A,font-size:18px;
+  classDef opening fill:#DBEAFE,stroke:#2563EB,color:#172554,font-size:18px;
+  classDef ending fill:#DCFCE7,stroke:#16A34A,color:#14532D,font-size:18px;
+  class n0,n1,n2,n3,n4,n5,n6 phase;
+  class n0 opening;
+  class n6 ending;

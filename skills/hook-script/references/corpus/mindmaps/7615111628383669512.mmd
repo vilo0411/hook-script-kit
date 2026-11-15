@@ -1,20 +1,21 @@
-mindmap
-  root((Một lần đổ xăng dẫn tới câu hỏi về<br/>quyền lực đồng tiền))
-    b0["Mở 0–16,38s"]
-      b0c0["Đổ xăng bằng VNĐ"]
-      b0c1["Đô la được đưa vào như tầng ẩn"]
-    b1["Lời hứa 17,02–28,08s"]
-      b1c0["Vì sao định giá như vậy"]
-      b1c1["Vì sao cơ chế tồn tại lâu"]
-    b2["Nguồn gốc 30–84,66s"]
-      b2c0["Tuyến lịch sử"]
-      b2c1["Giới hạn: ASR đoạn dài bị gộp"]
-    b3["Cơ chế 85,54–118,58s"]
-      b3c0["Nhu cầu năng lượng lặp lại"]
-      b3c1["Nhu cầu tiền được tác giả nối theo"]
-    b4["Tầng hai 118,96–190,06s"]
-      b4c0["Tiền bán dầu đi đâu"]
-      b4c1["Vòng tái đầu tư và tỷ trọng dự trữ"]
-    b5["Kết 190,06–202,62s"]
-      b5c0["Từ dầu sang quyền lực tiền tệ"]
-      b5c1["Hỏi điều kiện giao dịch thay đổi"]
+%%{init: {"htmlLabels": false, "themeVariables": {"fontSize": "18px"}, "flowchart": {"padding": 16, "rankSpacing": 22, "wrappingWidth": 360}}}%%
+flowchart TD
+  n0["01 · 00:00.00–00:16.38<br/>Từ việc đổ xăng bằng tiền Việt, tác<br/>giả đưa ra một tầng định giá bằng đô<br/>la phía sau."]
+  n1["02 · 00:17.02–00:28.08<br/>Đặt hai câu hỏi về lý do định giá và<br/>độ bền của cơ chế rồi chuyển sang<br/>nguồn gốc."]
+  n0 --> n1
+  n2["03 · 00:30.00–01:24.66<br/>Tuyến lịch sử dẫn từ nhu cầu nền tảng<br/>kinh tế sang thỏa thuận dầu mỏ và sự<br/>phổ biến một chuẩn thanh toán."]
+  n1 --> n2
+  n3["04 · 01:25.54–01:58.58<br/>So một tài sản có thể được giữ lâu với<br/>nguyên liệu bị tiêu dùng hàng ngày,<br/>rồi nối nhu cầu năng lượng với nhu cầu<br/>đồng tiền."]
+  n2 --> n3
+  n4["05 · 01:58.96–02:41.48<br/>Mở câu hỏi tiền bán dầu đi đâu, kể các<br/>đường tái đầu tư và dòng tiền quay<br/>lại."]
+  n3 --> n4
+  n5["06 · 02:43.60–03:10.06<br/>Đối chiếu vòng tiền của Mỹ với trường<br/>hợp nước khác và đưa các tỷ trọng dự<br/>trữ."]
+  n4 --> n5
+  n6["07 · 03:10.06–03:22.62<br/>Đổi trọng tâm từ dầu sang quyền lực<br/>đồng tiền rồi đặt một điều kiện tương<br/>lai."]
+  n5 --> n6
+  classDef phase fill:#F8FAFC,stroke:#CBD5E1,color:#0F172A,font-size:18px;
+  classDef opening fill:#DBEAFE,stroke:#2563EB,color:#172554,font-size:18px;
+  classDef ending fill:#DCFCE7,stroke:#16A34A,color:#14532D,font-size:18px;
+  class n0,n1,n2,n3,n4,n5,n6 phase;
+  class n0 opening;
+  class n6 ending;

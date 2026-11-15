@@ -1,0 +1,17 @@
+%%{init: {"htmlLabels": false, "themeVariables": {"fontSize": "18px"}, "flowchart": {"padding": 16, "rankSpacing": 22, "wrappingWidth": 360}}}%%
+flowchart TD
+  n0["01 · 00:00.00–00:09.86<br/>Đối chiếu tuổi thành triệu phú và mua<br/>nhà với kỳ vọng quá sớm."]
+  n1["02 · 00:09.86–00:15.14<br/>Mở rộng phép so sang thời gian gây<br/>dựng doanh nghiệp."]
+  n0 --> n1
+  n2["03 · 00:15.86–00:23.56<br/>Đặt tuổi 20 vào giai đoạn thử sai và<br/>học hỏi."]
+  n1 --> n2
+  n3["04 · 00:23.56–00:29.36<br/>Trấn an về nhịp đi và nhắc bình tĩnh<br/>sống."]
+  n2 --> n3
+  n4["05 · 00:29.36–00:54.84<br/>Đuôi có minh hoạ tiền và thương hiệu<br/>khoá học; lời chưa xác minh."]
+  n3 --> n4
+  classDef phase fill:#F8FAFC,stroke:#CBD5E1,color:#0F172A,font-size:18px;
+  classDef opening fill:#DBEAFE,stroke:#2563EB,color:#172554,font-size:18px;
+  classDef ending fill:#DCFCE7,stroke:#16A34A,color:#14532D,font-size:18px;
+  class n0,n1,n2,n3,n4 phase;
+  class n0 opening;
+  class n4 ending;

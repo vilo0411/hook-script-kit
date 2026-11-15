@@ -1,6 +1,18 @@
-# Kết quả kiểm đợt mở rộng
+# Kết quả kiểm các đợt cập nhật
 
 Ngày 2026-11-15. Phân biệt kiểm gói dữ liệu, kiểm tuân thủ skill và đánh giá chất lượng của người dùng.
+
+## Đợt đa dạng hóa và sơ đồ dọc
+
+- 1.949 bản ghi, 14 kênh, 40 ca, 26 nhóm hook và 40 sơ đồ dọc. Thêm đúng 2 ca mỗi kênh mới; kênh có nhiều ca nhất chiếm 15%.
+- Mermaid CLI 12.2.0 render thành công 40/40 sơ đồ. Chiều rộng tối đa khoảng 408px; đã xem ảnh sơ đồ phỏng vấn mới và mẫu cũ để kiểm khả năng đọc.
+- Kiểm liên kết, baseline tính lại, điều kiện tuyển mẫu, timestamp, hash, cách thể hiện; quan sát hình của 16 ca mới phải khớp mốc khung đã trích.
+- Renderer chạy lại không đổi kết quả. Hai bản cài riêng trong cây `.agents/skills/` và `.claude/skills/` đều đủ 49 file Markdown và corpus, kiểm không gọi mạng.
+- Bản sao tạm bị sửa sai loại biểu đồ hoặc thêm mốc quan sát không tồn tại đều bị trình kiểm từ chối.
+- Workspace chạy `npm test`: 229/229 test qua; đồng bộ skill kiểm 0 adapter cũ.
+- Quy tắc chọn nguồn đã bổ sung mục tiêu ≥5 kênh, ≥3 cách thể hiện, ≤2 option/kênh cho 10 hook khi kho đủ phù hợp. Chưa chạy benchmark sáng tác mới để kết luận chất lượng câu hook.
+
+## Kết quả đợt trước (giữ để truy vết)
 
 ## Dữ liệu và mindmap
 

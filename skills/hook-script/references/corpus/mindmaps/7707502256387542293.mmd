@@ -1,0 +1,19 @@
+%%{init: {"htmlLabels": false, "themeVariables": {"fontSize": "18px"}, "flowchart": {"padding": 16, "rankSpacing": 22, "wrappingWidth": 360}}}%%
+flowchart TD
+  n0["01 · 00:00.00–00:10.40<br/>Giới thiệu khoản hoa hồng và sức hút<br/>với người trẻ kiếm thêm."]
+  n1["02 · 00:11.00–00:29.68<br/>Nhân chứng kể lời mời và cảnh báo từ<br/>người quen."]
+  n0 --> n1
+  n2["03 · 00:30.78–00:59.34<br/>Mô tả nhóm tuyển, giả danh chỉ tiêu<br/>ngân hàng và lời trấn an."]
+  n1 --> n2
+  n3["04 · 01:00.36–01:09.98<br/>Chuyên gia chuyển trọng tâm từ hoa<br/>hồng sang nguy cơ bị lợi dụng."]
+  n2 --> n3
+  n4["05 · 01:16.78–02:16.30<br/>Mở rộng sang ứng dụng lạ, dữ liệu và<br/>thông tin nhạy cảm."]
+  n3 --> n4
+  n5["06 · 02:17.98–02:33.54<br/>Nêu cách xác minh và liên hệ ngân hàng<br/>nếu đã bàn giao."]
+  n4 --> n5
+  classDef phase fill:#F8FAFC,stroke:#CBD5E1,color:#0F172A,font-size:18px;
+  classDef opening fill:#DBEAFE,stroke:#2563EB,color:#172554,font-size:18px;
+  classDef ending fill:#DCFCE7,stroke:#16A34A,color:#14532D,font-size:18px;
+  class n0,n1,n2,n3,n4,n5 phase;
+  class n0 opening;
+  class n5 ending;

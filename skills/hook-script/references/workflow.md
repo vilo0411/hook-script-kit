@@ -23,3 +23,6 @@ Dùng [review](review.md). Bảng lời/hình/thời gian phải có chỗ giả
 ## Khoảng trống và cập nhật
 
 Thiếu ca phù hợp thì ghi thiếu. Tác vụ cào/phân tích bổ sung do người bảo trì thực hiện riêng, không nằm trong luồng mặc định của skill. Bản viết mới chỉ làm mẫu giọng khi người dùng duyệt rõ cho mục đích đó; đừng tự đưa nó vào thay clip thực.
+
+
+Đa dạng nguồn: với 10 hook, ưu tiên ≥5 kênh, ≥3 cách thể hiện, ≤2 option/kênh khi có đủ ca phù hợp. Brief và yêu cầu người dùng được ưu tiên; ghi rõ khi kho chưa đủ.

@@ -1,20 +1,19 @@
-mindmap
-  root((Xe điện, xe xăng và điều kiện để<br/>chuyển đổi))
-    b0["00:00–00:03.52 | Phép so sẵn có"]
-      b0c0["Hai loại xe cùng quy mô"]
-      b0c1["Bắt đầu từ một ý kiến"]
-    b1["00:03.92–00:15.62 | Hỏi cách làm"]
-      b1c0["Trường hợp Trung Quốc"]
-      b1c1["Từ quan điểm sang triển khai"]
-    b2["00:15.90–00:47.04 | Bộ phận vận hành"]
-      b2c0["Trạm sạc và điều phối"]
-      b2c1["Đổi pin"]
-    b3["00:47.52–01:04.48 | Liên hệ trong nước"]
-      b3c0["Nhu cầu môi trường Hà Nội"]
-      b3c1["Khả năng học cách triển khai"]
-    b4["01:04.72–01:23.66 | Đổi tiêu chí"]
-      b4c0["Phát thải vòng đời"]
-      b4c1["Thời gian dùng làm điều kiện"]
-    b5["01:24–01:27.36 | Chốt hướng"]
-      b5c0["Nhận định chuyển đổi công nghệ"]
-      b5c1["Chưa là đáp án lượng hóa đầy đủ"]
+%%{init: {"htmlLabels": false, "themeVariables": {"fontSize": "18px"}, "flowchart": {"padding": 16, "rankSpacing": 22, "wrappingWidth": 360}}}%%
+flowchart TD
+  n0["01 · 00:00.00–00:03.52<br/>Lấy một ý kiến so xe điện và xe xăng<br/>với cùng quy mô làm điểm xuất phát."]
+  n1["02 · 00:03.92–00:15.62<br/>Dẫn trường hợp Trung Quốc rồi đặt câu<br/>hỏi về cách thực hiện."]
+  n0 --> n1
+  n2["03 · 00:15.90–00:47.04<br/>Liệt kê trạm sạc, cách vận hành và hệ<br/>thống đổi pin."]
+  n1 --> n2
+  n3["04 · 00:47.52–01:04.48<br/>Liên hệ điều kiện thực hiện và nhu cầu<br/>chuyển đổi tại Hà Nội."]
+  n2 --> n3
+  n4["05 · 01:04.72–01:23.66<br/>Đưa thêm góc nhìn phát thải cả vòng<br/>đời, mở rộng tiêu chí so sánh."]
+  n3 --> n4
+  n5["06 · 01:24.00–01:27.36<br/>Kết lại bằng nhận định về hướng thay<br/>đổi công nghệ."]
+  n4 --> n5
+  classDef phase fill:#F8FAFC,stroke:#CBD5E1,color:#0F172A,font-size:18px;
+  classDef opening fill:#DBEAFE,stroke:#2563EB,color:#172554,font-size:18px;
+  classDef ending fill:#DCFCE7,stroke:#16A34A,color:#14532D,font-size:18px;
+  class n0,n1,n2,n3,n4,n5 phase;
+  class n0 opening;
+  class n5 ending;

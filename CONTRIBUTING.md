@@ -12,4 +12,4 @@ Chạy `python3 scripts/check.py` (Python 3.9+, thư viện chuẩn), kiểm ski
 
 Cập nhật dữ liệu và phân tích trước khi phát hành skill. Thêm metadata/video/case/nhóm vào corpus đi kèm, chạy `python3 scripts/check-corpus.py`. Không thêm thao tác cào vào luồng viết; maintainer cập nhật theo yêu cầu riêng.
 
-Mỗi ca mới cần thêm lời hứa/câu hỏi trung tâm, nhịp cảm xúc như giả thuyết có mốc, phân phối thông tin, điểm mạnh/yếu có bằng chứng và 5–7 nhánh mindmap riêng của clip. Sửa JSON nguồn rồi chạy `python3 scripts/render-corpus.py`; không sửa tay trang sinh nếu chưa cập nhật JSON. Mindmap phải khớp bản inline và file `.mmd`.
+Mỗi ca mới cần thêm lời hứa/câu hỏi trung tâm, nhịp cảm xúc như giả thuyết có mốc, phân phối thông tin, điểm mạnh/yếu có bằng chứng và các nhịp diễn biến có mốc riêng của clip. Sửa JSON nguồn rồi chạy `python3 scripts/render-corpus.py`; không sửa tay trang sinh nếu chưa cập nhật JSON. Sơ đồ phải là `flowchart TD` một cột có mốc, khớp bản inline và file `.mmd`; không dùng lại bố cục tỏa nhánh. Ghi cách thể hiện quan sát được và ngữ cảnh hợp tác/quảng bá nếu thấy. Ưu tiên kênh chưa có thay vì thêm nhiều ca cùng nguồn.

@@ -1,20 +1,21 @@
-mindmap
-  root((Lời hứa nhận tiền dễ dàng được thử<br/>bằng câu chuyện lạm phát Venezuela))
-    b0["Mở 0–10,34s"]
-      b0c0["Phần thưởng nhận tiền dễ"]
-      b0c1["Khán giả đặt vào giả định"]
-    b1["Đảo 10,90–45,06s"]
-      b1c0["Nhiều tiền nhưng sức mua giảm"]
-      b1c1["Câu hỏi nghịch lý được chốt"]
-    b2["Ngắt 46,42–56,66s"]
-      b2c0["Quảng bá cộng đồng"]
-      b2c1["Không phải bước giải thích nên học"]
-    b3["Nguyên nhân 57,26–110,64s"]
-      b3c0["Tác giả kể phụ thuộc dầu mỏ"]
-      b3c1["Số và sự kiện chưa fact-check"]
-    b4["Mô hình 110,98–158,74s"]
-      b4c0["Hàng giữ nguyên, tiền tăng"]
-      b4c1["Đổi từ danh nghĩa sang sức mua"]
-    b5["Kết 159,20–176,94s"]
-      b5c0["Liên hệ Việt Nam"]
-      b5c1["Nêu mục đích dùng tiền và giới hạn so<br/>sánh"]
+%%{init: {"htmlLabels": false, "themeVariables": {"fontSize": "18px"}, "flowchart": {"padding": 16, "rankSpacing": 22, "wrappingWidth": 360}}}%%
+flowchart TD
+  n0["01 · 00:00.00–00:10.34<br/>Giả định người dân nhận tiền mỗi ngày<br/>mà không phải cạnh tranh kiếm việc."]
+  n1["02 · 00:10.90–00:38.80<br/>Tác giả đưa Venezuela làm trường hợp<br/>đối chiếu, rồi kể sự mất giá và đồ vật<br/>mua được."]
+  n0 --> n1
+  n2["03 · 00:39.14–00:45.06<br/>Đặt câu hỏi vì sao nhiều tiền hơn lại<br/>không giàu hơn."]
+  n1 --> n2
+  n3["04 · 00:46.42–00:56.66<br/>Chen lời mời vào một cộng đồng phân<br/>tích tài chính."]
+  n2 --> n3
+  n4["05 · 00:57.26–01:50.64<br/>Kể nền tảng dầu mỏ, độ lệ thuộc nguồn<br/>thu và các hậu quả mà tác giả mô tả."]
+  n3 --> n4
+  n5["06 · 01:50.98–02:38.74<br/>Chuyển sang ví dụ số hàng hóa cố định<br/>và tiền lưu hành tăng, rồi phân biệt<br/>số tiền với hàng mua được."]
+  n4 --> n5
+  n6["07 · 02:39.20–02:56.94<br/>Tác giả quay về Việt Nam và đặt khác<br/>biệt vào mục đích sử dụng khoản tiền."]
+  n5 --> n6
+  classDef phase fill:#F8FAFC,stroke:#CBD5E1,color:#0F172A,font-size:18px;
+  classDef opening fill:#DBEAFE,stroke:#2563EB,color:#172554,font-size:18px;
+  classDef ending fill:#DCFCE7,stroke:#16A34A,color:#14532D,font-size:18px;
+  class n0,n1,n2,n3,n4,n5,n6 phase;
+  class n0 opening;
+  class n6 ending;

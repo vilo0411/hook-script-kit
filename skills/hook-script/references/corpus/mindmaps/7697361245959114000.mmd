@@ -1,17 +1,19 @@
-mindmap
-  root((Hai tầng quyền lực: điều hành và quản<br/>trị doanh nghiệp))
-    b0["Mở 00:00.16–00:08.80"]
-      b0c0["CEO cạnh chủ tịch"]
-      b0c1["Ai có quyền hơn"]
-    b1["Đáp án tạm 00:09.18–00:24.60"]
-      b1c0["CEO cầm việc hằng ngày"]
-      b1c1["Nhân viên gọi là sếp"]
-    b2["Lật đáp án 00:24.94–00:32.60"]
-      b2c0["Thêm tầng quản trị"]
-      b2c1["Chưa thể xếp chỉ bằng trực giác"]
-    b3["Giải thích 00:33–00:50.72"]
-      b3c0["Lái xe và giám sát"]
-      b3c1["Hai loại thẩm quyền"]
-    b4["Kết 00:51–00:56.10"]
-      b4c0["Yếu tố hơn chức danh"]
-      b4c1["Hẹn phần hai, chưa trả trọn"]
+%%{init: {"htmlLabels": false, "themeVariables": {"fontSize": "18px"}, "flowchart": {"padding": 16, "rankSpacing": 22, "wrappingWidth": 360}}}%%
+flowchart TD
+  n0["01 · 00:00.16–00:08.80<br/>Đặt cặp chức danh quen thuộc, rồi làm<br/>rõ vì sao việc CEO điều hành chưa giải<br/>quyết được câu hỏi ai có quyền hơn."]
+  n1["02 · 00:09.18–00:24.60<br/>Đưa Sóc vào vai CEO; mô tả người được<br/>nhân viên gọi là sếp, xử lý phòng ban<br/>và chịu trách nhiệm vận hành."]
+  n0 --> n1
+  n2["03 · 00:24.94–00:32.60<br/>Nói ra suy nghĩ mà người xem có thể<br/>đang có, rồi giới thiệu Long ở vai chủ<br/>tịch HĐQT."]
+  n1 --> n2
+  n3["04 · 00:33.00–00:41.10<br/>Dùng người lái xe và bên giám sát để<br/>tách hoạt động điều hành khỏi hoạt<br/>động quản trị."]
+  n2 --> n3
+  n4["05 · 00:41.48–00:50.72<br/>Thử suy luận chủ tịch có thể ra lệnh<br/>mọi việc rồi bác bỏ cách hiểu tuyệt<br/>đối ấy; nhấn mạnh hai loại thẩm quyền<br/>khác nhau."]
+  n3 --> n4
+  n5["06 · 00:51.00–00:56.10<br/>Gợi yếu tố quan trọng hơn chức danh<br/>nhưng không giải thích yếu tố đó trong<br/>clip; chuyển sang phần sau."]
+  n4 --> n5
+  classDef phase fill:#F8FAFC,stroke:#CBD5E1,color:#0F172A,font-size:18px;
+  classDef opening fill:#DBEAFE,stroke:#2563EB,color:#172554,font-size:18px;
+  classDef ending fill:#DCFCE7,stroke:#16A34A,color:#14532D,font-size:18px;
+  class n0,n1,n2,n3,n4,n5 phase;
+  class n0 opening;
+  class n5 ending;

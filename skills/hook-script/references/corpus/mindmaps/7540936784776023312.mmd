@@ -1,20 +1,21 @@
-mindmap
-  root((Bằng cấp phổ biến, việc làm và cách<br/>thị trường định giá))
-    b0["00:00–00:21.62 | Kỳ vọng học hành"]
-      b0c0["Bằng cấp phổ biến và khó việc"]
-      b0c1["Cung cầu lao động"]
-    b1["00:21.62–00:38.40 | Tầng nguyên nhân<br/>khác"]
-      b1c0["Chu kỳ doanh nghiệp"]
-      b1c1["Đóng băng tuyển dụng"]
-    b2["00:38.40–01:03.26 | Vòng lặp suy giảm"]
-      b2c0["Ít thu nhập, ít tiêu dùng"]
-      b2c1["Ít đơn và cắt nhân sự"]
-    b3["01:03.26–01:21.96 | Đồ thị đổi nhịp"]
-      b3c0["Các dạng suy thoái"]
-      b3c1["Đùa bằng hình dạng"]
-    b4["01:21.96–01:46.96 | Nghịch lý thứ hai"]
-      b4c0["Công sức so với phần thưởng"]
-      b4c1["Giá trị cảm nhận"]
-    b5["01:46.96–02:25.40 | Kết đã đổi tâm<br/>điểm"]
-      b5c0["Bão hòa thị trường nội dung"]
-      b5c1["Khác biệt thay vì trở lại bằng cấp"]
+%%{init: {"htmlLabels": false, "themeVariables": {"fontSize": "18px"}, "flowchart": {"padding": 16, "rankSpacing": 22, "wrappingWidth": 360}}}%%
+flowchart TD
+  n0["01 · 00:00.00–00:11.18<br/>Nêu độ phổ biến của bằng cấp, trạng<br/>thái thất nghiệp và áp lực phải học<br/>cao hơn."]
+  n1["02 · 00:11.18–00:21.62<br/>Giải thích theo chênh lệch cung cầu<br/>lao động và việc làm dưới trình độ."]
+  n0 --> n1
+  n2["03 · 00:21.62–00:38.40<br/>Nối sang chu kỳ kinh tế, doanh nghiệp<br/>cắt chi phí và đóng băng tuyển dụng."]
+  n1 --> n2
+  n3["04 · 00:38.40–01:03.26<br/>Dẫn chuỗi thất nghiệp, giảm chi tiêu,<br/>giảm đơn hàng rồi cắt nhân sự tiếp."]
+  n2 --> n3
+  n4["05 · 01:03.26–01:21.96<br/>Đi qua các dạng suy thoái bằng ký hiệu<br/>hình học và câu đùa."]
+  n3 --> n4
+  n5["06 · 01:21.96–01:46.96<br/>Chuyển từ bằng cấp sang đối chiếu công<br/>sức và giá trị người mua cảm nhận."]
+  n4 --> n5
+  n6["07 · 01:46.96–02:25.40<br/>Dùng thị trường nội dung để giải thích<br/>bão hòa và nhu cầu khác biệt."]
+  n5 --> n6
+  classDef phase fill:#F8FAFC,stroke:#CBD5E1,color:#0F172A,font-size:18px;
+  classDef opening fill:#DBEAFE,stroke:#2563EB,color:#172554,font-size:18px;
+  classDef ending fill:#DCFCE7,stroke:#16A34A,color:#14532D,font-size:18px;
+  class n0,n1,n2,n3,n4,n5,n6 phase;
+  class n0 opening;
+  class n6 ending;

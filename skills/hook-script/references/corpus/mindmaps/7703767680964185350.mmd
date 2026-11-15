@@ -1,0 +1,19 @@
+%%{init: {"htmlLabels": false, "themeVariables": {"fontSize": "18px"}, "flowchart": {"padding": 16, "rankSpacing": 22, "wrappingWidth": 360}}}%%
+flowchart TD
+  n0["01 · 00:00.00–00:03.96<br/>Đặt hiện tượng trả mặt bằng tại TP.HCM<br/>cùng một số lượng nổi bật."]
+  n1["02 · 00:04.64–00:09.98<br/>Đưa lý do tác giả nêu: doanh thu kinh<br/>doanh không đủ bù chi phí."]
+  n0 --> n1
+  n2["03 · 00:10.56–00:18.36<br/>Liệt kê ba tuyến đường cùng các lượng<br/>mặt bằng được báo cáo."]
+  n1 --> n2
+  n3["04 · 00:18.94–00:25.54<br/>Đối chiếu chiều tăng tin đăng và chiều<br/>giảm nhu cầu tìm thuê."]
+  n2 --> n3
+  n4["05 · 00:30.00–00:33.10<br/>Nêu thương mại điện tử như một thay<br/>đổi đối với lợi thế mặt tiền."]
+  n3 --> n4
+  n5["06 · 00:33.62–00:36.02<br/>Kết bằng câu hỏi liệu giá thuê phải<br/>giảm để tìm lại khách."]
+  n4 --> n5
+  classDef phase fill:#F8FAFC,stroke:#CBD5E1,color:#0F172A,font-size:18px;
+  classDef opening fill:#DBEAFE,stroke:#2563EB,color:#172554,font-size:18px;
+  classDef ending fill:#DCFCE7,stroke:#16A34A,color:#14532D,font-size:18px;
+  class n0,n1,n2,n3,n4,n5 phase;
+  class n0 opening;
+  class n5 ending;

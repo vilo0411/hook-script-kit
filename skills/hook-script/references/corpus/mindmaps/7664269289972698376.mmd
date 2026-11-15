@@ -1,20 +1,21 @@
-mindmap
-  root((Phân biệt kế toán và kiểm toán bằng<br/>người làm bài và người kiểm tra))
-    b0["Mở 00:00–00:04.22"]
-      b0c0["Hai nghề dễ nhầm"]
-      b0c1["Lời hứa phân biệt"]
-    b1["Tự nhận diện 00:04.22–00:09.62"]
-      b1c0["Tính cách và cách làm việc"]
-      b1c1["Đưa người xem vào nghề"]
-    b2["Phân vai 00:09.62–00:22.74"]
-      b2c0["Người tạo số liệu"]
-      b2c1["Người tìm bằng chứng"]
-    b3["Nhiệm vụ 00:22.74–00:45.84"]
-      b3c0["Quy trình và chọn mẫu"]
-      b3c1["Kiểm kho và xác nhận ngân hàng"]
-    b4["Đánh đổi 00:45.84–01:08.80"]
-      b4c0["Mùa bận và áp lực"]
-      b4c1["Học hỏi/lộ trình cần điều kiện"]
-    b5["Kết 01:08.80–01:11.64"]
-      b5c0["Mời người trong nghề xác nhận"]
-      b5c1["Không coi hứa hẹn nghề là bảo đảm"]
+%%{init: {"htmlLabels": false, "themeVariables": {"fontSize": "18px"}, "flowchart": {"padding": 16, "rankSpacing": 22, "wrappingWidth": 360}}}%%
+flowchart TD
+  n0["01 · 00:00.00–00:04.22<br/>Gọi cặp nghề hay nhầm và hứa giải<br/>thích."]
+  n1["02 · 00:04.22–00:09.62<br/>Mô tả hướng ngoại, thích đi lại và thử<br/>thách như nét để nhận ra kiểm toán."]
+  n0 --> n1
+  n2["03 · 00:09.62–00:22.74<br/>Dùng phép so người tạo bức tranh/làm<br/>bài với người bước vào kiểm tra, rồi<br/>cho Sóc vào doanh nghiệp xác minh số<br/>liệu."]
+  n1 --> n2
+  n3["04 · 00:22.74–00:45.84<br/>Liệt kê cách làm theo dự án, xem quy<br/>trình, chọn mẫu hóa đơn, kiểm kho và<br/>xác nhận ngân hàng."]
+  n2 --> n3
+  n4["05 · 00:45.84–00:58.24<br/>Nhấn việc đặt nghi vấn và áp lực mùa<br/>bận, giờ làm dài theo lời tác giả."]
+  n3 --> n4
+  n5["06 · 00:58.24–01:08.80<br/>Đưa lợi ích học nhanh và các hướng đi<br/>nghề nghiệp theo lời tác giả."]
+  n4 --> n5
+  n6["07 · 01:08.80–01:11.64<br/>Mời người trong nghề xác nhận trải<br/>nghiệm."]
+  n5 --> n6
+  classDef phase fill:#F8FAFC,stroke:#CBD5E1,color:#0F172A,font-size:18px;
+  classDef opening fill:#DBEAFE,stroke:#2563EB,color:#172554,font-size:18px;
+  classDef ending fill:#DCFCE7,stroke:#16A34A,color:#14532D,font-size:18px;
+  class n0,n1,n2,n3,n4,n5,n6 phase;
+  class n0 opening;
+  class n6 ending;

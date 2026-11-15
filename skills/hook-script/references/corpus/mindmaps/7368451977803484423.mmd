@@ -1,20 +1,21 @@
-mindmap
-  root((Đôi giày sản xuất trong nước mở ra câu<br/>chuyện chuỗi giá trị FDI))
-    b0["Vật neo 0–24,02s"]
-      b0c0["Một lần mua giày"]
-      b0c1["Xuất xứ trong nước đổi kỳ vọng"]
-    b1["Chênh lệch 24,30–65,58s"]
-      b1c0["Giá bán và phần gia công tác giả nêu"]
-      b1c1["Từ món hàng sang chuỗi giá trị"]
-    b2["Cơ chế 66,48–98,10s"]
-      b2c0["Động cơ chia công đoạn"]
-      b2c1["Gọi tên FDI sau tình huống"]
-    b3["Trả lời 98,74–123,74s"]
-      b3c0["Quay lại đôi giày"]
-      b3c1["Chia các phần việc tạo giá"]
-    b4["Câu hỏi mới 124,06–201,52s"]
-      b4c0["Nhân lực kỹ thuật"]
-      b4c1["Công nghệ và ví dụ chưa fact-check"]
-    b5["Callback 201,90–220,94s"]
-      b5c0["Điều kiện tiếp nhận"]
-      b5c1["Mong phần giá trị tương lai lớn hơn"]
+%%{init: {"htmlLabels": false, "themeVariables": {"fontSize": "18px"}, "flowchart": {"padding": 16, "rankSpacing": 22, "wrappingWidth": 360}}}%%
+flowchart TD
+  n0["01 · 00:00.00–00:24.02<br/>Dựng hành trình mua giày, tiền phải bỏ<br/>ra, thời gian chờ và chi tiết sản xuất<br/>trong nước."]
+  n1["02 · 00:24.30–01:05.58<br/>Đẩy chênh lệch sang phần nơi gia công<br/>nhận được, mở rộng đến các sản phẩm<br/>khác rồi đặt câu hỏi về hành trình và<br/>chi phí."]
+  n0 --> n1
+  n2["03 · 01:06.48–01:38.10<br/>Giải thích động cơ đặt công đoạn ở<br/>nhiều quốc gia và sau đó gọi tên FDI."]
+  n1 --> n2
+  n3["04 · 01:38.74–02:03.74<br/>Quay lại đôi giày và tách các khâu<br/>thiết kế, sản xuất, vận chuyển, bán<br/>hàng."]
+  n2 --> n3
+  n4["05 · 02:04.06–02:24.76<br/>Chuyển câu hỏi từ vì sao phần nhận nhỏ<br/>sang làm sao nhận được nhiều lợi ích<br/>hơn; tách hai vấn đề nhân lực và công<br/>nghệ."]
+  n3 --> n4
+  n5["06 · 02:24.98–03:21.52<br/>Dùng ví dụ về lực lượng kỹ thuật,<br/>thương hiệu giày trong nước và việc<br/>tiếp nhận công nghệ."]
+  n4 --> n5
+  n6["07 · 03:21.90–03:40.94<br/>Thừa nhận điều kiện tiếp nhận công<br/>nghệ rồi kết bằng mong muốn phần giá<br/>trị của Việt Nam lớn hơn trong sản<br/>phẩm mở đầu."]
+  n5 --> n6
+  classDef phase fill:#F8FAFC,stroke:#CBD5E1,color:#0F172A,font-size:18px;
+  classDef opening fill:#DBEAFE,stroke:#2563EB,color:#172554,font-size:18px;
+  classDef ending fill:#DCFCE7,stroke:#16A34A,color:#14532D,font-size:18px;
+  class n0,n1,n2,n3,n4,n5,n6 phase;
+  class n0 opening;
+  class n6 ending;

@@ -1,0 +1,21 @@
+%%{init: {"htmlLabels": false, "themeVariables": {"fontSize": "18px"}, "flowchart": {"padding": 16, "rankSpacing": 22, "wrappingWidth": 360}}}%%
+flowchart TD
+  n0["01 · 00:00.00–00:06.92<br/>Gọi nhóm đang nuôi con và nêu một<br/>khoản tiền hằng tháng."]
+  n1["02 · 00:07.50–00:21.62<br/>Tác giả viện dẫn văn bản rồi nói không<br/>phải ai cũng thuộc diện."]
+  n0 --> n1
+  n2["03 · 00:22.08–00:33.06<br/>Liệt kê các điều kiện về hoàn cảnh và<br/>người trực tiếp nuôi con."]
+  n1 --> n2
+  n3["04 · 00:33.74–00:57.32<br/>Tác giả giải thích mức theo con; số<br/>đầu bài là một ví dụ nhiều con."]
+  n2 --> n3
+  n4["05 · 00:58.06–01:11.72<br/>Nêu thêm trường hợp con tiếp tục học<br/>sau tuổi đã nói."]
+  n3 --> n4
+  n5["06 · 01:11.98–01:27.50<br/>Bổ sung nhánh địa phương và nhiều diện<br/>trợ cấp."]
+  n4 --> n5
+  n6["07 · 01:28.46–01:32.64<br/>Chuyển sang lời mời theo dõi kênh."]
+  n5 --> n6
+  classDef phase fill:#F8FAFC,stroke:#CBD5E1,color:#0F172A,font-size:18px;
+  classDef opening fill:#DBEAFE,stroke:#2563EB,color:#172554,font-size:18px;
+  classDef ending fill:#DCFCE7,stroke:#16A34A,color:#14532D,font-size:18px;
+  class n0,n1,n2,n3,n4,n5,n6 phase;
+  class n0 opening;
+  class n6 ending;

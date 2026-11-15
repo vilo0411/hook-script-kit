@@ -64,5 +64,93 @@
     "baselineMedianViews": 693950.0,
     "baselineRule": "Trung vị lượt xem tích lũy của các bài trong tập thu thập, bỏ bài dưới 48 giờ. Đây là tối đa 150 bài lấy được, không phải toàn bộ lịch sử kênh.",
     "rawResponseSha256": "d5ed9c8cbe8ab6d6e7d42ad1e663fb873f8e22eb0cc4192294ab78103d4268ec"
+  },
+  {
+    "handle": "nguyentrangtkneu",
+    "url": "https://www.tiktok.com/@nguyentrangtkneu",
+    "collectedAt": "2026-11-15T04:01:23.984619+00:00",
+    "method": "yt-dlp --flat-playlist -J --playlist-end 150",
+    "videoCountCollected": 150,
+    "baselineCount": 150,
+    "baselineMedianViews": 10450.0,
+    "baselineRule": "Trung vị lượt xem tích lũy của các bài trong tập thu thập, bỏ bài dưới 48 giờ. Đây là tối đa 150 bài lấy được, không phải toàn bộ lịch sử kênh.",
+    "rawResponseSha256": "56cbe5cbd74caf31d9191740b94f9a7446d0550b049a79d6883883fd8242727e"
+  },
+  {
+    "handle": "sitcomtaichinh",
+    "url": "https://www.tiktok.com/@sitcomtaichinh",
+    "collectedAt": "2026-11-15T04:01:34.524072+00:00",
+    "method": "yt-dlp --flat-playlist -J --playlist-end 150",
+    "videoCountCollected": 150,
+    "baselineCount": 149,
+    "baselineMedianViews": 33000,
+    "baselineRule": "Trung vị lượt xem tích lũy của các bài trong tập thu thập, bỏ bài dưới 48 giờ. Đây là tối đa 150 bài lấy được, không phải toàn bộ lịch sử kênh.",
+    "rawResponseSha256": "af68c22060d21bf7848246c0a34ba2f865feebc1e4d6f07b2757dd95d1f0d6e8"
+  },
+  {
+    "handle": "thayqueo",
+    "url": "https://www.tiktok.com/@thayqueo",
+    "collectedAt": "2026-11-15T04:01:25.568110+00:00",
+    "method": "yt-dlp --flat-playlist -J --playlist-end 150",
+    "videoCountCollected": 150,
+    "baselineCount": 147,
+    "baselineMedianViews": 21200,
+    "baselineRule": "Trung vị lượt xem tích lũy của các bài trong tập thu thập, bỏ bài dưới 48 giờ. Đây là tối đa 150 bài lấy được, không phải toàn bộ lịch sử kênh.",
+    "rawResponseSha256": "ac4c7166063a7d9c293f1d1a3e5e0a90ecddc62108477efe0c2714a954ae6ab1"
+  },
+  {
+    "handle": "vtv24news",
+    "url": "https://www.tiktok.com/@vtv24news",
+    "collectedAt": "2026-11-15T04:01:39.799106+00:00",
+    "method": "yt-dlp --flat-playlist -J --playlist-end 150",
+    "videoCountCollected": 150,
+    "baselineCount": 122,
+    "baselineMedianViews": 46350.0,
+    "baselineRule": "Trung vị lượt xem tích lũy của các bài trong tập thu thập, bỏ bài dưới 48 giờ. Đây là tối đa 150 bài lấy được, không phải toàn bộ lịch sử kênh.",
+    "rawResponseSha256": "fadbff34a4f1c300368e9d21466c8be54559ddceb22f1758bcea3f68a982f694"
+  },
+  {
+    "handle": "d.trending",
+    "url": "https://www.tiktok.com/@d.trending",
+    "collectedAt": "2026-11-15T04:01:42.600653+00:00",
+    "method": "yt-dlp --flat-playlist -J --playlist-end 150",
+    "videoCountCollected": 150,
+    "baselineCount": 124,
+    "baselineMedianViews": 2355.0,
+    "baselineRule": "Trung vị lượt xem tích lũy của các bài trong tập thu thập, bỏ bài dưới 48 giờ. Đây là tối đa 150 bài lấy được, không phải toàn bộ lịch sử kênh.",
+    "rawResponseSha256": "d234440d6e2caabdd5f402f9bd5bd7adc0d8430743f5358b35a44ef8a6d0cb51"
+  },
+  {
+    "handle": "kienthuckinhte28",
+    "url": "https://www.tiktok.com/@kienthuckinhte28",
+    "collectedAt": "2026-11-15T04:01:47.279929+00:00",
+    "method": "yt-dlp --flat-playlist -J --playlist-end 150",
+    "videoCountCollected": 150,
+    "baselineCount": 79,
+    "baselineMedianViews": 18200,
+    "baselineRule": "Trung vị lượt xem tích lũy của các bài trong tập thu thập, bỏ bài dưới 48 giờ. Đây là tối đa 150 bài lấy được, không phải toàn bộ lịch sử kênh.",
+    "rawResponseSha256": "b2173df5d713afdde8d38a6e2303dc4ba9d01f4e49d8b8b08e1edaa35c1d1fdd"
+  },
+  {
+    "handle": "vietcetera_",
+    "url": "https://www.tiktok.com/@vietcetera_",
+    "collectedAt": "2026-11-15T04:02:50.624986+00:00",
+    "method": "yt-dlp --flat-playlist -J --playlist-end 150",
+    "videoCountCollected": 150,
+    "baselineCount": 147,
+    "baselineMedianViews": 3089,
+    "baselineRule": "Trung vị lượt xem tích lũy của các bài trong tập thu thập, bỏ bài dưới 48 giờ. Đây là tối đa 150 bài lấy được, không phải toàn bộ lịch sử kênh.",
+    "rawResponseSha256": "c477e3b22e8fefe241419cacac2c40aa2ab326e0cb9d99e93da8345cf2b1f3ce"
+  },
+  {
+    "handle": "quocthichkinhte",
+    "url": "https://www.tiktok.com/@quocthichkinhte",
+    "collectedAt": "2026-11-15T04:08:16.872673+00:00",
+    "method": "yt-dlp --flat-playlist -J --playlist-end 150",
+    "videoCountCollected": 150,
+    "baselineCount": 148,
+    "baselineMedianViews": 15450.0,
+    "baselineRule": "Trung vị lượt xem tích lũy của các bài trong tập thu thập, bỏ bài dưới 48 giờ. Đây là tối đa 150 bài lấy được, không phải toàn bộ lịch sử kênh.",
+    "rawResponseSha256": "f19e0e0d1600bb77c19d7e782596e26739c2984469dc44f25f49c76350674898"
   }
 ]

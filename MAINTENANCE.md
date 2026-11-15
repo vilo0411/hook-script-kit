@@ -16,13 +16,21 @@ Cập nhật corpus là công việc của người bảo trì, tách khỏi ski
 
 Toàn bộ 24 ca được đọc ASR và đối chiếu khung để bổ sung phân tích sâu, sơ đồ cảm xúc giả thuyết, cách phân phối thông tin, điểm mạnh/yếu và 24 mindmap. Nhóm hóa thành 19 cửa vào; một số ca mới củng cố nhóm cũ, không cố tách thêm nhãn cho đủ số. Ba ca có tự quảng bá cộng đồng được đánh dấu; chưa đủ xác định tài trợ bên thứ ba. Một ứng viên bị loại vì ASR lặp tiếng Anh không liên quan.
 
-Dữ liệu chuẩn là JSON. Chạy `python3 scripts/render-corpus.py` để sinh case Markdown, Mermaid inline, file `.mmd`, nhóm hook và index. Công cụ chỉ render dữ liệu tại chỗ, không cào. Cú pháp sơ đồ theo [Mermaid mindmap](https://mermaid.js.org/syntax/mindmap.html). Đã dùng Mermaid CLI 12.2.0 để kiểm render; không cần CLI để skill đọc nguồn hoặc GitHub hiển thị sơ đồ.
+Dữ liệu chuẩn là JSON. Chạy `python3 scripts/render-corpus.py` để sinh case Markdown, Mermaid inline, file `.mmd`, nhóm hook và index. Công cụ chỉ render dữ liệu tại chỗ, không cào. Sơ đồ hiện dùng Mermaid `flowchart TD`, một cột có mốc thời gian; field `mindmapBranches`, thư mục `mindmaps/` và anchor `#mindmap` được giữ để tương thích liên kết cũ. Đã dùng Mermaid CLI 12.2.0 để kiểm render; không cần CLI để skill đọc nguồn hoặc GitHub hiển thị sơ đồ.
 
 Luồng tạo hook dùng mặc định 10 option, chọn 3 ID phát triển; không đổi số hướng/gate trong workflow dự án.
 
+## Đợt đa dạng hóa và đổi sơ đồ
+
+Thêm 8 kênh, mỗi kênh 150 bản ghi và 2 clip: `nguyentrangtkneu`, `sitcomtaichinh`, `thayqueo`, `vtv24news`, `d.trending`, `kienthuckinhte28`, `vietcetera_`, `quocthichkinhte`. Tổng **1.949 bản ghi, 14 kênh, 40 ca**. Kênh có nhiều ca nhất chiếm 15% thay vì 25% trước đợt này. Xem bảng phân bố trong corpus.
+
+16 ca mới được tải media, chạy Whisper cục bộ, đọc ASR và xem khung chọn lọc. Loại ứng viên Tài Chính Cá Nhân 2026 do lượt tải chỉ trả âm thanh; không tính là video đã phân tích. Không đăng toàn transcript hoặc nguồn media. Ca Techcombank có `#hoptaccungtechcombank` được đánh dấu hợp tác, không coi là đánh giá độc lập. Clip 5 tài sản dài hơn 12 phút được ghi rõ; không áp thời gian mở dài ấy làm chuẩn Shorts.
+
+Thay toàn bộ sơ đồ tỏa nhánh bằng sơ đồ dọc theo diễn biến thật, mốc rõ và chữ 18px. Dữ liệu chi tiết về cảm xúc, câu hỏi, điểm mạnh/yếu vẫn ở bảng bên dưới. Với yêu cầu 10 hook, ưu tiên ≥5 kênh, ≥3 cách thể hiện, ≤2 option/kênh khi có đủ mẫu phù hợp; không ép nguồn lạc đề.
+
 ## Định nghĩa tuyển mẫu
 
-Tối thiểu 100.000 view và 3× trung vị tập kênh thu thập sau khi bỏ bài dưới 48 giờ. Tất cả 24 ca đạt tiêu chí này. P50 được tính trong tối đa 150 bài lấy được, không phải toàn bộ lịch sử; có clip cũ ngoài cửa sổ baseline. Không suy ra causal uplift hay tốc độ tăng view từ số view tích lũy.
+Tối thiểu 100.000 view và 3× trung vị tập kênh thu thập sau khi bỏ bài dưới 48 giờ. Tất cả 40 ca đạt tiêu chí này. P50 được tính trong tối đa 150 bài lấy được, không phải toàn bộ lịch sử; có clip cũ ngoài cửa sổ baseline. Không suy ra causal uplift hay tốc độ tăng view từ số view tích lũy.
 
 Tiêu chí Việt Nam: lời/kênh tiếng Việt, ngữ cảnh hướng tới khán giả Việt. Chủ đề có thể là kinh tế nước ngoài. Không có vị trí địa lý người xem, retention hoặc watch-time. Corpus gồm clip đăng từ 2024–2026, không chỉ các clip mới nhất.
 

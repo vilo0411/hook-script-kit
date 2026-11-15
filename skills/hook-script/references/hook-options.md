@@ -4,11 +4,13 @@ Khi người dùng hỏi “tạo hook” mà không nói số lượng, mặc �
 
 ## Chọn nguồn và tạo độ khác nhau
 
-Đọc [nhóm hook](corpus/patterns.md) rồi đọc các ca liên quan, gồm mindmap, diễn biến, điểm mạnh/yếu. Ưu tiên khoảng sáu cơ chế trở lên nếu corpus và brief cho phép. Đây là mục tiêu đa dạng, không phải lý do kéo nguồn không liên quan vào cho đủ số.
+Đọc [nhóm hook](corpus/patterns.md) rồi đọc các ca liên quan, gồm sơ đồ diễn biến, diễn biến, điểm mạnh/yếu. Ưu tiên khoảng sáu cơ chế trở lên nếu corpus và brief cho phép. Đây là mục tiêu đa dạng, không phải lý do kéo nguồn không liên quan vào cho đủ số.
 
 Các hướng cần khác về điều người xem muốn biết, góc tiếp cận hoặc cách đặt vấn đề: câu hỏi phân biệt, tình huống, xung đột số tiền, thay điều kiện, câu chuyện có biến cố, liên hệ hai chuyện tưởng xa nhau… Chỉ đổi vài từ không thành hướng mới. Không chia một nhóm nguồn thành nhiều nhãn để giả là nhiều cơ chế.
 
 Giữ mục tiêu, giọng đã chọn và dữ kiện của bài. Không buộc người dùng đổi giọng chỉ để đủ option. Không tạo giả định thiếu căn cứ, trải nghiệm ngôi một giả, bình luận giả hoặc tin gây sốc bị tách khỏi câu đính chính trong clip nguồn.
+
+Với 10 option, ưu tiên nguồn từ ít nhất 5 kênh và 3 cách thể hiện khác nhau; tối đa 2 option cùng kênh khi có đủ ca liên quan. Đọc [phân bố kênh](corpus/channels.md) trước khi chọn. Nếu brief hẹp hoặc người dùng chỉ định nguồn/giọng, nói rõ giới hạn và ưu tiên độ phù hợp; không kéo ca lạc đề để đủ chỉ tiêu.
 
 ## Lượt trả lời đầu
 

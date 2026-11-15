@@ -1,0 +1,21 @@
+%%{init: {"htmlLabels": false, "themeVariables": {"fontSize": "18px"}, "flowchart": {"padding": 16, "rankSpacing": 22, "wrappingWidth": 360}}}%%
+flowchart TD
+  n0["01 · 00:00.00–00:15.62<br/>Ghép liên tưởng văn hóa đại chúng,<br/>nghịch lý cửa hàng và giá sản phẩm với<br/>lời nhá chi tiết nhận diện bằng nước."]
+  n1["02 · 00:15.62–00:26.58<br/>Đặt câu hỏi cửa hàng trông vắng nhưng<br/>tồn tại lâu, rồi kể nguồn gốc thương<br/>hiệu và người lập theo lời tác giả."]
+  n0 --> n1
+  n2["03 · 00:26.58–00:43.84<br/>Kể hoạt động quảng bá trước đây cùng<br/>khuyến mãi tặng hàng và vàng."]
+  n1 --> n2
+  n3["04 · 00:43.84–01:19.88<br/>Hỏi vì sao nay ít quảng cáo, bác liên<br/>tưởng Kingsman, rồi giải thích chuyển<br/>ngân sách sang giảm giá và dùng cửa<br/>hàng như phương tiện nhận diện."]
+  n2 --> n3
+  n4["05 · 01:19.88–01:40.96<br/>Chuyển sang câu hỏi giá đắt; phân biệt<br/>nhiều dòng nón và kể công thủ công ở<br/>sản phẩm cao giá."]
+  n3 --> n4
+  n5["06 · 01:40.96–01:53.38<br/>Nối vật liệu nhập khẩu với chống giả,<br/>nhắc mã QR và cách nhận diện bằng<br/>nước."]
+  n4 --> n5
+  n6["07 · 01:53.38–02:07.36<br/>Giải thích quét QR, làm ướt để hiện<br/>chữ rồi mất khi khô; sát cuối xuất<br/>hiện màn hồ sơ quảng bá khóa học."]
+  n5 --> n6
+  classDef phase fill:#F8FAFC,stroke:#CBD5E1,color:#0F172A,font-size:18px;
+  classDef opening fill:#DBEAFE,stroke:#2563EB,color:#172554,font-size:18px;
+  classDef ending fill:#DCFCE7,stroke:#16A34A,color:#14532D,font-size:18px;
+  class n0,n1,n2,n3,n4,n5,n6 phase;
+  class n0 opening;
+  class n6 ending;

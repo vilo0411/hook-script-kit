@@ -26,9 +26,12 @@ def validate(root):
     require(len(channels) == collection['channels'], 'Channel count differs')
     require(len(videos) == collection['videosAnalyzed'] == collection['videosDownloaded'], 'Video count differs')
     require(len(patterns) == collection.get('hookGroups'), 'Hook group count differs')
-    require(len(analyses) == collection.get('mindmaps'), 'Mindmap count differs')
+    require(len(analyses) == collection.get('mindmaps'), 'Story diagram count differs')
     require(len({v['id'] for v in videos}) == len(videos), 'Duplicate selected video ID')
     require(len({v['id'] for v in records}) == len(records), 'Duplicate channel record ID')
+    require(len({ch['handle'] for ch in channels}) == len(channels), 'Duplicate channel handle')
+    require(all(v['handle'] in {ch['handle'] for ch in channels} for v in videos), 'Unknown selected channel')
+    require(all(v.get('deliveryStyle') for v in videos), 'Missing observed delivery style')
     by = {v['id']: v for v in videos}
     by_channel = {v['handle']: v for v in channels}
     require({v['id'] for v in analyses} == set(by), 'Analysis/video IDs differ')
@@ -68,7 +71,7 @@ def validate(root):
             require(bool(re.fullmatch('[0-9a-f]{64}', ev[name])), 'Invalid hash: ' + vid + '/' + name)
         require(ev['audioListened'] is False and ev['continuousVideoWatched'] is False,
                 'Review scope changed without updating corpus validator: ' + vid)
-        require(ev['durationDifferenceSeconds'] < 1, 'Cached ASR duration differs too much: ' + vid)
+        require(ev['durationDifferenceSeconds'] < 1, 'Media/ASR duration differs too much: ' + vid)
         require(all(0 <= t <= dur for t in ev['observedFrameTimes']), 'Frame outside duration: ' + vid)
 
     for a in analyses:
@@ -79,6 +82,8 @@ def validate(root):
         for b in a['beats']:
             require(0 <= b['start'] < b['end'] <= dur, 'Beat outside duration: ' + a['id'])
         for f in a['visualEvidence']:
+            if by[a['id']]['evidence']['status'] == 'sampled-frames-plus-fresh-asr':
+                require(f['time'] in by[a['id']]['evidence']['observedFrameTimes'], 'Observation not in extracted frames: ' + a['id'])
             require(0 <= f['time'] <= dur, 'Observation outside duration: ' + a['id'])
         require(bool(a['limitations']), 'Missing limitations: ' + a['id'])
         detail = a.get('detail', {})
@@ -95,7 +100,7 @@ def validate(root):
         mmd = c / 'mindmaps' / (a['id'] + '.mmd')
         if mmd.is_file():
             diagram = mmd.read_text(encoding='utf-8')
-            require(diagram.startswith('mindmap\n'), 'Invalid mindmap type: ' + a['id'])
+            require('\nflowchart TD\n' in diagram and diagram.startswith('%%{init:'), 'Invalid story diagram type: ' + a['id'])
             case = (c / by[a['id']]['casePath']).read_text(encoding='utf-8')
             require('```mermaid\n' + diagram.rstrip() + '\n```' in case,
                     'Standalone/inline mindmaps differ: ' + a['id'])

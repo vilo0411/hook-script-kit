@@ -5765,5 +5765,3740 @@
         }
       ]
     }
+  },
+  {
+    "id": "7663067735391341842",
+    "title": "Một tỷ gửi tiết kiệm: phép tính rồi chuyển sang giữ tiền mặt",
+    "deliveryStyle": "Người dẫn nói trực diện ngoài trời; tiêu đề số tiền và phụ đề ngắn",
+    "openingObservation": "ASR mở bằng câu hỏi một tỷ gửi tiết kiệm được bao nhiêu. Khung 0–3 giây đặt đúng câu hỏi số tiền bằng chữ vàng viền đen ngang thân người dẫn; gương mặt, chiếc nón rộng và nền cây xanh làm hình nhận diện, chưa có biểu đồ hay bảng lãi suất. Câu trả lời số học xuất hiện ở 18,8–23,22 giây; sau đó bài chuyển sang một thông điệp rộng hơn về giữ tiền.",
+    "visualEvidence": [
+      {
+        "time": 0,
+        "observation": "Người dẫn đứng ngoài trời, đội nón rộng; tiêu đề vàng hỏi một tỷ gửi tiết kiệm được bao nhiêu."
+      },
+      {
+        "time": 3,
+        "observation": "Cùng cảnh và tiêu đề, người dẫn đưa tay lên; không có bảng tính minh họa."
+      },
+      {
+        "time": 12.34,
+        "observation": "Tiêu đề lớn đã nhường cho cụm phụ đề ngắn; người dẫn vẫn chiếm gần toàn chiều cao hình."
+      },
+      {
+        "time": 37.02,
+        "observation": "Cùng bố cục ngoài trời, phụ đề nhắc số tiền lãi; không hiện so sánh lợi suất các tài sản."
+      },
+      {
+        "time": 61.7,
+        "observation": "Người dẫn mỉm cười trong cùng cảnh, phụ đề theo lời về người bên ngoài."
+      },
+      {
+        "time": 74.04,
+        "observation": "Nón được đưa xuống phía trước thân; đây là thay đổi hình nhìn thấy ở phần chốt giữ tiền."
+      },
+      {
+        "time": 81.27,
+        "observation": "Người dẫn cầm nón trước người ở khung gần cuối, phụ đề nhấn từ vua."
+      }
+    ],
+    "beats": [
+      {
+        "start": 0,
+        "end": 18.8,
+        "summary": "Đặt câu hỏi một tỷ, nêu bối cảnh lãi suất cao và chọn khoảng 9% để tính; thêm khả năng thương lượng với ngân hàng.",
+        "role": "Định lượng lời hứa rồi dựng giả định tính toán."
+      },
+      {
+        "start": 18.8,
+        "end": 23.22,
+        "summary": "Đưa đáp số 90 triệu một năm và chia ra khoảng 7,5 triệu một tháng.",
+        "role": "Trả lời câu hỏi cụ thể ngay trước khi mở rộng luận điểm."
+      },
+      {
+        "start": 23.22,
+        "end": 41.9,
+        "summary": "So tiền lãi với khó khăn kiếm tiền và mô tả vàng, bất động sản, bitcoin, chứng khoán theo hướng kém thuận lợi.",
+        "role": "Đặt đáp số vào phép so cảm nhận về cơ hội khác."
+      },
+      {
+        "start": 41.9,
+        "end": 51.1,
+        "summary": "Khuyên người có một tỷ gửi ngân hàng, rồi bất ngờ thêm điều kiện giữ kín chuyện có tiền.",
+        "role": "Mở câu hỏi phụ sau khi phép tính đã khép."
+      },
+      {
+        "start": 51.1,
+        "end": 66.48,
+        "summary": "Liệt kê bạn bè, người thân có thể hỏi vay và người bán hàng có thể khiến chủ tiền chi tiêu.",
+        "role": "Cụ thể hóa lý do giữ kín bằng những tương tác đời thường."
+      },
+      {
+        "start": 66.48,
+        "end": 81.92,
+        "summary": "Dự đoán tiền mặt sẽ giá trị trong 6–12 tháng và lặp thông điệp tiền mặt là vua.",
+        "role": "Đóng bằng khẩu quyết và dự báo thay vì thêm số học."
+      }
+    ],
+    "ending": "Kết bằng thông điệp tiền mặt là vua, được lặp lại và đi cùng động tác hạ nón trong khung cuối. Bài đã trả câu hỏi tiền lãi nhưng phần kết nâng phép tính minh họa thành lựa chọn tài sản và dự báo.",
+    "mechanism": "Số vốn cụ thể → tỷ lệ giả định → tiền lãi theo năm/tháng → so hoàn cảnh → lời khuyên riêng tư bất ngờ → khẩu quyết. Điểm có thể học là đáp số hữu hình trước, câu hỏi phụ sau; chưa có bằng chứng về tác động giữ chân.",
+    "transfer": "Dùng một lượng tiền, thời gian hay chi phí quen thuộc làm đầu vào và trả phép tính minh bạch. Nếu mở thêm vấn đề hành vi sau đáp số, phải nối lý do rõ ràng và tách dự báo cá nhân khỏi phần tính được.",
+    "limitations": [
+      "Đã đọc toàn bộ ASR có timestamp và xem 12 khung trích của bản tải mới; chưa nghe toàn âm hoặc xem video liên tục.",
+      "Mốc nhịp dựa trên ASR; không dùng bản chép tự động làm trích dẫn nguyên văn.",
+      "Không có retention hay thử nghiệm nhân quả; số lượt xem không chứng minh hook tạo ra kết quả.",
+      "Lãi suất, điều kiện thương lượng và bối cảnh tài sản chưa được kiểm chứng độc lập hoặc cập nhật.",
+      "7,5 triệu/tháng là phép chia từ số năm trong lời tác giả; chưa xác nhận lịch trả lãi thực tế.",
+      "Các lời khuyên phân bổ tài sản và dự báo 6–12 tháng không phải kết luận của bộ dữ liệu.",
+      "ASR thiếu đoạn khoảng 27,48–30 giây; không suy diễn nội dung khoảng trống."
+    ],
+    "detail": {
+      "promise": "Trả lời một tỷ có thể tạo ra bao nhiêu tiền lãi dưới giả định tác giả chọn.",
+      "centralQuestion": "Từ một tỷ ban đầu, số tiền nhận được được hình dung theo năm và tháng thế nào?",
+      "emotionalArc": [
+        {
+          "start": 0,
+          "end": 18.8,
+          "emotion": "Tò mò về số tiền cụ thể",
+          "evidence": "Câu hỏi một tỷ đi trước các tỷ lệ lãi.",
+          "interpretation": "Đặt người xem vào phép tính dễ tự liên hệ; cảm xúc là giả thuyết phân tích."
+        },
+        {
+          "start": 18.8,
+          "end": 23.22,
+          "emotion": "Có đáp số để hình dung",
+          "evidence": "90 triệu/năm được chia tiếp theo tháng.",
+          "interpretation": "Đổi tỷ lệ trừu tượng thành một khoản thu quen thuộc."
+        },
+        {
+          "start": 41.9,
+          "end": 51.1,
+          "emotion": "Bất ngờ vì lời dặn mới",
+          "evidence": "Sau khuyên gửi ngân hàng là yêu cầu giữ bí mật.",
+          "interpretation": "Chuyển điểm chú ý từ sản phẩm ngân hàng sang ứng xử xã hội."
+        },
+        {
+          "start": 51.1,
+          "end": 81.92,
+          "emotion": "Thận trọng và muốn giữ quyền chủ động",
+          "evidence": "Liệt kê hỏi vay, bán hàng rồi chốt ưu thế tiền mặt.",
+          "interpretation": "Tạo cảm giác phòng vệ; không khẳng định người xem thực sự có phản ứng này."
+        }
+      ],
+      "informationDesign": [
+        {
+          "start": 0,
+          "end": 18.8,
+          "move": "Chốt một vốn gốc và một tỷ lệ tham chiếu.",
+          "reason": "Hạn chế số biến trước phép tính."
+        },
+        {
+          "start": 18.8,
+          "end": 23.22,
+          "move": "Đổi cùng kết quả qua hai đơn vị thời gian.",
+          "reason": "Giúp khoản lãi có thước đo sinh hoạt."
+        },
+        {
+          "start": 41.9,
+          "end": 66.48,
+          "move": "Thêm lời dặn xã hội sau đáp số.",
+          "reason": "Tạo một nhịp nội dung mới để bài không dừng ở máy tính."
+        },
+        {
+          "start": 66.48,
+          "end": 81.92,
+          "move": "Gói luận điểm thành khẩu quyết.",
+          "reason": "Tạo cụm nhớ được, nhưng cần phân biệt với bằng chứng."
+        }
+      ],
+      "strengths": [
+        {
+          "point": "Lời hứa nhìn được ngay",
+          "evidence": "Cả chữ mở màn và ASR đều nhắc một tỷ và số tiền lãi."
+        },
+        {
+          "point": "Trả số cụ thể",
+          "evidence": "18,8–23,22 giây nêu kết quả theo năm rồi tháng."
+        },
+        {
+          "point": "Có một nhịp chuyển bất ngờ",
+          "evidence": "49,44–51,1 giây thêm chuyện giữ kín sau khuyến nghị gửi tiền."
+        }
+      ],
+      "weaknesses": [
+        {
+          "point": "Phần đầu chờ đáp số khá lâu",
+          "evidence": "Phép tính chỉ tới ở 18,8 giây sau nhiều tỷ lệ và điều kiện thương lượng."
+        },
+        {
+          "point": "Hình không làm rõ giả định số học",
+          "evidence": "Các khung 12,34 và 37,02 giây vẫn là người dẫn với phụ đề ngắn, không có bảng tính."
+        },
+        {
+          "point": "Kết luận rộng hơn dữ liệu đã trình bày",
+          "evidence": "66,48–81,92 giây dự báo ưu thế tiền mặt, trong khi phần tính chỉ minh họa một tỷ lệ."
+        }
+      ],
+      "shareabilityHypotheses": [
+        "Khoản lãi theo tháng có thể được gửi cho người cùng bàn chuyện ngân sách; đây là giả thuyết, không có dữ liệu chia sẻ theo đoạn.",
+        "Lời dặn giữ kín tiền có thể gợi trao đổi về chuyện hỏi vay; không xem đó là xác nhận lời khuyên đúng."
+      ],
+      "adaptationRules": [
+        "Nêu rõ ngày, kỳ hạn và giả định khi dùng lãi suất.",
+        "Đưa phép tính lên hình và trả đáp số sớm hơn nếu clip chỉ hứa tính tiền.",
+        "Tách ba lớp: phép tính, ý kiến về hành vi, dự báo tài sản.",
+        "Không chuyển mẫu này thành lời khuyên ngân hàng hay phân bổ tài sản cho mọi người."
+      ],
+      "mindmapBranches": [
+        {
+          "label": "Câu hỏi đầu",
+          "children": [
+            "Một tỷ vốn gốc",
+            "Tiền lãi là kết quả cần tìm"
+          ]
+        },
+        {
+          "label": "Giả định",
+          "children": [
+            "Tỷ lệ khoảng 9% do tác giả chọn",
+            "Điều kiện lãi chưa kiểm chứng"
+          ]
+        },
+        {
+          "label": "Đáp số",
+          "children": [
+            "90 triệu/năm",
+            "7,5 triệu/tháng theo phép chia"
+          ]
+        },
+        {
+          "label": "Mở rộng",
+          "children": [
+            "So với tài sản khác",
+            "Giữ kín chuyện có tiền"
+          ]
+        },
+        {
+          "label": "Chốt",
+          "children": [
+            "Dự báo ưu thế tiền mặt",
+            "Khẩu quyết dễ nhớ nhưng chưa là bằng chứng"
+          ]
+        },
+        {
+          "label": "Giới hạn",
+          "children": [
+            "Không có retention",
+            "Phép tính không thay tư vấn"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "7673475558734433543",
+    "title": "Biệt thự 25 tỷ cho thuê 15 triệu: nghịch lý dòng tiền và chi phí cơ hội",
+    "deliveryStyle": "Người dẫn ngồi kể ca khách hàng, cầm micro; chữ số đối chiếu ở đầu",
+    "openingObservation": "Khung 0–3 giây đặt nhiều con số đối diện: biệt thự 25 tỷ, thuê 15 triệu, gửi tiết kiệm và khoản theo tháng/năm. ASR lập cùng một phép so trong 0–9,28 giây, rồi gọi đó là một ca khách hàng. Đây là mở bằng khoảng cách giữa giá trị tài sản lớn và dòng tiền nhỏ, chưa phải minh chứng đầy đủ về hiệu quả hai khoản đầu tư.",
+    "visualEvidence": [
+      {
+        "time": 0,
+        "observation": "Người dẫn ngồi trong không gian nội thất, cầm micro; chữ vàng trên đầu đối chiếu biệt thự 25 tỷ và dòng tiền thuê/gửi tiết kiệm."
+      },
+      {
+        "time": 3,
+        "observation": "Tiêu đề số vẫn phủ phần trên khung, người dẫn nhìn về máy."
+      },
+      {
+        "time": 27.2,
+        "observation": "Tiêu đề đầu đã hết; phụ đề nhấn 25 tỷ khi tiếp tục câu chuyện."
+      },
+      {
+        "time": 54.4,
+        "observation": "Cùng cảnh người dẫn; chưa có ảnh căn nhà hay hồ sơ giao dịch trong khung được xem."
+      },
+      {
+        "time": 108.81,
+        "observation": "Người dẫn vẫn ngồi kể, phụ đề ngắn theo từng cụm."
+      },
+      {
+        "time": 136.01,
+        "observation": "Phụ đề nhấn con số 200 triệu ở phần quay lại phép so tiền gửi."
+      },
+      {
+        "time": 180.34,
+        "observation": "Khung cuối vẫn người dẫn, phụ đề về xếp lịch; phù hợp lời mời tư vấn cuối ASR."
+      }
+    ],
+    "beats": [
+      {
+        "start": 0,
+        "end": 12.1,
+        "summary": "Đối chiếu biệt thự 25 tỷ cho thuê 15 triệu/tháng với gửi cùng vốn được khoảng 200 triệu/tháng, rồi gọi là nghịch lý có thật.",
+        "role": "Đặt hai đầu ra khác biệt cạnh cùng một số vốn."
+      },
+      {
+        "start": 12.1,
+        "end": 46.42,
+        "summary": "Kể khách mua phần thô, chi thêm nội thất, để không rồi chấp nhận mức thuê thấp; nhấn việc chủ nhà chăm chút nên ngại cho thuê.",
+        "role": "Đổi con số mở màn thành một nhân vật và sự gắn bó cụ thể."
+      },
+      {
+        "start": 46.42,
+        "end": 82.22,
+        "summary": "Nối nhiều tháng không có dòng tiền với hao mòn nội thất, phí quản lý và dọn dẹp.",
+        "role": "Làm tổn thất thành chuỗi cộng dồn thay vì một khoản thuê thấp."
+      },
+      {
+        "start": 82.22,
+        "end": 120.62,
+        "summary": "Kể giảm giá vẫn khó bán, thiếu hỏi mua rồi quay lại ý định ban đầu là mua để sang tay.",
+        "role": "Giải thích thế mắc kẹt thanh khoản qua sự lệch giữa kế hoạch và kết quả."
+      },
+      {
+        "start": 120.62,
+        "end": 149.48,
+        "summary": "Gọi tên chi phí cơ hội, nhắc lại 200 triệu/tháng và gợi cơ hội bất động sản tương lai cho người giữ tiền.",
+        "role": "Quay lại cặp số đầu để khái quát bài học; đồng thời thêm dự báo."
+      },
+      {
+        "start": 149.48,
+        "end": 165.7,
+        "summary": "Liên hệ người xem có thể ở tình huống tương tự, chơi chữ lãi kép thành lỗ kép.",
+        "role": "Nén nhiều khoản mất mát thành một nhãn dễ nhớ."
+      },
+      {
+        "start": 165.7,
+        "end": 180.58,
+        "summary": "Mời nhắn trợ lý để sắp lịch tư vấn, thông báo tình trạng lịch cá nhân.",
+        "role": "Chuyển bài giải thích thành lời mời sử dụng dịch vụ."
+      }
+    ],
+    "ending": "Phần chốt ý nằm ở nhãn lỗ kép; sau đó còn gần 15 giây mời tư vấn. Vì vậy kết thúc chức năng là chuyển đổi dịch vụ, không chỉ là khép bài học về dòng tiền.",
+    "mechanism": "Cùng vốn nhưng khác dòng tiền → ca cụ thể → chuỗi chi phí và khó bán → gọi tên chi phí cơ hội → chơi chữ → tư vấn. Nhịp quay lại số đầu giúp liên kết câu chuyện dài, nhưng chưa có dữ liệu cho biết người xem ở lại đến CTA.",
+    "transfer": "Học cách mở bằng cùng một đầu vào để làm rõ phép so, sau đó truy ngược những quyết định tạo ra chênh lệch. Khi dùng ca thật phải có nguồn hoặc đánh dấu lời kể của tác giả; so sánh cần nói đủ phạm vi, không dùng tiền thuê đối chiếu lãi gửi để kết luận tổng lợi nhuận.",
+    "limitations": [
+      "Đã đọc toàn bộ ASR có timestamp và xem 12 khung trích của bản tải mới; chưa nghe toàn âm hoặc xem video liên tục.",
+      "Mốc nhịp dựa trên ASR; không dùng bản chép tự động làm trích dẫn nguyên văn.",
+      "Không có retention hay thử nghiệm nhân quả; số lượt xem không chứng minh hook tạo ra kết quả.",
+      "Ca khách hàng, giá mua, giá thuê và nỗ lực bán chưa được xác thực độc lập.",
+      "Lãi gửi 200 triệu/tháng, kỳ hạn và thuế/phí chưa được kiểm chứng; con số tiêu đề theo năm cần đối chiếu lại trước trích dẫn.",
+      "Tiền thuê và lãi tiền gửi chưa bao quát tăng giảm giá tài sản, rủi ro, chi phí và thời hạn nắm giữ.",
+      "Dự báo cơ hội mua bất động sản và CTA tư vấn là nội dung của tác giả, không phải khuyến nghị từ phân tích."
+    ],
+    "detail": {
+      "promise": "Giải thích vì sao tài sản giá trị cao vẫn có thể gây căng dòng tiền và chi phí cơ hội.",
+      "centralQuestion": "Điều gì biến kế hoạch sở hữu rồi bán một biệt thự thành thế mắc kẹt?",
+      "emotionalArc": [
+        {
+          "start": 0,
+          "end": 12.1,
+          "emotion": "Ngạc nhiên vì chênh lệch",
+          "evidence": "25 tỷ đối diện 15 triệu và 200 triệu theo tháng.",
+          "interpretation": "Tương phản số có thể tạo thắc mắc ngay; chưa đo phản ứng."
+        },
+        {
+          "start": 12.1,
+          "end": 46.42,
+          "emotion": "Đồng cảm với người sở hữu",
+          "evidence": "Câu chuyện chăm chút nội thất nhưng ngại cho thuê.",
+          "interpretation": "Đưa cảm xúc sở hữu vào lựa chọn vốn tưởng chỉ có số."
+        },
+        {
+          "start": 46.42,
+          "end": 120.62,
+          "emotion": "Áp lực cộng dồn",
+          "evidence": "Không thu tiền, vẫn chi phí, giảm giá vẫn khó bán.",
+          "interpretation": "Mỗi nhịp thêm một tầng bất lợi."
+        },
+        {
+          "start": 120.62,
+          "end": 165.7,
+          "emotion": "Có tên cho vấn đề",
+          "evidence": "Chi phí cơ hội và lỗ kép được nói sau chuỗi tình huống.",
+          "interpretation": "Khái niệm đến sau ví dụ có thể dễ ghi nhớ."
+        },
+        {
+          "start": 165.7,
+          "end": 180.58,
+          "emotion": "Được mời tìm trợ giúp",
+          "evidence": "Tác giả hướng tới nhắn trợ lý đặt lịch.",
+          "interpretation": "Đổi quan hệ từ nghe câu chuyện sang khách hàng tiềm năng."
+        }
+      ],
+      "informationDesign": [
+        {
+          "start": 0,
+          "end": 12.1,
+          "move": "Giữ vốn gốc giống nhau, đổi đầu ra.",
+          "reason": "Làm nổi độ lệch dòng tiền trong một câu."
+        },
+        {
+          "start": 12.1,
+          "end": 82.22,
+          "move": "Tách giá mua, nội thất, tiền thuê và chi phí vận hành.",
+          "reason": "Xây chuỗi nguyên nhân cho câu chuyện."
+        },
+        {
+          "start": 82.22,
+          "end": 120.62,
+          "move": "Tiết lộ kế hoạch mua để bán sau phần khó bán.",
+          "reason": "Tạo quan hệ trước–sau có mâu thuẫn."
+        },
+        {
+          "start": 120.62,
+          "end": 165.7,
+          "move": "Đặt tên khái niệm và quay lại con số đầu.",
+          "reason": "Nối ví dụ với bài học bằng callback."
+        },
+        {
+          "start": 165.7,
+          "end": 180.58,
+          "move": "Gắn CTA lịch tư vấn.",
+          "reason": "Bộc lộ mục tiêu chuyển đổi cần được nhận diện khi học mẫu."
+        }
+      ],
+      "strengths": [
+        {
+          "point": "Phép so đầu rõ đầu vào",
+          "evidence": "0–9,28 giây đều xoay quanh cùng 25 tỷ."
+        },
+        {
+          "point": "Có quyết định và hậu quả",
+          "evidence": "12,1–120,62 giây nối nội thất, ngại thuê, chi phí và khó bán."
+        },
+        {
+          "point": "Khái niệm xuất hiện sau tình huống",
+          "evidence": "Chi phí cơ hội tới ở 120,62 giây sau khi đã kể hậu quả."
+        }
+      ],
+      "weaknesses": [
+        {
+          "point": "Mật độ chữ số cao ở mở màn",
+          "evidence": "Khung 0 giây chứa vốn, tiền thuê, gửi tiết kiệm, tháng và năm trên nhiều dòng."
+        },
+        {
+          "point": "Bằng chứng ca ít nhìn được",
+          "evidence": "Các khung 27,2–108,81 giây vẫn là người dẫn, chưa có tài liệu căn nhà."
+        },
+        {
+          "point": "Phép so dễ bị hiểu thành đánh giá toàn bộ đầu tư",
+          "evidence": "Mở màn chỉ dùng dòng tiền trong khi phần sau nhận xét lựa chọn bất động sản."
+        },
+        {
+          "point": "CTA kéo dài sau điểm chốt",
+          "evidence": "165,7–180,58 giây dành cho lịch tư vấn sau nhãn lỗ kép."
+        }
+      ],
+      "shareabilityHypotheses": [
+        "Cặp số có thể được chia sẻ để tranh luận về dòng tiền; không có dữ liệu chứng minh lý do chia sẻ.",
+        "Nhãn lỗ kép có thể giúp người xem gọi tên trải nghiệm của mình, nhưng dễ làm đơn giản hóa hoàn cảnh khác nhau."
+      ],
+      "adaptationRules": [
+        "Chỉ dùng ca có nguồn, không bịa khách hàng để tăng uy tín.",
+        "Đặt cùng kỳ hạn và ghi rõ đang so dòng tiền hay tổng lợi nhuận.",
+        "Cho thấy bảng chi phí hoặc tài liệu đã ẩn thông tin thay vì chỉ tăng cường lời khẳng định.",
+        "Nếu video có CTA, đánh dấu riêng đoạn bài học kết thúc và đoạn chuyển đổi."
+      ],
+      "mindmapBranches": [
+        {
+          "label": "Mở số",
+          "children": [
+            "25 tỷ vốn",
+            "15 triệu thuê so 200 triệu gửi theo lời tác giả"
+          ]
+        },
+        {
+          "label": "Ca kể",
+          "children": [
+            "Mua thô và làm nội thất",
+            "Ngại cho thuê"
+          ]
+        },
+        {
+          "label": "Chuỗi mắc kẹt",
+          "children": [
+            "Không dòng tiền",
+            "Chi phí duy trì",
+            "Khó bán"
+          ]
+        },
+        {
+          "label": "Khái niệm",
+          "children": [
+            "Chi phí cơ hội",
+            "Lỗ kép"
+          ]
+        },
+        {
+          "label": "Kết",
+          "children": [
+            "Gợi cơ hội tương lai",
+            "Mời tư vấn"
+          ]
+        },
+        {
+          "label": "Cần kiểm chứng",
+          "children": [
+            "Hồ sơ ca",
+            "Lãi và kỳ hạn",
+            "Tổng lợi nhuận"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "7447850753626082567",
+    "title": "Nón Sơn: từ câu hỏi cửa hàng vắng đến lời giải mô hình bán lẻ",
+    "deliveryStyle": "Đối thoại hỏi–đáp do người dẫn thể hiện, xen logo, cửa hàng và cận sản phẩm",
+    "openingObservation": "ASR mở bằng liên tưởng Kingsman rồi xếp nhiều điều lạ: địa điểm đẹp, sản phẩm đắt và chi tiết chống giả. Khung 0–3 giây đặt logo Nón Sơn ngay trên đầu người dẫn, phụ đề gọi rõ thương hiệu. Đến 15,62 giây mới chuyển sang câu hỏi vì sao cửa hàng trông vắng vẫn tồn tại; khoảng 52,66–53,74 giây tác giả trực tiếp bác liên tưởng Kingsman. Phân tích này chỉ ghi cách tạo tò mò, không xác nhận bất kỳ ám chỉ hoạt động bất hợp pháp nào.",
+    "visualEvidence": [
+      {
+        "time": 0,
+        "observation": "Người dẫn đeo kính, mặc áo khoác tối trước nền gỗ; ô logo Nón Sơn đặt trên đầu."
+      },
+      {
+        "time": 2,
+        "observation": "Logo và phụ đề liên tưởng Kingsman cùng hiện, thương hiệu được nhận diện rõ."
+      },
+      {
+        "time": 19.25,
+        "observation": "Trở về người dẫn với phụ đề năm 2006, mở đoạn lịch sử theo lời tác giả."
+      },
+      {
+        "time": 38.5,
+        "observation": "Khung nền tối với logo và chữ giá 80.000 đồng minh họa chương trình khuyến mãi."
+      },
+      {
+        "time": 57.75,
+        "observation": "Footage mặt tiền màu hồng có chữ tặng/mua một, tương ứng đoạn chuyển ngân sách sang ưu đãi."
+      },
+      {
+        "time": 77,
+        "observation": "Hình trong cửa hàng với nhiều nón trưng bày và người ở quầy, khác cảnh người dẫn."
+      },
+      {
+        "time": 96.25,
+        "observation": "Cận tay đang đan chất liệu màu đỏ, minh họa công việc thủ công."
+      },
+      {
+        "time": 115.51,
+        "observation": "Hộp hàng có mã QR được chèn giữa khung, trên nền người dẫn."
+      },
+      {
+        "time": 127.34,
+        "observation": "Màn hồ sơ Sitcom Tài Chính với mũi tên chỉ liên kết và dòng mời học chứng khoán miễn phí; đây là CTA ngoài phần ASR kể sản phẩm."
+      }
+    ],
+    "beats": [
+      {
+        "start": 0,
+        "end": 15.62,
+        "summary": "Ghép liên tưởng văn hóa đại chúng, nghịch lý cửa hàng và giá sản phẩm với lời nhá chi tiết nhận diện bằng nước.",
+        "role": "Cho một loạt điểm lạ và cho thấy trước phần thưởng cuối."
+      },
+      {
+        "start": 15.62,
+        "end": 26.58,
+        "summary": "Đặt câu hỏi cửa hàng trông vắng nhưng tồn tại lâu, rồi kể nguồn gốc thương hiệu và người lập theo lời tác giả.",
+        "role": "Chuyển đoạn nhá mở thành cuộc hỏi–đáp có vấn đề trung tâm."
+      },
+      {
+        "start": 26.58,
+        "end": 43.84,
+        "summary": "Kể hoạt động quảng bá trước đây cùng khuyến mãi tặng hàng và vàng.",
+        "role": "Tạo một quá khứ được mô tả là ồn ào để đối chiếu hiện tại."
+      },
+      {
+        "start": 43.84,
+        "end": 79.88,
+        "summary": "Hỏi vì sao nay ít quảng cáo, bác liên tưởng Kingsman, rồi giải thích chuyển ngân sách sang giảm giá và dùng cửa hàng như phương tiện nhận diện.",
+        "role": "Thay suy đoán ban đầu bằng lời giải kinh doanh của tác giả."
+      },
+      {
+        "start": 79.88,
+        "end": 100.96,
+        "summary": "Chuyển sang câu hỏi giá đắt; phân biệt nhiều dòng nón và kể công thủ công ở sản phẩm cao giá.",
+        "role": "Tách một ấn tượng chung thành các phân khúc cụ thể."
+      },
+      {
+        "start": 100.96,
+        "end": 113.38,
+        "summary": "Nối vật liệu nhập khẩu với chống giả, nhắc mã QR và cách nhận diện bằng nước.",
+        "role": "Dựng câu hỏi thao tác để chuẩn bị một kết quả có thể nhìn."
+      },
+      {
+        "start": 113.38,
+        "end": 127.36,
+        "summary": "Giải thích quét QR, làm ướt để hiện chữ rồi mất khi khô; sát cuối xuất hiện màn hồ sơ quảng bá khóa học.",
+        "role": "Trả chi tiết đã nhá đầu bài rồi chuyển sang CTA thương hiệu kênh."
+      }
+    ],
+    "ending": "ASR khép vòng chi tiết chống giả bằng nước đã nhá từ đầu. Khung 127,34 giây cho thấy thêm trang hồ sơ và lời mời học chứng khoán miễn phí. Vì vậy có hai lớp kết: giải thích sản phẩm và chuyển đổi cho kênh; không gộp CTA thành bằng chứng cho luận điểm kinh doanh.",
+    "mechanism": "Liên tưởng gây bất ngờ → bộ điểm lạ → câu hỏi đối thoại → lời giải thay thế → câu hỏi giá → chi tiết kiểm tra sản phẩm → CTA. Mô hình đáng học là lấy một quan sát phổ biến làm câu hỏi, rồi dùng nhiều nhánh trả lời; không sao chép ám chỉ thiếu chứng cứ làm hook.",
+    "transfer": "Có thể dùng câu hỏi “vì sao nhìn có vẻ X mà vẫn Y” khi quan sát được mô tả đúng phạm vi, rồi trả bằng mô hình vận hành và một chi tiết vật thể. Học cách gọi lại chi tiết đã nhá; bỏ ngụ ý giật gân chưa có nguồn và tách hình minh họa khỏi bằng chứng xác nhận.",
+    "limitations": [
+      "Đã đọc toàn bộ ASR có timestamp và xem 12 khung trích của bản tải mới; chưa nghe toàn âm hoặc xem video liên tục.",
+      "Mốc nhịp dựa trên ASR; không dùng bản chép tự động làm trích dẫn nguyên văn.",
+      "Không có retention hay thử nghiệm nhân quả; số lượt xem không chứng minh hook tạo ra kết quả.",
+      "Số cửa hàng, chi phí, ngân sách marketing, giá và cách chống giả là lời tác giả, chưa được kiểm chứng độc lập.",
+      "ASR nêu năm 2006 rồi nhắc hoạt động năm 1999; chưa đủ cơ sở sửa lịch sử hoặc dùng chuỗi năm đó làm dữ kiện.",
+      "Liên tưởng Kingsman là thủ pháp mở và bị chính tác giả bác; không phải chứng cứ cho bất kỳ cáo buộc thương hiệu nào.",
+      "Khung chọn mẫu chưa đủ xác nhận đã thấy trọn thao tác làm ướt và khô; phần ấy hiện được mô tả dựa trên ASR.",
+      "Không xác định tài trợ hay quan hệ thương mại với thương hiệu; không suy ra có tài trợ chỉ từ nội dung thuận lợi."
+    ],
+    "detail": {
+      "promise": "Giải thích nghịch lý bề ngoài của chuỗi cửa hàng và vài chi tiết sản phẩm khiến thương hiệu được chú ý.",
+      "centralQuestion": "Theo cách giải thích của tác giả, cửa hàng trông vắng có nhất thiết đồng nghĩa mô hình không thể sống?",
+      "emotionalArc": [
+        {
+          "start": 0,
+          "end": 15.62,
+          "emotion": "Ngạc nhiên vì liên tưởng và giá",
+          "evidence": "Mở bằng Kingsman, vị trí đẹp, sản phẩm cao giá và chi tiết nước.",
+          "interpretation": "Nhiều điều chưa giải tạo động lực hỏi tiếp; đây là giả thuyết về thiết kế."
+        },
+        {
+          "start": 15.62,
+          "end": 43.84,
+          "emotion": "Tò mò tìm nền tảng",
+          "evidence": "Câu hỏi tồn tại được đưa về lịch sử và hoạt động quảng bá.",
+          "interpretation": "Đổi tò mò giật gân thành chờ lời giải cụ thể."
+        },
+        {
+          "start": 43.84,
+          "end": 79.88,
+          "emotion": "Có một cách hiểu thay thế",
+          "evidence": "Tác giả bác liên tưởng rồi nói về giảm giá, mặt bằng, nhận diện.",
+          "interpretation": "Sửa khung suy đoán trước bằng luận điểm kinh doanh."
+        },
+        {
+          "start": 79.88,
+          "end": 113.38,
+          "emotion": "Tò mò về đồ vật",
+          "evidence": "Giá đắt dẫn sang thủ công và chống giả.",
+          "interpretation": "Thu chủ đề từ cả chuỗi bán lẻ vào một sản phẩm."
+        },
+        {
+          "start": 113.38,
+          "end": 127.36,
+          "emotion": "Chờ kiểm tra chi tiết đã nhá",
+          "evidence": "QR và hiện chữ bằng nước quay lại.",
+          "interpretation": "Một chi tiết nhỏ làm điểm đóng vòng; chưa có dữ liệu đo mức thỏa mãn."
+        }
+      ],
+      "informationDesign": [
+        {
+          "start": 0,
+          "end": 15.62,
+          "move": "Nhá nhiều câu trả lời trước phần đối thoại.",
+          "reason": "Cho người xem thấy chủ đề sẽ có cả kinh doanh lẫn sản phẩm."
+        },
+        {
+          "start": 15.62,
+          "end": 43.84,
+          "move": "Đi từ quan sát hiện tại về lịch sử.",
+          "reason": "Tìm nguyên nhân thay vì chỉ lặp điều lạ."
+        },
+        {
+          "start": 43.84,
+          "end": 79.88,
+          "move": "Bác giả thuyết rồi đưa mô hình chi phí/nhận diện.",
+          "reason": "Cần một đáp án thay thế sau khi bác liên tưởng."
+        },
+        {
+          "start": 79.88,
+          "end": 100.96,
+          "move": "Dùng câu hỏi giá để mở tiểu mục.",
+          "reason": "Phân biệt hàng phổ thông với hàng thủ công."
+        },
+        {
+          "start": 100.96,
+          "end": 127.36,
+          "move": "Quay về chi tiết vật thể đã báo trước.",
+          "reason": "Tạo điểm kết cụ thể hơn một nhận định thương hiệu chung."
+        }
+      ],
+      "strengths": [
+        {
+          "point": "Câu hỏi chính có đối tượng rõ",
+          "evidence": "15,62–18,6 giây hỏi về khả năng tồn tại của cửa hàng."
+        },
+        {
+          "point": "Hình minh họa đổi theo nhóm luận điểm",
+          "evidence": "57,75 giây mặt tiền giảm giá; 77 giây trong cửa hàng; 96,25 giây cận đan tay."
+        },
+        {
+          "point": "Chi tiết cuối có chuẩn bị",
+          "evidence": "Nước/nhận diện được nhá ở 10,4–15,62 rồi giải ở 119,9–127,36 giây."
+        },
+        {
+          "point": "Có bác liên tưởng gây hiểu lầm",
+          "evidence": "52,66–53,74 giây phủ định cách diễn giải Kingsman."
+        }
+      ],
+      "weaknesses": [
+        {
+          "point": "Hook có nguy cơ để lại ám chỉ không có căn cứ",
+          "evidence": "Liên tưởng xuất hiện ngay 0–2,08 giây nhưng lời bác ở hơn 52 giây."
+        },
+        {
+          "point": "Thông tin lịch sử chưa ổn định",
+          "evidence": "ASR vừa nói 2006 vừa nhắc quảng bá năm 1999; cần kiểm nguồn trước dùng lại."
+        },
+        {
+          "point": "Nhiều số liệu được kể mà chưa thấy nguồn trong khung mẫu",
+          "evidence": "Đoạn 53,74–79,88 giây nêu ngân sách, số cửa hàng và diện tích."
+        },
+        {
+          "point": "CTA khác chủ đề sản phẩm",
+          "evidence": "Khung 127,34 giây mời học chứng khoán, khác câu hỏi kinh doanh thương hiệu vừa kết."
+        }
+      ],
+      "shareabilityHypotheses": [
+        "Một thương hiệu thường gặp ngoài phố có thể khiến người xem muốn gửi clip để cùng giải thích quan sát; chưa xác nhận bằng dữ liệu chia sẻ.",
+        "Chi tiết nhận diện bằng nước có thể kích thích muốn kiểm tra, chỉ nên tái dùng khi có sản phẩm và nguồn xác nhận."
+      ],
+      "adaptationRules": [
+        "Giữ quan sát ở mức trông vắng, không suy ra doanh thu hay hoạt động trái pháp luật.",
+        "Không mở bằng cáo buộc rồi trông chờ lời bác ở cuối sửa mọi hiểu lầm.",
+        "Nguồn hóa lịch sử, ngân sách và cửa hàng trước khi đưa vào mẫu kịch bản.",
+        "Khi hứa biểu diễn vật thể, quay đủ thao tác và kết quả thực tế.",
+        "Học nhịp hỏi–đáp và callback; không sao chép toàn lời kể hoặc khẳng định thương hiệu."
+      ],
+      "mindmapBranches": [
+        {
+          "label": "Điều lạ",
+          "children": [
+            "Cửa hàng vị trí đẹp",
+            "Sản phẩm giá cao",
+            "Nhá chống giả"
+          ]
+        },
+        {
+          "label": "Câu hỏi",
+          "children": [
+            "Vì sao tồn tại?",
+            "Vì sao đắt?"
+          ]
+        },
+        {
+          "label": "Lời giải tác giả",
+          "children": [
+            "Khuyến mãi",
+            "Cửa hàng làm nhận diện",
+            "Chi phí gọn"
+          ]
+        },
+        {
+          "label": "Vật thể",
+          "children": [
+            "Đan tay",
+            "QR",
+            "Hiện chữ khi ướt theo ASR"
+          ]
+        },
+        {
+          "label": "Kết",
+          "children": [
+            "Trả chi tiết nhá",
+            "CTA khóa học"
+          ]
+        },
+        {
+          "label": "Giới hạn",
+          "children": [
+            "Không xác nhận ám chỉ Kingsman",
+            "Mốc lịch sử bất nhất",
+            "Số liệu chưa kiểm chứng"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "7319879610357878023",
+    "title": "SHEIN: kể tăng trưởng qua giá, tốc độ và mặt trái",
+    "deliveryStyle": "Đối thoại hai vai qua thay áo/góc nhìn, xen footage người mua, đồ họa và ảnh đối chiếu",
+    "openingObservation": "ASR mở bằng tuyên bố quy mô lớn và đặt SHEIN cạnh Nike, Adidas, Zara, sau đó nhá AI và tốc độ sản xuất trước khi vào hỏi–đáp. Khung 0–3 giây cho thấy người dẫn áo đỏ và phụ đề vàng nêu tên SHEIN cùng thứ hạng. Nhãn lớn nhất là tuyên bố trong clip, chưa được phân tích này xác nhận theo thời điểm hoặc thước đo.",
+    "visualEvidence": [
+      {
+        "time": 0,
+        "observation": "Người dẫn áo đỏ, kính, micro cài áo trước nền văn phòng; phụ đề ghi rõ SHEIN."
+      },
+      {
+        "time": 2,
+        "observation": "Cùng cảnh áo đỏ, phụ đề nêu tuyên bố lớn nhất thế giới."
+      },
+      {
+        "time": 13.81,
+        "observation": "Người dẫn chuyển sang áo xanh, nhìn sang bên; phụ đề hỏi về Zara và H&M, hỗ trợ việc tách hai vai đối thoại."
+      },
+      {
+        "time": 27.63,
+        "observation": "Vai áo đỏ trở lại với phụ đề mở phần quy mô hiện tại theo lời tác giả."
+      },
+      {
+        "time": 41.44,
+        "observation": "Footage hai người trong ô tô thay cảnh người dẫn ở đoạn nói về giá rẻ/khách hàng."
+      },
+      {
+        "time": 55.25,
+        "observation": "Đồ họa khối công nghệ và các bảng dữ liệu, minh họa đoạn giải thích AI."
+      },
+      {
+        "time": 69.07,
+        "observation": "Ảnh xếp cạnh thiết kế trang phục và sản phẩm trên SHEIN; đây là hình phục vụ luận điểm sao chép của tác giả."
+      },
+      {
+        "time": 82.88,
+        "observation": "Footage rác trên mặt nước ở đoạn ASR nêu vấn đề môi trường; hình này tự thân không chứng minh nguồn gây ô nhiễm."
+      },
+      {
+        "time": 91.09,
+        "observation": "Vai áo đỏ trở lại ở phần nói về điều chỉnh theo tiêu chuẩn, đóng đoạn giải thích."
+      }
+    ],
+    "beats": [
+      {
+        "start": 0,
+        "end": 11.06,
+        "summary": "Tuyên bố SHEIN vượt các tên tuổi quen và nhá cách theo dõi xu hướng bằng AI, sản xuất nhanh.",
+        "role": "Đưa kết quả gây bất ngờ và một phần lời giải trước câu chuyện."
+      },
+      {
+        "start": 11.06,
+        "end": 27.24,
+        "summary": "Vai hỏi thắc mắc về thương hiệu, vai giải thích kể xuất thân và phạm vi thị trường.",
+        "role": "Dựng điểm xuất phát để người mới theo được chủ đề."
+      },
+      {
+        "start": 27.24,
+        "end": 38.82,
+        "summary": "Bổ sung tuyên bố thứ hạng, lượng truy cập và đặt câu hỏi lớn lên nhanh bằng cách nào.",
+        "role": "Chuyển từ quy mô sang nguyên nhân thay vì chỉ tiếp tục kể thành tích."
+      },
+      {
+        "start": 38.82,
+        "end": 47.6,
+        "summary": "Nói về khách Gen Z, giá thấp và tiếp thị qua blogger, YouTube, TikTok.",
+        "role": "Đặt phần người mua và phân phối trước phần công nghệ."
+      },
+      {
+        "start": 47.6,
+        "end": 63.44,
+        "summary": "Giải thích cách theo dõi xu hướng/thiết kế bằng AI và gọi tên bán lẻ thời gian thực với chu kỳ ba ngày theo tác giả.",
+        "role": "Gói một chuỗi vận hành trong một nhãn và con số tốc độ."
+      },
+      {
+        "start": 63.44,
+        "end": 87,
+        "summary": "Chuyển sang cáo buộc sao chép, kiện tụng, giá rẻ, môi trường, lao động và rủi ro chính sách.",
+        "role": "Thêm mặt trái để lời giải tăng trưởng không chỉ là ca thành công."
+      },
+      {
+        "start": 87,
+        "end": 91.96,
+        "summary": "Nói về thuê nhà thiết kế và khung ESG để phù hợp chuẩn thị trường phương Tây.",
+        "role": "Đóng bằng phản ứng của doanh nghiệp trước những vấn đề vừa nêu."
+      }
+    ],
+    "ending": "Kết bằng mô tả phản ứng của doanh nghiệp: nhà thiết kế và ESG, không có phần chứng minh các vấn đề đã được giải quyết. Câu hỏi tăng trưởng có lời giải theo tác giả, còn hiệu quả điều chỉnh để mở.",
+    "mechanism": "Kết quả vượt thương hiệu quen → nhá nguyên nhân → đối thoại hỏi lại → khách hàng và tiếp thị → công nghệ/tốc độ → mặt trái → phản ứng. Khung kể này nối thành công với chi phí của mô hình thay vì đóng ở thành tích; không chứng minh những luận điểm kinh doanh đều đúng.",
+    "transfer": "Học cách đi từ một kết quả đáng chú ý đến hai hoặc ba tầng nguyên nhân, rồi kiểm tra cái giá phải trả. Đối thoại có thể đóng vai người chưa hiểu hỏi đúng câu chuyển đoạn; phải định nghĩa thứ hạng và kiểm chứng từng mốc thay vì dùng siêu hạng chung.",
+    "limitations": [
+      "Đã đọc toàn bộ ASR có timestamp và xem 12 khung trích của bản tải mới; chưa nghe toàn âm hoặc xem video liên tục.",
+      "Mốc nhịp dựa trên ASR; không dùng bản chép tự động làm trích dẫn nguyên văn.",
+      "Không có retention hay thử nghiệm nhân quả; số lượt xem không chứng minh hook tạo ra kết quả.",
+      "ASR nhận tên SHEIN thành Cien ở nhiều đoạn; tên đã đối chiếu chữ SHEIN trong khung 0 giây, không trích nguyên văn ASR lỗi.",
+      "Thứ hạng lớn nhất, lượng truy cập, số thị trường và chu kỳ ba ngày chưa được xác minh độc lập theo ngày và chỉ tiêu.",
+      "Cách nói về AI/không có nhà thiết kế trong phần giữa là cách đơn giản hóa của tác giả, chưa đủ mô tả toàn hệ thống; cuối clip lại nhắc thuê nhà thiết kế.",
+      "Cáo buộc sao chép, lao động, môi trường và kiện tụng là nội dung được clip nêu; không coi ảnh minh họa là bằng chứng xác thực từng cáo buộc.",
+      "Phần ESG là mô tả phản ứng theo tác giả, không xác nhận đã khắc phục tác động."
+    ],
+    "detail": {
+      "promise": "Giải thích vì sao một thương hiệu thời trang có thể phát triển nhanh và những vấn đề đi cùng mô hình đó.",
+      "centralQuestion": "Trong câu chuyện của tác giả, giá, tiếp thị và tốc độ vận hành đóng vai gì trong tăng trưởng SHEIN?",
+      "emotionalArc": [
+        {
+          "start": 0,
+          "end": 11.06,
+          "emotion": "Ngạc nhiên vì quy mô",
+          "evidence": "Đặt SHEIN cạnh các thương hiệu người xem có thể quen rồi nhá AI.",
+          "interpretation": "Tạo khoảng cách giữa nhận biết thương hiệu và kết quả được tuyên bố."
+        },
+        {
+          "start": 11.06,
+          "end": 38.82,
+          "emotion": "Muốn biết thương hiệu này làm gì",
+          "evidence": "Vai hỏi nêu Zara/H&M rồi phần giải thích thêm gốc tích và tầm hoạt động.",
+          "interpretation": "Đối thoại đại diện cho câu hỏi của người chưa biết."
+        },
+        {
+          "start": 38.82,
+          "end": 63.44,
+          "emotion": "Có cơ chế để hình dung",
+          "evidence": "Giá thấp, người ảnh hưởng, AI và chu kỳ ngắn được nối nhau.",
+          "interpretation": "Từ kết quả chuyển sang một chuỗi hoạt động; cảm giác hiểu là giả thuyết."
+        },
+        {
+          "start": 63.44,
+          "end": 87,
+          "emotion": "Lưỡng lự trước mặt trái",
+          "evidence": "Phần sau đưa kiện tụng, môi trường và lao động.",
+          "interpretation": "Đổi sắc thái từ thán phục sang xem xét đánh đổi."
+        },
+        {
+          "start": 87,
+          "end": 91.96,
+          "emotion": "Kết có điều kiện",
+          "evidence": "Nêu nhà thiết kế và ESG sau tranh cãi.",
+          "interpretation": "Cho biết có phản ứng nhưng không xác lập rằng vấn đề đã xong."
+        }
+      ],
+      "informationDesign": [
+        {
+          "start": 0,
+          "end": 11.06,
+          "move": "Cho kết quả và nhá một phần nguyên nhân.",
+          "reason": "Người xem biết bài sẽ giải thích sự tăng trưởng, không chỉ định nghĩa thương hiệu."
+        },
+        {
+          "start": 11.06,
+          "end": 38.82,
+          "move": "Dùng vai hỏi để đặt lại bối cảnh.",
+          "reason": "Tạo chỗ cho thông tin nhập môn mà vẫn có câu hỏi dẫn."
+        },
+        {
+          "start": 38.82,
+          "end": 63.44,
+          "move": "Tách nhu cầu/tiếp thị khỏi vận hành công nghệ.",
+          "reason": "Tránh chỉ có một nguyên nhân AI cho toàn câu chuyện, dù cần nguồn và độ chính xác hơn."
+        },
+        {
+          "start": 63.44,
+          "end": 87,
+          "move": "Đặt mặt trái sau khi cơ chế đã hiện.",
+          "reason": "Cho khán giả cân nhắc đánh đổi của chính mô hình vừa giải thích."
+        },
+        {
+          "start": 87,
+          "end": 91.96,
+          "move": "Kết bằng phản ứng thay vì phán quyết tuyệt đối.",
+          "reason": "Giữ một diễn biến tiếp nối, chưa chứng minh phản ứng có hiệu quả."
+        }
+      ],
+      "strengths": [
+        {
+          "point": "Có câu hỏi chuyển từ cái gì sang vì sao",
+          "evidence": "37,58–38,82 giây hỏi cách thương hiệu lớn lên nhanh sau phần quy mô."
+        },
+        {
+          "point": "Hình thay đúng nhóm ý",
+          "evidence": "55,25 giây đồ họa công nghệ; 69,07 giây ảnh thiết kế đối chiếu; 82,88 giây footage môi trường."
+        },
+        {
+          "point": "Vai hỏi có phân biệt thị giác",
+          "evidence": "13,81 giây áo xanh nhìn sang bên đối chiếu với vai áo đỏ mở bài."
+        },
+        {
+          "point": "Không chỉ ca ngợi tăng trưởng",
+          "evidence": "63,44–87 giây dành một phần đáng kể cho rủi ro và tranh cãi."
+        }
+      ],
+      "weaknesses": [
+        {
+          "point": "Siêu hạng không có định nghĩa trong bằng chứng đang xem",
+          "evidence": "0–5,74 giây nêu vị trí lớn nhất và vượt nhiều thương hiệu nhưng chưa thấy chỉ tiêu."
+        },
+        {
+          "point": "Nhá lời giải rồi quay lại từ đầu có thể trùng ý",
+          "evidence": "0–11,06 giây đã nói AI/tốc độ, 47,6–63,44 giây mới triển khai lại."
+        },
+        {
+          "point": "AI được kể quá gọn thành nguyên nhân",
+          "evidence": "47,6–58,82 giây nói không có nhà thiết kế, trong khi 87–91,96 giây lại nhắc thuê nhà thiết kế."
+        },
+        {
+          "point": "Footage tranh cãi dễ bị đọc như chứng cứ",
+          "evidence": "Ảnh so thiết kế và rác chỉ cho thấy cách minh họa; chưa đủ nguồn để kết luận từng cáo buộc."
+        }
+      ],
+      "shareabilityHypotheses": [
+        "So với các thương hiệu quen có thể tạo cuộc bàn luận về vì sao một tên ít được biết lại tăng trưởng; chưa có dữ liệu chia sẻ để xác nhận.",
+        "Mặt trái của giá rẻ có thể khiến clip được gửi cho người mua thời trang, nhưng không suy ra phản ứng thực tế từ lượt xem."
+      ],
+      "adaptationRules": [
+        "Định nghĩa thứ hạng bằng chỉ tiêu, thị trường và thời điểm có nguồn.",
+        "Cho vai hỏi nêu điều còn thiếu, tránh nhắc lại nguyên cả lời mở.",
+        "Mỗi tầng nguyên nhân cần một nguồn và giới hạn, không coi AI là lời giải duy nhất.",
+        "Gắn nhãn cáo buộc và nguồn liên quan; hình minh họa không thay kiểm chứng.",
+        "Kết về phản ứng cần phân biệt cam kết doanh nghiệp với hiệu quả đã đo."
+      ],
+      "mindmapBranches": [
+        {
+          "label": "Kết quả mở",
+          "children": [
+            "Quy mô được tuyên bố",
+            "So tên tuổi quen"
+          ]
+        },
+        {
+          "label": "Bối cảnh",
+          "children": [
+            "Nguồn gốc theo tác giả",
+            "Thị trường và người mua"
+          ]
+        },
+        {
+          "label": "Tăng trưởng",
+          "children": [
+            "Giá và tiếp thị",
+            "Theo dõi xu hướng",
+            "Tốc độ sản xuất"
+          ]
+        },
+        {
+          "label": "Mặt trái",
+          "children": [
+            "Sao chép và kiện tụng theo clip",
+            "Lao động và môi trường"
+          ]
+        },
+        {
+          "label": "Phản ứng",
+          "children": [
+            "Nhà thiết kế",
+            "ESG theo lời tác giả"
+          ]
+        },
+        {
+          "label": "Cần kiểm chứng",
+          "children": [
+            "Định nghĩa lớn nhất",
+            "Vai trò AI",
+            "Nguồn cáo buộc"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "7682350442730229013",
+    "title": "An cư có nhất thiết phải sở hữu nhà?",
+    "deliveryStyle": "Nói trực diện trước máy quay, biểu cảm và tay hỗ trợ lập luận; thay đổi cỡ cảnh, có khung quay nhà ở làm minh hoạ. Phụ đề trắng viền tối giữa thân người. Đuôi lời thoại chuyển sang quảng bá khoá học.",
+    "openingObservation": "Người nói tự đặt mình trong thế hệ tin rằng phải có nhà mới yên tâm lập nghiệp. Khung 0–3 giây thấy người áo hồng, nói thẳng vào máy, phụ đề chia thành cụm ngắn; chưa có đồ thị hay số liệu. Mở từ niềm tin mà chính người nói từng có trước khi đưa bài toán thu nhập và giá nhà.",
+    "visualEvidence": [
+      {
+        "time": 0,
+        "observation": "Người áo hồng ở trung cảnh, nhìn máy; phụ đề giới thiệu thế hệ 8X."
+      },
+      {
+        "time": 3,
+        "observation": "Biểu cảm nhíu mày và hai tay nâng, phụ đề tiếp ý về một điều phải có."
+      },
+      {
+        "time": 63.47,
+        "observation": "Đổi sang góc gần cửa sổ, người nói đưa tay; phụ đề hỏi lao động thế nào."
+      },
+      {
+        "time": 126.93,
+        "observation": "Trở lại nền tối, nụ cười căng và phụ đề nói về sở hữu căn nhà."
+      },
+      {
+        "time": 253.86,
+        "observation": "Khung nội thất căn hộ, có trần đèn và đồ đạc; không còn toàn cảnh người nói."
+      },
+      {
+        "time": 317.33,
+        "observation": "Cận người nói, phụ đề nêu ví dụ chứng khoán."
+      },
+      {
+        "time": 380.79,
+        "observation": "Cận người nói với tay trước ngực; phụ đề nhấn nguyên tắc và chiến lược."
+      },
+      {
+        "time": 422.11,
+        "observation": "Khung cuối mẫu đen; không đủ căn cứ suy ra nội dung lời sau 418,78 giây."
+      }
+    ],
+    "beats": [
+      {
+        "start": 0,
+        "end": 68.8,
+        "summary": "Từ niềm tin phải có nhà đến bài toán tiết kiệm và giá nhà tăng.",
+        "role": "Dựng mâu thuẫn giữa mục tiêu quen thuộc và khả năng chi trả."
+      },
+      {
+        "start": 69.36,
+        "end": 151.84,
+        "summary": "Tách an cư khỏi sở hữu; thử cái giá của vay mua nhà.",
+        "role": "Đổi định nghĩa mục tiêu để mở một lối giải khác."
+      },
+      {
+        "start": 151.84,
+        "end": 237.24,
+        "summary": "Đề xuất thuê nghiêm túc và chọn chủ nhà cho thuê lâu dài.",
+        "role": "Chuyển phản biện thành các tiêu chí hành động."
+      },
+      {
+        "start": 237.24,
+        "end": 306.7,
+        "summary": "Chọn nơi ở theo từng giai đoạn; kể lựa chọn đi làm xa của bản thân.",
+        "role": "Cho lời khuyên một tình huống đánh đổi cụ thể."
+      },
+      {
+        "start": 306.7,
+        "end": 382.72,
+        "summary": "Bàn tiền dư và đầu tư; đón trước nghi ngờ quảng bá khoá học.",
+        "role": "Mở rộng sang quản lý tài chính và xử lý phản đối."
+      },
+      {
+        "start": 382.72,
+        "end": 407.6,
+        "summary": "Tóm lại trải nghiệm và mời chia sẻ khó khăn nhà ở.",
+        "role": "Đóng phần trao đổi cộng đồng."
+      },
+      {
+        "start": 407.6,
+        "end": 418.78,
+        "summary": "Giới thiệu khoá học tài chính như bước hướng tới mục tiêu gia đình.",
+        "role": "Đuôi quảng bá; cần phân biệt với lời giải về thuê và mua nhà."
+      }
+    ],
+    "ending": "Phần trao đổi khép bằng tổng kết và mời chia sẻ, sau đó có lời giới thiệu khoá Intelligence Money từ 407,6 đến 418,78 giây trong ASR. Đây là đuôi thương mại thật, không phải bằng chứng độc lập cho lời khuyên trước đó.",
+    "mechanism": "Tự nhận từng tin vào một chuẩn sống → đặt chuẩn ấy vào bài toán khả năng chi trả → đổi mục tiêu từ sở hữu sang chỗ ở ổn định → đưa lựa chọn thuê theo giai đoạn. Sự hấp dẫn nằm ở việc tháo một tiền đề gây áp lực; clip còn chuyển sang đầu tư và khoá học nên không nên rút thành công thức giáo dục thuần tuý.",
+    "transfer": "Học cách bắt đầu từ áp lực thực rồi kiểm tra lại định nghĩa mục tiêu. Khi ứng dụng, dùng giả định tính toán minh bạch, tách bài toán ở khỏi khuyến nghị đầu tư và ghi rõ quảng bá. Không sao chép số tăng giá hay lãi suất của mẫu như dữ kiện đã kiểm chứng.",
+    "limitations": [
+      "Đã đọc toàn bộ ASR có timestamp và xem 12 khung trích của cùng ID; chưa nghe toàn âm thanh hoặc xem video liên tục.",
+      "Không có retention, tỷ lệ xem hết hay thử nghiệm nhân quả; các nhận định giữ chân và chia sẻ là giả thuyết về cách trình bày.",
+      "Các số về giá nhà, thu nhập, lãi vay và dự phóng là phát biểu hoặc giả định của nguồn; phân tích này không kiểm chứng dữ liệu hay phép tính.",
+      "Đây là quan điểm và trải nghiệm cá nhân, không đủ để kết luận phương án thuê hay mua phù hợp mọi gia đình.",
+      "ASR lời kết dừng 418,78 giây; hình mẫu cuối 422,11 giây đen, không gán thêm nội dung cho khoảng sau đó."
+    ],
+    "detail": {
+      "promise": "Giảm bế tắc về chỗ ở bằng cách xem lại quan niệm phải sở hữu nhà rồi đưa lựa chọn thuê thực tế.",
+      "centralQuestion": "Điều cần ổn định là cuộc sống hay nhất thiết là quyền sở hữu một căn nhà?",
+      "emotionalArc": [
+        {
+          "start": 0,
+          "end": 68.8,
+          "emotion": "Áp lực và bế tắc",
+          "evidence": "Ví dụ thu nhập, tiết kiệm nhiều năm rồi giá nhà tiếp tục tăng.",
+          "interpretation": "Tình huống làm mục tiêu thông thường trở nên khó với một nhóm cụ thể."
+        },
+        {
+          "start": 69.36,
+          "end": 151.84,
+          "emotion": "Có lối nghĩ khác",
+          "evidence": "Người nói tách ổn định chỗ ở khỏi sở hữu và nêu sức ép của khoản vay.",
+          "interpretation": "Cảm giác giải toả được gợi bởi đổi tiêu chí, chưa phải kết quả tài chính được đo."
+        },
+        {
+          "start": 151.84,
+          "end": 306.7,
+          "emotion": "Khả năng chủ động",
+          "evidence": "Ba cụm lời khuyên thuê và chuyện tự chấp nhận đi xa.",
+          "interpretation": "Những đánh đổi cụ thể có thể giúp người xem hình dung lựa chọn."
+        },
+        {
+          "start": 306.7,
+          "end": 382.72,
+          "emotion": "Đề phòng phản đối",
+          "evidence": "Lời bàn đầu tư nối sang phản hồi nghi ngờ bán khoá học.",
+          "interpretation": "Sự chuyển chủ đề có thể kéo người quan tâm tài chính, cũng có thể làm giảm tin cậy."
+        },
+        {
+          "start": 382.72,
+          "end": 418.78,
+          "emotion": "Đồng cảm rồi chào bán",
+          "evidence": "Mời kể trải nghiệm trước lời giới thiệu khoá học.",
+          "interpretation": "Cần đọc cả hai chức năng cộng đồng và thương mại của phần kết."
+        }
+      ],
+      "informationDesign": [
+        {
+          "start": 0,
+          "end": 68.8,
+          "move": "Định lượng khó khăn",
+          "reason": "Tạo khoảng cách giữa niềm tin và nguồn lực trước khi đề nghị thay đổi."
+        },
+        {
+          "start": 69.36,
+          "end": 151.84,
+          "move": "Định nghĩa lại đích đến",
+          "reason": "Giải bài toán bằng thay điều kiện sở hữu, không chỉ tăng thu nhập."
+        },
+        {
+          "start": 151.84,
+          "end": 306.7,
+          "move": "Tiêu chí và trải nghiệm",
+          "reason": "Biến hướng nghĩ thành lựa chọn đồ đạc, chủ nhà, vị trí theo giai đoạn."
+        },
+        {
+          "start": 306.7,
+          "end": 382.72,
+          "move": "Mở rộng và đón phản đối",
+          "reason": "Thừa nhận câu hỏi về động cơ thương mại thay vì chỉ thêm lời khuyên."
+        },
+        {
+          "start": 382.72,
+          "end": 418.78,
+          "move": "Hai chức năng kết",
+          "reason": "Tách lời mời bình luận với giới thiệu sản phẩm để đọc đúng cấu trúc."
+        }
+      ],
+      "strengths": [
+        {
+          "point": "Người nói cũng nằm trong niềm tin bị xét lại",
+          "evidence": "0–13,4 giây đặt bản thân vào thế hệ và đưa câu hỏi của một cặp vợ chồng."
+        },
+        {
+          "point": "Đáp án thay tiêu chí, không chỉ phủ định",
+          "evidence": "69,36–151,84 giây định nghĩa chỗ ở ổn định rồi đối chiếu áp lực khoản vay."
+        },
+        {
+          "point": "Có ví dụ đánh đổi có giới hạn",
+          "evidence": "288,48–306,7 giây kể thời gian đi làm để đổi lấy môi trường cho con."
+        }
+      ],
+      "weaknesses": [
+        {
+          "point": "Số liệu mở đầu dễ bị coi là kết luận phổ quát",
+          "evidence": "34,94–68,8 giây đi từ tỷ lệ tăng giá quá khứ sang giả định và lãi vay; nguồn và điều kiện chưa được làm rõ trong ASR."
+        },
+        {
+          "point": "Lời giải chính đến khá muộn",
+          "evidence": "Đến 69,36 giây mới bắt đầu đổi nghĩa an cư; chưa có retention để khẳng định ảnh hưởng."
+        },
+        {
+          "point": "Đuôi đổi mục tiêu",
+          "evidence": "306,7 giây trở đi mở sang đầu tư; 407,6 giây bắt đầu quảng bá khoá học."
+        }
+      ],
+      "shareabilityHypotheses": [
+        "Bài toán nhà ở có thể được gửi giữa các cặp đôi đang bàn mua hay thuê; đây là khả năng từ chủ đề, không phải dữ liệu chia sẻ.",
+        "Việc người nói xét lại chính niềm tin cũ có thể khuyến khích người xem kể trải nghiệm tương tự."
+      ],
+      "adaptationRules": [
+        "Nêu rõ ai đang gặp bài toán và nguồn lực của họ.",
+        "Chỉ dùng phép tính có đủ giả định, mốc thời gian và nguồn.",
+        "Thử sửa định nghĩa mục tiêu trước khi nêu cách giải.",
+        "Lời khuyên phải có điều kiện và đánh đổi; tách khỏi lời khuyên đầu tư.",
+        "Giữ lời mời thảo luận và nội dung quảng bá thành hai nhịp nhận diện được."
+      ],
+      "mindmapBranches": [
+        {
+          "label": "Niềm tin và phép thử · 0–68,8s",
+          "children": [
+            "Phải có nhà mới yên tâm",
+            "Thu nhập và giá nhà tạo bế tắc"
+          ]
+        },
+        {
+          "label": "Đổi tiêu chí · 69,36–151,84s",
+          "children": [
+            "An cư là chỗ ở ổn định",
+            "Sở hữu có thể kèm áp lực"
+          ]
+        },
+        {
+          "label": "Thuê nghiêm túc · 151,84–237,24s",
+          "children": [
+            "Đồ đạc, chuyển nhà",
+            "Tiêu chí chọn chủ nhà"
+          ]
+        },
+        {
+          "label": "Theo giai đoạn · 237,24–306,7s",
+          "children": [
+            "Vị trí và diện tích thay đổi",
+            "Ví dụ đánh đổi quãng đường"
+          ]
+        },
+        {
+          "label": "Mở rộng tài chính · 306,7–382,72s",
+          "children": [
+            "Tiền dư và đầu tư",
+            "Đón trước nghi ngờ quảng bá"
+          ]
+        },
+        {
+          "label": "Kết và quảng bá · 382,72–418,78s",
+          "children": [
+            "Mời chia sẻ trải nghiệm",
+            "Giới thiệu khoá học"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "7707191277405736193",
+    "title": "Chậm hơn hình dung không đồng nghĩa trễ cuộc đời",
+    "deliveryStyle": "Nói trực diện với phụ đề ngắn, thay cỡ cảnh trung và cận; nhấn màu vàng ở một số cụm so sánh. Đuôi chuyển sang minh hoạ hoạt hình và nhãn INTELLIGENT MONEY.",
+    "openingObservation": "Khung đầu đen; từ 1 giây thấy người mặc áo đỏ sẫm. ASR mở bằng đối chiếu tuổi trở thành triệu phú với tuổi 21, rồi tuổi mua căn nhà đầu với 23. Hình 5 và 8,38 giây nhấn chữ vàng ở hai phía đối chiếu; hook dùng chuẩn tuổi được điều chỉnh để gỡ cảm giác thua kém.",
+    "visualEvidence": [
+      {
+        "time": 0,
+        "observation": "Khung đen ở thời điểm mẫu 0 giây."
+      },
+      {
+        "time": 2,
+        "observation": "Người nói ở trung cảnh, phụ đề trắng đề cập tuổi trung bình thành triệu phú."
+      },
+      {
+        "time": 5,
+        "observation": "Cận người nói, một ngón tay đưa lên; phụ đề vàng nhấn vế không phải 21."
+      },
+      {
+        "time": 8.38,
+        "observation": "Phụ đề vàng nhấn tuổi 38; nền và người nói không đổi."
+      },
+      {
+        "time": 16.75,
+        "observation": "Trung cảnh và phụ đề trắng về những năm tuổi 20."
+      },
+      {
+        "time": 25.13,
+        "observation": "Cận người nói, phụ đề trấn an rằng người xem không hề muộn."
+      },
+      {
+        "time": 41.88,
+        "observation": "Minh hoạ hoạt hình chi tiêu và số dư, khác hẳn phần người nói."
+      },
+      {
+        "time": 50.26,
+        "observation": "Khung hoạt hình có nhãn INTELLIGENT MONEY; chứng cứ hình cho đuôi quảng bá, không xác nhận lời CTA."
+      }
+    ],
+    "beats": [
+      {
+        "start": 0,
+        "end": 9.86,
+        "summary": "Đối chiếu tuổi thành triệu phú và mua nhà với kỳ vọng quá sớm.",
+        "role": "Dùng chênh lệch chuẩn tuổi để phản bác cảm giác chậm."
+      },
+      {
+        "start": 9.86,
+        "end": 15.14,
+        "summary": "Mở rộng phép so sang thời gian gây dựng doanh nghiệp.",
+        "role": "Cho thấy cùng một cách nhìn ở mục tiêu khác."
+      },
+      {
+        "start": 15.86,
+        "end": 23.56,
+        "summary": "Đặt tuổi 20 vào giai đoạn thử sai và học hỏi.",
+        "role": "Thay tiêu chuẩn hoàn thiện bằng chức năng của giai đoạn."
+      },
+      {
+        "start": 23.56,
+        "end": 29.36,
+        "summary": "Trấn an về nhịp đi và nhắc bình tĩnh sống.",
+        "role": "Khép thông điệp động viên."
+      },
+      {
+        "start": 29.36,
+        "end": 54.84,
+        "summary": "Đuôi có minh hoạ tiền và thương hiệu khoá học; lời chưa xác minh.",
+        "role": "Ghi nhận chuyển sang quảng bá qua ảnh, không dùng ASR lỗi để suy ra nội dung."
+      }
+    ],
+    "ending": "Thông điệp trấn an khép ở 29,36 giây theo phần ASR có căn cứ. Sau đó các ảnh 41,88 và 50,26 giây cho thấy minh hoạ chi tiêu và INTELLIGENT MONEY, tức có đuôi quảng bá bằng hình. Không xác nhận được lời nói của đuôi.",
+    "mechanism": "Đưa một mốc so sánh bị kỳ vọng quá sớm → thay mốc → mở rộng qua vài thành tựu → trả tuổi trẻ về giai đoạn học hỏi → trấn an. Đây là cơ chế điều chỉnh chuẩn so sánh, không chứng minh các tuổi trung bình nêu ra đúng với người xem Việt Nam.",
+    "transfer": "Có thể học cấu trúc ba vế: điều bị thúc phải đạt, chuẩn có nguồn phù hợp, rồi một cách nhìn giúp hành động. Nếu không có dữ liệu tốt, tránh dùng con số trung bình làm uy tín; thay bằng trường hợp có giới hạn và nêu rõ đối tượng.",
+    "limitations": [
+      "Đã đọc toàn bộ ASR có timestamp và xem 12 khung trích của cùng ID; chưa nghe toàn âm thanh hoặc xem video liên tục.",
+      "Không có retention, tỷ lệ xem hết hay thử nghiệm nhân quả; các nhận định giữ chân và chia sẻ là giả thuyết về cách trình bày.",
+      "Segment ASR 29,36–51,86 giây nhận thành câu subscribe La La School, không khớp bằng chứng hình đã xem; coi là nhận dạng không đáng tin và không dùng làm CTA thật.",
+      "Các tuổi trung bình 57 và 38 không có nguồn, địa bàn hoặc nhóm dân số trong phần ASR; không thể xem là chuẩn tài chính Việt Nam.",
+      "Đuôi quảng bá được xác nhận qua ảnh, nội dung lời và mốc bắt đầu chính xác chưa xác minh."
+    ],
+    "detail": {
+      "promise": "Gỡ cảm giác tụt lại bằng việc xem lại thời hạn tưởng tượng cho thành tựu.",
+      "centralQuestion": "Bạn thực sự trễ hay đang dùng một mốc thành công quá sớm để tự đánh giá?",
+      "emotionalArc": [
+        {
+          "start": 0,
+          "end": 9.86,
+          "emotion": "Ngạc nhiên với chuẩn tuổi",
+          "evidence": "Hai phép đối chiếu thành tựu và tuổi được đưa ngay mở.",
+          "interpretation": "Chênh lệch số gợi một lời phản biện với áp lực, nhưng chất lượng dữ kiện còn thiếu."
+        },
+        {
+          "start": 9.86,
+          "end": 23.56,
+          "emotion": "Cách hiểu bớt khắt khe",
+          "evidence": "Từ doanh nghiệp nhiều năm sang tuổi 20 để học và thử sai.",
+          "interpretation": "Mở rộng lập luận trước khi cá nhân hoá lời trấn an."
+        },
+        {
+          "start": 23.56,
+          "end": 29.36,
+          "emotion": "Được trấn an",
+          "evidence": "Lời kết nhấn nhịp riêng và bình tĩnh.",
+          "interpretation": "Đây là cảm xúc mà câu chữ hướng tới, không phải phản ứng người xem đã đo."
+        },
+        {
+          "start": 29.36,
+          "end": 54.84,
+          "emotion": "Chuyển ngữ cảnh thương mại",
+          "evidence": "Khung 41,88 và 50,26 giây là minh hoạ tài chính và thương hiệu.",
+          "interpretation": "Không suy ra được diễn biến cảm xúc qua phần lời ASR hỏng."
+        }
+      ],
+      "informationDesign": [
+        {
+          "start": 0,
+          "end": 9.86,
+          "move": "Cặp số tương phản",
+          "reason": "Làm chênh lệch chuẩn nhìn thấy qua phụ đề nhấn màu."
+        },
+        {
+          "start": 9.86,
+          "end": 15.14,
+          "move": "Thêm một lĩnh vực",
+          "reason": "Cho luận điểm phạm vi rộng hơn chuyện tuổi mua nhà."
+        },
+        {
+          "start": 15.86,
+          "end": 29.36,
+          "move": "Đổi thước đo rồi trấn an",
+          "reason": "Không dừng ở việc bảo người xem đừng lo; đưa chức năng học hỏi cho tuổi trẻ."
+        },
+        {
+          "start": 29.36,
+          "end": 54.84,
+          "move": "Đuôi minh hoạ thương hiệu",
+          "reason": "Cần phân biệt cơ chế nội dung với mục tiêu quảng bá và vùng thiếu lời đáng tin."
+        }
+      ],
+      "strengths": [
+        {
+          "point": "Phép so nhận ra nhanh",
+          "evidence": "0–9,86 giây chỉ dùng tuổi và thành tựu; khung 5 và 8,38 giây nhấn vế so sánh màu vàng."
+        },
+        {
+          "point": "Có ý kết rõ trước đuôi thương mại",
+          "evidence": "23,56–29,36 giây trả lại thông điệp nhịp đi cá nhân."
+        }
+      ],
+      "weaknesses": [
+        {
+          "point": "Mốc tuổi thiếu bối cảnh",
+          "evidence": "0–9,86 giây không có nguồn hay địa bàn cho hai số trung bình trong ASR."
+        },
+        {
+          "point": "Phần đuôi không thể phân tích lời chính xác",
+          "evidence": "ASR 29,36–51,86 giây đáng ngờ; chỉ có bằng chứng hình cho quảng bá."
+        },
+        {
+          "point": "Giải toả chưa chuyển thành kế hoạch",
+          "evidence": "Phần có lời đáng tin không đưa hành động cụ thể để xử lý khó khăn tài chính."
+        }
+      ],
+      "shareabilityHypotheses": [
+        "Người trẻ có thể gửi lời trấn an ngắn cho bạn bè đang so sánh tiến độ; chưa có số liệu xác nhận.",
+        "Cặp số ngắn dễ được nhớ hoặc trích lại, cũng làm nguy cơ lan số thiếu nguồn cao hơn."
+      ],
+      "adaptationRules": [
+        "Kiểm tra nguồn, năm và dân số của mọi số trung bình.",
+        "Không áp mốc thành tựu nước ngoài lên khán giả Việt Nam.",
+        "Sau trấn an, thêm một hành động nhỏ phù hợp tình huống nếu mục tiêu là giáo dục.",
+        "Đánh dấu và bỏ ASR lỗi thay vì biến thành CTA.",
+        "Nhận diện đuôi quảng bá bằng bằng chứng quan sát được."
+      ],
+      "mindmapBranches": [
+        {
+          "label": "So chuẩn tuổi · 0–9,86s",
+          "children": [
+            "Hai thành tựu quen thuộc",
+            "Hai vế tuổi tương phản"
+          ]
+        },
+        {
+          "label": "Mở rộng · 9,86–15,14s",
+          "children": [
+            "Doanh nghiệp cần nhiều năm",
+            "Cùng cơ chế ở mục tiêu khác"
+          ]
+        },
+        {
+          "label": "Đổi thước đo · 15,86–23,56s",
+          "children": [
+            "Tuổi 20 để học và thử",
+            "Chưa cần hoàn thiện"
+          ]
+        },
+        {
+          "label": "Trấn an · 23,56–29,36s",
+          "children": [
+            "Nhịp đi cá nhân",
+            "Đóng thông điệp chính"
+          ]
+        },
+        {
+          "label": "Đuôi thương mại · sau 29,36s",
+          "children": [
+            "Ảnh hoạt hình và thương hiệu",
+            "ASR lỗi, không suy ra lời"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "7707502256387542293",
+    "title": "Hoa hồng mở tài khoản: từ tiền nhỏ đến rủi ro dữ liệu",
+    "deliveryStyle": "Phóng sự truyền hình được đặt trong khung TikTok đỏ, tiêu đề cảnh báo cố định dưới hình. Bên trên luân phiên người dùng điện thoại, nhân chứng, màn hình và chuyên gia; có nhãn bản tin và ngày đăng trên khung.",
+    "openingObservation": "ASR mở bằng khoản hoa hồng nhỏ cho mỗi tài khoản và lợi ích khi mở nhiều. Trong khi lời dựng sức hút kiếm thêm, hình 0–5 giây đặt một người trẻ dùng điện thoại trên phố và phần tiêu đề cố định đã nói rõ nguy cơ. Vì vậy đây là tương phản lời mời với cảnh báo có sẵn, không phải cú twist giấu hoàn toàn hiểm hoạ.",
+    "visualEvidence": [
+      {
+        "time": 0,
+        "observation": "Người trẻ đứng trên phố dùng điện thoại; dưới khung tin là tiêu đề cảnh báo về mở tài khoản nhận hoa hồng."
+      },
+      {
+        "time": 5,
+        "observation": "Cận màn hình điện thoại, khung đỏ và tiêu đề giữ nguyên."
+      },
+      {
+        "time": 23.2,
+        "observation": "Phỏng vấn một người trẻ ngoài đường; có thanh tên của bản tin."
+      },
+      {
+        "time": 46.4,
+        "observation": "Khung trong phòng với rèm, tương ứng đoạn ASR mô tả lời mời mở tài khoản; ảnh riêng không chứng minh danh tính người mời."
+      },
+      {
+        "time": 69.6,
+        "observation": "Cận tay cầm điện thoại, một phần nội dung màn hình được làm mờ."
+      },
+      {
+        "time": 92.8,
+        "observation": "Một người được phỏng vấn ở bối cảnh ngoài trời, trang phục áo vest."
+      },
+      {
+        "time": 116,
+        "observation": "Người được phỏng vấn trước tủ kệ trong phòng, khác nhân vật trước."
+      },
+      {
+        "time": 139.2,
+        "observation": "Bối cảnh phòng làm việc với nhiều màn hình và nhân sự; minh hoạ phần khuyến cáo."
+      }
+    ],
+    "beats": [
+      {
+        "start": 0,
+        "end": 10.4,
+        "summary": "Giới thiệu khoản hoa hồng và sức hút với người trẻ kiếm thêm.",
+        "role": "Cho thấy vì sao lời mời đáng chú ý trước khi phân tích rủi ro."
+      },
+      {
+        "start": 11,
+        "end": 29.68,
+        "summary": "Nhân chứng kể lời mời và cảnh báo từ người quen.",
+        "role": "Đặt vấn đề trong tình huống người thật thay vì chỉ giảng giải."
+      },
+      {
+        "start": 30.78,
+        "end": 59.34,
+        "summary": "Mô tả nhóm tuyển, giả danh chỉ tiêu ngân hàng và lời trấn an.",
+        "role": "Làm rõ hình thức thuyết phục; không coi lời tự xưng là xác thực."
+      },
+      {
+        "start": 60.36,
+        "end": 69.98,
+        "summary": "Chuyên gia chuyển trọng tâm từ hoa hồng sang nguy cơ bị lợi dụng.",
+        "role": "Đổi ý nghĩa của việc cho người khác sử dụng tài khoản."
+      },
+      {
+        "start": 76.78,
+        "end": 136.3,
+        "summary": "Mở rộng sang ứng dụng lạ, dữ liệu và thông tin nhạy cảm.",
+        "role": "Giải thích các lớp hậu quả được nguồn cảnh báo."
+      },
+      {
+        "start": 137.98,
+        "end": 153.54,
+        "summary": "Nêu cách xác minh và liên hệ ngân hàng nếu đã bàn giao.",
+        "role": "Kết bằng hành động cho cả người chưa làm và đã làm."
+      }
+    ],
+    "ending": "Khuyến cáo được chia thành kiểm tra trực tiếp với ngân hàng, giữ thông tin bảo mật và liên hệ ngân hàng khi đã giao tài khoản. Phần kết đưa một lối xử lý cụ thể thay cho chỉ để lại nỗi sợ; đây là khuyến cáo của phóng sự, không phải tư vấn pháp lý độc lập.",
+    "mechanism": "Lợi ích nhỏ dễ nhận → tình huống người trẻ → lời mời có vẻ hợp lệ → chuyên gia giải thích cái giá ẩn → hành động phòng ngừa và xử lý. Khung chữ cảnh báo lộ ngay đầu nên cơ chế là minh hoạ và giải thích lời cảnh báo, không phải đánh lừa người xem bằng một bất ngờ muộn.",
+    "transfer": "Học cách mở bằng động cơ khiến một người có thể đồng ý, rồi chỉ ra điều kiện bị bỏ sót và kết bằng đường xử lý. Với chủ đề khác, phối nhân chứng, mô tả lời mời và chuyên gia theo vai bằng chứng; không dùng danh xưng hay nhạc tin tức để thay kiểm chứng.",
+    "limitations": [
+      "Đã đọc toàn bộ ASR có timestamp và xem 12 khung trích của cùng ID; chưa nghe toàn âm thanh hoặc xem video liên tục.",
+      "Không có retention, tỷ lệ xem hết hay thử nghiệm nhân quả; các nhận định giữ chân và chia sẻ là giả thuyết về cách trình bày.",
+      "Phân tích cách trình bày của phóng sự, không xác minh danh tính người tuyển hay việc tài khoản cụ thể được dùng để phạm tội.",
+      "Các rủi ro kỹ thuật và pháp lý được tường thuật theo nguồn, không được kiểm tra độc lập ở đây.",
+      "Một số segment ASR dài nhiều giây; beats là cụm chủ đề có căn cứ, không phải bản đo từng câu hay từng điểm cắt."
+    ],
+    "detail": {
+      "promise": "Giúp nhận ra điều kiện ẩn và rủi ro sau lời mời mở tài khoản nhận tiền.",
+      "centralQuestion": "Vì sao một việc được chào là mở tài khoản lấy hoa hồng có thể khiến người mở chịu hậu quả?",
+      "emotionalArc": [
+        {
+          "start": 0,
+          "end": 10.4,
+          "emotion": "Nhận ra sức hút",
+          "evidence": "Khoản tiền nhỏ và cơ chế nhiều tài khoản được đưa trước.",
+          "interpretation": "Đặt người xem vào động cơ kiếm thêm, dù tiêu đề đã cảnh báo."
+        },
+        {
+          "start": 11,
+          "end": 59.34,
+          "emotion": "Nghi ngờ tăng dần",
+          "evidence": "Nhân chứng và lời mời tự xưng nhân viên ngân hàng nối nhau.",
+          "interpretation": "Cụ thể hoá cách một đề nghị được làm có vẻ bình thường."
+        },
+        {
+          "start": 60.36,
+          "end": 136.3,
+          "emotion": "Thấy hệ quả lớn hơn",
+          "evidence": "Nguồn chuyên gia nói đến sử dụng tài khoản, ứng dụng và dữ liệu.",
+          "interpretation": "Chuyển từ khoản lợi nhỏ sang những thứ người tham gia có thể mất."
+        },
+        {
+          "start": 137.98,
+          "end": 153.54,
+          "emotion": "Có hướng xử lý",
+          "evidence": "Khuyến cáo xác minh và liên hệ ngân hàng.",
+          "interpretation": "Phần kết hướng cảm giác lo lắng vào hành động thay vì tăng đe doạ."
+        }
+      ],
+      "informationDesign": [
+        {
+          "start": 0,
+          "end": 29.68,
+          "move": "Động cơ rồi nhân chứng",
+          "reason": "Giúp tình huống có người và lợi ích cụ thể."
+        },
+        {
+          "start": 30.78,
+          "end": 59.34,
+          "move": "Tái hiện logic lời mời",
+          "reason": "Cho thấy các lời trấn an cần bị xem xét, không chỉ gắn nhãn đáng ngờ."
+        },
+        {
+          "start": 60.36,
+          "end": 136.3,
+          "move": "Chuyên gia phân lớp rủi ro",
+          "reason": "Tách tài khoản, ứng dụng và dữ liệu thành các đường hậu quả."
+        },
+        {
+          "start": 137.98,
+          "end": 153.54,
+          "move": "Đóng bằng hai trạng thái",
+          "reason": "Người chưa tham gia và đã bàn giao đều có điểm hành động."
+        }
+      ],
+      "strengths": [
+        {
+          "point": "Lời mời được giải thích trước khi phán xét",
+          "evidence": "0–10,4 giây cho thấy động cơ kiếm thêm của nhóm người trẻ."
+        },
+        {
+          "point": "Có thay đổi vai bằng chứng",
+          "evidence": "11–29,68 giây là lời người được phỏng vấn; 60,36–136,3 giây chuyển sang giải thích chuyên gia."
+        },
+        {
+          "point": "Kết trả lời câu phải làm gì",
+          "evidence": "137,98–153,54 giây có bước xác minh và liên hệ ngân hàng."
+        }
+      ],
+      "weaknesses": [
+        {
+          "point": "Tiêu đề và phần lời chia sự chú ý",
+          "evidence": "Các ảnh cho thấy hình bản tin nằm nửa trên, khối cảnh báo lớn lặp suốt phía dưới; chưa đo mức đọc hiểu."
+        },
+        {
+          "point": "Khối chuyên gia dài",
+          "evidence": "76,78–136,3 giây tập trung thêm nhiều rủi ro; không có retention để đánh giá hiệu quả từng lớp."
+        },
+        {
+          "point": "Nguy cơ đồng nhất các tình huống",
+          "evidence": "Khuyến cáo chung không chứng minh mọi lời mời mở tài khoản đều là cùng một hành vi sai phạm."
+        }
+      ],
+      "shareabilityHypotheses": [
+        "Cảnh báo có tình huống cụ thể và bước xử lý có thể được gửi cho người đang kiếm việc thêm.",
+        "Người từng gặp lời mời tương tự có thể dùng clip làm điểm mở cuộc trao đổi; chưa đo chia sẻ thực."
+      ],
+      "adaptationRules": [
+        "Nêu cả sức hút lẫn điều kiện ẩn của đề nghị.",
+        "Phân biệt lời tự xưng, lời nhân chứng và đánh giá chuyên gia.",
+        "Không quy kết một cá nhân khi chỉ có dấu hiệu hoặc lời kể.",
+        "Chỉ mô tả thao tác ở mức nhận diện rủi ro, không biến thành hướng dẫn thực hiện.",
+        "Kết bằng bước có nguồn cho cả phòng ngừa và xử lý."
+      ],
+      "mindmapBranches": [
+        {
+          "label": "Lợi ích · 0–10,4s",
+          "children": [
+            "Hoa hồng nhỏ",
+            "Người trẻ kiếm thêm"
+          ]
+        },
+        {
+          "label": "Nhân chứng · 11–29,68s",
+          "children": [
+            "Từng gặp lời mời",
+            "Có người cảnh báo"
+          ]
+        },
+        {
+          "label": "Lời trấn an · 30,78–59,34s",
+          "children": [
+            "Tự xưng làm chỉ tiêu",
+            "Làm đề nghị có vẻ hợp lệ"
+          ]
+        },
+        {
+          "label": "Cái giá ẩn · 60,36–136,3s",
+          "children": [
+            "Tài khoản bị lợi dụng theo nguồn",
+            "Ứng dụng và dữ liệu"
+          ]
+        },
+        {
+          "label": "Hành động · 137,98–153,54s",
+          "children": [
+            "Xác minh trực tiếp",
+            "Liên hệ ngân hàng nếu đã giao"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "7708021147719290133",
+    "title": "Vay qua iCloud: tiện lợi ban đầu và quyền kiểm soát bị trao đi",
+    "deliveryStyle": "MC truyền hình giải thích cạnh màn hình lớn, xen tư liệu điện thoại, đồ hoạ luồng thiết bị–đám mây–máy chủ và minh hoạ hoạt hình. Khung TikTok đỏ giữ tiêu đề cố định; có nhiều cỡ cảnh studio.",
+    "openingObservation": "ASR liệt kê những trở ngại được bỏ qua khi vay: giấy tờ, thế chấp, gặp mặt, kiểm tra tín dụng, rồi thời gian giải ngân ngắn. Trong hình 0–5 giây MC đứng ở studio kiểm chứng và tiêu đề dưới hình đã báo về cạm bẫy iCloud. Hook đặt tiện lợi cạnh nguy cơ hiện diện bằng chữ, sau đó hứa giải thích cơ chế.",
+    "visualEvidence": [
+      {
+        "time": 0,
+        "observation": "MC áo hồng ở studio với bộ chữ chương trình kiểm chứng, dưới là tiêu đề về vay tiền qua iCloud."
+      },
+      {
+        "time": 3,
+        "observation": "MC ở cỡ gần hơn với một tay đưa trước ngực; khối cảnh báo phía dưới giữ nguyên."
+      },
+      {
+        "time": 43.59,
+        "observation": "MC đứng cạnh màn hình có các mẫu quảng cáo vay và một dấu hỏi lớn."
+      },
+      {
+        "time": 87.18,
+        "observation": "Màn hình lớn hiển thị iPhone, iCloud và máy chủ nối thành sơ đồ; MC quay sang đồ hoạ."
+      },
+      {
+        "time": 130.78,
+        "observation": "Màn hình có ảnh điện thoại và nội dung nhắn, MC đứng bên cạnh."
+      },
+      {
+        "time": 174.37,
+        "observation": "Khung tay dùng điện thoại, người phía trước được làm mờ."
+      },
+      {
+        "time": 217.96,
+        "observation": "Cận điện thoại có trạng thái liên quan khoá thiết bị, đặt trên nền studio."
+      },
+      {
+        "time": 261.55,
+        "observation": "Hình hoạt hoạ một người đưa điện thoại qua bàn; chất liệu khác tư liệu trước."
+      },
+      {
+        "time": 289.61,
+        "observation": "Toàn cảnh studio và màn hình chương trình ở đuôi, không thêm lời được ASR xác nhận."
+      }
+    ],
+    "beats": [
+      {
+        "start": 0,
+        "end": 21.98,
+        "summary": "Liệt kê tiện lợi rồi đặt lại thành vấn đề cần kiểm chứng.",
+        "role": "Dựng chênh lệch giữa lời chào và điều kiện thật cần tìm hiểu."
+      },
+      {
+        "start": 22.86,
+        "end": 59,
+        "summary": "Cho xem dạng quảng cáo và hỏi chuyện gì xảy ra sau liên hệ.",
+        "role": "Chuyển từ lời hứa chung sang chuỗi sự việc."
+      },
+      {
+        "start": 59.88,
+        "end": 105.06,
+        "summary": "Giải thích việc giao quyền tài khoản đám mây bằng sơ đồ và phép so.",
+        "role": "Đưa cơ chế kiểm soát thiết bị, dữ liệu thành phần trung tâm."
+      },
+      {
+        "start": 107.8,
+        "end": 164.38,
+        "summary": "Nối đánh giá nguồn chuyên môn với phí, khoản thực nhận và đe doạ.",
+        "role": "Xếp các hậu quả thành chuỗi từ quyền truy cập tới áp lực tiền."
+      },
+      {
+        "start": 167.08,
+        "end": 189.38,
+        "summary": "Đưa trường hợp được kể về chi phí và đe doạ khoá máy.",
+        "role": "Cho hệ quả một lời kể; đoạn ASR chi phí có lặp nên không dùng làm phép tính."
+      },
+      {
+        "start": 193.34,
+        "end": 236.2,
+        "summary": "MC nhắc cách phòng tránh, xen nhận định pháp lý được dẫn nguồn.",
+        "role": "Tách thông điệp ứng xử khỏi giải thích kỹ thuật."
+      },
+      {
+        "start": 241.88,
+        "end": 283.88,
+        "summary": "Nêu xử lý nếu đã mắc, quay lại cảnh báo về vẻ dễ vay rồi chào kết.",
+        "role": "Đóng vòng lời mời ban đầu và đưa đường hành động."
+      }
+    ],
+    "ending": "Đuôi phân biệt phòng ngừa với trường hợp đã gặp rủi ro, khuyên lưu bằng chứng và báo cơ quan có thẩm quyền theo phóng sự. Sau đó quay lại đối chiếu vẻ dễ vay với nguy cơ mất quyền kiểm soát, rồi MC chào kết. Không gọi đây là kết luận pháp lý cho bất kỳ vụ cụ thể nào.",
+    "mechanism": "Loại bỏ hàng loạt trở ngại vay trong lời chào → hỏi cái giá bị giấu → dùng sơ đồ giải thích quyền truy cập → đưa hậu quả và lời kể → hướng xử lý → nhắc lại lời chào dưới nghĩa mới. Hook được hỗ trợ bởi một cơ chế giải thích cụ thể, thay vì chỉ gắn nhãn nguy hiểm.",
+    "transfer": "Học cách bóc tách một dịch vụ quá thuận tiện bằng câu hỏi người dùng phải trao quyền gì, minh hoạ chuỗi quyền–hệ quả và trở lại lời mở để đóng bài. Mọi nhận định kỹ thuật, lãi suất, pháp lý phải có nguồn riêng phù hợp thời điểm; không lấy video mẫu làm xác nhận độc lập.",
+    "limitations": [
+      "Đã đọc toàn bộ ASR có timestamp và xem 12 khung trích của cùng ID; chưa nghe toàn âm thanh hoặc xem video liên tục.",
+      "Không có retention, tỷ lệ xem hết hay thử nghiệm nhân quả; các nhận định giữ chân và chia sẻ là giả thuyết về cách trình bày.",
+      "Đây là phân tích cấu trúc phóng sự, không xác nhận cáo buộc, tình trạng vi phạm hay kết luận pháp lý đối với các bên trong nguồn.",
+      "ASR 167,08–180,4 giây có lặp nội dung về chi phí và quy đổi; không dùng nó để xác minh con số lãi suất hoặc tái tạo phép tính.",
+      "Các phát biểu về khả năng kiểm soát iCloud, đồng bộ và dữ liệu là mô tả của nguồn, chưa được kiểm chứng kỹ thuật độc lập.",
+      "ASR chào kết dừng 283,88 giây; khung studio cuối 289,61 giây chỉ hỗ trợ mô tả hình đuôi."
+    ],
+    "detail": {
+      "promise": "Làm rõ cái giá ẩn của một lời mời vay nhanh thông qua quyền kiểm soát thiết bị và dữ liệu.",
+      "centralQuestion": "Sự thuận tiện được đổi lấy quyền gì trên điện thoại và cuộc sống số của người vay?",
+      "emotionalArc": [
+        {
+          "start": 0,
+          "end": 21.98,
+          "emotion": "Tiện lợi chuyển sang nghi ngờ",
+          "evidence": "Chuỗi không cần điều kiện được nối với cảnh báo cạm bẫy.",
+          "interpretation": "Chênh lệch giữa hai cách đóng khung tạo câu hỏi để giải thích."
+        },
+        {
+          "start": 22.86,
+          "end": 59,
+          "emotion": "Muốn biết bước tiếp",
+          "evidence": "Quảng cáo cụ thể và câu hỏi sau khi liên hệ.",
+          "interpretation": "Đặt một chuỗi sự kiện thay cho cảnh báo trừu tượng."
+        },
+        {
+          "start": 59.88,
+          "end": 105.06,
+          "emotion": "Hiểu điều bị trao đi",
+          "evidence": "Sơ đồ thiết bị–đám mây–máy chủ và phép so về tài khoản.",
+          "interpretation": "Cơ chế quyền truy cập có thể làm nguy cơ dễ hình dung hơn."
+        },
+        {
+          "start": 107.8,
+          "end": 189.38,
+          "emotion": "Thấy mức độ nghiêm trọng",
+          "evidence": "Chi phí, đe doạ và lời kể được xếp liên tiếp.",
+          "interpretation": "Tăng stakes theo hậu quả được nguồn mô tả; không chứng thực sự việc."
+        },
+        {
+          "start": 193.34,
+          "end": 283.88,
+          "emotion": "Có điểm xử lý",
+          "evidence": "Phòng tránh, lưu bằng chứng và nhắc lại lời chào dưới nghĩa khác.",
+          "interpretation": "Kết đưa lại quyền hành động cho người xem thay vì chỉ đọng sợ hãi."
+        }
+      ],
+      "informationDesign": [
+        {
+          "start": 0,
+          "end": 21.98,
+          "move": "Đối chiếu lời chào và chủ đề kiểm chứng",
+          "reason": "Cho biết điều cần xem xét từ đầu, không giấu tiêu đề cảnh báo."
+        },
+        {
+          "start": 22.86,
+          "end": 59,
+          "move": "Quảng cáo thành chuỗi câu hỏi",
+          "reason": "Làm cầu nối từ nhận diện tình huống tới giải thích cơ chế."
+        },
+        {
+          "start": 59.88,
+          "end": 105.06,
+          "move": "Sơ đồ hoá quan hệ kỹ thuật",
+          "reason": "Ba thành phần trên màn hình giúp theo dõi quyền kiểm soát theo cách nguồn trình bày."
+        },
+        {
+          "start": 107.8,
+          "end": 189.38,
+          "move": "Hệ quả nhiều lớp và lời kể",
+          "reason": "Nối quyền truy cập với tiền, thiết bị, quan hệ và thông tin riêng."
+        },
+        {
+          "start": 193.34,
+          "end": 283.88,
+          "move": "Phòng ngừa, xử lý, nhắc lại",
+          "reason": "Kết trả về lời hứa vay dễ, nay được đọc cùng điều kiện ẩn."
+        }
+      ],
+      "strengths": [
+        {
+          "point": "Có lời giải cho hook",
+          "evidence": "59,88–105,06 giây giải thích quyền tài khoản, hình 87,18 giây có sơ đồ ba thành phần."
+        },
+        {
+          "point": "Nguy cơ được phân thành lớp",
+          "evidence": "129,52–164,38 giây lần lượt nói khoản nhận, phí và áp lực khoá máy/theo nguồn."
+        },
+        {
+          "point": "Kết quay lại tiền đề",
+          "evidence": "263,96–281,02 giây đối chiếu lại sự dễ dàng ban đầu với nguy cơ được trình bày trong thân bài."
+        }
+      ],
+      "weaknesses": [
+        {
+          "point": "Dài và nhiều lần nhắc cảnh báo",
+          "evidence": "193,34–283,88 giây gồm phòng tránh, pháp lý, xử lý rồi nhắc lại; không có retention để biết nhịp nào cần rút."
+        },
+        {
+          "point": "ASR không đủ tin cho phép tính chi phí",
+          "evidence": "167,08–180,4 giây lặp nội dung; cần nghe và kiểm tra nguồn nếu trích số."
+        },
+        {
+          "point": "Hình thức studio không thay kiểm chứng",
+          "evidence": "Tư liệu và chuyên gia nâng tính cụ thể nhưng không tự chứng minh mọi phát biểu kỹ thuật/pháp lý đúng."
+        }
+      ],
+      "shareabilityHypotheses": [
+        "Cơ chế quyền trên điện thoại có thể khiến người xem gửi clip cho người thân đang thiếu tiền; chưa đo hành vi chia sẻ.",
+        "Sơ đồ và lời kết phòng ngừa có thể giúp clip được dùng như tài liệu cảnh báo, nhưng cần nguồn kỹ thuật cập nhật khi ứng dụng."
+      ],
+      "adaptationRules": [
+        "Đặt câu hỏi về thứ người dùng phải trao, không chỉ về thứ họ nhận.",
+        "Vẽ đúng chuỗi quyền và hệ quả có nguồn; tránh hình ẩn dụ làm sai cơ chế.",
+        "Phân biệt quảng cáo, cáo buộc, lời kể và kết luận có thẩm quyền.",
+        "Không sao chép lãi suất hay hình phạt khi chưa kiểm nguồn và thời điểm.",
+        "Cho hướng phòng ngừa và xử lý riêng; đóng bài bằng việc đọc lại lời mở với điều kiện đã được giải thích."
+      ],
+      "mindmapBranches": [
+        {
+          "label": "Lời chào · 0–21,98s",
+          "children": [
+            "Bỏ trở ngại vay",
+            "Tiện lợi cần kiểm chứng"
+          ]
+        },
+        {
+          "label": "Sau liên hệ · 22,86–59s",
+          "children": [
+            "Dạng quảng cáo",
+            "Câu hỏi bước tiếp"
+          ]
+        },
+        {
+          "label": "Cơ chế · 59,88–105,06s",
+          "children": [
+            "Thiết bị–đám mây–máy chủ",
+            "Quyền truy cập là mấu chốt"
+          ]
+        },
+        {
+          "label": "Hệ quả · 107,8–189,38s",
+          "children": [
+            "Tiền thực nhận và đe doạ theo nguồn",
+            "Lời kể, ASR chi phí có lỗi"
+          ]
+        },
+        {
+          "label": "Phòng tránh · 193,34–236,2s",
+          "children": [
+            "MC tổng hợp",
+            "Nhận định pháp lý được dẫn"
+          ]
+        },
+        {
+          "label": "Xử lý và đóng · 241,88–283,88s",
+          "children": [
+            "Lưu bằng chứng, báo theo khuyến cáo",
+            "Đọc lại lời vay dễ với cái giá ẩn"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "7707559507609668872",
+    "title": "Quyền lợi có điều kiện: con số lớn rồi mới thu hẹp đối tượng",
+    "deliveryStyle": "Bản tin dẫn theo ASR, ảnh minh họa tiền và gia đình, ảnh văn bản, thẻ tiêu đề đỏ; không có người dẫn xuất hiện.",
+    "openingObservation": "0–6,92 giây ghép người đang nuôi con, khoản tiền cụ thể và mốc thời gian thành câu hỏi ai đủ điều kiện. Khung 0–5 giây đặt tiền cạnh mẹ bế con, tiêu đề chữ trắng trên đỏ. Đây là hook sàng lọc quyền lợi cá nhân, không phải giải thích cơ chế kinh tế bằng linh vật. Số tiền là lời tác giả chưa kiểm chứng; điều kiện tương ứng chỉ được diễn giải về sau.",
+    "visualEvidence": [
+      {
+        "time": 0,
+        "observation": "Tay cầm nhiều tờ tiền phía trên, khối đỏ và tiêu đề về khoản trợ cấp phía dưới."
+      },
+      {
+        "time": 1,
+        "observation": "Ảnh mẹ bế con được ghép vào ảnh tiền; khuôn mặt che mờ."
+      },
+      {
+        "time": 13.99,
+        "observation": "Khung chứa ảnh một văn bản trình bày như nghị định; sự xuất hiện không xác nhận tính thật hay hiệu lực."
+      },
+      {
+        "time": 27.98,
+        "observation": "Cận tay trẻ em trong tay người lớn, nền trên dưới làm mờ."
+      },
+      {
+        "time": 55.96,
+        "observation": "Ảnh đếm tiền tại bàn có máy tính."
+      },
+      {
+        "time": 92.27,
+        "observation": "Ảnh trang hồ sơ kênh thay phần minh họa để đỡ lời kêu gọi theo dõi."
+      }
+    ],
+    "beats": [
+      {
+        "start": 0,
+        "end": 6.92,
+        "summary": "Gọi nhóm đang nuôi con và nêu một khoản tiền hằng tháng.",
+        "role": "Hook quyền lợi gắn đối tượng; thông tin chưa được kiểm chứng."
+      },
+      {
+        "start": 7.5,
+        "end": 21.62,
+        "summary": "Tác giả viện dẫn văn bản rồi nói không phải ai cũng thuộc diện.",
+        "role": "Thu hẹp lời hứa và tạo nhu cầu kiểm tra điều kiện."
+      },
+      {
+        "start": 22.08,
+        "end": 33.06,
+        "summary": "Liệt kê các điều kiện về hoàn cảnh và người trực tiếp nuôi con.",
+        "role": "Biến câu hỏi chung thành bước sàng lọc trong lời kể."
+      },
+      {
+        "start": 33.74,
+        "end": 57.32,
+        "summary": "Tác giả giải thích mức theo con; số đầu bài là một ví dụ nhiều con.",
+        "role": "Trả lời vì sao tiêu đề có con số đó; chưa xác nhận tính đúng."
+      },
+      {
+        "start": 58.06,
+        "end": 71.72,
+        "summary": "Nêu thêm trường hợp con tiếp tục học sau tuổi đã nói.",
+        "role": "Mở nhánh ngoại lệ theo lời tác giả."
+      },
+      {
+        "start": 71.98,
+        "end": 87.5,
+        "summary": "Bổ sung nhánh địa phương và nhiều diện trợ cấp.",
+        "role": "Tăng mật độ ngoại lệ, rời câu hỏi đầu."
+      },
+      {
+        "start": 88.46,
+        "end": 92.64,
+        "summary": "Chuyển sang lời mời theo dõi kênh.",
+        "role": "CTA sau phần quyền lợi được thuật lại."
+      }
+    ],
+    "ending": "ASR kết bằng mời theo dõi; khung cuối có hồ sơ kênh. Clip không đưa quy trình kiểm tra văn bản chính thức trong phần lời đã chép.",
+    "mechanism": "Nhận diện mình thuộc nhóm nào → nhìn thấy lợi ích định lượng → gặp lời chặn không phải ai cũng được → chờ điều kiện và phép tính. Điểm cần phê bình là con số lớn đi trước điều kiện cụ thể khá lâu; không coi đây là kỹ thuật nên sao chép nguyên xi.",
+    "transfer": "Chỉ học cách mở bằng một nhu cầu có đối tượng rồi trả điều kiện rõ. Với quyền lợi pháp lý, phải xác minh nguồn gốc, hiệu lực và nói điều kiện trọng yếu ngay phần mở; không tái sử dụng số liệu ở clip này như sự thật.",
+    "limitations": [
+      "Phân tích dựa trên toàn bộ ASR có timestamp và 12 khung hình lấy mẫu từ bản tải mới; chưa nghe âm hoặc xem video liên tục.",
+      "Cảm xúc, khả năng chia sẻ và giữ chân là giả thuyết biên tập; không có retention hay thử nghiệm nhân quả.",
+      "Nội dung trợ cấp, văn bản, ngày hiệu lực và mức tiền là phát biểu của tác giả, chưa fact-check độc lập. Ảnh văn bản không đủ làm bằng chứng pháp lý.",
+      "ASR có lỗi nhận dạng từ; không dùng để trích quy định hay hướng dẫn nhận tiền."
+    ],
+    "detail": {
+      "promise": "Giúp người xem nhận ra liệu mình có thuộc nhóm mà tác giả nói được hưởng một khoản hỗ trợ hay không.",
+      "centralQuestion": "Khoản tiền đầu clip ứng với nhóm và điều kiện nào theo lời tác giả?",
+      "emotionalArc": [
+        {
+          "start": 0,
+          "end": 6.92,
+          "emotion": "Chú ý vì liên quan gia đình",
+          "evidence": "Nhóm nuôi con và tiền được nêu cùng câu.",
+          "interpretation": "Có thể kích hoạt tự đối chiếu hoàn cảnh."
+        },
+        {
+          "start": 18.5,
+          "end": 33.06,
+          "emotion": "Thận trọng khi đối chiếu",
+          "evidence": "Lời chặn không phải tất cả rồi liệt kê điều kiện.",
+          "interpretation": "Người xem phải sửa kỳ vọng từ tiêu đề."
+        },
+        {
+          "start": 33.74,
+          "end": 57.32,
+          "emotion": "Hiểu cách tác giả tạo con số",
+          "evidence": "Số đầu bài được gắn vào ví dụ nhiều con.",
+          "interpretation": "Khoảng trống tính toán được đóng, nhưng tính đúng của quy định vẫn chưa xác minh."
+        },
+        {
+          "start": 58.06,
+          "end": 87.5,
+          "emotion": "Tải nhận thức tăng",
+          "evidence": "Nhiều nhánh học tập, địa phương và nhiều diện.",
+          "interpretation": "Số ngoại lệ có thể làm khó ghi nhớ; chưa có số đo."
+        }
+      ],
+      "informationDesign": [
+        {
+          "start": 0,
+          "end": 6.92,
+          "move": "Đối tượng + tiền + thời điểm",
+          "reason": "Nêu ngay lý do cá nhân để quan tâm."
+        },
+        {
+          "start": 7.5,
+          "end": 33.06,
+          "move": "Viện dẫn rồi sàng lọc",
+          "reason": "Tạo cảm giác có căn cứ và thu hẹp nhóm; căn cứ cần xác minh."
+        },
+        {
+          "start": 33.74,
+          "end": 57.32,
+          "move": "Giải thích đơn vị tính",
+          "reason": "Cho thấy số nổi bật không phải mức đồng loạt."
+        },
+        {
+          "start": 58.06,
+          "end": 87.5,
+          "move": "Xếp nhiều ngoại lệ liên tiếp",
+          "reason": "Mở rộng phạm vi nhưng thiếu cấu trúc phân nhánh nhìn thấy trong các khung mẫu."
+        }
+      ],
+      "strengths": [
+        {
+          "point": "Đối tượng cụ thể ngay đầu",
+          "evidence": "0–6,92 giây có nhóm nuôi con, lợi ích định lượng và thời điểm."
+        },
+        {
+          "point": "Có nhịp thu hẹp lời hứa",
+          "evidence": "18,5–33,06 giây không tiếp tục hứa cho mọi người."
+        }
+      ],
+      "weaknesses": [
+        {
+          "point": "Điều kiện của con số tiêu đề trả muộn",
+          "evidence": "Đến 43,42–57,32 giây mới gắn số đầu bài với ví dụ số con."
+        },
+        {
+          "point": "Độ tin cậy nội dung chưa được thiết lập bằng nguồn kiểm chứng được",
+          "evidence": "Khung 13,99 giây chỉ là ảnh văn bản; ASR không đưa nguồn truy cập chính thức."
+        },
+        {
+          "point": "Ngoại lệ dồn cuối",
+          "evidence": "58,06–87,5 giây chứa nhiều nhánh khác nhau."
+        }
+      ],
+      "shareabilityHypotheses": [
+        "Có thể được gửi trong nhóm gia đình vì người nhận muốn kiểm tra đối tượng, nhưng chưa có dữ liệu đường chia sẻ.",
+        "Con số đầu bài có thể bị tách khỏi điều kiện khi truyền lại; đây là rủi ro cần giảm, không phải mục tiêu biên tập."
+      ],
+      "adaptationRules": [
+        "Xác minh văn bản gốc trước khi sử dụng nội dung pháp lý; không coi clip này là căn cứ.",
+        "Đưa điều kiện quyết định cạnh con số ngay đầu; không trì hoãn để tăng tò mò.",
+        "Tách các ngoại lệ thành bảng hoặc câu trả lời riêng thay vì dồn lời.",
+        "Chỉ dùng mẫu cấu trúc quyền lợi có điều kiện, không sao chép mức tiền hoặc chỉ dẫn nhận trợ cấp."
+      ],
+      "mindmapBranches": [
+        {
+          "label": "Mở 0–6,92s",
+          "children": [
+            "Nhóm gia đình cụ thể",
+            "Khoản tiền cần kiểm chứng"
+          ]
+        },
+        {
+          "label": "Thu hẹp 7,5–33,06s",
+          "children": [
+            "Viện dẫn văn bản",
+            "Không áp dụng đồng loạt"
+          ]
+        },
+        {
+          "label": "Giải số 33,74–57,32s",
+          "children": [
+            "Đơn vị tính theo lời tác giả",
+            "Ví dụ nhiều con"
+          ]
+        },
+        {
+          "label": "Ngoại lệ 58,06–87,5s",
+          "children": [
+            "Học tập và địa phương",
+            "Nhiều diện"
+          ]
+        },
+        {
+          "label": "Kết 88,46–92,64s",
+          "children": [
+            "Mời theo dõi",
+            "Không thay nguồn chính thức"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "7706772856650239233",
+    "title": "Nghịch lý danh dự: trả tiền rồi vẫn bị nghi chưa trả",
+    "deliveryStyle": "Bản tin tường thuật trên ảnh camera quán ăn và ảnh bài đăng mạng xã hội, tiêu đề đỏ; không có người dẫn xuất hiện.",
+    "openingObservation": "ASR 0–3,28 giây đặt hai việc trái kỳ vọng cạnh nhau: đã thanh toán nhưng vẫn bị nghi không trả. 3,64–7,58 giây nâng hệ quả sang danh dự khách và uy tín quán. Các khung đầu có cảnh camera và tiêu đề; ảnh bài đăng được thêm vào khung 2–5 giây. Đây là xung đột quy trình dịch vụ qua một vụ được kể lại, chưa phải sự việc đã được người phân tích kiểm chứng.",
+    "visualEvidence": [
+      {
+        "time": 0,
+        "observation": "Cảnh camera nhìn xuống khu bàn và quầy; khối tiêu đề đỏ chiếm phần dưới."
+      },
+      {
+        "time": 2,
+        "observation": "Ảnh chụp một bài đăng mạng xã hội được ghép lên cảnh camera."
+      },
+      {
+        "time": 22.4,
+        "observation": "Cảnh camera cho thấy một người đứng ở quầy, bố cục có phần nền làm mờ."
+      },
+      {
+        "time": 33.6,
+        "observation": "Một khung camera khác vẫn ở quầy; không đủ để xác nhận giao dịch chỉ qua ảnh tĩnh."
+      },
+      {
+        "time": 56.01,
+        "observation": "Ảnh bài đăng có nhiều ảnh nhỏ camera, dùng như chất liệu của câu chuyện."
+      },
+      {
+        "time": 73.68,
+        "observation": "Hồ sơ kênh xuất hiện sau phần ASR đặt câu hỏi cuối."
+      }
+    ],
+    "beats": [
+      {
+        "start": 0,
+        "end": 7.58,
+        "summary": "Tường thuật nghịch lý đã trả tiền nhưng vẫn bị nghi; nêu thiệt hại hai bên.",
+        "role": "Hook bất công và hậu quả danh dự."
+      },
+      {
+        "start": 12.08,
+        "end": 31.38,
+        "summary": "Kể bối cảnh trả trước vì lo điện thoại hết pin.",
+        "role": "Lùi lại nguyên nhân theo lời người thân được dẫn."
+      },
+      {
+        "start": 31.86,
+        "end": 45.92,
+        "summary": "Tác giả nói có video, rồi thuật cuộc đối chiếu tại quán.",
+        "role": "Đưa lời khẳng định có chứng cứ và phản ứng; chưa kiểm chứng độc lập."
+      },
+      {
+        "start": 46.26,
+        "end": 54.74,
+        "summary": "Hỏi ai chịu trách nhiệm nếu khách bị nghi oan công khai.",
+        "role": "Chuyển vụ riêng thành vấn đề trách nhiệm."
+      },
+      {
+        "start": 55.12,
+        "end": 64.62,
+        "summary": "Mở sang rủi ro mất niềm tin khi đăng tin chưa xác minh.",
+        "role": "Chốt bài học quy trình dịch vụ."
+      },
+      {
+        "start": 65.06,
+        "end": 68.92,
+        "summary": "Thuật câu hỏi có nên khởi kiện bảo vệ danh dự.",
+        "role": "Kết mở để khán giả cân nhắc; không có kết luận pháp lý."
+      }
+    ],
+    "ending": "Lời kết là câu hỏi về khả năng khởi kiện, không có kết quả giải quyết tranh chấp. Khung cuối chuyển sang hồ sơ kênh; không gọi đây là phán quyết hay kết luận trách nhiệm.",
+    "mechanism": "Nghịch lý đạo đức dễ hiểu → lùi về hoàn cảnh dẫn tới hiểu lầm → dẫn lời có chứng cứ → mở vấn đề trách nhiệm và niềm tin. Sức kéo nằm ở lệch nhau giữa việc người kể nói đã làm và cách họ bị công khai đánh giá, khác bài giải thích khái niệm tài chính.",
+    "transfer": "Có thể học cách mở một sai lệch kỳ vọng, kể lại trình tự rồi rút câu hỏi quy trình. Khi dùng vụ thật, phải phân biệt lời bên liên quan với sự thật xác minh, ẩn danh khi không cần định danh và tránh dùng câu hỏi cuối để ngầm kết tội.",
+    "limitations": [
+      "Phân tích dựa trên toàn bộ ASR có timestamp và 12 khung hình lấy mẫu từ bản tải mới; chưa nghe âm hoặc xem video liên tục.",
+      "Cảm xúc, khả năng chia sẻ và giữ chân là giả thuyết biên tập; không có retention hay thử nghiệm nhân quả.",
+      "Thông tin là tường thuật của kênh dẫn lời bên liên quan; chưa đối chiếu bài gốc, camera đầy đủ hay phản hồi độc lập.",
+      "Không xác nhận cáo buộc, định danh quán/cá nhân hoặc kết luận pháp lý. Ảnh camera tĩnh không chứng minh đủ việc thanh toán."
+    ],
+    "detail": {
+      "promise": "Giải thích vì sao một giao dịch được kể là đã hoàn tất lại thành tranh cãi công khai và tổn hại niềm tin.",
+      "centralQuestion": "Một sai lệch đối soát bị đưa lên mạng có thể chuyển thành tổn hại danh dự như thế nào?",
+      "emotionalArc": [
+        {
+          "start": 0,
+          "end": 7.58,
+          "emotion": "Bức xúc có điều kiện",
+          "evidence": "Mở bằng tương phản đã trả với bị nghi, kèm thiệt hại danh dự.",
+          "interpretation": "Người xem được mời đứng trước một tình huống bất công theo lời kể."
+        },
+        {
+          "start": 12.08,
+          "end": 31.38,
+          "emotion": "Hiểu hoàn cảnh",
+          "evidence": "Lý do điện thoại và trả trước được thuật lại.",
+          "interpretation": "Biến nhân vật từ nhãn trong tin thành người có lý do hành động."
+        },
+        {
+          "start": 31.86,
+          "end": 45.92,
+          "emotion": "Chờ đối chiếu",
+          "evidence": "Nguồn nói có video và cuộc gặp tại quán.",
+          "interpretation": "Tạo kỳ vọng giải quyết, chưa xác nhận nội dung bằng chứng."
+        },
+        {
+          "start": 46.26,
+          "end": 68.92,
+          "emotion": "Cân nhắc trách nhiệm",
+          "evidence": "Câu hỏi danh dự rồi niềm tin và khởi kiện.",
+          "interpretation": "Đẩy từ theo dõi sự cố sang phán đoán chuẩn ứng xử; cần giữ tính có điều kiện."
+        }
+      ],
+      "informationDesign": [
+        {
+          "start": 0,
+          "end": 7.58,
+          "move": "Kết quả bất thường trước bối cảnh",
+          "reason": "Giúp người xem hiểu xung đột mà không cần tên người hay địa chỉ."
+        },
+        {
+          "start": 12.08,
+          "end": 45.92,
+          "move": "Lùi thời gian rồi tiến đến đối chiếu",
+          "reason": "Tạo chuỗi nguyên nhân thay vì chỉ lặp cáo buộc."
+        },
+        {
+          "start": 46.26,
+          "end": 64.62,
+          "move": "Mở từ vụ riêng sang quy trình",
+          "reason": "Bài học nằm ở xác minh trước khi công khai."
+        },
+        {
+          "start": 65.06,
+          "end": 68.92,
+          "move": "Câu hỏi chưa có kết quả",
+          "reason": "Mở thảo luận nhưng không cung cấp phán quyết."
+        }
+      ],
+      "strengths": [
+        {
+          "point": "Xung đột hiểu nhanh",
+          "evidence": "0–3,28 giây một giao dịch hoàn tất đối lập với nghi vấn chưa thanh toán."
+        },
+        {
+          "point": "Hai bên đều có cái mất",
+          "evidence": "3,64–7,58 giây đặt danh dự khách cạnh uy tín quán."
+        },
+        {
+          "point": "Bối cảnh có chức năng nhân quả",
+          "evidence": "26,7–31,38 giây lý do trả trước làm rõ điểm dễ lệch đối soát."
+        }
+      ],
+      "weaknesses": [
+        {
+          "point": "Lời kể có thể dẫn khán giả kết tội sớm",
+          "evidence": "Hook nêu đã thanh toán ở dạng khẳng định trước khi dẫn nguồn 12,08 giây."
+        },
+        {
+          "point": "Chưa có kết quả kiểm chứng hay giải quyết",
+          "evidence": "65,06–68,92 giây kết ở câu hỏi khởi kiện."
+        },
+        {
+          "point": "Chất liệu camera dễ bị nhầm thành bằng chứng đầy đủ",
+          "evidence": "Các khung mẫu chỉ cho thấy sự hiện diện ở quầy, không đủ xác nhận toàn giao dịch."
+        }
+      ],
+      "shareabilityHypotheses": [
+        "Tình huống trả tiền và bị hiểu lầm có thể gợi người xem gửi cho người làm dịch vụ để bàn quy trình đối soát.",
+        "Câu hỏi danh dự có thể kéo ý kiến trái chiều; chưa có phân tích bình luận để biết điều này xảy ra hay không."
+      ],
+      "adaptationRules": [
+        "Gắn nguồn và mức xác minh vào ngay câu mở khi thuật vụ đang tranh cãi.",
+        "Giữ ba lớp riêng: lời kể, tài liệu nhìn thấy, kết luận đã xác minh.",
+        "Rút bài học đối soát và xác minh thông tin; không khuyến khích công kích người trong vụ.",
+        "Câu hỏi thảo luận nên xoay vào quy trình, không yêu cầu khán giả phán án."
+      ],
+      "mindmapBranches": [
+        {
+          "label": "Mở 0–7,58s",
+          "children": [
+            "Đã trả nhưng vẫn bị nghi",
+            "Hai loại thiệt hại"
+          ]
+        },
+        {
+          "label": "Bối cảnh 12,08–31,38s",
+          "children": [
+            "Lời người thân",
+            "Lý do trả trước"
+          ]
+        },
+        {
+          "label": "Đối chiếu 31,86–45,92s",
+          "children": [
+            "Tác giả nói có video",
+            "Chưa kiểm chứng"
+          ]
+        },
+        {
+          "label": "Mở vấn đề 46,26–64,62s",
+          "children": [
+            "Trách nhiệm công khai",
+            "Niềm tin dịch vụ"
+          ]
+        },
+        {
+          "label": "Kết 65,06–68,92s",
+          "children": [
+            "Câu hỏi còn mở",
+            "Không kết luận pháp lý"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "7690176024939629842",
+    "title": "Tự thuật nghịch lý thu nhập: đạt mục tiêu rồi vẫn thấy thiếu",
+    "deliveryStyle": "Người thật tự thuật tại trường quay, thay cỡ cảnh toàn và cận, phụ đề trắng theo cụm; kết bằng thẻ chương trình.",
+    "openingObservation": "0–5,18 giây khách mời tự thuật một mức thu nhập từng đạt lúc trẻ; 5,18–8,96 giây lập tức đặt nó cạnh cảm giác không hạnh phúc và áp lực. Khung 0–2 giây là cảnh người đứng sau bàn; 3–5 giây cận hơn khi phụ đề nêu con số. Cơ chế là lời thú nhận mâu thuẫn với thước đo thành công, không phải cam kết dạy người xem kiếm mức tiền ấy.",
+    "visualEvidence": [
+      {
+        "time": 0,
+        "observation": "Khách mời đứng sau bàn trong trường quay có logo chương trình, phụ đề về độ tuổi."
+      },
+      {
+        "time": 3,
+        "observation": "Cỡ cảnh gần hơn và phụ đề nêu con số thu nhập tự thuật."
+      },
+      {
+        "time": 8.03,
+        "observation": "Góc máy rộng lệch bên, phụ đề nói chưa hạnh phúc và áp lực."
+      },
+      {
+        "time": 24.1,
+        "observation": "Cận người nói với cử chỉ tay và phụ đề về tận hưởng, cảm thấy đủ."
+      },
+      {
+        "time": 40.16,
+        "observation": "Cảnh rộng cùng người nói; phụ đề tách định nghĩa đủ khỏi con số."
+      },
+      {
+        "time": 52.55,
+        "observation": "Thẻ kết dùng chân dung khách mời và câu tiêu đề về thu nhập nhưng chưa thấy đủ."
+      }
+    ],
+    "beats": [
+      {
+        "start": 0,
+        "end": 8.96,
+        "summary": "Tự thuật thu nhập cao lúc trẻ nhưng vẫn áp lực.",
+        "role": "Hook lời thú nhận nghịch kỳ vọng."
+      },
+      {
+        "start": 9.08,
+        "end": 17.36,
+        "summary": "Mục tiêu năm đạt trong tháng, rồi nhìn người kiếm nhiều hơn.",
+        "role": "Tạo bước ngoặt từ thành tựu sang so sánh."
+      },
+      {
+        "start": 17.36,
+        "end": 29.16,
+        "summary": "Tự thấy chưa tốt và đẩy chuẩn đủ ngày càng xa.",
+        "role": "Giải thích vòng lặp tâm lý bằng trải nghiệm cá nhân."
+      },
+      {
+        "start": 29.44,
+        "end": 38.56,
+        "summary": "Có con khiến ưu tiên chuyển sang gia đình, sức khỏe và thời gian.",
+        "role": "Đưa biến cố đổi tiêu chí thành công."
+      },
+      {
+        "start": 38.56,
+        "end": 46.64,
+        "summary": "Định nghĩa đủ là những điều quan trọng đều có chỗ.",
+        "role": "Đóng bằng một thước đo khác thay vì số tiền."
+      }
+    ],
+    "ending": "Kết lời ở định nghĩa đủ bằng chỗ dành cho các ưu tiên. Khung 48,19 giây có logo trên nền đen; 52,55 giây là thẻ chân dung và câu tiêu đề. Clip đóng được chuyển biến cá nhân thay vì bán công thức thu nhập.",
+    "mechanism": "Một con số tự thuật gây chú ý → kết quả cảm xúc trái kỳ vọng → chỉ ra so sánh xã hội khiến vạch đích dời đi → một thay đổi đời sống làm thước đo đổi. Sự khác biệt là người thật tự nhận mâu thuẫn của mình, không dùng người dẫn phán xét việc người xem nên sống ra sao.",
+    "transfer": "Học cấu trúc thành tựu đã đạt nhưng vấn đề vẫn còn, rồi kể cơ chế và sự thay đổi tiêu chí bằng trải nghiệm có thật. Con số chỉ tạo bối cảnh, phải gắn nhãn tự thuật; không biến câu chuyện thành bằng chứng tiền bạc không có ích cho tất cả mọi người.",
+    "limitations": [
+      "Phân tích dựa trên toàn bộ ASR có timestamp và 12 khung hình lấy mẫu từ bản tải mới; chưa nghe âm hoặc xem video liên tục.",
+      "Cảm xúc, khả năng chia sẻ và giữ chân là giả thuyết biên tập; không có retention hay thử nghiệm nhân quả.",
+      "Số thu nhập, tuổi và trải nghiệm là lời khách mời tự thuật, chưa kiểm chứng bằng tài liệu tài chính.",
+      "Một trải nghiệm không chứng minh quan hệ phổ quát giữa thu nhập, có con và hạnh phúc."
+    ],
+    "detail": {
+      "promise": "Giải thích vì sao đạt mốc tiền từng mơ vẫn có thể chưa tạo cảm giác đủ, qua lời tự thuật của khách mời.",
+      "centralQuestion": "Điều gì khiến cảm giác đủ cứ lùi xa dù mục tiêu tài chính đã đạt?",
+      "emotionalArc": [
+        {
+          "start": 0,
+          "end": 8.96,
+          "emotion": "Ngạc nhiên và gần gũi",
+          "evidence": "Thu nhập tự thuật cao đi cùng áp lực.",
+          "interpretation": "Lời thừa nhận làm hình ảnh thành công có mặt dễ tổn thương."
+        },
+        {
+          "start": 9.08,
+          "end": 29.16,
+          "emotion": "Nhận ra vòng lặp",
+          "evidence": "Đạt mục tiêu rồi nhìn người hơn mình, tự nâng chuẩn.",
+          "interpretation": "Chuyển sự ngạc nhiên về con số sang nhận diện một quá trình."
+        },
+        {
+          "start": 29.44,
+          "end": 38.56,
+          "emotion": "Đổi trọng tâm",
+          "evidence": "Khách mời kể việc có con và các ưu tiên mới.",
+          "interpretation": "Cho lời giải có bối cảnh thay vì khẩu hiệu chung."
+        },
+        {
+          "start": 38.56,
+          "end": 46.64,
+          "emotion": "Nhẹ hơn theo lời kể",
+          "evidence": "Định nghĩa đủ không còn quy về số.",
+          "interpretation": "Đóng chuyển biến, không xác nhận phản ứng người xem."
+        }
+      ],
+      "informationDesign": [
+        {
+          "start": 0,
+          "end": 8.96,
+          "move": "Thành tựu + cảm xúc trái kỳ vọng",
+          "reason": "Tạo lời hứa giải thích một mâu thuẫn nội tại."
+        },
+        {
+          "start": 9.08,
+          "end": 29.16,
+          "move": "Kể vòng lặp từng bước",
+          "reason": "Mục tiêu đạt → so sánh → tự gây áp lực → nâng chuẩn."
+        },
+        {
+          "start": 29.44,
+          "end": 46.64,
+          "move": "Đổi tiêu chí thay vì nâng mục tiêu",
+          "reason": "Trả lời đầu bài bằng một cách đo khác có lý do cá nhân."
+        }
+      ],
+      "strengths": [
+        {
+          "point": "Mâu thuẫn được trả sớm",
+          "evidence": "Chưa tới 9 giây đã nói cả mức tiền lẫn sự không hạnh phúc."
+        },
+        {
+          "point": "Có cơ chế trung gian cụ thể",
+          "evidence": "12–26,64 giây nối xem mạng, so sánh và dời chuẩn đủ."
+        },
+        {
+          "point": "Chuyển biến có nguyên nhân đời sống",
+          "evidence": "29,44 giây việc có con dẫn vào ưu tiên mới."
+        }
+      ],
+      "weaknesses": [
+        {
+          "point": "Con số có thể lấn thông điệp",
+          "evidence": "Thẻ 52,55 giây tiếp tục nhấn thu nhập, trong khi phần kết nói về ưu tiên."
+        },
+        {
+          "point": "Khó khái quát sang hoàn cảnh khác",
+          "evidence": "29,44–38,56 giây bước ngoặt gắn với trải nghiệm làm cha mẹ của khách mời."
+        }
+      ],
+      "shareabilityHypotheses": [
+        "Người đang so sánh thu nhập có thể gửi clip như một cách diễn đạt điều mình gặp; cần dữ liệu chia sẻ để xác nhận.",
+        "Cụm ý về dành chỗ cho ưu tiên có thể dễ nhớ hơn số tiền; đây là giả thuyết, chưa đo ghi nhớ."
+      ],
+      "adaptationRules": [
+        "Dùng trải nghiệm thật và nói rõ đó là tự thuật.",
+        "Nêu mâu thuẫn cảm xúc ngay sau thành tựu để tránh biến thành khoe số.",
+        "Cho thấy các bước gây ra vấn đề, không nhảy thẳng từ giàu sang lời khuyên sống đủ.",
+        "Giữ kết luận trong phạm vi trải nghiệm; không khẳng định áp dụng cho mọi hoàn cảnh."
+      ],
+      "mindmapBranches": [
+        {
+          "label": "Mở 0–8,96s",
+          "children": [
+            "Thu nhập tự thuật",
+            "Áp lực trái kỳ vọng"
+          ]
+        },
+        {
+          "label": "Tác nhân 9,08–17,36s",
+          "children": [
+            "Đạt mục tiêu",
+            "Nhìn người hơn mình"
+          ]
+        },
+        {
+          "label": "Vòng lặp 17,36–29,16s",
+          "children": [
+            "Tự thấy chưa tốt",
+            "Dời chuẩn đủ"
+          ]
+        },
+        {
+          "label": "Bước ngoặt 29,44–38,56s",
+          "children": [
+            "Có con",
+            "Ưu tiên thời gian và gia đình"
+          ]
+        },
+        {
+          "label": "Kết 38,56–46,64s",
+          "children": [
+            "Đổi thước đo",
+            "Điều quan trọng có chỗ"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "7688299045974052112",
+    "title": "Tách phản hồi về việc làm khỏi bản sắc: tự tin qua lặp lại",
+    "deliveryStyle": "Phỏng vấn một người ngồi trên nền tối, cỡ cảnh vừa và cận, cử chỉ tay, phụ đề trắng theo cụm; không dùng hoạt hình minh họa.",
+    "openingObservation": "0–3,36 giây diễn đạt một suy nghĩ tự quy kết quen thuộc: nhận phản hồi xấu rồi coi bản thân thất bại. 3,36–7,04 giây sửa ngay bằng cách giới hạn đánh giá vào việc và thời điểm. Khung 3 giây cận mặt, bàn tay đặt lên ngực, phụ đề chỉ sự tự quy kết. Hook ở đây là nhận diện lời nói trong đầu rồi phân biệt hai cách diễn giải, không cần số gây sốc hay câu hỏi treo.",
+    "visualEvidence": [
+      {
+        "time": 0,
+        "observation": "Người ngồi trên ghế trước nền tối, phụ đề đặt giữa phần thân; logo chương trình ở trên."
+      },
+      {
+        "time": 3,
+        "observation": "Cỡ cảnh cận hơn, tay đặt lên ngực khi phụ đề nêu việc tự coi mình thất bại."
+      },
+      {
+        "time": 6.25,
+        "observation": "Trở về cỡ cảnh vừa, tay đưa ra trước; phụ đề giới hạn vào việc đã làm không tốt."
+      },
+      {
+        "time": 18.75,
+        "observation": "Cỡ cảnh cận người nói ở đoạn bắt đầu bàn về tự tin."
+      },
+      {
+        "time": 31.25,
+        "observation": "Người nói dùng hai tay trong khung vừa; phụ đề về làm đủ nhiều và đều."
+      },
+      {
+        "time": 40.66,
+        "observation": "Thẻ cuối đen trắng có tên khách mời và chủ đề tự tin qua lặp lại."
+      }
+    ],
+    "beats": [
+      {
+        "start": 0,
+        "end": 3.36,
+        "summary": "Gọi tên suy nghĩ phản hồi xấu nghĩa là mình thất bại.",
+        "role": "Hook nhận diện tự quy kết."
+      },
+      {
+        "start": 3.36,
+        "end": 12.84,
+        "summary": "Giới hạn lỗi ở một việc, một thời điểm; thừa nhận phong độ lên xuống.",
+        "role": "Sửa cách diễn giải và làm rõ bằng tình huống chuẩn bị kỹ vẫn chưa đạt."
+      },
+      {
+        "start": 12.84,
+        "end": 17.92,
+        "summary": "Tách việc khỏi bản thân để tiếp tục làm.",
+        "role": "Nêu mục đích thực dụng của đổi cách nhìn."
+      },
+      {
+        "start": 17.92,
+        "end": 25.6,
+        "summary": "Bác suy nghĩ tự tin chỉ là tính cách bẩm sinh; nối tự tin với làm nhiều.",
+        "role": "Chuyển từ bảo vệ tâm lý sang khả năng rèn luyện."
+      },
+      {
+        "start": 25.6,
+        "end": 34.76,
+        "summary": "Chốt năng lực tăng khi làm đủ nhiều và đều.",
+        "role": "Kết bằng nguyên tắc hành động ngắn."
+      }
+    ],
+    "ending": "Lời kết nhấn việc làm nhiều và làm đều; thẻ cuối cô đọng chủ đề tự tin qua lặp lại. Không có bằng chứng thí nghiệm hay bài tập cụ thể trong clip.",
+    "mechanism": "Gọi tên một câu tự phán xét → giới hạn lại đối tượng và thời điểm của đánh giá → giải thích vì sao cần giới hạn ấy để tiếp tục → đổi tự tin từ phẩm chất cố định thành kết quả luyện tập. Khác hook tò mò ở chỗ câu sửa được đưa ngay, còn phần sau làm nó hữu dụng hơn.",
+    "transfer": "Học cách diễn đạt chính xác một suy nghĩ mà người xem có thể gặp, rồi thay bằng một phân biệt hẹp và có hệ quả hành động. Tránh trình bày quan điểm khách mời thành chẩn đoán hay lời hứa chữa vấn đề tâm lý.",
+    "limitations": [
+      "Phân tích dựa trên toàn bộ ASR có timestamp và 12 khung hình lấy mẫu từ bản tải mới; chưa nghe âm hoặc xem video liên tục.",
+      "Cảm xúc, khả năng chia sẻ và giữ chân là giả thuyết biên tập; không có retention hay thử nghiệm nhân quả.",
+      "Đây là quan điểm/phân tích trải nghiệm của khách mời, không phải bằng chứng lâm sàng hoặc kết luận nghiên cứu về tự tin.",
+      "ASR có một cụm nhận dạng chưa mượt ở 22,28–25,6 giây; phân tích chỉ dùng ý lặp lại được phụ đề tại 25 giây hỗ trợ, không trích nguyên văn."
+    ],
+    "detail": {
+      "promise": "Một cách diễn giải phản hồi giúp tách lỗi công việc khỏi giá trị bản thân và tiếp tục luyện tập.",
+      "centralQuestion": "Làm sao nhận phản hồi không tốt mà không biến nó thành phán quyết về con người mình?",
+      "emotionalArc": [
+        {
+          "start": 0,
+          "end": 3.36,
+          "emotion": "Được gọi đúng suy nghĩ khó chịu",
+          "evidence": "Phản hồi xấu bị đồng nhất với bản thân thất bại.",
+          "interpretation": "Có thể tạo nhận diện trước khi giảng giải."
+        },
+        {
+          "start": 3.36,
+          "end": 17.92,
+          "emotion": "Giảm tự quy kết",
+          "evidence": "Lỗi được đặt vào việc cụ thể, thời điểm cụ thể và phong độ.",
+          "interpretation": "Cho cách hiểu ít tuyệt đối hơn để giữ khả năng hành động."
+        },
+        {
+          "start": 17.92,
+          "end": 25.6,
+          "emotion": "Mở cảm giác có thể rèn",
+          "evidence": "Tự tin được tách khỏi đặc điểm bẩm sinh.",
+          "interpretation": "Đổi khung từ số phận sang quá trình."
+        },
+        {
+          "start": 25.6,
+          "end": 34.76,
+          "emotion": "Hướng về thực hành",
+          "evidence": "Làm nhiều, làm đều gắn với năng lực.",
+          "interpretation": "Kết bằng hướng hành động nhưng chưa có kế hoạch cụ thể."
+        }
+      ],
+      "informationDesign": [
+        {
+          "start": 0,
+          "end": 7.04,
+          "move": "Nêu suy nghĩ rồi sửa ngay",
+          "reason": "Không giữ đáp án để tạo khoảng trống giả."
+        },
+        {
+          "start": 7.04,
+          "end": 17.92,
+          "move": "Bình thường hóa biến động và nêu mục đích",
+          "reason": "Cho người xem hiểu vì sao sự phân biệt có ích."
+        },
+        {
+          "start": 17.92,
+          "end": 34.76,
+          "move": "Mở sang nguyên tắc rèn luyện",
+          "reason": "Nối cách nghĩ với tiếp tục làm, không chỉ dừng ở an ủi."
+        }
+      ],
+      "strengths": [
+        {
+          "point": "Phân biệt chính xác thay cho khẩu hiệu",
+          "evidence": "3,36–7,04 giây tách một việc tại một thời điểm khỏi con người."
+        },
+        {
+          "point": "Đáp án có ngay trong mở",
+          "evidence": "Trong 7,04 giây đã cung cấp cách sửa, phần sau bổ sung ý nghĩa."
+        },
+        {
+          "point": "Hình và lời có sự hỗ trợ ở khung mẫu",
+          "evidence": "Khung 3 giây tay lên ngực ở tự quy kết; khung 6,25 giây phụ đề chuyển sang một việc."
+        }
+      ],
+      "weaknesses": [
+        {
+          "point": "Từ làm nhiều sang tự tin được trình bày khái quát",
+          "evidence": "22,28–34,76 giây không nêu phản hồi, cách sửa hay điều kiện luyện tập hiệu quả."
+        },
+        {
+          "point": "Không đưa ví dụ chuyên môn hoàn chỉnh",
+          "evidence": "Tình huống chuẩn bị kỹ nhưng chưa đạt ở 9,52–12,84 giây chỉ là mô tả chung."
+        }
+      ],
+      "shareabilityHypotheses": [
+        "Có thể được gửi cho người vừa bị đánh giá công việc vì clip cho ngôn ngữ tách lỗi khỏi bản thân.",
+        "Câu kết về lặp lại có thể phù hợp lưu để nhắc mình; chưa có dữ liệu save hoặc khảo sát ý định."
+      ],
+      "adaptationRules": [
+        "Mở bằng suy nghĩ cụ thể, tránh gắn cho mọi người một trạng thái tâm lý.",
+        "Trả phân biệt cốt lõi ngay rồi dùng thời lượng còn lại làm rõ hệ quả.",
+        "Khi mở rộng thành kịch bản, thêm một ví dụ sửa việc và vòng phản hồi thực tế; không chỉ lặp lời động viên.",
+        "Giữ đây là góc nhìn về học kỹ năng, không hứa chữa vấn đề tâm lý."
+      ],
+      "mindmapBranches": [
+        {
+          "label": "Mở 0–3,36s",
+          "children": [
+            "Phản hồi xấu",
+            "Tự quy kết thất bại"
+          ]
+        },
+        {
+          "label": "Sửa 3,36–12,84s",
+          "children": [
+            "Một việc, một thời điểm",
+            "Phong độ thay đổi"
+          ]
+        },
+        {
+          "label": "Mục đích 12,84–17,92s",
+          "children": [
+            "Bảo toàn khả năng tiếp tục",
+            "Tách việc khỏi bản thân"
+          ]
+        },
+        {
+          "label": "Đổi khung 17,92–25,6s",
+          "children": [
+            "Tự tin có thể rèn",
+            "Không chỉ do bẩm sinh"
+          ]
+        },
+        {
+          "label": "Kết 25,6–34,76s",
+          "children": [
+            "Làm nhiều và đều",
+            "Chưa có bài tập cụ thể"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "7703767680964185350",
+    "title": "Mặt bằng bỏ trống: từ một tuyến phố tới câu hỏi về giá thuê",
+    "deliveryStyle": "Bản tin ngắn bằng footage địa điểm và tiêu đề cố định",
+    "openingObservation": "Câu đầu đưa địa điểm, hiện tượng và số lượng vào cùng một headline. Khung mở là mặt tiền có biển cho thuê; tiêu đề vàng giữ nguyên qua nhiều khung nên người lướt có thể nhận ra vấn đề bằng hình/chữ trước khi theo hết lời.",
+    "visualEvidence": [
+      {
+        "time": 0,
+        "observation": "Mặt tiền có biển cho thuê, phía dưới là headline vàng trên nền xanh và ngày 03/11/2026."
+      },
+      {
+        "time": 10.95,
+        "observation": "Chuyển sang một mặt bằng đóng cửa khác; khối headline vẫn giữ nguyên."
+      },
+      {
+        "time": 21.9,
+        "observation": "Ảnh biển cho thuê bằng tiếng Anh minh họa trạng thái tìm khách."
+      },
+      {
+        "time": 32.85,
+        "observation": "Một cửa hàng đóng cửa với biển cho thuê; tiêu đề cố định không đổi thành thông tin mới."
+      }
+    ],
+    "beats": [
+      {
+        "start": 0,
+        "end": 3.96,
+        "summary": "Đặt hiện tượng trả mặt bằng tại TP.HCM cùng một số lượng nổi bật.",
+        "role": "Headline định lượng và địa phương."
+      },
+      {
+        "start": 4.64,
+        "end": 9.98,
+        "summary": "Đưa lý do tác giả nêu: doanh thu kinh doanh không đủ bù chi phí.",
+        "role": "Từ hiện tượng sang áp lực chi phí."
+      },
+      {
+        "start": 10.56,
+        "end": 18.36,
+        "summary": "Liệt kê ba tuyến đường cùng các lượng mặt bằng được báo cáo.",
+        "role": "Cụ thể hóa thay vì chỉ nói toàn thị trường."
+      },
+      {
+        "start": 18.94,
+        "end": 25.54,
+        "summary": "Đối chiếu chiều tăng tin đăng và chiều giảm nhu cầu tìm thuê.",
+        "role": "Đưa hai phía cung cầu vào một phép so."
+      },
+      {
+        "start": 30,
+        "end": 33.1,
+        "summary": "Nêu thương mại điện tử như một thay đổi đối với lợi thế mặt tiền.",
+        "role": "Thêm yếu tố khiến kỳ vọng cũ không còn chắc."
+      },
+      {
+        "start": 33.62,
+        "end": 36.02,
+        "summary": "Kết bằng câu hỏi liệu giá thuê phải giảm để tìm lại khách.",
+        "role": "Mở thảo luận, chưa tính mức giá cân bằng."
+      }
+    ],
+    "ending": "Bài kết bằng câu hỏi về khả năng điều chỉnh giá thuê, không đưa đáp án định lượng. Phần nội dung đã giải thích hiện tượng theo lập luận của tác giả nhưng chưa chứng minh quan hệ nhân quả bằng dữ liệu gốc.",
+    "mechanism": "Headline địa phương + lượng cụ thể → vài địa chỉ làm bằng chứng kể → hai chiều cung cầu → câu hỏi hệ quả.",
+    "transfer": "Có thể học cách dùng một địa điểm người xem nhận ra và một chỉ dấu cụ thể để mở tin ngắn; khi áp dụng cần kiểm số, nguồn và thời điểm, không lấy sự lặp của ảnh làm bằng chứng thị trường.",
+    "limitations": [
+      "Chỉ xem khung chọn lọc và đọc ASR vừa tạo, chưa nghe toàn âm hoặc xem liên tục.",
+      "Số lượng địa chỉ và tỷ lệ cung/cầu là dữ liệu tác giả nêu, chưa đối chiếu nguồn bất động sản gốc.",
+      "ASR có khoảng trống 25,54–30s; không tự viết thêm nội dung vào khoảng đó.",
+      "Không có retention, ảnh minh họa không tự chứng minh quy mô hiện tượng."
+    ],
+    "detail": {
+      "promise": "Một thị trường cho thuê đang khó tìm khách sẽ được nhìn qua các dấu hiệu cụ thể.",
+      "centralQuestion": "Điều gì làm mặt tiền không còn dễ đổi thành doanh thu, và giá thuê có chịu sức ép không?",
+      "emotionalArc": [
+        {
+          "start": 0,
+          "end": 3.96,
+          "emotion": "Chú ý vì gần nơi mình biết",
+          "evidence": "Nêu ngay TP.HCM và một lượng mặt bằng trên một tuyến đường.",
+          "interpretation": "Địa điểm làm phạm vi rõ; con số có thể khiến người xem muốn biết có rộng hơn không."
+        },
+        {
+          "start": 4.64,
+          "end": 18.36,
+          "emotion": "Nhận diện áp lực",
+          "evidence": "Nói đến chi phí rồi bổ sung ba tuyến đường.",
+          "interpretation": "Cảm giác hiện tượng có nhiều điểm xuất hiện, nhưng đó chưa là kiểm chứng thống kê."
+        },
+        {
+          "start": 18.94,
+          "end": 25.54,
+          "emotion": "Thấy một nghịch chiều",
+          "evidence": "Tin đăng và nhu cầu được mô tả đi hai hướng.",
+          "interpretation": "Hai chiều tạo câu hỏi điều chỉnh thay cho danh sách đơn thuần."
+        },
+        {
+          "start": 30,
+          "end": 36.02,
+          "emotion": "Chờ một hệ quả",
+          "evidence": "Nêu TMĐT rồi hỏi giá thuê có giảm.",
+          "interpretation": "Kết chuyển mô tả thành câu hỏi người xem có thể thảo luận."
+        }
+      ],
+      "informationDesign": [
+        {
+          "start": 0,
+          "end": 3.96,
+          "move": "Đóng phạm vi vào địa phương và một số lượng.",
+          "reason": "Người xem biết ngay tin nói ở đâu, chuyện gì."
+        },
+        {
+          "start": 10.56,
+          "end": 18.36,
+          "move": "Chuyển từ phát biểu chung sang ba địa chỉ.",
+          "reason": "Tăng chi tiết có thể đối chiếu sau khi xem."
+        },
+        {
+          "start": 18.94,
+          "end": 25.54,
+          "move": "Đặt cung và cầu cạnh nhau.",
+          "reason": "Giúp giải thích sức ép thay vì chỉ nêu hình vắng khách."
+        },
+        {
+          "start": 30,
+          "end": 36.02,
+          "move": "Đổi từ mặt bằng sang mô hình mua bán và giá.",
+          "reason": "Mở hệ quả, nhưng không giải được mọi yếu tố trong một câu."
+        }
+      ],
+      "strengths": [
+        {
+          "point": "Vào chuyện rất nhanh",
+          "evidence": "0–3,96s đủ địa phương, hiện tượng và số lượng."
+        },
+        {
+          "point": "Có tuyến giải thích cho headline",
+          "evidence": "4,64–25,54s nối chi phí, địa chỉ rồi hai phía thị trường."
+        }
+      ],
+      "weaknesses": [
+        {
+          "point": "Ảnh và chữ ít thêm thông tin sau mở",
+          "evidence": "Các khung 0,10,95,21,9,32,85s vẫn cùng headline; cần lời để biết số liệu mới."
+        },
+        {
+          "point": "Câu trả lời cuối còn treo",
+          "evidence": "33,62–36,02s hỏi về giá mà không đưa dữ liệu giá thuê cụ thể."
+        }
+      ],
+      "shareabilityHypotheses": [
+        "Tin địa phương có thể được gửi cho người đang thuê/cho thuê; chưa có dữ liệu người chia sẻ.",
+        "Một câu hỏi cuối liên quan giá có thể gợi ý kiến, nhưng không chứng minh tương tác hay giữ chân tăng."
+      ],
+      "adaptationRules": [
+        "Dùng địa điểm và chỉ dấu được kiểm, giữ ngày và nguồn gần số.",
+        "Không suy từ vài ảnh đóng cửa ra tình trạng toàn thị trường.",
+        "Nếu hứa giải đáp giá, thêm dữ liệu/điều kiện hoặc hạ mức hứa."
+      ],
+      "mindmapBranches": [
+        {
+          "label": "Mở 0–3,96s",
+          "children": [
+            "Địa phương",
+            "Lượng mặt bằng"
+          ]
+        },
+        {
+          "label": "Bối cảnh 4,64–9,98s",
+          "children": [
+            "Doanh thu và chi phí"
+          ]
+        },
+        {
+          "label": "Cụ thể 10,56–18,36s",
+          "children": [
+            "Ba tuyến đường"
+          ]
+        },
+        {
+          "label": "Giải thích 18,94–25,54s",
+          "children": [
+            "Hai phía cung cầu"
+          ]
+        },
+        {
+          "label": "Kết 30–36,02s",
+          "children": [
+            "Thay đổi TMĐT",
+            "Hỏi hệ quả giá thuê"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "7704887346113580308",
+    "title": "Tiền gửi bị gián đoạn: headline lớn và phần điều kiện phía sau",
+    "deliveryStyle": "Bản tin ngắn dẫn trên footage quốc tế, headline cố định",
+    "openingObservation": "Câu đầu đặt số người bị ảnh hưởng cạnh số tiền bị mắc kẹt. Hình 0–3s là đám đông ngoài phố, headline vàng giữ thông tin sự cố. Mở nhấn hậu quả trước khi cho biết bối cảnh nước ngoài và phạm vi bảo vệ tiền gửi.",
+    "visualEvidence": [
+      {
+        "time": 0,
+        "observation": "Footage đám đông có cờ, phía dưới có caption tiếng Anh và headline tiếng Việt về tiền không rút được."
+      },
+      {
+        "time": 14.83,
+        "observation": "Hình tòa nhà/cảnh lực lượng bên ngoài; headline sự cố vẫn giữ."
+      },
+      {
+        "time": 22.24,
+        "observation": "Một biển ngân hàng đứng dọc bên ngoài tòa nhà."
+      },
+      {
+        "time": 44.49,
+        "observation": "Footage biển biểu tình ở cuối, trong khi headline vẫn không bổ sung chi tiết bảo vệ tiền gửi."
+      }
+    ],
+    "beats": [
+      {
+        "start": 0,
+        "end": 4.78,
+        "summary": "Đặt hai lượng lớn về người và tiền để nêu hậu quả sự cố.",
+        "role": "Mở bằng tác động và quy mô."
+      },
+      {
+        "start": 5,
+        "end": 17.48,
+        "summary": "Nêu quốc gia, tên ngân hàng và lý do quản lý theo lời tác giả.",
+        "role": "Đặt bối cảnh cho headline."
+      },
+      {
+        "start": 17.94,
+        "end": 30.48,
+        "summary": "Thêm nguồn vốn công và các quỹ liên quan trong số tiền được nêu.",
+        "role": "Mở rộng nhóm chịu tác động."
+      },
+      {
+        "start": 31.08,
+        "end": 38.56,
+        "summary": "Bổ sung lời nêu về bảo hiểm tiền gửi và một hạn mức.",
+        "role": "Điều kiện làm cảm giác rủi ro ở đầu bớt tuyệt đối."
+      },
+      {
+        "start": 39.16,
+        "end": 43.12,
+        "summary": "Nêu diễn biến điều tra theo bản tin.",
+        "role": "Thêm nhánh trách nhiệm, chưa là kết luận xác minh của kho."
+      },
+      {
+        "start": 43.7,
+        "end": 49.02,
+        "summary": "Hỏi người gửi tiền cần chú ý gì và mời bình luận.",
+        "role": "Kết thành lời mời tương tác, không trả một bảng kiểm hoàn chỉnh."
+      }
+    ],
+    "ending": "Phần giữa có điều kiện bảo vệ người gửi tiền, nhưng cuối chỉ hỏi và kêu gọi bình luận. Cần giữ cả điều kiện đó khi học mở đầu; không bê riêng con số gây lo lắng thành một cảnh báo mới.",
+    "mechanism": "Tác động lớn được nêu trước → bổ sung bối cảnh và nhóm liên quan → thêm điều kiện giảm tính tuyệt đối → hỏi cách ứng xử.",
+    "transfer": "Học cách đưa hệ quả trước bối cảnh cho tin ngắn, đồng thời đưa điều kiện giới hạn đủ sớm. Không dùng headline về một nước để tạo ấn tượng đang xảy ra tại Việt Nam.",
+    "limitations": [
+      "Bản tin có lời tiếng Việt nhưng sự kiện được kể ở nước ngoài; không có analytics vị trí người xem.",
+      "Không xác minh độc lập sự cố, tên ngân hàng, số vốn, tình trạng điều tra hoặc phạm vi bảo hiểm.",
+      "Footage chọn lọc không tự chứng minh tương ứng sự kiện; caption tiếng Anh cũng cần kiểm nguồn.",
+      "Chỉ xem khung và đọc ASR mới, chưa nghe toàn âm/xem liên tục."
+    ],
+    "detail": {
+      "promise": "Một sự cố tiền gửi có quy mô lớn sẽ được giải thích về bối cảnh và tác động.",
+      "centralQuestion": "Sự gián đoạn ảnh hưởng tới ai và điều kiện bảo vệ nào thay đổi cách hiểu headline?",
+      "emotionalArc": [
+        {
+          "start": 0,
+          "end": 4.78,
+          "emotion": "Báo động",
+          "evidence": "Hai lượng người và tiền lớn được đặt cạnh việc không rút được.",
+          "interpretation": "Có thể kéo sự chú ý vì hậu quả sát tài sản, nhưng không có dữ liệu đo cảm xúc."
+        },
+        {
+          "start": 5,
+          "end": 17.48,
+          "emotion": "Tìm nguyên nhân",
+          "evidence": "Bổ sung quốc gia và lời giải thích việc quản lý ngân hàng.",
+          "interpretation": "Người xem có bối cảnh để không nhầm đây là sự việc trong nước."
+        },
+        {
+          "start": 17.94,
+          "end": 30.48,
+          "emotion": "Thấy phạm vi lan rộng",
+          "evidence": "Nêu vốn công và các quỹ.",
+          "interpretation": "Thêm lớp tác động, không chứng minh chi tiết đó đã đúng."
+        },
+        {
+          "start": 31.08,
+          "end": 38.56,
+          "emotion": "Điều chỉnh mức lo",
+          "evidence": "Bổ sung bảo vệ và hạn mức theo tác giả.",
+          "interpretation": "Một điều kiện quan trọng làm lời mở không thể đọc theo nghĩa mất toàn bộ."
+        },
+        {
+          "start": 43.7,
+          "end": 49.02,
+          "emotion": "Chuyển sang tự liên hệ",
+          "evidence": "Hỏi người gửi tiền cần chú ý.",
+          "interpretation": "Tạo chỗ thảo luận, chưa đưa bước kiểm đầy đủ."
+        }
+      ],
+      "informationDesign": [
+        {
+          "start": 0,
+          "end": 4.78,
+          "move": "Đưa quy mô trước tên sự kiện.",
+          "reason": "Tập trung hậu quả ngay mở."
+        },
+        {
+          "start": 5,
+          "end": 17.48,
+          "move": "Bổ sung bối cảnh nước ngoài và nguyên nhân được báo cáo.",
+          "reason": "Giới hạn đối tượng headline."
+        },
+        {
+          "start": 17.94,
+          "end": 30.48,
+          "move": "Phân nhỏ số tiền thành nguồn liên quan.",
+          "reason": "Làm quy mô có thành phần thay vì một số trừu tượng."
+        },
+        {
+          "start": 31.08,
+          "end": 38.56,
+          "move": "Đưa điều kiện bảo vệ sau phần gây lo.",
+          "reason": "Có tác dụng đổi cách hiểu; nếu chậm quá có thể khiến phần mở gây hiểu sai."
+        },
+        {
+          "start": 43.7,
+          "end": 49.02,
+          "move": "Đổi bản tin thành câu hỏi cho người xem.",
+          "reason": "Mời liên hệ, nhưng chưa thay được phần hướng dẫn có nguồn."
+        }
+      ],
+      "strengths": [
+        {
+          "point": "Headline dễ nhận diện",
+          "evidence": "0–4,78s có hành động bị gián đoạn và hai lượng cụ thể."
+        },
+        {
+          "point": "Có chi tiết hạn chế kết luận tuyệt đối",
+          "evidence": "31,08–38,56s thêm bảo vệ tiền gửi thay vì giữ toàn bài ở trạng thái hoảng."
+        }
+      ],
+      "weaknesses": [
+        {
+          "point": "Điều kiện quan trọng đến khá muộn",
+          "evidence": "Tới 31,08s mới có phần bảo vệ; chữ headline vẫn là lời báo động ở khung cuối."
+        },
+        {
+          "point": "Hình minh họa chưa chứng minh nguồn sự kiện",
+          "evidence": "Đám đông, tòa nhà và biển ngân hàng không đủ xác nhận mọi phát biểu ASR."
+        },
+        {
+          "point": "Kết hỏi thay vì trả đầy đủ",
+          "evidence": "43,7–49,02s là câu hỏi và CTA bình luận."
+        }
+      ],
+      "shareabilityHypotheses": [
+        "Tác động tiền gửi có thể khiến người xem gửi tin cho người thân; chưa có số liệu cho giả thuyết đó.",
+        "Hai lượng lớn giúp headline dễ kể lại, đồng thời tạo nguy cơ thông tin thiếu điều kiện nếu bị cắt khỏi bài."
+      ],
+      "adaptationRules": [
+        "Kiểm nguồn thật, quốc gia và ngày trước khi viết bản tin tương tự.",
+        "Không giấu điều kiện bảo vệ hoặc đánh tráo gián đoạn rút tiền với mất tiền.",
+        "Không dùng ảnh biểu tình không rõ xuất xứ làm bằng chứng tự đủ.",
+        "Nếu mở gợi cách phòng tránh, cần trả bằng thông tin đã xác minh, không chỉ CTA."
+      ],
+      "mindmapBranches": [
+        {
+          "label": "Mở 0–4,78s",
+          "children": [
+            "Người và số tiền",
+            "Hậu quả trước bối cảnh"
+          ]
+        },
+        {
+          "label": "Bối cảnh 5–17,48s",
+          "children": [
+            "Địa điểm nước ngoài",
+            "Lời giải thích tác giả"
+          ]
+        },
+        {
+          "label": "Mở rộng 17,94–30,48s",
+          "children": [
+            "Nguồn vốn liên quan"
+          ]
+        },
+        {
+          "label": "Điều kiện 31,08–38,56s",
+          "children": [
+            "Phần bảo vệ",
+            "Không bỏ khi chuyển thể"
+          ]
+        },
+        {
+          "label": "Kết 43,7–49,02s",
+          "children": [
+            "Câu hỏi cho người gửi",
+            "CTA chưa trả bảng kiểm"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "7692042220106468660",
+    "title": "Năm tài sản người trẻ: từ lời nhắn tuổi 18 đến các vai trò và rủi ro",
+    "deliveryStyle": "Video giảng giải dài với người dẫn, ảnh thời trẻ và thẻ chữ; khung ngang nằm giữa nền dọc",
+    "openingObservation": "ASR mở bằng giả định được trở lại tuổi 18 và điều tác giả muốn làm sớm hơn; sau 3,68 giây mới nói tới mua tài sản thay tiêu sản. Khung 0 giây đã có tiêu đề năm loại tài sản cho người trẻ năm 2026; khung 1–3 giây thêm ảnh người dẫn khi trẻ và chữ nhấn tuổi 18. Đây là hook hồi tưởng cá nhân bên trong một video dài hơn 12 phút, không phải mẫu nhịp Shorts nhanh. Danh sách được hứa bằng lời ở 77,32 giây và mục đầu bắt đầu ở 85,72 giây.",
+    "visualEvidence": [
+      {
+        "time": 0,
+        "observation": "Tiêu đề trắng nêu năm tài sản người trẻ nên có năm 2026, nằm phía trên đoạn hình ngang của người dẫn; nền đen dọc chiếm nhiều diện tích."
+      },
+      {
+        "time": 1,
+        "observation": "Ảnh thời trẻ của người dẫn được ghép bên phải; chữ nhấn ý quay lại 18 tuổi."
+      },
+      {
+        "time": 3,
+        "observation": "Chữ đỏ nhá một điều muốn làm sớm hơn cạnh ảnh cũ; đầu vào cảm xúc là quá khứ cá nhân."
+      },
+      {
+        "time": 5,
+        "observation": "Thẻ nền ô lưới thay người dẫn, chữ tô xanh tài sản và đỏ tiêu sản đặt hai khái niệm đối nhau."
+      },
+      {
+        "time": 111.87,
+        "observation": "Người dẫn quay lại trong khung ngang với nền phòng quen thuộc; không có tiêu đề danh sách lớn trong khung này."
+      },
+      {
+        "time": 223.73,
+        "observation": "Footage tiền đô la thay cảnh người dẫn, nằm trong cùng dải hình ngang."
+      },
+      {
+        "time": 335.6,
+        "observation": "Người dẫn ở cảnh nền phòng, gần mốc chuyển từ mục quỹ cổ phiếu sang ETF theo ASR."
+      },
+      {
+        "time": 447.46,
+        "observation": "Cùng cảnh người dẫn tại mốc mở mục vàng theo ASR."
+      },
+      {
+        "time": 671.19,
+        "observation": "Chữ xanh bảo vệ an toàn số tiền trên người dẫn, ứng với phần quỹ dự phòng."
+      },
+      {
+        "time": 744.77,
+        "observation": "Người dẫn chắp tay trước người ở khung cuối; không thấy màn CTA trong mẫu cuối."
+      }
+    ],
+    "beats": [
+      {
+        "start": 0,
+        "end": 85.72,
+        "summary": "Hồi tưởng tuổi 18, phân biệt tài sản/tiêu sản, giải thích giới hạn 24 giờ lao động và ví đội quân tài chính; cuối đoạn mới hứa năm loại tài sản.",
+        "role": "Dựng động cơ và quan hệ cá nhân trước danh sách; phần dẫn dài theo định dạng bài giảng."
+      },
+      {
+        "start": 85.72,
+        "end": 178.4,
+        "summary": "Giải thích quỹ cổ phiếu theo mô hình góp tiền cho đội quản lý; dẫn sang ví dụ người 18 và 30 tuổi đầu tư khác mức tiền nhưng cùng tuổi nghỉ hưu.",
+        "role": "Dùng so sánh hai nhân vật để làm rõ lợi thế bắt đầu sớm dưới giả định lợi suất."
+      },
+      {
+        "start": 178.4,
+        "end": 336.6,
+        "summary": "Nêu mô phỏng tích lũy quỹ DCDS, tiếp tục lợi ích ít vốn/ít thời gian và đa dạng hóa; sau đó nói thị trường có thể giảm, nhiều loại phí và quỹ có thể thua.",
+        "role": "Đặt con số minh họa cạnh điều kiện và rủi ro; đây vẫn là một mục kéo dài."
+      },
+      {
+        "start": 336.6,
+        "end": 446.26,
+        "summary": "Định nghĩa ETF bám chỉ số, so cách vận hành và phí với quỹ chủ động; kết bằng rủi ro thị trường và tập trung ngành.",
+        "role": "Tạo tiểu bài phân biệt hai công cụ hay bị gộp chung."
+      },
+      {
+        "start": 446.26,
+        "end": 586.04,
+        "summary": "Chuyển vai trò sang vàng phòng thủ/đa dạng hóa, minh họa hai danh mục 100 triệu, rồi liệt kê chênh lệch mua bán, thiếu dòng tiền và bảo quản.",
+        "role": "Lặp cấu trúc công dụng → ví dụ → hạn chế để tránh danh sách chỉ có tên."
+      },
+      {
+        "start": 586.04,
+        "end": 677.1,
+        "summary": "Tự đặt câu hỏi tiết kiệm có gì hấp dẫn, đổi tiêu chí từ tăng trưởng sang quỹ dự phòng; dùng tình huống mất việc và bán tài sản khi giảm để giải thích.",
+        "role": "Đưa một phản đối vào lời dẫn rồi sửa tiêu chí đánh giá."
+      },
+      {
+        "start": 677.1,
+        "end": 745.64,
+        "summary": "Để crypto cuối vì rủi ro cao, nhắc tỷ trọng nhỏ, nền tài chính và không dùng đòn bẩy theo lựa chọn cá nhân; đóng bằng xác nhận đã kể đủ danh sách.",
+        "role": "Kết theo thứ tự điều kiện nền tảng rồi mới đến rủi ro cao; không có CTA bán hàng trong ASR."
+      }
+    ],
+    "ending": "ASR chốt danh sách sau phần crypto, cùng cảnh người dẫn ở khung cuối. Không có lời bảo đảm lợi suất hay CTA mua cụ thể ở kết; tuy vậy những lời khuyên trong từng mục vẫn cần được tách khỏi phân tích thủ pháp kể.",
+    "mechanism": "Hồi tưởng tuổi 18 → sửa kỳ vọng tài sản phải là nhà/xe → giới hạn thời gian lao động → danh sách năm nhóm → mỗi nhóm có vai trò, ví dụ, nhược điểm → tài sản rủi ro cao ở cuối. Giá trị mẫu nằm ở cách phân vai tài sản và đặt phản đối trong bài giảng; độ dài mở đầu không thể mặc định phù hợp video ngắn.",
+    "transfer": "Học việc dùng quá khứ cá nhân có thật để mở một quyết định, rồi tổ chức danh sách theo vai trò thay vì chỉ đọc tên. Với video ngắn, chọn một câu hỏi và một mô hình; không bê nguyên mở bài 85 giây hoặc mọi ví dụ lợi suất vào clip 60 giây.",
+    "limitations": [
+      "Đã đọc toàn bộ ASR có timestamp và xem 12 khung trích của bản tải mới; chưa nghe toàn âm hoặc xem video liên tục.",
+      "Mốc nhịp dựa trên ASR; không dùng bản chép tự động làm trích dẫn nguyên văn.",
+      "Không có retention hay thử nghiệm nhân quả; số lượt xem không chứng minh hook tạo ra kết quả.",
+      "Đây là video dài khoảng 745,77 giây;12 khung chọn mẫu không đủ để mô tả nhịp cắt, chữ và hình của mọi mục.",
+      "Lợi suất giả định 12%, phép mô phỏng DCDS, phí quỹ và quan hệ giá tài sản chưa được kiểm chứng độc lập; không phải cam kết hoặc khuyến nghị đầu tư.",
+      "ASR nhận sai nhiều thuật ngữ như chứng chỉ quỹ,VN 30,thanh khoản,lãi kép; cần nghe lại trước trích lời chính xác.",
+      "ASR có khoảng trống 657,14–663,9 giây; không khẳng định nội dung đã được chép ở đoạn này.",
+      "Các nhận định thanh khoản tiền gửi, khả năng thắng lạm phát và mô tả rủi ro crypto được ghi như quan điểm tác giả, không xác nhận cho mọi sản phẩm hay hoàn cảnh."
+    ],
+    "detail": {
+      "promise": "Kể năm nhóm tài sản theo lời tác giả muốn tích lũy, lý do mỗi nhóm có vai trò và điểm cần thận trọng.",
+      "centralQuestion": "Nếu bắt đầu từ thu nhập nhỏ, tác giả sắp xếp mục tiêu tăng trưởng và phòng thủ ra sao?",
+      "emotionalArc": [
+        {
+          "start": 0,
+          "end": 29.82,
+          "emotion": "Nhìn lại và bớt áp lực",
+          "evidence": "Tưởng tượng tuổi 18 rồi bác kỳ vọng người trẻ đã phải có nhà xe vài tỷ.",
+          "interpretation": "Có thể đưa khán giả trẻ vào câu chuyện mà không đặt chuẩn quá cao; phản ứng chưa đo."
+        },
+        {
+          "start": 29.82,
+          "end": 85.72,
+          "emotion": "Muốn có lối thoát khỏi giới hạn thời gian",
+          "evidence": "Giới hạn 24 giờ và hình dung đội quân tài chính dẫn tới danh sách.",
+          "interpretation": "Đổi động cơ từ sở hữu sang giảm phụ thuộc công sức."
+        },
+        {
+          "start": 125.98,
+          "end": 178.4,
+          "emotion": "Ngạc nhiên với lợi thế thời gian",
+          "evidence": "Hai người đầu tư khác tiền nhưng bắt đầu lệch 12 năm được so theo một giả định lợi suất.",
+          "interpretation": "Mâu thuẫn giữa số tiền và kết quả làm ví dụ nổi bật; tính toán chưa được kiểm lại."
+        },
+        {
+          "start": 289.28,
+          "end": 336.6,
+          "emotion": "Thận trọng sau phần lợi ích",
+          "evidence": "Tác giả nói quỹ vẫn có thể lỗ, có phí và hiệu quả khác nhau.",
+          "interpretation": "Dời sắc thái từ kỳ vọng sang điều kiện lựa chọn."
+        },
+        {
+          "start": 586.04,
+          "end": 677.1,
+          "emotion": "Muốn có lớp đệm",
+          "evidence": "Tiết kiệm được ví tấm khiên; tình huống mất việc giải thích quỹ dự phòng.",
+          "interpretation": "Đổi cảm giác tăng trưởng sang an tâm."
+        },
+        {
+          "start": 677.1,
+          "end": 745.64,
+          "emotion": "Tò mò có giới hạn",
+          "evidence": "Crypto đi cùng tỷ trọng nhỏ và nền tảng tài chính.",
+          "interpretation": "Đặt điều kiện trước phần kết rủi ro cao, không xem là xác nhận an toàn."
+        }
+      ],
+      "informationDesign": [
+        {
+          "start": 0,
+          "end": 85.72,
+          "move": "Dùng trải nghiệm giả định để dựng động cơ rồi công bố danh sách.",
+          "reason": "Quan hệ cá nhân đi trước phân loại, nhưng tạo độ trễ lớn tới mục đầu."
+        },
+        {
+          "start": 125.98,
+          "end": 178.4,
+          "move": "Giữ cùng tuổi đích, thay tuổi bắt đầu và mức góp.",
+          "reason": "Cho lợi thế thời gian xuất hiện qua phép so hai nhân vật."
+        },
+        {
+          "start": 289.28,
+          "end": 336.6,
+          "move": "Bổ sung hạn chế trong cùng mục.",
+          "reason": "Ngăn người mới hiểu việc giao tiền cho chuyên gia là hết rủi ro."
+        },
+        {
+          "start": 336.6,
+          "end": 446.26,
+          "move": "So hai cách đầu tư vào cổ phiếu theo vận hành/phí/rủi ro.",
+          "reason": "Tách những công cụ gần nhau bằng tiêu chí."
+        },
+        {
+          "start": 446.26,
+          "end": 677.1,
+          "move": "Chuyển từ công cụ tăng trưởng sang phòng thủ và dự phòng.",
+          "reason": "Cho mỗi mục một công việc, không đánh giá tất cả bằng lợi suất."
+        },
+        {
+          "start": 677.1,
+          "end": 745.64,
+          "move": "Đặt công cụ rủi ro cao sau phần nền tảng.",
+          "reason": "Thứ tự tạo quan hệ điều kiện thay vì năm lựa chọn ngang nhau."
+        }
+      ],
+      "strengths": [
+        {
+          "point": "Hook có vật chứng cá nhân nhìn thấy",
+          "evidence": "Khung 1–3 giây ghép ảnh thời trẻ cạnh lời giả định quay lại 18 tuổi."
+        },
+        {
+          "point": "Danh sách có công dụng chứ không chỉ tên",
+          "evidence": "Vàng được nói như lớp phòng thủ ở 446,26 giây; tiết kiệm thành tấm khiên ở 611,3 giây."
+        },
+        {
+          "point": "Có phản đối làm câu chuyển",
+          "evidence": "588,8–607,1 giây tự hỏi tiết kiệm có hấp dẫn với người trẻ rồi sửa tiêu chí."
+        },
+        {
+          "point": "Nhiều mục có nhược điểm ngay trong bài",
+          "evidence": "Quỹ có rủi ro/phí ở 289,28–336,6 giây; vàng có ba nhóm hạn chế ở 512,22–586,04 giây."
+        }
+      ],
+      "weaknesses": [
+        {
+          "point": "Danh sách tới chậm nếu dùng làm mẫu Shorts",
+          "evidence": "Lời hứa danh sách ở 77,32 giây, mục đầu 85,72 giây."
+        },
+        {
+          "point": "Thời lượng phân bổ rất lệch",
+          "evidence": "Mục quỹ cổ phiếu kéo từ 85,72 đến 336,6 giây, trong khi crypto chỉ khoảng 68,5 giây cuối."
+        },
+        {
+          "point": "Con số dài hạn dễ thành kỳ vọng nếu thiếu nguồn",
+          "evidence": "125,98–226,48 giây có giả định 12% và mô phỏng 20 năm; cần giải thích cách tính và giới hạn."
+        },
+        {
+          "point": "Bản ngang trong nền dọc làm hình nhỏ",
+          "evidence": "Khung 0 và 447,46 giây đều có nhiều khoảng đen trên/dưới, giảm diện tích người dẫn và chữ."
+        }
+      ],
+      "shareabilityHypotheses": [
+        "Ảnh tuổi 18 và lời nhắn người trẻ có thể tạo nhu cầu gửi cho bạn bè cùng lứa; chưa có dữ liệu chia sẻ để kiểm.",
+        "Phân vai tăng trưởng/phòng thủ/dự phòng có thể khiến người xem lưu để tra lại, nhưng không thể suy điều đó từ lượt xem."
+      ],
+      "adaptationRules": [
+        "Chỉ dùng hồi tưởng cá nhân thật hoặc giả định được nói rõ; không bịa thành tích tuổi trẻ.",
+        "Giữ cấu trúc vai trò → ví dụ → giới hạn khi làm danh sách.",
+        "Khi làm clip ngắn chỉ chọn một xung đột và trả lời nó trong clip.",
+        "Đánh dấu giả định, nguồn lịch sử và kỳ tính cho mọi số tăng trưởng.",
+        "Không biến lời tác giả thành danh mục nên mua cho mọi người.",
+        "Tách ETF,quỹ chủ động và crypto theo rủi ro thực, tránh phép so khiến chúng bị coi tương đương."
+      ],
+      "mindmapBranches": [
+        {
+          "label": "Mở cá nhân",
+          "children": [
+            "Nếu trở lại 18 tuổi",
+            "Ảnh thời trẻ",
+            "Tài sản đối với tiêu sản"
+          ]
+        },
+        {
+          "label": "Động cơ",
+          "children": [
+            "Giới hạn 24 giờ",
+            "Tích lũy qua thời gian"
+          ]
+        },
+        {
+          "label": "Tăng trưởng",
+          "children": [
+            "Quỹ cổ phiếu",
+            "Ví dụ tuổi bắt đầu",
+            "ETF và chỉ số"
+          ]
+        },
+        {
+          "label": "Phòng thủ",
+          "children": [
+            "Vàng và hạn chế",
+            "Tiết kiệm làm dự phòng"
+          ]
+        },
+        {
+          "label": "Rủi ro cao",
+          "children": [
+            "Crypto ở cuối",
+            "Tỷ trọng nhỏ theo tác giả"
+          ]
+        },
+        {
+          "label": "Cần chỉnh khi học",
+          "children": [
+            "Mở dài 85 giây",
+            "Số liệu cần nguồn",
+            "Khung ngang trong nền dọc"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "7672004205518933255",
+    "title": "Sau lợi nhuận kỷ lục Techcombank: đổi từ kết quả sang nguồn thu",
+    "deliveryStyle": "Người dẫn phân tích báo cáo, chèn ảnh bài báo, biểu đồ và hình dịch vụ; phụ đề nhấn màu",
+    "openingObservation": "0–6,42 giây ASR nêu lợi nhuận trước thuế quýII và mức tăng theo tác giả. 6,42–10,42 giây lập tức đổi hướng: thành tích đó chưa phải điều người dẫn quan tâm nhất. Khung 1–5 giây chèn ảnh bài báo về kỷ lục, có tô vàng dòng số liệu; sau đó hình trở lại người dẫn. Hook dùng thông tin đang nổi để mở câu hỏi về chất lượng nguồn thu, trong một clip có hashtag hợp tác cùng Techcombank ở metadata.",
+    "visualEvidence": [
+      {
+        "time": 0,
+        "observation": "Người dẫn áo đen trước nền ánh đỏ và bảng số kiểu chứng khoán; hai tay mở khi nói."
+      },
+      {
+        "time": 1,
+        "observation": "Ảnh bài báo với tiêu đề Techcombank tiếp tục phá kỷ lục lợi nhuận trong quýII phủ giữa thân người dẫn."
+      },
+      {
+        "time": 3,
+        "observation": "Dòng số liệu trong ảnh bài báo được tô vàng, làm rõ điểm mở bằng kết quả kinh doanh."
+      },
+      {
+        "time": 13.25,
+        "observation": "Người dẫn trở lại, phụ đề trắng có cụm quan trọng nhấn bằng nền đỏ."
+      },
+      {
+        "time": 26.49,
+        "observation": "Ảnh góc trên bàn tư vấn/họp chèn vào giữa, nền người dẫn phía sau được làm mờ."
+      },
+      {
+        "time": 39.74,
+        "observation": "Hình minh họa nhà/cây và thương hiệu đặt trong dải ngang, hai phía có nền đen; tương ứng phần dịch vụ/đối tác."
+      },
+      {
+        "time": 52.98,
+        "observation": "Thẻ biểu đồ cột cólogo Techcombank và số lợi nhuận trước thuế 18,5 nghìn tỷ; chữ nhỏ nên cần nguồn gốc để kiểm."
+      },
+      {
+        "time": 66.23,
+        "observation": "Người dẫn cùng phụ đề về toàn bộ nhu cầu, nhấn một cụm bằng màu đỏ."
+      },
+      {
+        "time": 87.31,
+        "observation": "Người dẫn chắp tay ở phần kết luận về lợi thế cạnh tranh; không thấy lệnh mua hay CTA trong khung cuối."
+      }
+    ],
+    "beats": [
+      {
+        "start": 0,
+        "end": 10.42,
+        "summary": "Nêu kỷ lục lợi nhuận và tăng trưởng rồi nói đó chưa phải điểm quan tâm nhất.",
+        "role": "Mượn kết quả dễ chú ý để mở khoảng trống về điều sâu hơn."
+      },
+      {
+        "start": 10.42,
+        "end": 24.08,
+        "summary": "Chuyển câu hỏi sang kiếm tiền từ đâu, tăng trưởng bền vững không; đưa luận điểm chuyển từ ngân hàng sang hệ sinh thái tài chính.",
+        "role": "Đổi thước đo từ quy mô lợi nhuận sang cấu trúc kinh doanh."
+      },
+      {
+        "start": 24.08,
+        "end": 41.54,
+        "summary": "Mô tả các nhu cầu ngân hàng, chứng khoán, bảo hiểm cùng một hệ thống; liệt kê công ty và đối tác theo tác giả.",
+        "role": "Dịch nhãn hệ sinh thái thành những dịch vụ cụ thể."
+      },
+      {
+        "start": 41.54,
+        "end": 60.36,
+        "summary": "Dùng thu nhập dịch vụ và tốc độ tăng một số hoạt động để hỗ trợ luận điểm;ASR có một khoảng trống giữa 49,54 và 54,08 giây.",
+        "role": "Đưa số liệu làm phần chống lưng sau khi đã giải thích mô hình."
+      },
+      {
+        "start": 60.36,
+        "end": 77.24,
+        "summary": "Nhấn không chỉ bán thêm sản phẩm mà đáp ứng nhu cầu suốt đời; nối gửi tiền, thanh toán, đầu tư, bảo hiểm với nhiều nguồn thu và gắn bó.",
+        "role": "Giải thích cơ chế kỳ vọng thay vì dừng ở danh sách công ty."
+      },
+      {
+        "start": 77.24,
+        "end": 88.3,
+        "summary": "Gọi kỷ lục là phần nổi, quay lại câu chuyện hệ sinh thái và khả năng duy trì lợi thế dài hạn.",
+        "role": "Khép vòng thông tin đầu bằng cùng một thước đo mới; đây là nhận định của tác giả."
+      }
+    ],
+    "ending": "Kết quay lại con số kỷ lục để gọi nó là phần nổi, rồi nâng luận điểm hệ sinh thái thành khả năng duy trì lợi thế. Không thấy CTA mua trong ASR hoặc khung cuối, nhưng metadata có dấu hợp tác nên không coi đây là bình luận hoàn toàn độc lập.",
+    "mechanism": "Tin thành tích → “điều tôi quan tâm hơn” → câu hỏi nguồn thu → định nghĩa bằng nhu cầu khách hàng → số liệu → cơ chế gắn bó → quay lại thành tích. Đây là hook đổi góc đánh giá: cho người xem thêm một câu hỏi về cùng bản tin. Không có dữ liệu chứng minh hook tạo lượt xem, và không dùng luận điểm quảng bá làm sự thật đã kiểm chứng.",
+    "transfer": "Học việc đưa một chỉ số tiêu đề rồi chuyển sang câu hỏi giúp đọc chất lượng của chỉ số đó. Phải thực sự đưa thêm dữ liệu và kiểm tra phản chứng; công khai ngữ cảnh hợp tác, tách nhận định thương hiệu khỏi kết luận phân tích độc lập.",
+    "limitations": [
+      "Đã đọc toàn bộ ASR có timestamp và xem 12 khung trích của bản tải mới; chưa nghe toàn âm hoặc xem video liên tục.",
+      "Mốc nhịp dựa trên ASR; không dùng bản chép tự động làm trích dẫn nguyên văn.",
+      "Không có retention hay thử nghiệm nhân quả; số lượt xem không chứng minh hook tạo ra kết quả.",
+      "Metadata mô tả có#hoptaccungtechcombank, nên đánh dấu nội dung hợp tác thương hiệu; không suy chi tiết hợp đồng hoặc mức chi trả.",
+      "Lợi nhuận 9.670 tỷ, các mức tăng và thu nhập dịch vụ được ghi theo clip; chưa kiểm chứng báo cáo gốc, kỳ và cách phân loại.",
+      "ASR nhận sai tên Techcombank,TechcomLife,TechcomInsurance và đối tác; phân tích không dùng cách viết máy như trích dẫn chính xác.",
+      "ASR thiếu 49,54–54,08 giây; không suy nội dung phần này chỉ từ biểu đồ khung 52,98 giây.",
+      "Mô hình hệ sinh thái có thể tạo gắn bó/lợi thế là luận điểm tác giả; clip mẫu chưa cung cấp phép đo nhân quả hoặc phân tích đầy đủ chi phí và rủi ro."
+    ],
+    "detail": {
+      "promise": "Giải thích điều tác giả xem quan trọng hơn lợi nhuận kỷ lục: cấu trúc nguồn thu và việc nối dịch vụ tài chính.",
+      "centralQuestion": "Ngoài con số lợi nhuận, nguồn thu và quan hệ với khách hàng cho biết điều gì về mô hình ngân hàng theo tác giả?",
+      "emotionalArc": [
+        {
+          "start": 0,
+          "end": 10.42,
+          "emotion": "Chú ý rồi muốn biết điều bị bỏ qua",
+          "evidence": "Con số kỷ lục đi trước câu chưa phải điều quan tâm nhất.",
+          "interpretation": "Hạ trọng tâm của tin lớn để mở một câu hỏi mới; phản ứng chưa được đo."
+        },
+        {
+          "start": 10.42,
+          "end": 24.08,
+          "emotion": "Chờ một cách đọc khác",
+          "evidence": "Nguồn tiền và bền vững được nêu rồi dẫn sang hệ sinh thái.",
+          "interpretation": "Đặt người dẫn vào vai giải thích ý nghĩa, không chỉ đọc số."
+        },
+        {
+          "start": 24.08,
+          "end": 60.36,
+          "emotion": "Có mô hình để hình dung",
+          "evidence": "Dịch vụ, công ty và số thu nhập được đưa thành từng lớp.",
+          "interpretation": "Tạo cảm giác luận điểm có cấu trúc; dữ kiện vẫn cần nguồn."
+        },
+        {
+          "start": 60.36,
+          "end": 88.3,
+          "emotion": "Có lời giải chung cho các dịch vụ",
+          "evidence": "Nhiều nhu cầu trong đời khách hàng được nối với gắn bó và nguồn thu.",
+          "interpretation": "Cho các mục rời rạc một câu chuyện, nhưng kết luận hiện thuận chiều thương hiệu."
+        }
+      ],
+      "informationDesign": [
+        {
+          "start": 0,
+          "end": 10.42,
+          "move": "Đưa tin quen rồi đổi trọng tâm.",
+          "reason": "Tạo lý do xem tiếp sau khi người xem đã biết kết quả."
+        },
+        {
+          "start": 10.42,
+          "end": 24.08,
+          "move": "Nói tiêu chí đánh giá trước lời giải.",
+          "reason": "Nguồn thu và bền vững trở thành khung để đọc phần sau."
+        },
+        {
+          "start": 24.08,
+          "end": 41.54,
+          "move": "Dịch hệ sinh thái thành chuỗi nhu cầu.",
+          "reason": "Giảm tính trừu tượng của thuật ngữ doanh nghiệp."
+        },
+        {
+          "start": 41.54,
+          "end": 60.36,
+          "move": "Chèn số liệu và biểu đồ sau mô hình.",
+          "reason": "Các số có một ý cần hỗ trợ thay vì thành danh sách thành tích rời rạc."
+        },
+        {
+          "start": 60.36,
+          "end": 88.3,
+          "move": "Nối nhu cầu với nguồn thu/gắn bó rồi gọi lại mở bài.",
+          "reason": "Tạo kết luận thống nhất, nhưng cần thêm kiểm tra để tránh chỉ diễn đạt thông điệp hợp tác."
+        }
+      ],
+      "strengths": [
+        {
+          "point": "Chuyển góc rất sớm",
+          "evidence": "6,42–10,42 giây đã rời kỷ lục sang điều đáng quan tâm hơn."
+        },
+        {
+          "point": "Có hình cho mốc số mở đầu",
+          "evidence": "Khung 1–5 giây hiện ảnh bài báo và dòng tô vàng."
+        },
+        {
+          "point": "Thuật ngữ được giải thích bằng nhu cầu",
+          "evidence": "24,08–33,16 giây nêu nhu cầu ngân hàng, đầu tư và bảo hiểm trước danh sách đơn vị."
+        },
+        {
+          "point": "Kết gọi lại mở bài",
+          "evidence": "77,24–88,3 giây quay về con số kỷ lục như phần nổi."
+        }
+      ],
+      "weaknesses": [
+        {
+          "point": "Bền vững được hứa nhưng chưa kiểm đủ",
+          "evidence": "15,32–17,3 giây đặt câu hỏi bền vững; kết chủ yếu nêu lợi ích hệ sinh thái mà chưa so rủi ro/chi phí."
+        },
+        {
+          "point": "Đọc tên nhiều đơn vị trong một nhịp",
+          "evidence": "33,16–41,54 giây liệt kê công ty và đối tác, có thể dày thuật ngữ với người mới."
+        },
+        {
+          "point": "Nguồn số trên màn nhỏ",
+          "evidence": "Ảnh báo ở 1 giây và thẻ 52,98 giây chứa chữ nhỏ, cần đường dẫn tài liệu để kiểm."
+        },
+        {
+          "point": "Ngữ cảnh hợp tác ảnh hưởng cách học mẫu",
+          "evidence": "Hashtag hợp tác trong metadata đòi hỏi phân biệt thủ pháp giải thích với thông điệp quảng bá."
+        }
+      ],
+      "shareabilityHypotheses": [
+        "Câu hỏi tiền đến từ đâu có thể giúp người xem gửi clip như cách đọc báo cáo, nhưng chưa có dữ liệu chia sẻ xác nhận.",
+        "Thông tin về ngân hàng quen có thể tạo nhận diện với khách hàng hiện hữu; không suy mức quan tâm thực từ lượt xem."
+      ],
+      "adaptationRules": [
+        "Công khai hợp tác khi có metadata hoặc bằng chứng tương ứng.",
+        "Nếu hứa đánh giá bền vững, thêm nguồn gốc doanh thu, chi phí và yếu tố có thể bác luận điểm.",
+        "Đính nguồn báo cáo gốc, kỳ so sánh và định nghĩa từng chỉ số.",
+        "Cho sơ đồ dịch vụ theo nhu cầu trước khi đọc tên công ty.",
+        "Giữ hook đổi góc nhưng trả lời phần mới bằng bằng chứng, không chỉ lời nhấn mạnh.",
+        "Không chuyển bài phân tích thủ pháp thành khuyến nghị mua cổ phiếu hay sản phẩm ngân hàng."
+      ],
+      "mindmapBranches": [
+        {
+          "label": "Tin mở",
+          "children": [
+            "Lợi nhuận kỷ lục theo clip",
+            "Ảnh bài báo tô số"
+          ]
+        },
+        {
+          "label": "Đổi câu hỏi",
+          "children": [
+            "Tiền từ đâu?",
+            "Tăng trưởng bền vững?"
+          ]
+        },
+        {
+          "label": "Mô hình",
+          "children": [
+            "Ngân hàng",
+            "Chứng khoán",
+            "Bảo hiểm"
+          ]
+        },
+        {
+          "label": "Hỗ trợ",
+          "children": [
+            "Thu nhập dịch vụ",
+            "Biểu đồ theo clip"
+          ]
+        },
+        {
+          "label": "Kết luận tác giả",
+          "children": [
+            "Nhiều nhu cầu một hệ thống",
+            "Gắn bó và lợi thế"
+          ]
+        },
+        {
+          "label": "Giới hạn",
+          "children": [
+            "Có hashtag hợp tác",
+            "Số liệu chưa kiểm",
+            "Thiếu phản chứng bền vững"
+          ]
+        }
+      ]
+    }
   }
 ]

@@ -1,20 +1,21 @@
-mindmap
-  root((Khoản vay mua nhà đổi giai đoạn: từ<br/>nhẹ hàng tháng đến áp lực bất ngờ))
-    b0["Thiết lập 0–11,64s"]
-      b0c0["Một khoản vay tưởng đủ sức trả"]
-      b0c1["Nhà và vốn vay được đặt lên hình"]
-    b1["Biến cố 12,20–29,30s"]
-      b1c0["Thời điểm ưu đãi kết thúc"]
-      b1c1["Hợp đồng giải thích thay đổi"]
-    b2["Cơ chế 29,62–66,70s"]
-      b2c0["Hai giai đoạn lãi"]
-      b2c1["Tham chiếu cộng biên độ"]
-    b3["Bối cảnh 67,02–114,60s"]
-      b3c0["Tác giả nối chi phí vốn với lãi"]
-      b3c1["Các số cần kiểm độc lập"]
-    b4["Hệ quả 115,22–172,98s"]
-      b4c0["Đòn bẩy và phản ứng khác nhóm"]
-      b4c1["Khái quát thị trường"]
-    b5["Kết 173,50–196,90s"]
-      b5c0["Không đoán chính xác lãi tương lai"]
-      b5c1["Hỏi sức chịu khoản trả tăng"]
+%%{init: {"htmlLabels": false, "themeVariables": {"fontSize": "18px"}, "flowchart": {"padding": 16, "rankSpacing": 22, "wrappingWidth": 360}}}%%
+flowchart TD
+  n0["01 · 00:00.00–00:11.64<br/>Thiết lập một khoản vay và thu nhập<br/>gia đình mà tác giả mô tả là còn dư<br/>khả năng trả."]
+  n1["02 · 00:12.20–00:29.30<br/>Đổi sang tháng hết ưu đãi, tăng số<br/>trả, đặt câu hỏi lỗi thuộc ai rồi chỉ<br/>về hợp đồng."]
+  n0 --> n1
+  n2["03 · 00:29.62–01:06.70<br/>Hỏi cơ chế và trình bày hai giai đoạn<br/>lãi, công thức lãi tham chiếu cộng<br/>biên độ."]
+  n1 --> n2
+  n3["04 · 01:07.02–01:54.60<br/>Dùng tuyến chu kỳ chi phí vốn để giải<br/>thích thay đổi của lãi tham chiếu và<br/>quay lại số trả ban đầu."]
+  n2 --> n3
+  n4["05 · 01:55.22–02:30.38<br/>Mở từ hóa đơn cá nhân sang đòn bẩy và<br/>chia phản ứng của nhà đầu tư/người mua<br/>ở thực."]
+  n3 --> n4
+  n5["06 · 02:31.00–02:52.98<br/>Tác giả khái quát việc thay đổi chi<br/>phí vốn thành giai đoạn thị trường<br/>phải định giá lại."]
+  n4 --> n5
+  n6["07 · 02:53.50–03:16.90<br/>Đổi câu hỏi dự đoán lãi sang khả năng<br/>hộ gia đình chịu được khoản trả tăng."]
+  n5 --> n6
+  classDef phase fill:#F8FAFC,stroke:#CBD5E1,color:#0F172A,font-size:18px;
+  classDef opening fill:#DBEAFE,stroke:#2563EB,color:#172554,font-size:18px;
+  classDef ending fill:#DCFCE7,stroke:#16A34A,color:#14532D,font-size:18px;
+  class n0,n1,n2,n3,n4,n5,n6 phase;
+  class n0 opening;
+  class n6 ending;

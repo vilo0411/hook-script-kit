@@ -10,7 +10,7 @@ Dùng brief, giọng và rule của người dùng. **Skill này đọc kho có 
 ## Chọn nguồn trong kho
 
 1. Đọc [mục lục corpus](references/corpus/index.md) và [nhóm hook có video](references/corpus/patterns.md).
-2. Chọn nhóm hợp vấn đề/khán giả/loại bài; đọc mindmap, diễn biến, nhịp cảm xúc giả thuyết và điểm mạnh/yếu trong các ca được dẫn trước khi dùng. Không cần chủ đề mới trùng danh từ với clip: chuyển cơ chế khi mục tiêu phù hợp, giải thích được sự khác biệt.
+2. Chọn nhóm hợp vấn đề/khán giả/loại bài; đọc sơ đồ diễn biến, diễn biến, nhịp cảm xúc giả thuyết và điểm mạnh/yếu trong các ca được dẫn trước khi dùng. Không cần chủ đề mới trùng danh từ với clip: chuyển cơ chế khi mục tiêu phù hợp, giải thích được sự khác biệt.
 3. Mỗi hướng ghi `Học từ`: nhóm, ID clip, đoạn quan sát, điều giữ/đổi. Số view, baseline và ngày đo lấy từ [metadata](references/corpus/videos.json), không cập nhật giả hoặc suy retention.
 4. Phân biệt quan sát khung hình và ASR với giả thuyết về hiệu quả. Kho hiện chưa được nghe toàn âm/xem liên tục, không nhận đã làm việc đó. Không coi mọi dữ kiện kinh tế trong clip là nguồn kiến thức đã kiểm.
 
@@ -27,3 +27,6 @@ Học cơ chế, không chép câu hoặc chỉ thay danh từ trong transcript.
 Nếu không có ca đủ liên quan để chuyển cơ chế, nói rõ khoảng trống. Có thể đề xuất bảo trì kho như việc riêng, không tự chuyển tác vụ viết thành cào. Chỉ sáng tác không có đối chiếu khi người dùng yêu cầu, gắn nhãn bản nháp chưa có nguồn mẫu.
 
 Đọc [quy trình](references/workflow.md) và [review](references/review.md) khi viết toàn bài. Số thực tế của bài mới cần nguồn riêng; giả định cần nhãn. Không bịa trải nghiệm, nguồn, mốc quan sát hoặc số hiệu quả. Kiểm kỹ thuật không thay phê duyệt chất lượng của người dùng.
+
+
+Đa dạng nguồn: với 10 hook, ưu tiên ≥5 kênh, ≥3 cách thể hiện, ≤2 option/kênh khi có đủ ca phù hợp. Brief và yêu cầu người dùng được ưu tiên; ghi rõ khi kho chưa đủ.

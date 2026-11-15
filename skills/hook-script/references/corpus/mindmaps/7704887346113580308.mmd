@@ -1,0 +1,19 @@
+%%{init: {"htmlLabels": false, "themeVariables": {"fontSize": "18px"}, "flowchart": {"padding": 16, "rankSpacing": 22, "wrappingWidth": 360}}}%%
+flowchart TD
+  n0["01 · 00:00.00–00:04.78<br/>Đặt hai lượng lớn về người và tiền để<br/>nêu hậu quả sự cố."]
+  n1["02 · 00:05.00–00:17.48<br/>Nêu quốc gia, tên ngân hàng và lý do<br/>quản lý theo lời tác giả."]
+  n0 --> n1
+  n2["03 · 00:17.94–00:30.48<br/>Thêm nguồn vốn công và các quỹ liên<br/>quan trong số tiền được nêu."]
+  n1 --> n2
+  n3["04 · 00:31.08–00:38.56<br/>Bổ sung lời nêu về bảo hiểm tiền gửi<br/>và một hạn mức."]
+  n2 --> n3
+  n4["05 · 00:39.16–00:43.12<br/>Nêu diễn biến điều tra theo bản tin."]
+  n3 --> n4
+  n5["06 · 00:43.70–00:49.02<br/>Hỏi người gửi tiền cần chú ý gì và mời<br/>bình luận."]
+  n4 --> n5
+  classDef phase fill:#F8FAFC,stroke:#CBD5E1,color:#0F172A,font-size:18px;
+  classDef opening fill:#DBEAFE,stroke:#2563EB,color:#172554,font-size:18px;
+  classDef ending fill:#DCFCE7,stroke:#16A34A,color:#14532D,font-size:18px;
+  class n0,n1,n2,n3,n4,n5 phase;
+  class n0 opening;
+  class n5 ending;
