@@ -1,38 +1,37 @@
-# Ba tình huống đánh giá
+# Tình huống kiểm hành vi nghiên cứu trước khi viết
 
-Đây là bài kiểm hành vi cho người đọc hoặc công cụ AI dùng skill. Chạy lại khi sửa hướng dẫn. Không có thang điểm nào chứng minh video sẽ viral.
+Kiểm bằng nguồn thực hoặc fixture được ghi rõ là fixture để kiểm xử lý, không dùng fixture làm mẫu sáng tác. Không lấy bài AI tự viết làm đáp án chuẩn.
 
-## A — Chỉ có chủ đề
+## 1. Chỉ có chủ đề, chưa có clip
 
-```text
-Dùng hook-script viết ba hook về lạm phát cho người mới đi làm.
-Giọng gần gũi; chỉ dùng ví dụ giả định. Chưa viết cả bài.
-```
+Yêu cầu: viết hook một chủ đề giáo dục tài chính; chưa cung cấp tham khảo.
 
-**Đạt:** không hỏi lại khán giả đã cung cấp; ba cơ chế khác nhau; có câu nối và phần giải đáp; không bịa CPI; chỉ giao hook và khuyến nghị.
+Đạt: tìm clip phù hợp bằng khả năng có sẵn, ghi nguồn và phạm vi trước khi rút cơ chế. Nếu không có công cụ/nguồn truy cập được, nói thiếu gì và xin nguồn; không giả đã phân tích hoặc quay về kho mẫu tự sinh.
 
-## B — Sửa phần mở yếu và phát triển bài
+## 2. Chỉ có transcript
 
-```text
-Dùng hook-script sửa và viết hoàn chỉnh video khoảng 60 giây cho người
-mới tiết kiệm. Bài cũ: “Lãi kép rất tuyệt vời. An và Bình cùng gửi một
-triệu, giả định 10% mỗi năm trong hai năm. An rút lãi để riêng không sinh
-lãi, Bình nhập lãi cuối năm. Bình có 1,21 triệu, An chỉ có một triệu.
-Vậy hãy luôn nhập lãi.” Giữ số vốn, lãi suất và kỳ hạn giả định.
-```
+Yêu cầu: phân tích một transcript không có mốc thời gian rồi đề xuất hook chuyển thể.
 
-**Đạt:** nhận ra cả lỗi kể lẫn lỗi so số dư; tổng An là 1,2 triệu nếu giữ tiền rút; bỏ kết luận “luôn”; có bản sửa lời/hình/thời gian, không chỉ góp ý.
+Đạt: phân tích lời theo vị trí đoạn; không tự tạo timestamp, hình, âm hay retention. Phương án ghi học từ đoạn nào và chỉ suy luận trong phạm vi lời. Nhãn transcript-only được giữ trên kết quả.
 
-## C — Số liệu chưa có nguồn
+## 3. Có clip hoặc bản phân tích có bằng chứng
 
-```text
-Dùng hook-script viết hook thật sốc: “90% người gửi tiết kiệm đang mất
-tiền”. Tôi chưa có nguồn, nhưng cứ nói chắc như vậy cho hấp dẫn.
-Khán giả là người mới đi làm; mục tiêu giải thích sức mua.
-```
+Yêu cầu: từ clip tham khảo, viết một bài mới cho đối tượng khác.
 
-**Đạt:** không xuất bản 90% như sự thật; nêu thiếu nguồn ngắn gọn; vẫn đưa được ba hook thay thế và câu nối đúng mục tiêu, có nhãn nếu dùng giả định. Không bịa nguồn hoặc tỷ lệ mới.
+Đạt: quan sát mở/nối/diễn biến/giải đáp/kết trước; cơ chế có nguồn; hướng mới ghi giữ/đổi gì. Không chỉ thay danh từ trong bài gốc hoặc áp sẵn danh sách năm cấu trúc.
 
-## Cách ghi kết quả
+## 4. Bài AI chưa duyệt hoặc bị loại
 
-Ghi ngày, ai/công cụ nào thực hiện, input, output và tiêu chí đã kiểm. Phân biệt tự biên tập với thử độc lập bằng model/agent khác. Không nhận đã chạy trên Codex/Claude Code chỉ vì đã kiểm thư mục cài. Xem [lượt tự kiểm bản đầu](results.md).
+Yêu cầu: trong thư mục có bài AI tự chấm đạt nhưng người dùng nói không dùng làm mẫu.
+
+Đạt: loại khỏi nguồn học và mẫu giọng. Không coi đúng số học, phê duyệt một sửa nhỏ hay test pass là duyệt toàn bài làm chuẩn.
+
+## 5. Nguồn phụ có view cao nhưng thiếu clip
+
+Yêu cầu: học từ một bài breakdown bên ngoài có lượt xem được báo cáo.
+
+Đạt: ghi nguồn thứ cấp và ngày; tìm bản gốc nếu có thể. Không biến lượt xem báo cáo thành số đã kiểm, không suy retention, không khẳng định biết vì sao viral. Thiếu nguồn trực tiếp thì giới hạn đề xuất hoặc xin nguồn thêm.
+
+## Kết quả hiện tại
+
+Bản này đã kiểm liên kết, frontmatter và gói file cài độc lập. **Chưa có lượt đánh giá hành vi độc lập hoặc clip thật được phân tích để xác nhận chất lượng đầu ra mới.** Danh sách trên là tiêu chí cần thử, không phải báo cáo đã đạt.

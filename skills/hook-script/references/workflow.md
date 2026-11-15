@@ -1,48 +1,31 @@
-# Từ chủ đề đến kịch bản
+# Từ clip thật đến bài mới
 
-## 1. Viết brief đủ để quyết định
+## 1. Chốt điều cần học
 
-```text
-Chủ đề:
-Khán giả biết gì / đang vướng gì:
-Sau video họ cần hiểu hoặc làm gì:
-Nền tảng / thời lượng:
-Giọng / xưng hô:
-Dữ kiện có nguồn hoặc giả định được phép dùng:
-Điều phải giữ / không được dùng:
-```
+Dùng ngữ cảnh để xác định chủ đề, khán giả, mục tiêu, giọng và loại video. Phân biệt mục tiêu tìm clip: cách mở, cách giải thích, nhịp kể hay cách kết. Không lấy bài mới do AI tự viết làm đầu vào học phong cách.
 
-Không biến brief thành bảng hỏi bắt buộc. Có thông tin ở ngữ cảnh thì dùng lại. Chưa có thời lượng thì mặc định video ngắn 30–90 giây; chưa có giọng thì dùng tiếng Việt gần gũi, xưng bạn, không bịa người kể có kinh nghiệm.
+## 2. Tìm và chọn clip
 
-## 2. Tìm điều đáng kể
+Dùng clip người dùng gửi; nếu chưa có, tìm nguồn công khai cùng chủ đề/khán giả/định dạng. Ưu tiên khoảng ba clip để có điểm so sánh, không biến số lượng thành cổng cứng. Một clip đủ làm tham khảo một ca; chưa đủ khái quát thành công thức chung.
 
-Đừng bắt đầu bằng “Lạm phát là gì?”. Tìm tác động mà người xem gặp: cùng tiền nhưng mua được ít hơn. Viết một câu trả lời cuối cùng trước khi viết câu mở. Nếu câu trả lời còn mơ hồ, sửa góc kể.
+Ghi URL, tác giả, ngày quan sát, số liệu đọc được và lý do phù hợp. Muốn gọi là nổi bật so với kênh, cần số so sánh cùng kênh/khoảng thời gian; thiếu thì ghi ứng viên tham khảo, không khẳng định vượt trung vị. Kho breakdown bên ngoài hỗ trợ tìm clip, không thay thế kiểm nguồn.
 
-Phân biệt ba lớp: **sự thật đã kiểm**; **giả định để minh họa**; **nhận định về cách kể**. Một ví dụ dễ nhớ vẫn có thể sai cơ chế nếu bỏ điều kiện quan trọng.
+## 3. Phân tích trước khi rút cơ chế
 
-## 3. Thử ba cửa vào
+Đọc [analysis](analysis.md), điền [breakdown](breakdown-template.md). Quan sát cả câu mở, hình mở, diễn biến, nhịp cảm xúc, đoạn giải thích và kết khi có dữ liệu. Không chỉ chép câu đầu rồi gắn nhãn tò mò. Mốc phải từ nguồn thực; đoạn không có timestamp dùng vị trí đoạn, không tự dựng mốc giây.
 
-Đọc [mẫu hook](hooks.md), chọn ba cơ chế hợp brief. Viết cho mỗi cửa vào:
+## 4. Rút điều có thể chuyển thể
 
-| Phần | Câu hỏi cần trả lời |
-|---|---|
-| Câu mở nguyên văn | Người xem lập tức hình dung chuyện gì? |
-| Nhịp tiếp nối | Hệ quả, lựa chọn hay mắt xích nào khiến họ muốn nghe tiếp? |
-| Phần giải đáp | Cảnh nào trả đúng điều đang gợi? |
-| Điều kiện | Cần nguồn hoặc giả định nào để câu mở đúng? |
+Viết thành chuỗi: **bằng chứng ở clip → cơ chế có thể đang được dùng → phù hợp brief ở đâu → cần đổi gì → giới hạn**. Cơ chế có thể chỉ đúng một ca. Công thức từ kho tham khảo giúp đặt tên sau quan sát, không quyết định trước điều cần tìm.
 
-Chọn theo sự cụ thể, liên quan với khán giả, bất ngờ có căn cứ và độ tự nhiên khi đọc. Phương án sai dữ kiện hoặc hứa quá nội dung bị loại trước khi so độ hấp dẫn. Nếu có ba video gần nhất cùng chuỗi, kiểm cơ chế mở để tránh lặp; không đòi dữ liệu lịch sử khi không có.
+## 5. Viết hook và kịch bản
 
-## 4. Viết diễn biến
+Mỗi hướng ghi `Học từ` cụ thể: clip/đoạn, vai trò của nhịp đó, điều giữ và điều đổi. Viết tình huống/lời mới theo giọng được chọn; không thay danh từ trên một transcript. Giữ hướng/hook đã duyệt. Nếu được yêu cầu viết ngay toàn bài, chọn và giải thích một hướng rồi tiếp tục trong phạm vi được phép.
 
-Chọn một [cấu trúc](structures.md). Mỗi beat cần làm người xem biết thêm điều gì hoặc thấy tình thế đổi ra sao. Viết lời như một dòng kể liên tục; hình ảnh chuyển theo ý, không chặt lời để vừa số cảnh.
+Giao hook, nội dung, kết; với bài đầy đủ có bảng thời gian ước tính / lời / hình. Không đưa bản viết mới trở lại thư viện làm mẫu được duyệt chỉ vì AI tự chấm đạt.
 
-Mốc thời gian chỉ là bản phân bổ ban đầu. Đọc thử và điều chỉnh, chừa thời gian cho phép tính và biểu đồ. Không tự nhận nhãn “0–3 giây” là đúng nếu câu dài chưa đọc kịp.
+## 6. Review và lưu điều học được
 
-## 5. Đóng lời hứa
+Đối chiếu bằng [review](review.md). Tách bản phân tích clip khỏi bài chuyển thể và phản hồi. Bài riêng chỉ được gắn nhãn mẫu giọng/mẫu kịch bản khi người dùng duyệt rõ để làm mẫu. Đồng ý một lần sửa hoặc một phép tính không phải duyệt toàn bài làm chuẩn.
 
-Kết luận phải trả lời câu mở bằng điều thân bài vừa chứng minh. Hạn chế thêm khái niệm mới ở câu cuối. CTA theo mục tiêu: một câu hỏi vận dụng có thể hợp bài học hơn “theo dõi để biết thêm”.
-
-## 6. Giao và sửa
-
-Giao bảng lời/hình/thời gian, nguồn và giả định, vị trí giải đáp hook. Dùng [kiểm bài](review.md). Sau khi có bản đọc hoặc video, kiểm lại nhịp thực tế; phân biệt vấn đề của lời, hình, âm thanh và thông tin. Chưa có video thì chỉ kết luận về bản viết.
+Nếu có dữ liệu sau đăng, lưu dữ liệu thật và ngày đo; không dùng nó để suy ngược chắc chắn một kỹ thuật gây ra thành công.

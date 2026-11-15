@@ -1,6 +1,6 @@
 # Cài và dùng skill
 
-Skill nằm trọn trong `skills/hook-script/`. Sao chép **cả thư mục**, gồm `SKILL.md` và `references/`. Repo không cần npm, Python hay API key để sử dụng nội dung.
+Skill nằm trọn trong `skills/hook-script/`. Sao chép **cả thư mục**, gồm `SKILL.md` và `references/`. Repo không cần npm, Python hay API key để đọc nội dung. Tìm và xem clip cần công cụ truy cập nguồn của môi trường AI; repo chưa tích hợp backend tải/transcribe tự động.
 
 ## Tải bộ tài liệu
 
@@ -28,8 +28,8 @@ fi
 Mở một phiên Codex trong project đó. Yêu cầu:
 
 ```text
-Dùng $hook-script viết ba hook về lạm phát cho người mới đi làm.
-Chỉ dùng ví dụ giả định, giọng gần gũi.
+Dùng $hook-script tìm clip giáo dục tài chính phù hợp chủ đề lạm phát,
+phân tích trước rồi đề xuất hook. Ghi rõ nguồn và phạm vi đã kiểm.
 ```
 
 Muốn dùng cho mọi project, dùng cùng đoạn lệnh nhưng đặt `HOOK_TARGET="$HOME/.agents/skills"`. Vị trí project và cá nhân theo [tài liệu skills của OpenAI](https://developers.openai.com/codex/skills/).
@@ -39,7 +39,7 @@ Muốn dùng cho mọi project, dùng cùng đoạn lệnh nhưng đặt `HOOK_T
 Chạy lại đoạn sao chép ở trên với `HOOK_TARGET="/path/to/your-project/.claude/skills"`. Mở phiên Claude Code trong project rồi nhập:
 
 ```text
-/hook-script Viết ba hook về lạm phát cho người mới đi làm, dùng ví dụ giả định.
+/hook-script Tìm và phân tích clip cùng chủ đề lạm phát rồi đề xuất hook có dẫn nguồn.
 ```
 
 Muốn dùng cá nhân, đặt `HOOK_TARGET="$HOME/.claude/skills"`. Hướng dẫn này dành cho phiên chạy tại máy, theo [tài liệu Claude Code](https://code.claude.com/docs/en/skills).

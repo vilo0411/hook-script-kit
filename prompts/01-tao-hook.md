@@ -1,35 +1,35 @@
-# Prompt tạo hook
+# Phân tích clip rồi tạo hook
 
-Sao chép toàn bộ khối dưới, điền phần đầu vào. Không cần tải các tài liệu khác để dùng prompt này.
+Điền đầu vào, sao chép cả khối vào công cụ AI có khả năng đọc nguồn. Nếu công cụ chỉ nhận văn bản, cung cấp transcript và giữ rõ phạm vi đó.
 
 ```text
-Bạn giúp tôi viết hook video giáo dục/tài chính bằng tiếng Việt tự nhiên.
+Việc: phân tích nguồn trước rồi đề xuất hook, không lấy mẫu tự sinh làm chuẩn.
 
-ĐẦU VÀO
-Chủ đề hoặc kịch bản: [điền]
-Khán giả: [điền nếu có]
-Điều họ cần hiểu sau video: [điền nếu có]
-Giọng / thời lượng / nền tảng: [điền nếu có]
-Dữ kiện đã kiểm, nguồn hoặc giả định được phép dùng: [điền]
-Điều phải giữ / tránh: [điền nếu có]
+Chủ đề / khán giả / mục tiêu: [điền]
+Giọng và thời lượng mong muốn: [điền nếu có]
+Clip hoặc nguồn phân tích sẵn có: [URL/file/transcript hoặc để trống]
+Rule phải giữ / mẫu giọng đã được tôi duyệt: [điền nếu có]
 
-Dùng thông tin trong ngữ cảnh. Chỉ hỏi một câu gộp nếu thiếu điều làm thay đổi
-hướng viết; các thiếu sót phụ thì nêu giả định rồi làm tiếp.
+Nếu chưa có clip, tìm clip công khai cùng chủ đề/khán giả/loại video bằng
+công cụ có sẵn. Nêu lý do chọn; lượt xem cao riêng lẻ chưa đủ chứng minh
+hook hiệu quả. Không có nguồn truy cập được thì báo thiếu gì và xin nguồn,
+không tự tạo clip/transcript hoặc viết bài rồi nhận đã học từ clip.
 
-Trước tiên chốt một điều thân bài có thể giải đáp. Viết ba phương án khác
-cơ chế: chẳng hạn tình huống/hành động, đối chiếu, câu hỏi có đánh đổi.
-Không chỉ đổi chữ trên cùng một câu. Không ép mọi hook vào chuỗi ba câu hỏi.
+Trước khi đề xuất hook, giao:
+1. URL gốc, tác giả nếu biết, ngày quan sát, dữ liệu hiệu quả có nguồn.
+2. Phạm vi thực đã kiểm: hình/âm, khung chọn lọc, transcript hay bài thứ cấp.
+3. Bảng mốc thật hoặc vị trí đoạn: quan sát → vai trò → suy luận/giới hạn.
+Phân tích câu mở, nhịp nối, diễn biến và đoạn trả lời/kết theo dữ liệu có.
+Không có timestamp thì không tự đặt mốc giây; không có video thì không
+khẳng định về hình, âm hoặc diễn xuất. Không suy retention từ lượt xem.
 
-Mỗi phương án gồm:
-- Cơ chế và câu mở nguyên văn.
-- Câu nối đưa diễn biến tiến lên.
-- Điều thân bài phải trả lời và chỗ dự kiến trả lời.
-- Vì sao hợp khán giả; nguồn/điều kiện còn thiếu nếu có.
+Sau đó rút cơ chế có dẫn chứng và viết ba hướng hook mới. Mỗi hướng có:
+Học từ clip/đoạn nào; điều giữ/đổi; câu mở nguyên văn; câu nối;
+điều thân bài sẽ giải đáp; lý do hợp brief. Khuyến nghị một hướng.
+Không ép ba hướng vào ba công thức sẵn; không chép lời/ẩn dụ đặc trưng.
+Chưa viết cả kịch bản nếu tôi chỉ yêu cầu hook.
 
-Khuyến nghị một phương án. Chỉ cần phần hook, chưa viết cả kịch bản.
-Khoảng ba giây đầu cần hiểu đối tượng và lý do nghe tiếp; thời lượng chỉ là
-ước tính khi chưa có bản đọc. Bỏ câu dẫn chung, lời hứa rỗng và khẩn cấp giả.
-Không bịa số liệu, trải nghiệm của tôi hay khẳng định đã thử nghiệm.
-Số thực tế cần nguồn; ví dụ giả định phải ghi rõ. Thiếu nguồn thì đánh dấu
-cần kiểm hoặc dùng tình huống giả định, không biến nó thành sự thật.
+Bài AI chưa duyệt hoặc đã bị tôi loại không được làm nguồn giọng/chất lượng.
+Số thực tế cần nguồn, giả định phải có nhãn. Thiếu nguồn thì ghi chưa có.
+Không bịa trải nghiệm, mốc quan sát hoặc bằng chứng thành công.
 ```

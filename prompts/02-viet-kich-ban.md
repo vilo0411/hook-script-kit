@@ -1,44 +1,31 @@
-# Prompt phát triển kịch bản
+# Viết kịch bản từ phân tích clip
 
-Điền đầu vào rồi sao chép cả khối. Nếu đã chọn hook, dán nguyên văn để giữ hướng viết.
+Sao chép cả khối và điền brief. Có phân tích nguồn thì gửi kèm, không chỉ gửi tên công thức.
 
 ```text
-Viết kịch bản video giáo dục/tài chính tiếng Việt hoàn chỉnh theo brief sau.
+Chủ đề / khán giả / điều cần hiểu: [điền]
+Giọng / thời lượng / rule: [điền]
+Clip tham khảo hoặc breakdown đã có: [điền; chưa có thì tìm nguồn phù hợp]
+Hook/hướng đã chọn: [điền nếu có]
+Nguồn dữ kiện / giả định được phép dùng: [điền nếu có]
+Mẫu giọng riêng được tôi duyệt: [điền hoặc chưa có]
 
-Chủ đề: [điền]
-Khán giả / điều họ đã biết: [điền]
-Mục tiêu sau video: [điền]
-Hook đã chọn, nếu có: [điền]
-Thời lượng / nền tảng / giọng: [điền]
-Nguồn, dữ kiện hoặc giả định được phép dùng: [điền]
-Điều phải giữ / tránh: [điền]
+Làm theo thứ tự: chọn clip → phân tích bằng chứng → rút cơ chế → viết mới.
+Chưa có nguồn thì tìm bằng công cụ đang có. Nếu không truy cập được, nói rõ
+thiếu gì và xin clip/file/transcript thay vì viết rồi giả đã học từ nguồn.
 
-Dùng ngữ cảnh sẵn có. Nếu thiếu khán giả/mục tiêu khiến chưa quyết định được
-góc kể, hỏi một câu gộp. Thiếu chi tiết phụ thì nêu giả định và tiếp tục.
-Mặc định video ngắn 30–90 giây, gần gũi, xưng bạn nếu brief chưa quy định.
+Ghi URL, lý do chọn, phạm vi đã xem/nghe/đọc và ngày quan sát. Phân tích mở,
+nối, diễn biến, nhịp cảm xúc, giải thích và kết. Ghi mốc thực hoặc vị trí
+đoạn; tách quan sát khỏi suy luận. Transcript chỉ cho phép phân tích lời;
+breakdown bên ngoài là nguồn thứ cấp, không đồng nghĩa đã xem clip.
 
-Chốt một thông điệp và điều hook cần giải đáp. Nếu chưa có hook, thử ba cách
-mở khác cơ chế, chọn một và giải thích ngắn rồi viết tiếp ngay. Giữ hook
-đã chọn nếu brief đã có. Chọn một cấu trúc hợp nội dung:
-1. Tình huống → trở ngại → cơ chế → gọi tên.
-2. Lựa chọn → hệ quả → phản ứng → đánh đổi.
-3. Hiểu lầm → phép thử → kết quả → giới hạn.
-4. Hai trường hợp → một khác biệt → kết quả → nguyên nhân.
-5. Chuyện có lời hứa → biến cố → đổi cách hiểu → quay lại chi tiết đầu.
+Giữ hướng đã chọn; nếu chưa chọn và đủ nguồn, đề xuất ba hướng chuyển thể,
+khuyến nghị một rồi viết tiếp ngay. Mỗi hướng phải ghi Học từ clip/đoạn nào,
+giữ/đổi cơ chế gì và vì sao hợp khán giả. Không lấy bài AI chưa duyệt làm mẫu,
+không chọn một trong vài cấu trúc cố định trước khi quan sát, không chép lời.
 
-Đầu ra:
-- Khán giả, mục tiêu, giọng, hook và cấu trúc đã chọn.
-- Bảng: Thời gian ước tính | Lời đọc nguyên văn | Hình gợi ý.
-- Phép tính, nguồn, giả định và điều cần kiểm.
-- Câu/cảnh trả lời hook và một nhận xét tự kiểm ngắn.
-
-Mỗi đoạn phải thêm hành động, bằng chứng hoặc thay đổi cách hiểu. Lời liên
-mạch, không chuỗi câu vụn, không chèn “nhưng khoan” theo công thức. Kết giải
-đáp điều đã hứa; CTA chỉ khi hợp mục tiêu. Đọc thử trước khi giao, không
-khẳng định thời lượng chính xác hay retention tăng khi chưa đo.
-
-Giữ số liệu đúng đơn vị/kỳ hạn. Đánh dấu giả định ngay nơi dùng; số thực tế
-cần nguồn phù hợp và ngày áp dụng. Không có công cụ kiểm nguồn thì nói rõ,
-không tạo nguồn giả. Không bịa kinh nghiệm ngôi một hoặc lợi nhuận đảm bảo.
-Ví dụ đơn giản hóa phải giữ điều kiện ảnh hưởng đến kết luận.
+Giao bảng thời gian ước tính / lời đọc / hình gợi ý, cùng phần truy nguồn
+cơ chế và dữ kiện. Kết trả điều hook đã gợi. Thời gian chưa có bản đọc chỉ
+là ước tính. Không bịa số liệu, trải nghiệm, nguồn hoặc kết quả retention.
+Tự kiểm không đồng nghĩa bài được tôi duyệt làm chuẩn cho lần sau.
 ```

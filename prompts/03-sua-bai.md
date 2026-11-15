@@ -1,33 +1,27 @@
-# Prompt sửa bài đang chán
-
-Dán kịch bản và phản hồi cụ thể, chẳng hạn “vào chuyện chậm” hoặc “nghe như đọc sách”.
+# Sửa bài bằng đối chiếu nguồn
 
 ```text
-Hãy biên tập lại kịch bản video giáo dục/tài chính dưới đây.
+Bài cần sửa: [dán]
+Khán giả / mục tiêu / phản hồi: [điền]
+Phần phải giữ: [điền]
+Clip hoặc breakdown tham khảo: [điền; nếu chưa có hãy tìm nguồn phù hợp]
+Giọng hoặc bài riêng được tôi duyệt làm mẫu: [điền hoặc chưa có]
 
-Bản hiện tại: [dán]
-Khán giả / mục tiêu: [điền nếu có]
-Phản hồi: [điền]
-Giọng / thời lượng: [điền nếu có]
-Câu, dữ kiện hoặc hướng đã duyệt phải giữ: [điền nếu có]
-Nguồn và giả định: [điền nếu có]
+Nếu cần sửa hook/nhịp kể/toàn bài, phân tích clip nguồn trước rồi mới sửa.
+Sửa số/chính tả đơn thuần không cần nghiên cứu lại. Tìm/đọc nguồn bằng công
+cụ có sẵn; không có nguồn thì báo thiếu, không lấp bằng bài tự viết.
 
-Chẩn đoán trước khi sửa: trích ngắn đúng chỗ gây chậm, lặp, khó hiểu hoặc
-hứa mà không trả lời; giải thích nguyên nhân bằng tiếng Việt thông thường.
-Phân biệt lỗi nội dung và lựa chọn thẩm mỹ. Chưa có video thì không nhận xét
-như đã xem hình, nghe âm hay thấy lỗi ở một mốc thời gian thật.
+Ghi URL, phạm vi đã kiểm và các đoạn tương ứng với phần đang yếu. Đối chiếu:
+ở nguồn diễn biến tiến lên thế nào, ở bài hiện tại chậm/khó hiểu tại đâu.
+Dùng mốc có thật hoặc vị trí đoạn; tách quan sát, suy luận và phản hồi của tôi.
+Không nhận đã xem hình/nghe âm nếu chỉ có transcript hoặc bài thứ cấp.
 
-Nếu cần đổi hook, đề xuất ba cơ chế khác nhau; giữ hướng đã yêu cầu giữ.
-Khi không bị ràng buộc chọn hook, khuyến nghị một rồi sửa toàn bài ngay.
-Không dừng ở lời khuyên chung. Giao:
-1. Chẩn đoán ngắn.
-2. Các hook thay thế nếu cần.
-3. Bảng bản sửa: Thời gian ước tính | Lời đọc | Hình gợi ý.
-4. Điều đã sửa, chỗ trả lời hook và dữ kiện còn cần kiểm.
+Giao chẩn đoán có dẫn chứng, hook thay thế nếu cần và bản sửa hoàn chỉnh
+theo bảng thời gian ước tính / lời / hình. Ghi rõ học từ clip/đoạn nào,
+điều giữ/đổi và phần giải đáp hook. Giữ dữ kiện đúng và phần tôi yêu cầu giữ.
+Không chép lời hoặc ví von đặc trưng của nguồn. Không dùng bài AI chưa duyệt,
+bài bị tôi loại hoặc kết quả tự chấm làm mẫu giọng hay chuẩn chất lượng.
 
-Giữ thông điệp và dữ kiện đúng; mỗi đoạn thêm diễn biến hoặc bằng chứng.
-Viết tự nhiên khi nói, bỏ câu rào và CTA thừa; không chặt vụn câu để giả
-nhịp nhanh. Không thêm số liệu hoặc trải nghiệm giả để làm bài hấp dẫn.
-Mọi ví dụ giả định cần nhãn; mọi phép tính có đơn vị/kỳ hạn. Không tuyên bố
-đã kiểm nguồn, đo retention, A/B test hoặc biết thời lượng thật nếu chưa làm.
+Số thực tế cần nguồn; giả định có nhãn; thiếu chứng cứ ghi chưa có.
+Không bịa mốc, trải nghiệm, số liệu hoặc tuyên bố retention đã tăng.
 ```
