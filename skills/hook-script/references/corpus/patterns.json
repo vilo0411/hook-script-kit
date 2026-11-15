@@ -4,10 +4,11 @@
     "name": "Đặt cạnh hai khái niệm quen nhưng dễ nhầm",
     "videos": [
       "7697361245959114000",
-      "7683455896910908690"
+      "7683455896910908690",
+      "7664269289972698376"
     ],
     "principle": "Nêu cặp cần phân biệt ngay khi mở; chuyển câu hỏi thành vai trò/hệ quả cụ thể rồi giải thích theo từng vế.",
-    "proof": "CEO mở bằng quan hệ quyền lực và quay lại tầng quản trị; cổ phiếu/trái phiếu mở bằng nhầm lẫn hai loại tài sản rồi dùng nhân vật để phân vai.",
+    "proof": "CEO mở bằng quan hệ quyền lực và quay lại tầng quản trị; cổ phiếu/trái phiếu mở bằng nhầm lẫn hai loại tài sản rồi dùng nhân vật để phân vai. Ca kế toán/kiểm toán thêm một phép phân vai: làm sổ và kiểm tra sổ, rồi đối chiếu trách nhiệm công việc.",
     "limit": "Hai clip không trả lời giống nhau: CEO hoãn kết luận quyền lực, cổ phiếu/trái phiếu đã phân biệt cơ bản. Không mặc định hẹn phần hai là điều tốt."
   },
   {
@@ -25,10 +26,11 @@
     "name": "Kỳ vọng đời thường va vào một kết quả khó chịu",
     "videos": [
       "7644506205179612423",
-      "7540936784776023312"
+      "7540936784776023312",
+      "7603323663328316679"
     ],
     "principle": "Đặt khán giả trong một tình huống tiền bạc/việc làm họ nhận ra, làm rõ chỗ trái kỳ vọng rồi đi vào cơ chế.",
-    "proof": "Mua trước trả sau đối chiếu thu nhập, món hàng và khoản trả tháng; bằng cấp đối chiếu học giỏi với thất nghiệp rồi nối cung cầu.",
+    "proof": "Mua trước trả sau đối chiếu thu nhập, món hàng và khoản trả tháng; bằng cấp đối chiếu học giỏi với thất nghiệp rồi nối cung cầu. Ca thu nhập giữ nguyên đặt kỳ vọng tăng trưởng chung cạnh cảm giác chi tiêu cá nhân.",
     "limit": "Đây là hai cách triển khai một loại xung đột, không có dữ liệu chứng minh chung hiệu quả. Bài bằng cấp trôi sang nhiều chủ đề ở cuối."
   },
   {
@@ -55,10 +57,11 @@
     "id": "vn06",
     "name": "Giả định lợi ích lớn rồi đảo hệ quả",
     "videos": [
-      "7359542441285930247"
+      "7359542441285930247",
+      "7481278109644246290"
     ],
     "principle": "Cho người xem nhận một lợi ích tưởng rõ, sau đó cho các bên khác phản ứng để tạo câu hỏi cơ chế.",
-    "proof": "Giả định tăng lương toàn xã hội ở đầu, phản ứng tăng giá xuất hiện khoảng 13 giây, tên khái niệm đến sau.",
+    "proof": "Giả định tăng lương toàn xã hội ở đầu, phản ứng tăng giá xuất hiện khoảng 13 giây, tên khái niệm đến sau. Ca Venezuela đi từ trợ cấp tưởng hấp dẫn tới các phản ứng làm mất sức mua; cần tách phần tự quảng bá cộng đồng ở giữa.",
     "limit": "Đó là giả định của clip; không trình bày như chính sách đã xảy ra hoặc mô hình vĩ mô đầy đủ."
   },
   {
@@ -100,5 +103,95 @@
     "principle": "Đặt nghi vấn một thước đo được biết, nêu số lượng dấu hiệu thay thế và trả từng mục ngay sau mở.",
     "proof": "GDP bị đặt câu hỏi qua lời được gán cho một nhân vật, rồi ba dấu hiệu hoạt động được giải thích trong khoảng 7–29 giây.",
     "limit": "Phải kiểm lại phát biểu gán cho nhân vật. Đoạn sau mở rộng sang nhà đất; không biến một clip thành bằng chứng chính sách."
+  },
+  {
+    "id": "vn11",
+    "name": "Nối hai chuyện tưởng không liên quan",
+    "videos": [
+      "7651946778392153362"
+    ],
+    "principle": "Đặt cạnh hai sự kiện có vẻ xa nhau, cho thấy một bối cảnh/động cơ chung rồi quay lại cả hai.",
+    "proof": "Mở nối E10 với xử lý phần mềm lậu; tuyến giữa chia hai phản ứng trước một sức ép tác giả nêu.",
+    "limit": "Mối liên hệ là lập luận của tác giả, không phải bằng chứng đã fact-check. Đừng tạo liên hệ nhân quả giả để gây tò mò."
+  },
+  {
+    "id": "vn12",
+    "name": "Neo vào thời điểm cụ thể và đặt người xem trong câu chuyện",
+    "videos": [
+      "7702669503209016594"
+    ],
+    "principle": "Một mốc giờ/ngày, đồ vật và hành động quen giúp người xem nhập vai trước khi điều kiện giả định làm thế giới đổi khác.",
+    "proof": "Tin nhắn ngân hàng đầu tháng dẫn vào thế giới giả định không có thuế; câu cuối hỏi khoản thu ấy từng trả cho gì.",
+    "limit": "Phần mở kéo dài nhiều nhịp và kết còn treo câu hỏi. Giả định phải được nhận diện, không kể như tin chính sách."
+  },
+  {
+    "id": "vn13",
+    "name": "Đặt đối thủ vào thị trường rồi hỏi hệ quả",
+    "videos": [
+      "7686294941173058824"
+    ],
+    "principle": "Thay một điều kiện cạnh tranh, đặt tên hai bên khán giả nhận ra, phân tích lợi thế từng bên rồi trả hệ quả cho khách hàng.",
+    "proof": "Tesla vào Việt Nam được đặt thành điều kiện giả định để đối chiếu thương hiệu toàn cầu và lợi thế sân nhà.",
+    "limit": "Không khẳng định sự kiện đã xảy ra. Câu ASR đầu có lỗi, không dùng làm nguyên văn."
+  },
+  {
+    "id": "vn14",
+    "name": "Giao dịch rất thường ngày nhưng có mắt xích toàn cầu ẩn phía sau",
+    "videos": [
+      "7615111628383669512"
+    ],
+    "principle": "Bắt đầu từ một việc trả tiền bằng nội tệ, đặt câu hỏi vì sao một đồng tiền khác vẫn ảnh hưởng, rồi lần ngược hệ thống.",
+    "proof": "Cảnh đổ xăng bằng VNĐ mở đường tới dầu mỏ và đô la dù giao dịch trước mắt không dùng USD.",
+    "limit": "Không lấy bài phân tích cách kể làm bằng chứng mọi mô tả lịch sử/quyền lực tiền tệ trong clip."
+  },
+  {
+    "id": "vn15",
+    "name": "Cho thấy hiện tại dễ chịu rồi nhảy tới lúc điều kiện đổi",
+    "videos": [
+      "7618909168044461319"
+    ],
+    "principle": "Thiết lập một phương án có vẻ vừa khả năng, đi tới thời điểm ưu đãi hết hoặc biến số đổi để lộ sức chịu đựng thật.",
+    "proof": "Khoản mua nhà và kỳ ưu đãi mở câu chuyện; nhịp sau kiểm hệ quả khi lãi suất đổi và dòng tiền chịu áp lực.",
+    "limit": "Các con số của tác giả cần kiểm lại lịch trả và cách tính trước khi dùng; không chuyển thành khuyên vay hay dự báo lãi suất."
+  },
+  {
+    "id": "vn16",
+    "name": "Giả định trái thói quen, gắn nhãn ngay rồi xét nhiều mặt",
+    "videos": [
+      "7467146855508479250"
+    ],
+    "principle": "Một thay đổi bất thường với sinh hoạt chung tạo vấn đề, nhưng phải đính nhãn giả định ngay và xét lợi ích/chi phí thay vì đánh tráo tin thật.",
+    "proof": "Câu đầu nêu chuyện không nghỉ Tết, đoạn ngay sau xác nhận chỉ tưởng tượng, rồi bài đối chiếu các hệ quả.",
+    "limit": "Không tách câu đầu làm headline tin thật. Có đoạn tự quảng bá cộng đồng; nó không phải cơ chế giữ chân đã được chứng minh."
+  },
+  {
+    "id": "vn17",
+    "name": "Lời hứa phần thưởng quá dễ rồi đưa nó qua phép kiểm",
+    "videos": [
+      "7473118765144755464"
+    ],
+    "principle": "Bắt đầu từ một sức hút người xem đang biết, giải thích điều kiện thực hiện và kiểm xem phần thưởng dựa vào đâu.",
+    "proof": "Lời hứa làm giàu chỉ bằng bấm điện thoại dẫn tới quá trình lý giải và nghi vấn về Pi.",
+    "limit": "Đừng dùng lời hứa giàu nhanh như hook xác nhận lợi nhuận. Bài có đoạn quảng bá cộng đồng, không đồng nghĩa tài trợ đã xác minh."
+  },
+  {
+    "id": "vn18",
+    "name": "Một trải nghiệm vừa xảy ra với chuỗi biến cố tăng dần",
+    "videos": [
+      "7608607292241497362"
+    ],
+    "principle": "Người kể vào thẳng một sự cố cá nhân, thêm biến cố kế tiếp và trả bằng chi tiết cuối liên quan trải nghiệm đầu.",
+    "proof": "Chuyến bay và các trục trặc từ lúc đến sân bay tạo một chuỗi kể ngôi một, kết ở tình trạng hành lý.",
+    "limit": "Đây là lời tự thuật của tác giả, chưa fact-check thương hiệu. Chỉ dùng ngôi một nếu người dùng có trải nghiệm thật được cung cấp."
+  },
+  {
+    "id": "vn19",
+    "name": "Lời nhắc hành động ngắn, kéo từ lỗi nhỏ tới hệ quả lớn",
+    "videos": [
+      "7672379979208035605"
+    ],
+    "principle": "Đặt một hành động cần chú ý, cho thấy một sai sót nhỏ có thể lan thành vấn đề dài hơn, rồi trả bằng bước xử lý cụ thể.",
+    "proof": "Mở bằng vay có trách nhiệm, theo các hệ quả trả chậm và kết bằng nhắc lịch/tính khả năng hoàn trả.",
+    "limit": "Không hù dọa hoặc dùng tỷ lệ trong ASR bị lỗi; điều kiện tín dụng và quy định cần kiểm nguồn riêng."
   }
 ]

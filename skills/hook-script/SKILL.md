@@ -10,13 +10,13 @@ Dùng brief, giọng và rule của người dùng. **Skill này đọc kho có 
 ## Chọn nguồn trong kho
 
 1. Đọc [mục lục corpus](references/corpus/index.md) và [nhóm hook có video](references/corpus/patterns.md).
-2. Chọn nhóm hợp vấn đề/khán giả/loại bài; đọc các bản phân tích clip được dẫn trước khi dùng. Không cần chủ đề mới trùng danh từ với clip: chuyển cơ chế khi mục tiêu phù hợp, giải thích được sự khác biệt.
+2. Chọn nhóm hợp vấn đề/khán giả/loại bài; đọc mindmap, diễn biến, nhịp cảm xúc giả thuyết và điểm mạnh/yếu trong các ca được dẫn trước khi dùng. Không cần chủ đề mới trùng danh từ với clip: chuyển cơ chế khi mục tiêu phù hợp, giải thích được sự khác biệt.
 3. Mỗi hướng ghi `Học từ`: nhóm, ID clip, đoạn quan sát, điều giữ/đổi. Số view, baseline và ngày đo lấy từ [metadata](references/corpus/videos.json), không cập nhật giả hoặc suy retention.
 4. Phân biệt quan sát khung hình và ASR với giả thuyết về hiệu quả. Kho hiện chưa được nghe toàn âm/xem liên tục, không nhận đã làm việc đó. Không coi mọi dữ kiện kinh tế trong clip là nguồn kiến thức đã kiểm.
 
 ## Viết và sửa
 
-- **Hook:** mặc định ba hướng mới khi chưa có số lượng yêu cầu; có hook nguyên văn, nhịp nối, nội dung sẽ giải đáp và dẫn nguồn ca thực. Khuyến nghị theo brief, không viết cả bài nếu chỉ được hỏi hook.
+- **Hook:** đọc [cách trình nhiều lựa chọn](references/hook-options.md). Mặc định **10 option** khác góc/cơ chế, có câu hook nguyên văn, nhóm nguồn/clip và lý do hợp brief. Chọn 3 ID trong bảng để phát triển nhịp nối, hình mở và phần cần giải đáp. Số lượng người dùng yêu cầu được ưu tiên; không viết cả bài nếu chỉ được hỏi hook. Không ép nguồn không phù hợp để đủ số.
 - **Kịch bản:** giữ hướng đã chọn, phát triển lời/hình và kết trả điều hook đã gợi. Giao bảng thời gian ước tính / lời đọc / hình gợi ý cùng phần truy nguồn cơ chế và dữ kiện.
 - **Sửa bài:** đối chiếu đoạn yếu với đoạn có vai trò tương đương trong ca đã lưu rồi giao bản sửa. Không đổi phần người dùng yêu cầu giữ. Sửa chính tả/số đơn thuần không cần chọn ca.
 

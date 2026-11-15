@@ -27,3 +27,7 @@ Không cào khi viết. Thiếu ca thì nêu khoảng trống; bảo trì kho l�
 ## Sau khi có video mới
 
 Kiểm bản thật để ghi lỗi theo mốc. Khi có số liệu đăng, lưu nền tảng/ngày/phạm vi so sánh. Không suy hiệu quả nhân quả từ một view cao. Không tự đưa bài mới thành mẫu giọng cho lần sau.
+
+## Kiểm độ đa dạng khi tạo hook
+
+Đã giao số lượng người dùng yêu cầu, hoặc mặc định 10 nếu chưa nói? Các option có khác câu hỏi/góc/cơ chế thật hay chỉ đổi chữ? Có ID, nguồn ca và lý do phù hợp? Ba hướng mở rộng có giữ đúng ID/hook từ bảng? Không tạo giả nhiều cơ chế hoặc ép một nguồn không liên quan để đủ số.

@@ -14,7 +14,7 @@ Ghi `Bằng chứng trong ca → cơ chế → lý do hợp brief → giới h�
 
 ## 4. Viết phương án mới
 
-Mỗi hướng có Học từ (nhóm/clip/đoạn), hook, nhịp nối, nội dung và kết. Không sao chép lời/ví von đặc trưng. Nếu người dùng muốn toàn bài ngay, chọn một hướng có giải thích rồi viết tiếp trong phạm vi cho phép. Giữ lựa chọn đã duyệt và rule dự án.
+Với yêu cầu tạo hook độc lập, đọc [hook-options](hook-options.md): mặc định 10 option khác nhau, chọn 3 ID phát triển; theo số lượng người dùng nếu đã chỉ định. Mỗi hướng có Học từ (nhóm/clip/đoạn), hook, nhịp nối, nội dung và kết. Không sao chép lời/ví von đặc trưng. Nếu người dùng muốn toàn bài ngay, chọn một hướng có giải thích rồi viết tiếp trong phạm vi cho phép. Giữ lựa chọn đã duyệt và rule dự án.
 
 ## 5. Kiểm và giao
 

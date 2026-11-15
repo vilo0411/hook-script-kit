@@ -23,3 +23,5 @@ dữ kiện đúng, không chép lời nguồn, không thêm trải nghiệm ho�
 Tách nhận định biên tập khỏi kết quả nền tảng đã đo; chưa đo thì không
 nói retention tăng. Giả định cần nhãn và số thực tế cần nguồn riêng.
 ```
+
+Nếu yêu cầu chính là tạo lại nhiều hook, dùng mặc định 10 option và phát triển 3 ID như [prompt tạo hook](01-tao-hook.md); nếu chỉ sửa một đoạn, giữ phạm vi đó.

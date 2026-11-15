@@ -11,9 +11,14 @@ Corpus: [thư mục đi kèm skill hoặc các case đính kèm]
 nhiệm vụ này. Đọc mục lục, chọn nhóm và đọc ca phù hợp trước khi viết.
 Mỗi hướng ghi Học từ: nhóm, ID/link clip, đoạn quan sát, điều giữ/đổi.
 
-Viết ba hướng mới nếu chưa có yêu cầu khác: câu mở, nhịp nối, điều thân bài
-cần giải đáp và lý do phù hợp. Khuyến nghị một hướng. Không sao chép lời hay
-chỉ thay danh từ của clip. Chưa viết cả bài nếu tôi chỉ yêu cầu hook.
+Mặc định cho tôi 10 option (nếu tôi yêu cầu số khác thì theo số đó), dạng
+bảng ID / hook nguyên văn / góc-cơ chế / nhóm và clip nguồn / hợp khi nào.
+Các option phải khác thực sự, ưu tiên ít nhất 6 cơ chế nếu brief và kho cho
+phép, không ép nguồn không liên quan để đủ số. Đọc cả mindmap, diễn biến
+và điểm mạnh-yếu của ca. Chọn 3 ID đáng phát triển: thêm nhịp nối nguyên văn,
+hình mở gợi ý và điều thân/kết phải giải đáp; dẫn rõ đoạn nguồn và điều đổi.
+Khuyến nghị 1 ID, không nhận đã A/B test. Không chép lời hoặc chỉ thay danh
+từ. Chưa viết cả bài nếu tôi chỉ yêu cầu hook.
 
 Giữ đúng giới hạn evidence của ca: ASR/khung trích không đồng nghĩa nghe
 âm hoặc xem liên tục; view không chứng minh retention. Các đoạn mở chậm,

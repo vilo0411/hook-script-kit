@@ -11,3 +11,5 @@ Chỉ đăng phần bạn có quyền chia sẻ; ưu tiên diễn giải ngắn 
 Chạy `python3 scripts/check.py` (Python 3.9+, thư viện chuẩn), kiểm skill sau khi sao chép riêng và rà nguồn/vị trí trước khi gửi. Kiểm kỹ thuật không xác nhận chất lượng sáng tác.
 
 Cập nhật dữ liệu và phân tích trước khi phát hành skill. Thêm metadata/video/case/nhóm vào corpus đi kèm, chạy `python3 scripts/check-corpus.py`. Không thêm thao tác cào vào luồng viết; maintainer cập nhật theo yêu cầu riêng.
+
+Mỗi ca mới cần thêm lời hứa/câu hỏi trung tâm, nhịp cảm xúc như giả thuyết có mốc, phân phối thông tin, điểm mạnh/yếu có bằng chứng và 5–7 nhánh mindmap riêng của clip. Sửa JSON nguồn rồi chạy `python3 scripts/render-corpus.py`; không sửa tay trang sinh nếu chưa cập nhật JSON. Mindmap phải khớp bản inline và file `.mmd`.

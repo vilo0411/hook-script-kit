@@ -1,15 +1,24 @@
 {
   "schemaVersion": 1,
-  "collectionCompletedAt": "2026-11-15T03:30:40.965054+00:00",
+  "collectionCompletedAt": "2026-11-15T03:46:23.460068+00:00",
   "platform": "TikTok",
   "scope": "Tài chính/kinh tế tiếng Việt, bốn kênh được chọn có chủ đích",
-  "channels": 4,
-  "channelRecords": 525,
-  "videosDownloaded": 12,
-  "videosAnalyzed": 12,
+  "channels": 6,
+  "channelRecords": 749,
+  "videosDownloaded": 24,
+  "videosAnalyzed": 24,
   "viralOperationalRule": ">=100.000 view và >=3× trung vị snapshot kênh sau lọc tuổi 48h; ngưỡng tuyển mẫu thực dụng, không chứng minh nhân quả.",
   "samplingLimit": "Không lấy mẫu ngẫu nhiên hay đầy đủ toàn TikTok VN; tuyển ứng viên từ cache có ASR rồi cập nhật metadata/media. Có video cũ ngoài cửa sổ 150 bài của baseline.",
   "evidenceLimit": "Đã tải media, kiểm các khung chọn lọc và đọc ASR có mốc; chưa nghe toàn âm/xem liên tục. Không có retention hoặc analytics địa lý.",
   "publicData": "Metadata chuẩn hóa, đoạn hook ngắn và phân tích tự viết; không xuất signed CDN URLs, cookie, raw info.json, toàn transcript hoặc media của tác giả.",
-  "ytDlpVersion": "2026.08.19"
+  "ytDlpVersion": "2026.08.19",
+  "hookGroups": 19,
+  "mindmaps": 24,
+  "expansionNote": "Đợt mở rộng thêm 12 clip, hai kênh và phân tích sâu/mindmap riêng toàn bộ 24 ca. Metadata bốn kênh giữ timestamp đợt trước cùng ngày; hai kênh mới có timestamp riêng.",
+  "excludedCandidates": [
+    {
+      "id": "7472734993308060948",
+      "reason": "ASR cache lặp tiếng Anh không liên quan; không đưa vào corpus tiếng Việt."
+    }
+  ]
 }

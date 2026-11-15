@@ -25,6 +25,8 @@ def validate(root):
     require(len(records) == collection['channelRecords'], 'Channel record count differs')
     require(len(channels) == collection['channels'], 'Channel count differs')
     require(len(videos) == collection['videosAnalyzed'] == collection['videosDownloaded'], 'Video count differs')
+    require(len(patterns) == collection.get('hookGroups'), 'Hook group count differs')
+    require(len(analyses) == collection.get('mindmaps'), 'Mindmap count differs')
     require(len({v['id'] for v in videos}) == len(videos), 'Duplicate selected video ID')
     require(len({v['id'] for v in records}) == len(records), 'Duplicate channel record ID')
     by = {v['id']: v for v in videos}
@@ -79,6 +81,26 @@ def validate(root):
         for f in a['visualEvidence']:
             require(0 <= f['time'] <= dur, 'Observation outside duration: ' + a['id'])
         require(bool(a['limitations']), 'Missing limitations: ' + a['id'])
+        detail = a.get('detail', {})
+        for key in ['promise', 'centralQuestion', 'emotionalArc', 'informationDesign',
+                    'strengths', 'weaknesses', 'shareabilityHypotheses', 'adaptationRules', 'mindmapBranches']:
+            require(bool(detail.get(key)), 'Missing detailed field: ' + a['id'] + '/' + key)
+        for key in ['emotionalArc', 'informationDesign']:
+            for item in detail.get(key, []):
+                require(0 <= item['start'] < item['end'] <= dur, 'Detailed beat outside duration: ' + a['id'])
+        branches = detail.get('mindmapBranches', [])
+        require(len(branches) >= 5, 'Mindmap needs clip-specific branches: ' + a['id'])
+        for branch in branches:
+            require(bool(branch['label']) and bool(branch['children']), 'Empty mindmap branch: ' + a['id'])
+        mmd = c / 'mindmaps' / (a['id'] + '.mmd')
+        if mmd.is_file():
+            diagram = mmd.read_text(encoding='utf-8')
+            require(diagram.startswith('mindmap\n'), 'Invalid mindmap type: ' + a['id'])
+            case = (c / by[a['id']]['casePath']).read_text(encoding='utf-8')
+            require('```mermaid\n' + diagram.rstrip() + '\n```' in case,
+                    'Standalone/inline mindmaps differ: ' + a['id'])
+        else:
+            require(False, 'Missing standalone mindmap: ' + a['id'])
     return errors
 
 

@@ -1,5 +1,27 @@
 [
   {
+    "handle": "huyen_chungkhoan101",
+    "url": "https://www.tiktok.com/@huyen_chungkhoan101",
+    "collectedAt": "2026-11-15T03:46:37.575542+00:00",
+    "method": "yt-dlp --flat-playlist -J --playlist-end 150",
+    "videoCountCollected": 150,
+    "baselineCount": 150,
+    "baselineMedianViews": 76400.0,
+    "baselineRule": "Trung vị lượt xem tích lũy của các bài trong tập thu thập, bỏ bài dưới 48 giờ. Đây là tối đa 150 bài lấy được, không phải toàn bộ lịch sử kênh.",
+    "rawResponseSha256": "36f76aabcaae278e6f5a2827d33bafe5bb21bd9fea9e79d1a886a4047f9b0378"
+  },
+  {
+    "handle": "iftactix",
+    "url": "https://www.tiktok.com/@iftactix",
+    "collectedAt": "2026-11-15T03:46:43.912139+00:00",
+    "method": "yt-dlp --flat-playlist -J --playlist-end 150",
+    "videoCountCollected": 74,
+    "baselineCount": 67,
+    "baselineMedianViews": 3112,
+    "baselineRule": "Trung vị lượt xem tích lũy của các bài trong tập thu thập, bỏ bài dưới 48 giờ. Đây là tối đa 150 bài lấy được, không phải toàn bộ lịch sử kênh.",
+    "rawResponseSha256": "a6c2ddc27417957716c8a2aecc6a90eb4148d6f44ad12cda7b484e1dc9dde3f4"
+  },
+  {
     "handle": "longkhongphainong",
     "url": "https://www.tiktok.com/@longkhongphainong",
     "collectedAt": "2026-11-15T03:29:15.461613+00:00",

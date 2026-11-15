@@ -41,3 +41,7 @@ Không đăng toàn transcript/ảnh khi chưa có quyền chia sẻ. Trích ng�
 - Trạng thái bài mới: [nháp / đã được duyệt cho tác vụ / được duyệt riêng làm mẫu giọng]
 
 Được duyệt cho một tác vụ không tự trở thành mẫu giọng. Bản phân tích và bản sáng tác phải giữ riêng về nguồn và trạng thái.
+
+## Phân tích sâu và mindmap
+
+Khi thêm vào corpus, ghi `detail` trong analyses.json: `promise`, `centralQuestion`, `emotionalArc` (mốc, cảm xúc giả thuyết, bằng chứng, diễn giải), `informationDesign` (mốc, động tác viết, lý do), `strengths`/`weaknesses` (nhận định + bằng chứng), `shareabilityHypotheses`, `adaptationRules` và `mindmapBranches` (nhãn + các chi tiết con). Mỗi nhánh phải của chính clip và có mốc khi biết; không dùng một sơ đồ lý thuyết chung làm bằng chứng cho tất cả ca.
