@@ -9,3 +9,5 @@ Bài sáng tác phát triển từ phân tích cần ghi học từ clip/đoạn
 Chỉ đăng phần bạn có quyền chia sẻ; ưu tiên diễn giải ngắn và liên kết nguồn, không đăng nguyên transcript/ảnh/video. Phần tự viết theo MIT; nguồn ngoài giữ giấy phép riêng. Không đưa dữ liệu nội bộ hoặc thông tin khách hàng.
 
 Chạy `python3 scripts/check.py` (Python 3.9+, thư viện chuẩn), kiểm skill sau khi sao chép riêng và rà nguồn/vị trí trước khi gửi. Kiểm kỹ thuật không xác nhận chất lượng sáng tác.
+
+Cập nhật dữ liệu và phân tích trước khi phát hành skill. Thêm metadata/video/case/nhóm vào corpus đi kèm, chạy `python3 scripts/check-corpus.py`. Không thêm thao tác cào vào luồng viết; maintainer cập nhật theo yêu cầu riêng.

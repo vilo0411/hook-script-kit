@@ -1,31 +1,29 @@
-# Viết kịch bản từ phân tích clip
+# Viết kịch bản từ corpus đã lưu
 
-Sao chép cả khối và điền brief. Có phân tích nguồn thì gửi kèm, không chỉ gửi tên công thức.
+Đọc [kho clip](../skills/hook-script/references/corpus/index.md). Nếu dùng chat không có quyền đọc repo, đính kèm các ca đã chọn.
 
 ```text
 Chủ đề / khán giả / điều cần hiểu: [điền]
-Giọng / thời lượng / rule: [điền]
-Clip tham khảo hoặc breakdown đã có: [điền; chưa có thì tìm nguồn phù hợp]
-Hook/hướng đã chọn: [điền nếu có]
+Giọng / thời lượng / rule / hướng đã chọn: [điền]
+Corpus đã lưu hoặc case đính kèm: [điền]
 Nguồn dữ kiện / giả định được phép dùng: [điền nếu có]
 Mẫu giọng riêng được tôi duyệt: [điền hoặc chưa có]
 
-Làm theo thứ tự: chọn clip → phân tích bằng chứng → rút cơ chế → viết mới.
-Chưa có nguồn thì tìm bằng công cụ đang có. Nếu không truy cập được, nói rõ
-thiếu gì và xin clip/file/transcript thay vì viết rồi giả đã học từ nguồn.
+Dùng nhóm hook và phân tích clip đã có trong corpus. Không cào, tìm hoặc
+tải clip mới khi viết. Đọc ca trước khi rút cơ chế; ghi Học từ nhóm/clip/
+đoạn nào, giữ/đổi gì và vì sao phù hợp brief. Không cần trùng danh từ
+chủ đề nếu có thể chuyển cơ chế với lý do rõ ràng.
 
-Ghi URL, lý do chọn, phạm vi đã xem/nghe/đọc và ngày quan sát. Phân tích mở,
-nối, diễn biến, nhịp cảm xúc, giải thích và kết. Ghi mốc thực hoặc vị trí
-đoạn; tách quan sát khỏi suy luận. Transcript chỉ cho phép phân tích lời;
-breakdown bên ngoài là nguồn thứ cấp, không đồng nghĩa đã xem clip.
+Giữ hướng đã chọn; nếu chưa chọn, đề xuất ba hướng, khuyến nghị một rồi
+viết tiếp ngay. Giao bảng thời gian ước tính / lời đọc / hình gợi ý và
+phần truy nguồn cơ chế, nguồn dữ kiện. Kết trả điều hook đã gợi.
 
-Giữ hướng đã chọn; nếu chưa chọn và đủ nguồn, đề xuất ba hướng chuyển thể,
-khuyến nghị một rồi viết tiếp ngay. Mỗi hướng phải ghi Học từ clip/đoạn nào,
-giữ/đổi cơ chế gì và vì sao hợp khán giả. Không lấy bài AI chưa duyệt làm mẫu,
-không chọn một trong vài cấu trúc cố định trước khi quan sát, không chép lời.
+Không chép lời/ẩn dụ đặc trưng, không dùng kịch bản AI chưa duyệt làm chuẩn.
+Không nhận đã xem/nghe nguồn vượt phạm vi corpus ghi. Tự chấm và kiểm kỹ
+thuật không thay phản hồi của tôi hoặc chứng minh retention. Nếu kho chưa
+có ca phù hợp, nói rõ khoảng trống; cập nhật kho là việc riêng.
 
-Giao bảng thời gian ước tính / lời đọc / hình gợi ý, cùng phần truy nguồn
-cơ chế và dữ kiện. Kết trả điều hook đã gợi. Thời gian chưa có bản đọc chỉ
-là ước tính. Không bịa số liệu, trải nghiệm, nguồn hoặc kết quả retention.
-Tự kiểm không đồng nghĩa bài được tôi duyệt làm chuẩn cho lần sau.
+Số thực tế cần nguồn độc lập phù hợp; giả định có nhãn. Không bịa nguồn,
+trải nghiệm, timestamp hoặc lợi nhuận đảm bảo. Thời gian chưa có bản đọc
+chỉ là ước tính.
 ```

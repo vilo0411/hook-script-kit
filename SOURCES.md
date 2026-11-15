@@ -17,4 +17,4 @@ Nội dung repo thứ hai theo [CC BY-NC-SA 4.0](https://github.com/shixinzhang/
 
 Bản đầu đã đặt bài và hook AI tự viết làm ví dụ. Chủ repo chưa ưng ý và không chấp nhận dùng làm mẫu. Bản hiện hành gỡ năm bài đó, bảng 20 hook, năm cấu trúc định sẵn và phần tự chấm đi kèm khỏi nguồn dùng hiện tại. Lịch sử Git giữ thay đổi để truy vết, không phải thư viện mẫu.
 
-Thư viện trực tiếp hiện trống. Việc tiếp theo của skill khi có brief là tìm/nhận nguồn, phân tích rồi rút cơ chế, không tự tạo bằng chứng để lấp thư viện.
+Đã bổ sung [corpus TikTok tiếng Việt](skills/hook-script/references/corpus/index.md): 525 bản ghi bốn kênh, 12 ca có media được tải lại và 10 nhóm hook có bằng chứng. Skill đọc kho này khi viết, không tự cào. Xem [phương pháp](MAINTENANCE.md) về cách tuyển mẫu, reuse ASR và giới hạn review.

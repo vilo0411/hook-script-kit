@@ -1,4 +1,6 @@
-# Thu thập và phân tích clip tham khảo
+# Bảo trì: thu thập và phân tích clip tham khảo
+
+Tài liệu dành cho tác vụ bổ sung kho được yêu cầu riêng. Skill viết mặc định chỉ đọc corpus có sẵn, không chạy quy trình này.
 
 ## Lấy đầu vào thật
 

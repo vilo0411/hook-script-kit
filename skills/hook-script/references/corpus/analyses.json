@@ -1,0 +1,1040 @@
+[
+  {
+    "id": "7697361245959114000",
+    "title": "Hai tầng quyền lực: điều hành và quản trị doanh nghiệp",
+    "openingObservation": "ASR đặt CEO cạnh chủ tịch rồi hỏi ai là người đứng đầu. Ba nhịp đầu tiếp tục cùng một nghi vấn: CEO điều hành nhưng vẫn còn tầng quản trị phía trên. Khung 0–3 giây đặt hai biểu tượng người có nhãn chức danh ngang hàng, rồi thêm dấu hỏi và chữ; câu hỏi quyền lực trở thành phép so nhìn được ngay.",
+    "visualEvidence": [
+      {
+        "time": 0,
+        "observation": "Hai biểu tượng người trên hai biển chức danh CEO và chủ tịch HĐQT ở cùng hàng, chưa có sơ đồ phân cấp."
+      },
+      {
+        "time": 2,
+        "observation": "Dấu hỏi màu vàng ở phía trên hai chức danh; chữ trên hình hỏi ai là người đứng đầu công ty."
+      },
+      {
+        "time": 16.92,
+        "observation": "Nhân vật Sóc mặc vest đứng trong một văn phòng có nhân viên và bảng làm việc, hỗ trợ phần mô tả vai trò điều hành."
+      },
+      {
+        "time": 33.84,
+        "observation": "Một xe đỏ do nhân vật Sóc cầm lái trên đường, tương ứng đoạn ASR dùng hình dung lái doanh nghiệp."
+      },
+      {
+        "time": 42.3,
+        "observation": "Khung Sóc kèm thẻ hỏi về cấp trên của CEO, đưa phép so chức danh trở lại hình."
+      },
+      {
+        "time": 55.4,
+        "observation": "Hai nhân vật Long và Sóc đứng cạnh nhau, phía trên có nhãn phần tiếp theo; không có sơ đồ sở hữu hay kết luận về người quyền lực nhất."
+      }
+    ],
+    "beats": [
+      {
+        "start": 0.16,
+        "end": 8.8,
+        "summary": "Đặt cặp chức danh quen thuộc, rồi làm rõ vì sao việc CEO điều hành chưa giải quyết được câu hỏi ai có quyền hơn.",
+        "role": "Mở bằng lựa chọn hai vế và kéo dài khoảng trống thông tin."
+      },
+      {
+        "start": 9.18,
+        "end": 24.6,
+        "summary": "Đưa Sóc vào vai CEO; mô tả người được nhân viên gọi là sếp, xử lý phòng ban và chịu trách nhiệm vận hành.",
+        "role": "Tạo một đáp án tạm có vẻ hợp lý: người cầm việc hằng ngày là người cao nhất."
+      },
+      {
+        "start": 24.94,
+        "end": 32.6,
+        "summary": "Nói ra suy nghĩ mà người xem có thể đang có, rồi giới thiệu Long ở vai chủ tịch HĐQT.",
+        "role": "Lật đáp án tạm bằng một vai trò còn thiếu."
+      },
+      {
+        "start": 33.0,
+        "end": 41.1,
+        "summary": "Dùng người lái xe và bên giám sát để tách hoạt động điều hành khỏi hoạt động quản trị.",
+        "role": "Đổi khái niệm chức danh thành một phép phân công dễ hình dung."
+      },
+      {
+        "start": 41.48,
+        "end": 50.72,
+        "summary": "Thử suy luận chủ tịch có thể ra lệnh mọi việc rồi bác bỏ cách hiểu tuyệt đối ấy; nhấn mạnh hai loại thẩm quyền khác nhau.",
+        "role": "Sửa thêm một suy luận đơn giản hóa, trả lời một phần khác biệt giữa hai chức danh."
+      },
+      {
+        "start": 51.0,
+        "end": 56.1,
+        "summary": "Gợi yếu tố quan trọng hơn chức danh nhưng không giải thích yếu tố đó trong clip; chuyển sang phần sau.",
+        "role": "Mở vòng hỏi mới để nối tập; câu hỏi ai thực sự mạnh hơn chưa được giải trọn."
+      }
+    ],
+    "ending": "Kết thúc bằng lời hẹn phần sau, sau khi đã phân biệt điều hành với quản trị. Đoạn này đóng bài học phân vai nhưng để mở câu hỏi quyền lực tối hậu đã gợi ngay đầu.",
+    "mechanism": "Cặp quen thuộc nhưng khó xếp hạng → dựng đáp án trực giác qua một nhân vật → thêm tầng bị bỏ sót → thay thứ bậc đơn tuyến bằng hai loại quyền. Phần đầu có cơ sở quan sát để gọi là hook so quyền lực; không có dữ liệu chứng minh cơ chế ấy gây tăng view.",
+    "transfer": "Có thể học việc đặt hai vai hay bị nhầm cạnh nhau và cho người xem thử một đáp án tạm trước khi thêm điều kiện. Khi chuyển thành video độc lập, cần trả câu hỏi cốt lõi trong chính clip hoặc thu hẹp lời hứa ngay từ đầu. Không mặc định sao chép lối hẹn phần hai.",
+    "limitations": [
+      "Đã xem 12 khung trích từ bản tải mới và đọc ASR có timestamp; chưa nghe âm hoặc xem video liên tục.",
+      "Mốc beats lấy từ ASR đã lưu của cùng video ID; cần nghe lại khi trích nguyên văn.",
+      "Đây là phân tích cách trình bày, không kiểm chứng độc lập toàn bộ nội dung quản trị doanh nghiệp.",
+      "Chỉ một ca tham khảo; không có retention hoặc thử nghiệm nhân quả."
+    ]
+  },
+  {
+    "id": "7683455896910908690",
+    "title": "Cổ phiếu và trái phiếu được phân biệt qua vai trò của người đưa vốn",
+    "openingObservation": "ASR mở bằng việc hai tài sản quen thuộc hay bị đánh đồng, rồi gọi tên cặp cần phân biệt. Đây là lời hứa gỡ nhầm lẫn trực tiếp, không phải một câu chuyện có xung đột. Khung đầu dùng hai linh vật, tiền và biểu đồ, nên chủ đề tài chính xuất hiện trước khi phân tích dài.",
+    "visualEvidence": [
+      {
+        "time": 0,
+        "observation": "Long và Sóc đứng giữa khung trên nền giấy; một nhân vật cầm biểu đồ tăng, nhân vật kia cầm đồng tiền, tiền giấy/đồng xu nằm phía dưới."
+      },
+      {
+        "time": 5,
+        "observation": "Một hình thu nhỏ có tên hai loại chứng khoán được đặt giữa, nguồn Vietstock nằm gần phía dưới; đây là khung gọi tên khái niệm."
+      },
+      {
+        "time": 19.96,
+        "observation": "Sóc cầm một chứng nhận/quyền lợi trong khi đứng cạnh túi tiền, hỗ trợ phần mô tả tư cách người sở hữu."
+      },
+      {
+        "time": 29.94,
+        "observation": "Hình Long với túi tiền lớn đối lập với Sóc trên hình bập bênh, kèm tiền rơi; đây là hình minh họa rủi ro chứ không phải dữ liệu giao dịch."
+      },
+      {
+        "time": 39.92,
+        "observation": "Hai nhân vật đứng cạnh biểu đồ có cả đoạn đi xuống lẫn đi lên, đồng thời có cây tiền."
+      },
+      {
+        "time": 59.87,
+        "observation": "Long đứng cạnh một cửa hàng nhỏ, phụ đề ở khung nói tới tư cách chủ sở hữu."
+      },
+      {
+        "time": 65.53,
+        "observation": "Sóc và tòa nhà được nối bằng đường tiền uốn cong; phụ đề thông báo phần sau."
+      }
+    ],
+    "beats": [
+      {
+        "start": 0.0,
+        "end": 4.16,
+        "summary": "Gọi tên cặp khái niệm quen nhưng thường bị nhầm.",
+        "role": "Mở bằng lỗ hổng hiểu biết cụ thể và hứa phân biệt."
+      },
+      {
+        "start": 4.5,
+        "end": 18.2,
+        "summary": "Giới thiệu Sóc với khả năng chấp nhận biến động; giải thích mua cổ phiếu là nắm quyền lợi kinh tế, không phải cho doanh nghiệp vay.",
+        "role": "Đi sâu một vế, đồng thời gieo sẵn vế đối chiếu còn lại."
+      },
+      {
+        "start": 18.68,
+        "end": 29.62,
+        "summary": "Dùng tình huống sở hữu cổ phần để mô tả giá có thể tăng và khả năng nhận cổ tức.",
+        "role": "Cụ thể hóa quan hệ sở hữu bằng kết quả người góp vốn có thể nhận."
+      },
+      {
+        "start": 29.98,
+        "end": 43.16,
+        "summary": "Chuyển sang biến động giá và tổn thất có thể xảy ra khi doanh nghiệp hoạt động không tốt.",
+        "role": "Đổi chiều từ lợi ích sang đánh đổi, tránh chỉ kể phần có lời."
+      },
+      {
+        "start": 43.52,
+        "end": 62.48,
+        "summary": "Đưa mong muốn cho doanh nghiệp vay vào làm vế đối chiếu; chốt khác biệt tư cách chủ sở hữu và chủ nợ.",
+        "role": "Trả lời lời hứa phân biệt ở đầu bằng một trục so duy nhất."
+      },
+      {
+        "start": 62.88,
+        "end": 66.26,
+        "summary": "Nêu câu hỏi mới về cách tiền trong trái phiếu vận hành và hẹn tập sau.",
+        "role": "Đã đóng phân biệt chính rồi mở sang cơ chế chi tiết của vế thứ hai."
+      }
+    ],
+    "ending": "Cặp quyền lợi chính được phân biệt trước đoạn hẹn tiếp. Khác với clip CEO, lời hứa phân biệt ban đầu đã có đáp án cơ bản; câu hỏi để lại là cơ chế tiền của trái phiếu, không hoàn toàn lặp lại câu hỏi mở.",
+    "mechanism": "Nêu một nhầm lẫn có tên → theo một nhân vật để làm rõ vế thứ nhất → chuyển lợi ích sang rủi ro → đưa vế còn lại vào cùng trục quyền lợi. Điểm học được nằm ở trục phân biệt và nhịp lợi ích/rủi ro, không phải một câu sốc.",
+    "transfer": "Với một cặp khái niệm cần giải thích, chọn một trục so quan trọng và giữ nhân vật xuyên suốt. Cho người xem đủ ví dụ để tự hiểu vế đầu rồi mới đưa vế đối chiếu. Nếu bài chỉ có một phần, phần kết nên đóng cả nhu cầu ứng dụng chứ không cần hẹn tập kế.",
+    "limitations": [
+      "Đã xem 12 khung trích mới và đọc ASR theo timestamp, chưa kiểm âm hoặc chuyển động liên tục.",
+      "ASR gọi tên Sóc không nhất quán; khi dùng nguồn nên gắn nhân vật từ hình thay vì chép lỗi nhận dạng.",
+      "Đánh giá rủi ro và tính phù hợp đầu tư trong lời nguồn chưa được kiểm độc lập; không lấy đó làm khuyến nghị.",
+      "Nội dung có thể đạt nhiều view vì nhiều yếu tố; không có dữ liệu giữ chân để tách tác dụng từng beat."
+    ]
+  },
+  {
+    "id": "7692502679943187719",
+    "title": "Hai game cùng thể loại nhưng phục vụ hai nhu cầu khác nhau",
+    "openingObservation": "Khung 0–3 giây đặt hình PUBG và Free Fire cạnh nhau, bên dưới là nhân vật dẫn. ASR và phụ đề cùng cho thấy câu mở nhấn mạnh bề ngoài cùng thể loại nhưng khác tệp người chơi. Phụ đề khung 2 giây dùng chữ viết tắt, trong khi ASR nhận sai một cụm; nên diễn giải cơ chế thay vì coi ASR là nguyên văn đã xác nhận.",
+    "visualEvidence": [
+      {
+        "time": 0,
+        "observation": "Ảnh PUBG xuất hiện phía trên nhân vật Long; ở khung 1 giây có thêm ảnh Free Fire đặt cạnh để tạo cặp so sánh."
+      },
+      {
+        "time": 3,
+        "observation": "Hai ảnh game vẫn ở cùng vị trí; phụ đề nêu khác biệt về tệp người chơi."
+      },
+      {
+        "time": 5,
+        "observation": "Hai bong bóng đặt người chơi máy tính cạnh người dùng điện thoại, cụ thể hóa điểm chung/khác về cách trải nghiệm."
+      },
+      {
+        "time": 8,
+        "observation": "Hai linh vật với khẩu súng và một bản đồ chiến đấu nằm dưới hai bong bóng chiến thắng, nhấn điểm giống về thể loại."
+      },
+      {
+        "time": 31.99,
+        "observation": "Bản đồ, vũ khí, thiết bị bảo hộ và xe được bày quanh nhân vật, hỗ trợ phần mô tả trải nghiệm chiến đấu nhiều thành phần."
+      },
+      {
+        "time": 39.98,
+        "observation": "Nhân vật cầm một thiết bị dạng máy chơi game, nhiều biểu tượng giải trí/camera/âm nhạc đi kèm; hình chuyển sang tập hợp nhu cầu giải trí."
+      },
+      {
+        "time": 52.31,
+        "observation": "Hai nhân vật đứng trước túi tiền và biểu đồ tăng; phụ đề báo rằng câu chuyện kiếm tiền nằm ở phần tiếp theo."
+      }
+    ],
+    "beats": [
+      {
+        "start": 0.0,
+        "end": 4.2,
+        "summary": "Đặt hai sản phẩm cùng nhóm cạnh nhau nhưng khẳng định chúng hướng tới nhóm người chơi khác nhau.",
+        "role": "Mở bằng mâu thuẫn giữa sự giống bên ngoài và mục tiêu kinh doanh khác."
+      },
+      {
+        "start": 4.6,
+        "end": 14.38,
+        "summary": "Nhắc phần giống về luật sinh tồn, rồi đổi góc nhìn từ trải nghiệm chơi sang kinh doanh.",
+        "role": "Xác nhận trực giác ban đầu trước khi chuyển trục đánh giá."
+      },
+      {
+        "start": 14.72,
+        "end": 27.0,
+        "summary": "Giới thiệu các bên phát triển/phát hành rồi chuyển tới cách hai game tiếp cận người chơi.",
+        "role": "Thêm bối cảnh doanh nghiệp; nhịp này dài và nhiều tên riêng hơn phần hook."
+      },
+      {
+        "start": 27.28,
+        "end": 36.1,
+        "summary": "Mô tả phía PUBG bằng quy mô bản đồ, thời lượng trận và cảm giác chiến đấu.",
+        "role": "Cho vế so sánh thứ nhất một tập thuộc tính cụ thể."
+      },
+      {
+        "start": 36.32,
+        "end": 48.84,
+        "summary": "Đặt phía Free Fire ở khả năng tiếp cận thiết bị, nhịp trận và nhu cầu giải trí nhanh; tổng hợp khác biệt trải nghiệm.",
+        "role": "Hoàn thành phép so định vị sản phẩm với một vế đối ứng."
+      },
+      {
+        "start": 49.16,
+        "end": 53.06,
+        "summary": "Chuyển từ khác biệt khách hàng sang câu hỏi cách kiếm tiền nhưng hẹn câu trả lời ở phần sau.",
+        "role": "Nối tập bằng việc mở một vấn đề thương mại mới."
+      }
+    ],
+    "ending": "Clip giải thích chủ yếu sự khác biệt định vị/tệp người chơi. Câu hỏi cách kiếm tiền xuất hiện ở cuối và bị chuyển sang phần hai. Nếu lấy cả tiêu đề nguồn làm lời hứa của clip, phần kiếm tiền chưa được trả trong ca này; cần ghi rõ điểm yếu thay vì xem mọi đoạn hẹn tiếp là kỹ thuật nên sao chép.",
+    "mechanism": "Cặp sản phẩm rất quen → xác nhận điểm giống dễ nhận ra → đổi góc nhìn sang đối tượng phục vụ → đối chiếu thuộc tính trải nghiệm → mở sang bài toán doanh thu. Cơ chế học được là đổi trục so sánh, không phải gắn một câu gây tò mò độc lập vào đầu.",
+    "transfer": "Có thể học cách đi từ hai thứ khán giả đã biết sang một tiêu chí kinh doanh họ chưa để ý. Khi áp dụng, nên giảm đoạn tên riêng nếu không giúp giải thích khác biệt, và bảo đảm câu hỏi trên tiêu đề được trả trong cùng video hoặc ghi rõ đây là phần về định vị.",
+    "limitations": [
+      "Đã xem khung đầu/giữa/cuối từ bản tải mới và đọc ASR; chưa nghe âm hoặc xem liên tục.",
+      "Cụm đầu trong ASR có lỗi nhận dạng; phụ đề ảnh chỉ cho thấy cách viết tắt, chưa đủ xác nhận từng từ nói.",
+      "Các chi tiết pháp nhân/phát hành game trong nguồn chưa được kiểm độc lập.",
+      "Không có dữ liệu retention, không thể kết luận đoạn nhiều tên riêng làm người xem rời đi; đó chỉ là nhận xét biên tập cần thử."
+    ]
+  },
+  {
+    "id": "7644506205179612423",
+    "title": "Mua trước trả sau: xung đột giữa thu nhập và mức chi tiêu",
+    "openingObservation": "ASR 0–7,56 giây đặt mức lương bên cạnh giá một điện thoại cao hơn nhiều, sau đó thu nhỏ nghĩa vụ thành khoản trả mỗi tháng. Cùng thời gian đó, các khung 0–5 giây cho thấy một nhân vật quay lưng, tiền ở một tay và điện thoại ở tay còn lại. Đây là một tình huống định lượng có mâu thuẫn, chưa phải phần định nghĩa sản phẩm tín dụng.",
+    "visualEvidence": [
+      {
+        "time": 0,
+        "observation": "Nhân vật nam mặc áo khoác quay lưng, đứng giữa nền có họa tiết; chưa có người dẫn ngồi bàn."
+      },
+      {
+        "time": 1,
+        "observation": "Tiền và dòng chữ chỉ mức lương xuất hiện cạnh tay nhân vật."
+      },
+      {
+        "time": 3,
+        "observation": "Điện thoại màu cam ở phía tay còn lại; lời ASR đang nói về khoản chi lớn so với lương."
+      },
+      {
+        "time": 5,
+        "observation": "Khung trích tiếp tục giữ cả thông tin thu nhập và một con số khoản trả nhỏ hơn, làm phép đối chiếu bằng hình."
+      },
+      {
+        "time": 67.07,
+        "observation": "Người dẫn nữ ngồi tại bàn trên nền tối, phụ đề hai đến ba dòng và vạch vàng bên trái; tại vị trí này ASR bắt đầu giải thích một nguồn thu của mô hình."
+      },
+      {
+        "time": 100.6,
+        "observation": "Ảnh cửa hàng điện máy trả góp nằm trong khung bo góc, có ghi nguồn Internet."
+      },
+      {
+        "time": 167.67,
+        "observation": "Ảnh người đẩy xe mua sắm đi cùng nhãn đỏ về ảo giác tài chính; đây là một ví dụ hình phục vụ phần cảnh báo."
+      },
+      {
+        "time": 222.56,
+        "observation": "Người dẫn xuất hiện ở khung kết, phụ đề nhắc điều kiện thiếu khả năng quản lý tài chính cá nhân."
+      }
+    ],
+    "beats": [
+      {
+        "start": 0,
+        "end": 10.44,
+        "summary": "Đặt lương, giá điện thoại và khoản trả tháng cạnh nhau, rồi đổi từ cảm giác hợp lý sang cảnh báo mắc bẫy.",
+        "role": "Tạo mâu thuẫn gần đời sống và đảo cách người xem đánh giá khoản chi."
+      },
+      {
+        "start": 10.78,
+        "end": 32.6,
+        "summary": "Mô tả các khoản trả nhỏ cộng lại khi nhận lương, sau đó đưa số liệu người dùng trẻ và đặt câu hỏi về sức hút của mô hình.",
+        "role": "Nối chuyện cá nhân sang hiện tượng rộng hơn; các tỷ lệ là luận điểm nguồn cần kiểm riêng."
+      },
+      {
+        "start": 32.98,
+        "end": 61.7,
+        "summary": "Gọi tên bản chất cho vay tiêu dùng, so cách diễn đạt và xét duyệt với ngân hàng truyền thống.",
+        "role": "Giải mã sự tiện lợi mà phần mở đã cho thấy."
+      },
+      {
+        "start": 62,
+        "end": 98.86,
+        "summary": "Đặt câu hỏi bên cung cấp kiếm tiền từ đâu khi quảng bá không thu lãi, rồi trình bày hoa hồng và phí chậm trả.",
+        "role": "Mở một câu hỏi kinh doanh thứ hai và trả lời trước khi sang tâm lý người mua."
+      },
+      {
+        "start": 99.1,
+        "end": 163.46,
+        "summary": "Nối tăng trưởng nền tảng với việc giảm cảm giác mất tiền, so số tiền lớn trả ngay và số nhỏ trả từng kỳ, rồi kể về nhu cầu giữ hình ảnh tiêu dùng.",
+        "role": "Giải thích vì sao một khoản vay có thể được cảm nhận thành khả năng mua sắm."
+      },
+      {
+        "start": 163.46,
+        "end": 200.78,
+        "summary": "Quay lại tổng nghĩa vụ thanh toán, mô tả vòng nợ và tác giả nêu hệ quả tín dụng dài hạn.",
+        "role": "Tăng hệ quả và trả lại câu cảnh báo ở mở đầu; phần quy định/hệ thống tín dụng chưa được kiểm chứng trong lượt phân tích này."
+      },
+      {
+        "start": 201.22,
+        "end": 222.08,
+        "summary": "Đặt mua sắm trực tuyến như lần đầu một số người tiếp cận tín dụng, kết bằng khả năng thành khoản nợ xấu khi thiếu quản lý.",
+        "role": "Kết có điều kiện, mở rộng từ món điện thoại sang năng lực tài chính cá nhân."
+      }
+    ],
+    "ending": "Kết trở lại việc mua trước trả sau có hai mặt: tạo khả năng chi tiêu dễ hơn nhưng có thể dẫn tới hệ quả tín dụng khi người dùng thiếu quản lý. Nó không kết bằng một mẹo mua hàng hay CTA tách rời chủ đề.",
+    "mechanism": "Mâu thuẫn định lượng gần người xem → làm lộ cảm giác rẻ do chia nhỏ khoản trả → hỏi động cơ kinh doanh phía sau → quay lại tổng nghĩa vụ. Bằng chứng cho cơ chế là trình tự các đoạn ASR và tiền/điện thoại trong những khung mở, không phải bằng chứng nhân quả về lượt xem.",
+    "transfer": "Khi học cách mở, chọn một quyết định tài chính có hai cách nhìn cùng tồn tại, biểu diễn hai đại lượng trên cùng hình rồi dành phần sau giải thích chỗ người xem dễ bỏ sót. Cần làm rõ kỳ hạn, tổng trả và nguồn con số; không dùng các mức lương/giá trong clip làm khuyến nghị hay bài tính hoàn chỉnh.",
+    "limitations": [
+      "Đã đọc ASR có timestamp và xem contact sheet 12 khung lấy từ bản video mới tải; chưa nghe âm và chưa xem toàn chuyển động liên tục.",
+      "ASR có lỗi nhận dạng tên sản phẩm và từ chỉ mua trước trả sau; các diễn giải trên dựa cấu trúc lời, không phải bản lời đã hiệu đính bằng tai.",
+      "Các tỷ lệ người dùng, giá trị giỏ hàng, cách nền tảng xét duyệt và hệ quả CIC là phát biểu tác giả, chưa kiểm nguồn độc lập.",
+      "Phần cảnh báo tâm lý và hệ quả nợ được lặp qua nhiều đoạn; lượt xem cao không cho biết người xem có theo đến các đoạn đó hay không.",
+      "Bản này chỉ phân tích cách kể, không xác nhận mọi sản phẩm mua trước trả sau đều có cùng phí hoặc cùng cách ghi nhận tín dụng."
+    ]
+  },
+  {
+    "id": "7686055803199032594",
+    "title": "Từ một điểm mua sắm ở TP.HCM đến mô hình kinh doanh đô thị",
+    "openingObservation": "ASR 0–25,82 giây đưa ra một sự khác biệt giữa TP.HCM và các địa phương khác, gọi tên một cửa hàng bách hóa rồi hỏi vì sao thương hiệu chọn nơi này. Các khung 0–5 giây đi từ bản đồ khu vực đến ranh giới TP.HCM và logo thương hiệu, khiến đối tượng được xác định bằng địa điểm trước lịch sử doanh nghiệp.",
+    "visualEvidence": [
+      {
+        "time": 0,
+        "observation": "Bản đồ rộng của khu vực châu Á và Đông Nam Á làm hình mở."
+      },
+      {
+        "time": 1,
+        "observation": "Ranh giới Việt Nam được tô viền trên bản đồ."
+      },
+      {
+        "time": 3,
+        "observation": "Nhãn TP.HCM và ranh giới địa phương hiện rõ trên khung trích."
+      },
+      {
+        "time": 5,
+        "observation": "Logo Takashimaya nằm cạnh bản đồ TP.HCM, gắn câu mở với một tên riêng cụ thể."
+      },
+      {
+        "time": 36.99,
+        "observation": "Ảnh mặt tiền cửa hàng truyền thống đi cùng phần ASR về nguồn gốc doanh nghiệp."
+      },
+      {
+        "time": 73.98,
+        "observation": "Hình trang phục và logo trên nền sáng minh họa mảng bán lẻ."
+      },
+      {
+        "time": 147.96,
+        "observation": "Bản đồ có nhãn Bangkok và một nhãn điểm bán tại Thượng Hải, tương ứng phần kể mở rộng quốc tế."
+      },
+      {
+        "time": 221.94,
+        "observation": "Ảnh tòa nhà và một con số doanh thu được nhấn bằng chữ lớn; đây là số liệu xuất hiện trong video, chưa xác nhận tính đúng."
+      },
+      {
+        "time": 245.6,
+        "observation": "Người dẫn ngồi bàn với câu hỏi về điều TP.HCM có mà nơi khác không có, quay lại cách đặt vấn đề đầu."
+      }
+    ],
+    "beats": [
+      {
+        "start": 0,
+        "end": 25.82,
+        "summary": "Đặt sự khác biệt địa điểm, nhắc đối chiếu Hà Nội, rồi đặt câu hỏi vì sao doanh nghiệp chọn TP.HCM.",
+        "role": "Dùng khác biệt địa phương và tên thương hiệu quen để mở một câu hỏi chiến lược."
+      },
+      {
+        "start": 26.54,
+        "end": 78.2,
+        "summary": "Đi từ nguồn gốc cửa hàng nhỏ đến bước chuyển thành tổ hợp bách hóa, chuyên doanh và bất động sản.",
+        "role": "Đổi quy mô hiểu của người xem: đối tượng không chỉ là nơi bán hàng."
+      },
+      {
+        "start": 78.58,
+        "end": 125.36,
+        "summary": "Tác giả giải thích áp lực tại thị trường quê nhà và mô hình dùng bách hóa làm điểm hút khách cho hệ sinh thái xung quanh.",
+        "role": "Nêu cơ chế kinh doanh cốt lõi trước khi quay về Việt Nam."
+      },
+      {
+        "start": 125.76,
+        "end": 153.3,
+        "summary": "Liệt kê các điểm quốc tế để minh họa quá trình triển khai mô hình.",
+        "role": "Bổ sung trường hợp so sánh; đoạn này có nhiều tên và diện tích khiến tải thông tin tăng."
+      },
+      {
+        "start": 153.88,
+        "end": 205.5,
+        "summary": "Kể thời điểm vào Việt Nam, các mảng tham gia tổ hợp và tệp khách được tác giả cho là phù hợp ở quận trung tâm.",
+        "role": "Trả lời câu hỏi chọn địa điểm bằng cấu trúc kiếm tiền và khách hàng thay vì chỉ lịch sử thương hiệu."
+      },
+      {
+        "start": 205.98,
+        "end": 234.84,
+        "summary": "Đưa báo cáo và số tài chính để nhấn vai trò thị trường Việt Nam.",
+        "role": "Tạo trọng lượng bằng số liệu nguồn được tác giả nêu; chưa có bước kiểm số trong lượt này."
+      },
+      {
+        "start": 235.28,
+        "end": 245.42,
+        "summary": "Thông báo sự hiện diện/mở rộng tới Hà Nội rồi hỏi lại về điều riêng có của TP.HCM sau khi dự án hoàn thành.",
+        "role": "Dùng biến cố ở cuối làm thay đổi tiền đề độc nhất ở đầu, tạo một vòng hỏi lại."
+      }
+    ],
+    "ending": "Câu cuối quay về điều riêng có của TP.HCM nhưng đặt trong bối cảnh dự án ở Hà Nội. Đây là kết đổi phạm vi của mệnh đề mở đầu, không phải chỉ lặp lại thông tin cửa hàng.",
+    "mechanism": "Khác biệt địa phương tưởng dễ trả lời → bóc tách mô hình kinh doanh phía sau thương hiệu → quay lại địa điểm → đưa biến cố làm tiền đề đầu bớt chắc. Hình bản đồ ở các khung mở giúp xác định hai cấp không gian, còn lời dẫn đưa tên riêng thành câu hỏi kinh doanh.",
+    "transfer": "Có thể học cách lấy một quan sát địa phương mà khán giả nhận ra để dẫn vào mô hình kinh doanh ẩn phía sau, rồi kết bằng điều kiện thay đổi. Khi chuyển thể phải kiểm tính đúng và thời điểm của tiền đề mở; không dùng tuyên bố độc nhất đã lỗi thời để cố tạo tò mò.",
+    "limitations": [
+      "Đã xem khung trích và đọc ASR; chưa nghe âm hoặc xem toàn chuyển động liên tục.",
+      "ASR nhận sai nhiều tên thương hiệu, địa danh và thuật ngữ; các tên/chi tiết trong đoạn diễn giải không được coi là bản chép lời chuẩn.",
+      "Số doanh thu, lợi nhuận và lịch sử dự án là phát biểu trong clip, chưa được đối chiếu báo cáo doanh nghiệp hoặc nguồn khác.",
+      "Tiền đề chỉ một nơi có được chính đoạn kết đặt lại; cần giữ cả bối cảnh thời gian và phân biệt cửa hàng đang hoạt động với dự án tương lai, tránh học một khẳng định tuyệt đối.",
+      "Phần lịch sử từ khoảng 26 giây kéo dài trước khi vào cơ chế chính; không có retention để biết đoạn đó giúp hay làm người xem rời đi."
+    ]
+  },
+  {
+    "id": "7682344714850323730",
+    "title": "Tiki: từ ký ức giao sách nhanh đến câu hỏi về mô hình chi phí",
+    "openingObservation": "ASR 0–15,48 giây cho người xem nhập vai một trải nghiệm đặt sách và nhận nhanh, rồi 15,88–31,70 giây chuyển sang đối lập giữa vị thế cũ và quy mô tác giả mô tả ở hiện tại. Khung 0–5 giây dùng bản đồ, vị trí nhà, biểu tượng mua sách và đồng hồ thay cho giới thiệu người dẫn. Câu hỏi lớn không nằm trọn trong ba giây đầu mà được xây qua cả đoạn mở khoảng nửa phút.",
+    "visualEvidence": [
+      {
+        "time": 0,
+        "observation": "Bản đồ Việt Nam làm hình đầu trước khi xuất hiện người dẫn."
+      },
+      {
+        "time": 2,
+        "observation": "Một vị trí nhà được đánh dấu trên bản đồ đô thị, gắn trải nghiệm với người xem giả định."
+      },
+      {
+        "time": 3,
+        "observation": "Biểu tượng sách, giỏ hàng và đồng hồ xuất hiện quanh vị trí nhà."
+      },
+      {
+        "time": 5,
+        "observation": "Khung trích vẫn giữ đồng hồ và các biểu tượng trên nền bản đồ; đây là hình cụ thể cho phần đặt sách/giao hàng trong ASR."
+      },
+      {
+        "time": 41.68,
+        "observation": "Footage nhân viên xử lý kiện hàng trong kho xuất hiện ở đoạn lịch sử mở rộng hoạt động."
+      },
+      {
+        "time": 83.37,
+        "observation": "Hai biểu tượng kho đặt trên/dưới một đường phân cách phục vụ phần so quy mô chi phí."
+      },
+      {
+        "time": 166.73,
+        "observation": "Điện thoại hiển thị giao diện khuyến mãi Shopee, tương ứng phần so thói quen và tần suất mở ứng dụng."
+      },
+      {
+        "time": 208.42,
+        "observation": "Khung trích gần như tối đen; một ảnh đơn không đủ kết luận đây là chuyển cảnh có chủ ý hay khung lỗi."
+      },
+      {
+        "time": 250.1,
+        "observation": "Giao diện Tiki Trading trên điện thoại xuất hiện ở phần kể thay đổi vị thế và kênh bán."
+      },
+      {
+        "time": 276.89,
+        "observation": "Người dẫn ngồi bàn, phụ đề kết nhấn việc thay đổi khi hành vi tiêu dùng thay đổi."
+      }
+    ],
+    "beats": [
+      {
+        "start": 0,
+        "end": 15.48,
+        "summary": "Gợi một trải nghiệm mua sách/giao nhanh chi tiết và xác định đây là ký ức quen thuộc với người dùng.",
+        "role": "Tạo nhận diện và cảm giác mất mát tiềm tàng trước khi đưa bài toán kinh doanh."
+      },
+      {
+        "start": 15.88,
+        "end": 31.7,
+        "summary": "Đặt vị thế lớn trong quá khứ cạnh thị phần nhỏ mà tác giả nêu, rồi hỏi điều gì đã xảy ra.",
+        "role": "Biến hồi tưởng thành nghịch lý kết quả cần giải thích."
+      },
+      {
+        "start": 32.3,
+        "end": 62.58,
+        "summary": "Tóm lịch sử từ sách tới bán nhiều ngành, quản hàng và xây dịch vụ giao nhanh.",
+        "role": "Thiết lập lợi thế ban đầu trước khi chỉ ra chi phí của lợi thế đó."
+      },
+      {
+        "start": 63.08,
+        "end": 120.1,
+        "summary": "So nền tảng quy mô lớn với Tiki, dùng kho và tuyến giao để giải thích chi phí bình quân, sau đó đối chiếu giao nhanh với nhu cầu giảm phí.",
+        "role": "Đảo lợi thế dịch vụ thành áp lực chi phí; cơ chế lời được hỗ trợ bởi hình kho ở 83,37 giây."
+      },
+      {
+        "start": 121.06,
+        "end": 169.14,
+        "summary": "Nêu tiêu chuẩn người bán và vòng tương tác giữa số người bán, hàng hóa, người mua; so độ rộng danh mục và tần suất sử dụng.",
+        "role": "Thêm một tầng nguyên nhân khác với logistics, chuyển sang hiệu ứng mạng lưới."
+      },
+      {
+        "start": 169.72,
+        "end": 204.88,
+        "summary": "Đối chiếu tiền mua nhận diện qua giải trí với tiền tác động ngay vào giỏ hàng và quyết định mua.",
+        "role": "Tạo cặp khác biệt rõ về mục tiêu dùng ngân sách, tránh chỉ kể danh sách sự kiện."
+      },
+      {
+        "start": 205.18,
+        "end": 259.4,
+        "summary": "Đưa sự xuất hiện của mua sắm qua nội dung, vốn đầu tư thắt lại và các biến động doanh nghiệp mà tác giả nêu.",
+        "role": "Đẩy áp lực từ cạnh tranh mô hình sang thay đổi môi trường; các sự kiện cần nguồn độc lập nếu dùng làm dữ kiện."
+      },
+      {
+        "start": 259.84,
+        "end": 276.94,
+        "summary": "Quay lại ký ức yêu sách rồi rút bài học về chi phí, dòng tiền và khả năng thích nghi.",
+        "role": "Khép vòng trải nghiệm người dùng ở mở đầu bằng một kết luận về điều kiện tồn tại doanh nghiệp."
+      }
+    ],
+    "ending": "Kết kéo người xem trở về ký ức mua sách, rồi chuyển bài học từ chất lượng sản phẩm sang chi phí, dòng tiền và khả năng theo kịp hành vi tiêu dùng. Có sự trả lời câu hỏi biến đổi vị thế, nhưng câu chuyện được tác giả kể theo một chuỗi nguyên nhân chưa được lượt phân tích này xác minh.",
+    "mechanism": "Trải nghiệm quen thuộc cụ thể → đối lập quá khứ/hiện tại → lật lợi thế thành một phần của áp lực → phân tầng nguyên nhân → quay lại ký ức. Hook ở đây là một chuỗi mở dài, cho thấy không thể ép mọi ca thành một câu giật trong ba giây.",
+    "transfer": "Học cách dùng một trải nghiệm người xem từng có để đặt câu hỏi về biến chuyển lớn, rồi phân biệt từng lớp cơ chế thay vì kể biên niên. Có thể đối chiếu lợi ích và chi phí của cùng một lựa chọn, nhưng cần nguồn riêng cho mọi kết luận về thị phần, dòng vốn hoặc doanh nghiệp; không bê kết luận của clip sang như chân lý.",
+    "limitations": [
+      "Bằng chứng là ASR có timestamp và 12 khung trích đã xem; chưa nghe âm hoặc xem liên tục toàn video.",
+      "ASR có lỗi nhận dạng tên công ty, thuật ngữ logistics, tên dịch vụ và từ tài chính; không dùng nó làm bản lời chuẩn để trích dài.",
+      "Các mốc định giá, thị phần, khoản đầu tư, thay đổi nhân sự và câu chuyện doanh nghiệp là phát biểu của tác giả, chưa được kiểm sự thật độc lập.",
+      "Mở dài hơn nhiều so với khuôn ba giây; có lượt xem cao cũng chưa chứng minh phần mở dài này là yếu tố tạo hiệu quả.",
+      "Một khung tối ở 208,42 giây chưa đủ kết luận có lỗi hay một nhịp ngắt chủ ý; cần xem chuyển động quanh mốc nếu muốn nhận xét dựng.",
+      "Kết dùng hồi tưởng và khái quát mạnh, có thể làm câu chuyện nghiêng về một tuyến suy giảm; cần tránh coi cách kể này là toàn cảnh trung lập."
+    ]
+  },
+  {
+    "id": "7359542441285930247",
+    "title": "Từ giả định tăng lương đồng loạt đến cơ chế lạm phát",
+    "openingObservation": "Lời chép máy mở bằng một giả định hấp dẫn trực tiếp với người nhận lương, rồi đưa người xem vào trải nghiệm nhận thêm tiền. Đến 9,38–12,86 giây mới xuất hiện nhịp đảo kỳ vọng: số tiền tăng chưa bảo đảm cuộc sống khá hơn. Đây là một chuỗi mở khoảng 28 giây trước khi tác giả nối sang ca nước ngoài; không thể thu toàn bộ cơ chế thành một câu hỏi ba giây.",
+    "visualEvidence": [
+      {
+        "time": 0.0,
+        "observation": "Khung trích là bản đồ khu vực châu Á, chưa có bảng định nghĩa hay người dẫn xuất hiện."
+      },
+      {
+        "time": 2.0,
+        "observation": "Việt Nam được viền nổi trên bản đồ; đối tượng địa lý trùng phạm vi của giả định trong lời."
+      },
+      {
+        "time": 3.0,
+        "observation": "Biểu tượng tiền và các đường nối nằm trên vùng Việt Nam."
+      },
+      {
+        "time": 5.0,
+        "observation": "Biểu tượng người màu trắng đặt trước bản đồ và mạng đường tiền; thay vấn đề vĩ mô bằng một người nhận cụ thể."
+      },
+      {
+        "time": 93.95,
+        "observation": "Khung trích hiển thị đồ thị hai đường cắt nhau, trục giá và sản lượng; phần giải thích dùng hình sơ đồ thay cho lời thuần."
+      },
+      {
+        "time": 156.58,
+        "observation": "Đồ thị có hai vị trí giao, đường đứt chỉ thay đổi giá/sản lượng và chú giải cung/cầu."
+      },
+      {
+        "time": 187.89,
+        "observation": "Khung trích quay về bản đồ Việt Nam và biểu tượng tiền, gần đoạn lời quay lại giả định mở."
+      }
+    ],
+    "beats": [
+      {
+        "start": 0.0,
+        "end": 12.86,
+        "summary": "Đặt tình huống mọi người nhận mức lương cao hơn và gọi người xem vào trải nghiệm ấy, sau đó phủ định suy nghĩ giàu lên ngay.",
+        "role": "Gợi lợi ích cá nhân rồi tạo chỗ thiếu trong trực giác."
+      },
+      {
+        "start": 13.28,
+        "end": 28.14,
+        "summary": "Kể tiếp phản ứng tăng giá của các bên bán và sức ép người mua phải chấp nhận giá mới trong tình huống tác giả dựng.",
+        "role": "Cho thấy hệ quả đối nghịch thay vì trả lời bằng định nghĩa."
+      },
+      {
+        "start": 28.4,
+        "end": 49.26,
+        "summary": "Chuyển từ giả định sang câu chuyện Venezuela và hình ảnh đồng tiền mất sức mua.",
+        "role": "Tăng mức độ hệ quả; số liệu và quan hệ nhân quả là khẳng định của tác giả, chưa được xác minh ở lượt này."
+      },
+      {
+        "start": 49.7,
+        "end": 67.6,
+        "summary": "Đặt câu hỏi trung tâm và giải thích lạm phát qua giá cả, sức mua.",
+        "role": "Gọi tên khái niệm sau khi người xem đã có tình huống để bám."
+      },
+      {
+        "start": 68.02,
+        "end": 112.2,
+        "summary": "Tách nguyên nhân chi phí đẩy, kể ca vận tải rồi diễn giải trên đường cung/cầu.",
+        "role": "Một trường hợp cụ thể được nối với mô hình để giải thích."
+      },
+      {
+        "start": 112.62,
+        "end": 140.16,
+        "summary": "Đưa giá khẩu trang trong dịch vào nhánh cầu kéo và biểu diễn sự dịch chuyển đường cầu.",
+        "role": "Đổi ví dụ nhưng giữ cùng ngôn ngữ đồ thị, giúp so hai cơ chế."
+      },
+      {
+        "start": 140.22,
+        "end": 185.6,
+        "summary": "Mở rộng sang chính sách trong dịch và câu hỏi vì sao không bơm tiền liên tục.",
+        "role": "Tạo vòng câu hỏi thứ hai từ lời giải trước; cần kiểm độc lập các khẳng định vĩ mô."
+      },
+      {
+        "start": 186.22,
+        "end": 207.7,
+        "summary": "Quay lại giả định đầu và kết bằng câu hỏi đánh giá việc tăng cung tiền.",
+        "role": "Đóng vòng về hình và ý mở, đồng thời mời người xem phản hồi."
+      }
+    ],
+    "ending": "Kết có quay lại giả định ban đầu, nhưng câu cuối là một câu hỏi mang tính đánh giá rộng. Clip đã giải thích sức mua và hai cơ chế được tác giả chọn, song kết luận về việc in tiền có xu hướng đơn giản hóa hơn phần điều kiện cần có của vấn đề.",
+    "mechanism": "Lợi ích trực tiếp có vẻ hiển nhiên → phản ứng dây chuyền làm đảo kết quả → gọi tên khái niệm → so hai trường hợp bằng một ngôn ngữ hình → quay về giả định đầu. Cơ chế này rút từ vị trí các đoạn lời và khung đã kiểm, chưa phải bằng chứng tạo ra retention hay lượt xem.",
+    "transfer": "Học cách bắt đầu bằng một thay đổi người xem thực sự quan tâm, để hệ quả làm lộ câu hỏi, rồi mới đưa định nghĩa và mô hình. Khi chuyển thể, giữ rõ nhãn giả định và điều kiện; không chuyển kết luận rộng trong clip thành chân lý chỉ vì clip nhiều lượt xem.",
+    "limitations": [
+      "Đã đọc segments ASR và xem contact sheet mới trích từ bản tải hiện tại; không nghe âm trực tiếp hoặc xem chuyển động liên tục.",
+      "ASR có lỗi từ; thời gian là mốc chép máy, không phải mốc đã căn chỉnh bằng tai.",
+      "Chưa xác minh số liệu Venezuela, chính sách tiền tệ, nguyên nhân giá tăng hoặc các dẫn chứng kinh tế; phân tích này chỉ nhận diện cách lập luận và cách dựng.",
+      "Ảnh bài báo/đồ thị trong clip cho thấy tác giả trình bày bằng chứng, không đồng nghĩa nguồn đó đã được lượt phân tích này kiểm chứng.",
+      "Không có retention, thử đối chứng hoặc dữ liệu để kết luận vì sao video lan truyền."
+    ]
+  },
+  {
+    "id": "7368451977803484423",
+    "title": "Đôi giày sản xuất trong nước mở ra câu chuyện chuỗi giá trị FDI",
+    "openingObservation": "Lời chép máy đặt người xem Việt Nam vào một hành trình tích cóp để mua sản phẩm thương hiệu quốc tế. Đến 8,32–24,02 giây, nguồn gốc sản xuất trong nước được đặt đối diện với giá và thời gian chờ; 24,30–36,22 giây thêm một mức đối chiếu về phần nhận của nơi gia công. Vật thể quen thuộc tạo chỗ bám cho câu hỏi về giá trị trong chuỗi sản xuất trước khi tác giả gọi tên FDI ở khoảng 95,90 giây.",
+    "visualEvidence": [
+      {
+        "time": 1.0,
+        "observation": "Khung trích hiển thị Việt Nam trên nền bản đồ vệ tinh."
+      },
+      {
+        "time": 2.0,
+        "observation": "Một biểu tượng người nằm trong vùng địa phương được khoanh trắng trên bản đồ."
+      },
+      {
+        "time": 5.0,
+        "observation": "Biểu tượng thương hiệu Nike xuất hiện ngoài Việt Nam, nối với một đường cong trên bản đồ."
+      },
+      {
+        "time": 13.0,
+        "observation": "Grid cache khung 13 giây cho thấy cận cảnh nhãn trong giày với dòng nơi sản xuất; chi tiết được dùng làm điểm đổi kỳ vọng trong lời."
+      },
+      {
+        "time": 33.29,
+        "observation": "Đôi giày và các đường chỉ nằm trên bản đồ Việt Nam, cùng phạm vi đoạn so phần gia công."
+      },
+      {
+        "time": 96.0,
+        "observation": "Grid cache hiển thị ảnh một trang giải thích FDI, sau các ảnh bài báo về đầu tư/sản xuất."
+      },
+      {
+        "time": 104.0,
+        "observation": "Grid cache có đôi giày, mức giá và lời nhấn về nhiều loại chi phí, phù hợp đoạn tách cấu phần giá bán."
+      },
+      {
+        "time": 166.45,
+        "observation": "Khung mới trích có nhãn về nhân lực kỹ thuật cao và ảnh bài báo làm ví dụ."
+      },
+      {
+        "time": 220.94,
+        "observation": "Khung cuối được lấy là một bài báo về vai trò Việt Nam trong chuỗi cung ứng, không phải thẻ CTA riêng."
+      }
+    ],
+    "beats": [
+      {
+        "start": 0.0,
+        "end": 24.02,
+        "summary": "Dựng hành trình mua giày, tiền phải bỏ ra, thời gian chờ và chi tiết sản xuất trong nước.",
+        "role": "Tạo sự bất cân xứng giữa cảm nhận sản phẩm quốc tế và nơi làm ra nó."
+      },
+      {
+        "start": 24.3,
+        "end": 65.58,
+        "summary": "Đẩy chênh lệch sang phần nơi gia công nhận được, mở rộng đến các sản phẩm khác rồi đặt câu hỏi về hành trình và chi phí.",
+        "role": "Tăng mức quan tâm từ chuyện mua sắm cá nhân sang câu hỏi chuỗi giá trị."
+      },
+      {
+        "start": 66.48,
+        "end": 98.1,
+        "summary": "Giải thích động cơ đặt công đoạn ở nhiều quốc gia và sau đó gọi tên FDI.",
+        "role": "Trả câu hỏi đầu bằng cơ chế phân bổ sản xuất; định nghĩa đến sau tình huống."
+      },
+      {
+        "start": 98.74,
+        "end": 123.74,
+        "summary": "Quay lại đôi giày và tách các khâu thiết kế, sản xuất, vận chuyển, bán hàng.",
+        "role": "Đóng vòng vật thể mở đầu; phân bổ giá bán giúp hình dung phần giá trị khác nhau."
+      },
+      {
+        "start": 124.06,
+        "end": 144.76,
+        "summary": "Chuyển câu hỏi từ vì sao phần nhận nhỏ sang làm sao nhận được nhiều lợi ích hơn; tách hai vấn đề nhân lực và công nghệ.",
+        "role": "Mở câu hỏi tiếp từ chính lời giải trước để chuyện không dừng ở định nghĩa."
+      },
+      {
+        "start": 144.98,
+        "end": 201.52,
+        "summary": "Dùng ví dụ về lực lượng kỹ thuật, thương hiệu giày trong nước và việc tiếp nhận công nghệ.",
+        "role": "Cụ thể hóa hai nhánh giải thích bằng ca/ảnh tư liệu; các khẳng định riêng cần kiểm nguồn."
+      },
+      {
+        "start": 201.9,
+        "end": 220.94,
+        "summary": "Thừa nhận điều kiện tiếp nhận công nghệ rồi kết bằng mong muốn phần giá trị của Việt Nam lớn hơn trong sản phẩm mở đầu.",
+        "role": "Đóng câu chuyện bằng cùng vật thể và đổi góc nhìn từ giá mua sang giá trị tạo ra."
+      }
+    ],
+    "ending": "Kết quay lại đôi giày và mong muốn cải thiện phần giá trị trong tương lai. Nó giải đáp cơ chế chung của chênh lệch giá trị, nhưng không cung cấp một lộ trình được kiểm nghiệm để đạt kết quả đó; đoạn cuối là kỳ vọng của tác giả.",
+    "mechanism": "Vật thể tiêu dùng quen thuộc → chi tiết nguồn gốc bất ngờ → chênh lệch giá/giá trị → đi ngược chuỗi sản xuất → gọi tên khái niệm → quay lại vật thể với cách nhìn mới. Phần giữ nhịp nằm ở các câu hỏi nối từ nguyên nhân sang khả năng cải thiện, không chỉ ở câu mở.",
+    "transfer": "Học cách chọn một vật mà khán giả đã nhìn, mua hoặc dùng; lần ngược từ mức giá cuối đến các phần việc để giải thích khái niệm trừu tượng. Mẫu chỉ hữu ích khi bài mới có dữ liệu đủ so các cấu phần cùng cơ sở; không lấy con số gia công/giá bán trong clip làm dữ kiện sẵn để dùng lại.",
+    "limitations": [
+      "Đã xem contact sheet mới và ba grid cache ở đầu, giữa, cuối phần hình; chưa nghe trực tiếp hay xem toàn bộ chuyển động.",
+      "Mốc nhóm nội dung dựa ASR; tên riêng và thuật ngữ có lỗi chép máy.",
+      "Chưa kiểm các tỷ lệ sản xuất, chi phí gia công, dữ kiện thương hiệu hoặc khẳng định chuyển giao công nghệ; không coi video là tài liệu xác nhận kiến thức.",
+      "Mô tả kỹ thuật kể không đồng nghĩa khẳng định số liệu so sánh trong video có cùng đơn vị/phạm vi.",
+      "Không có dữ liệu retention hoặc đối chứng để kết luận cách mở gây ra mức lan truyền."
+    ]
+  },
+  {
+    "id": "7366583144767606023",
+    "title": "Từ dòng Mekong đến lợi ích và rủi ro của một tuyến kênh",
+    "openingObservation": "Khác kiểu hứa lợi ích tức thì, lời mở giới thiệu một con sông và lần theo các quốc gia tới đồng bằng Việt Nam. Đến 31,22–52,62 giây, tác giả gắn địa lý với nông nghiệp, thu nhập và đời sống; dự án kênh chỉ được đưa vào như tác nhân có thể làm đổi trạng thái ở 52,96–58,20 giây. Như vậy clip xây bản đồ và mức độ liên quan trước, rồi mới đặt xung đột chính.",
+    "visualEvidence": [
+      {
+        "time": 1.0,
+        "observation": "Khung trích có đường sông phát sáng màu xanh, nhãn tên sông và viền Việt Nam nổi bật."
+      },
+      {
+        "time": 3.0,
+        "observation": "Khung trích thêm thông tin chiều dài chạy theo đường sông."
+      },
+      {
+        "time": 11.0,
+        "observation": "Grid đầu có nhiều tên quốc gia quanh đường Mekong; người xem nhận quan hệ thượng/hạ lưu từ vị trí bản đồ."
+      },
+      {
+        "time": 30.6,
+        "observation": "Khung trích dùng ảnh bài báo/phỏng vấn với đoạn được nhấn màu, thay nền bản đồ bằng nguồn tư liệu."
+      },
+      {
+        "time": 91.8,
+        "observation": "Khung trích cho thấy sơ đồ các tuyến sông và một đoạn tuyến nổi màu, hỗ trợ giải thích đường tàu đi."
+      },
+      {
+        "time": 122.39,
+        "observation": "Các biểu tượng tàu xếp theo những cao độ khác nhau trên nền tối, nằm trong đoạn giải thích cách âu tàu hoạt động."
+      },
+      {
+        "time": 152.99,
+        "observation": "Khung trích hiển thị một trang văn bản có dòng số liệu được tô màu; bằng chứng đang được trình bày chứ chưa được lượt phân tích này xác nhận."
+      },
+      {
+        "time": 183.59,
+        "observation": "Bản đồ khu vực Phnom Penh và tuyến nối ra phía biển xuất hiện ở phần bàn phạm vi dự án."
+      },
+      {
+        "time": 202.99,
+        "observation": "Khung gần cuối là hình thành phố và đường nét chồng hình; phần lời kết trở lại câu hỏi tác động đời sống."
+      }
+    ],
+    "beats": [
+      {
+        "start": 0.2,
+        "end": 30.58,
+        "summary": "Giới thiệu đường sông và giải thích vai trò hạ lưu qua địa lý, phù sa.",
+        "role": "Đặt mô hình không gian chung để các hệ quả tiếp theo có nơi bám."
+      },
+      {
+        "start": 31.22,
+        "end": 58.2,
+        "summary": "Nối vùng đồng bằng với sinh kế rồi đưa khả năng thiếu nước và dự án kênh vào câu chuyện.",
+        "role": "Chuyển từ thông tin địa lý sang mức cược đối với khán giả Việt Nam; tác nhân xung đột xuất hiện sau nền tảng."
+      },
+      {
+        "start": 59.06,
+        "end": 101.34,
+        "summary": "Lần theo đường tàu đến Phnom Penh và giải thích những phụ thuộc/độ sâu mà tác giả cho là động cơ xây tuyến mới.",
+        "role": "Đổi sang góc nhìn lợi ích của bên xây dự án, giúp xung đột có hai phía."
+      },
+      {
+        "start": 101.84,
+        "end": 127.34,
+        "summary": "Mô tả tuyến kênh và giải thích các cửa âu bằng nguyên lý điều tiết mực nước.",
+        "role": "Cho người xem một cơ chế vật lý trước khi nêu rủi ro của cơ chế đó."
+      },
+      {
+        "start": 127.68,
+        "end": 178.96,
+        "summary": "Đặt câu hỏi vấn đề nằm ở đâu, rồi so mục đích vận tải với một tình huống vận hành khác và các hệ quả nước/phù sa/mặn được tác giả dự báo.",
+        "role": "Câu hỏi giữa bài nâng từ cấu tạo sang điều kiện làm đổi tác động; số dự báo chưa được kiểm ở lượt này."
+      },
+      {
+        "start": 179.46,
+        "end": 196.56,
+        "summary": "Nêu giới hạn lãnh thổ, thủ tục và quan điểm tôn trọng quyền phát triển.",
+        "role": "Thêm ràng buộc, tránh kể xung đột chỉ như một quyết định đơn giản của một phía."
+      },
+      {
+        "start": 197.0,
+        "end": 202.78,
+        "summary": "Kết bằng câu hỏi đời sống vùng đồng bằng sau khi dự án hoàn thành.",
+        "role": "Quay lại người chịu hệ quả; để ngỏ tương lai thay vì đưa kết luận đo lường chắc chắn."
+      }
+    ],
+    "ending": "Đoạn cuối mở câu hỏi về tương lai đời sống vùng đồng bằng; clip đã đưa một chuỗi rủi ro do tác giả diễn giải nhưng chưa khép lời hứa bằng một đáp án xác định. Đây là cách kết để thảo luận, không phải một mẫu hoàn trả lời hứa trọn vẹn để áp cho mọi bài giải thích.",
+    "mechanism": "Một hệ thống quen tên nhưng khó hình dung → bản đồ làm rõ quan hệ → sinh kế khiến quan hệ đáng quan tâm → một dự án thay đổi hệ thống → giải thích động cơ hai phía và cơ chế → câu hỏi hệ quả tương lai. Hook ở ca này là phần thiết lập không gian và mức cược, không phải câu phủ định hay câu hỏi giật gân đầu tiên.",
+    "transfer": "Học cách làm khán giả hiểu quan hệ bằng bản đồ trước khi phân tích sự cố/dự án; nêu lợi ích của các bên rồi chỉ rõ điều kiện khiến tác động khác nhau. Khi dùng cho bài mới, phải tự kiểm nguồn về pháp lý, môi trường và số dự báo; không kéo dài phần nền quá mức nếu khán giả đã biết địa lý.",
+    "limitations": [
+      "Đã xem contact sheet mới và grid đầu có timestamp; không nghe trực tiếp hoặc xem video liên tục.",
+      "ASR có lỗi nhận diện tên tuyến sông/kênh và đơn vị; các mốc là mốc chép máy.",
+      "Chưa xác minh số liệu dòng chảy, nông nghiệp, đánh giá môi trường, thủ tục hoặc quan điểm chính thức; không trình bày luận điểm của video như kết luận chuyên môn đã xác nhận.",
+      "Bản đồ và ảnh tài liệu trong clip chỉ chứng minh cách tác giả trình bày lập luận, không xác nhận tính chính xác địa lý của mọi chi tiết.",
+      "Không có biểu đồ giữ chân hay đối chứng; không quy lượt xem cho bản đồ hoặc cách mở cụ thể."
+    ]
+  },
+  {
+    "id": "7529438894845218064",
+    "title": "Xe điện, xe xăng và điều kiện để chuyển đổi",
+    "openingObservation": "Người kể lấy một ý kiến có sẵn về hai lượng xe bằng nhau để đặt ra đối chiếu; tranh luận đã tồn tại trước lúc giải thích.",
+    "visualEvidence": [
+      {
+        "time": 1,
+        "observation": "Hai xe máy được đặt đối xứng cùng nhãn số lượng, tiêu đề hai loại xe và nhân vật rồng cầm đồ uống."
+      },
+      {
+        "time": 26.28,
+        "observation": "Khung hình dùng ảnh khu sạc có người điều phối để cụ thể hóa hạ tầng."
+      },
+      {
+        "time": 78.83,
+        "observation": "Hai thanh màu thể hiện so sánh giai đoạn phát thải, thay cho chỉ nêu loại động cơ."
+      }
+    ],
+    "beats": [
+      {
+        "start": 0,
+        "end": 3.52,
+        "summary": "Lấy một ý kiến so xe điện và xe xăng với cùng quy mô làm điểm xuất phát.",
+        "role": "Đặt hai lựa chọn đã có tranh luận, không giảng định nghĩa."
+      },
+      {
+        "start": 3.92,
+        "end": 15.62,
+        "summary": "Dẫn trường hợp Trung Quốc rồi đặt câu hỏi về cách thực hiện.",
+        "role": "Chuyển tranh luận nên/không nên sang vấn đề triển khai."
+      },
+      {
+        "start": 15.9,
+        "end": 47.04,
+        "summary": "Liệt kê trạm sạc, cách vận hành và hệ thống đổi pin.",
+        "role": "Cung cấp các bộ phận cụ thể cho phương án ban đầu."
+      },
+      {
+        "start": 47.52,
+        "end": 64.48,
+        "summary": "Liên hệ điều kiện thực hiện và nhu cầu chuyển đổi tại Hà Nội.",
+        "role": "Đưa ví dụ nước ngoài trở về mối quan tâm trong nước."
+      },
+      {
+        "start": 64.72,
+        "end": 83.66,
+        "summary": "Đưa thêm góc nhìn phát thải cả vòng đời, mở rộng tiêu chí so sánh.",
+        "role": "Nhịp đổi chiều tránh để phép so chỉ có một mặt."
+      },
+      {
+        "start": 84,
+        "end": 87.36,
+        "summary": "Kết lại bằng nhận định về hướng thay đổi công nghệ.",
+        "role": "Chốt xu hướng thay vì tính đủ một kết quả định lượng cho hai lượng xe."
+      }
+    ],
+    "ending": "Chốt hướng chuyển đổi, không đưa một kết quả vòng đời được tính toán đầy đủ cho hai đội xe ở mở đầu.",
+    "mechanism": "Mượn một tranh luận sẵn có → đưa cách vận hành → thêm điều kiện làm phép so đổi nghĩa.",
+    "transfer": "Học cửa vào từ một ý kiến thực có và thay đổi tiêu chí so sánh ở nhịp sau; cần giữ điều kiện áp dụng khi chuyển sang chủ đề mới.",
+    "limitations": [
+      "Chỉ đọc ASR và xem khung trích; chưa nghe lại toàn bộ âm hoặc kiểm chuyển động liên tục.",
+      "Số liệu phương tiện và phát thải là nội dung tác giả nêu, chưa kiểm bằng nguồn ngành.",
+      "Không suy rằng đoạn đổi chiều tạo retention từ số view."
+    ]
+  },
+  {
+    "id": "7540936784776023312",
+    "title": "Bằng cấp phổ biến, việc làm và cách thị trường định giá",
+    "openingObservation": "Bắt đầu từ cảm giác quen thuộc về bằng đại học, rồi tăng độ nghịch lý bằng giỏi mà vẫn thất nghiệp; vấn đề gắn trực tiếp với người trẻ.",
+    "visualEvidence": [
+      {
+        "time": 1,
+        "observation": "Tiêu đề thất nghiệp, mẩu báo nguồn VTC News và nhân vật rồng đặt vấn đề ở khung đầu."
+      },
+      {
+        "time": 44.99,
+        "observation": "Minh họa nhà hàng, xe vận chuyển gắn phần thu nhập giảm với việc hàng quán ít đơn."
+      },
+      {
+        "time": 67.49,
+        "observation": "Đồ thị chữ V xuất hiện khi lời chuyển sang các hình dạng suy thoái."
+      },
+      {
+        "time": 89.98,
+        "observation": "Hai nhân vật và hai lượng thời gian lao động được đặt cạnh nhau để tạo một đối chiếu mới."
+      }
+    ],
+    "beats": [
+      {
+        "start": 0,
+        "end": 11.18,
+        "summary": "Nêu độ phổ biến của bằng cấp, trạng thái thất nghiệp và áp lực phải học cao hơn.",
+        "role": "Tăng mâu thuẫn từ kỳ vọng học giỏi sẽ dễ có việc."
+      },
+      {
+        "start": 11.18,
+        "end": 21.62,
+        "summary": "Giải thích theo chênh lệch cung cầu lao động và việc làm dưới trình độ.",
+        "role": "Đưa cơ chế đầu tiên cho vấn đề mở."
+      },
+      {
+        "start": 21.62,
+        "end": 38.4,
+        "summary": "Nối sang chu kỳ kinh tế, doanh nghiệp cắt chi phí và đóng băng tuyển dụng.",
+        "role": "Mở thêm tầng nguyên nhân ngoài bằng cấp."
+      },
+      {
+        "start": 38.4,
+        "end": 63.26,
+        "summary": "Dẫn chuỗi thất nghiệp, giảm chi tiêu, giảm đơn hàng rồi cắt nhân sự tiếp.",
+        "role": "Kể phản ứng dây chuyền bằng hành vi thường ngày."
+      },
+      {
+        "start": 63.26,
+        "end": 81.96,
+        "summary": "Đi qua các dạng suy thoái bằng ký hiệu hình học và câu đùa.",
+        "role": "Đổi cách diễn đạt để tiếp tục tuyến giải thích, nhưng tạo thêm nhiều khái niệm."
+      },
+      {
+        "start": 81.96,
+        "end": 106.96,
+        "summary": "Chuyển từ bằng cấp sang đối chiếu công sức và giá trị người mua cảm nhận.",
+        "role": "Đặt một nghịch lý mới khi câu chuyện dài đã đi xa mở đầu."
+      },
+      {
+        "start": 106.96,
+        "end": 145.4,
+        "summary": "Dùng thị trường nội dung để giải thích bão hòa và nhu cầu khác biệt.",
+        "role": "Chốt trên định giá kỹ năng trong cạnh tranh."
+      }
+    ],
+    "ending": "Kết vào sự khác biệt và giá trị cảm nhận của kỹ năng, không quay lại riêng lời hứa về bằng đại học. Đây là ví dụ có độ trôi chủ đề cần nhận diện.",
+    "mechanism": "Nêu một kỳ vọng xã hội đang mất hiệu lực → tăng mâu thuẫn → giải thích cơ chế bằng chuỗi đời thường.",
+    "transfer": "Học cách chuyển một lo âu thực thành câu hỏi cung cầu và chuỗi hệ quả; khi viết bài ngắn nên giữ một tuyến thay vì chuyển qua quá nhiều thuật ngữ.",
+    "limitations": [
+      "Không dùng video để khẳng định số liệu thất nghiệp hoặc quy luật về mọi bằng cấp.",
+      "ASR có lỗi từ và phần cuối văn bản kết thúc trước thời lượng media vài giây; không giả có thêm lời.",
+      "Có hình trích tại các mốc, chưa xem chuyển động hoặc nghe toàn âm."
+    ]
+  },
+  {
+    "id": "7584790091629907217",
+    "title": "Từ nghi vấn về GDP sang vấn đề nhà đất Trung Quốc",
+    "openingObservation": "Dẫn phát biểu gắn với một nhân vật có thẩm quyền để nghi vấn thước đo quen thuộc, sau đó hứa cung cấp ba chỉ báo thay thế.",
+    "visualEvidence": [
+      {
+        "time": 1,
+        "observation": "Ảnh Lý Khắc Cường đặt giữa khung cùng tiêu đề chủ đề Trung Quốc."
+      },
+      {
+        "time": 15.66,
+        "observation": "Biểu tượng điện, đường sắt và nhà máy minh họa ba dấu hiệu vận hành."
+      },
+      {
+        "time": 46.97,
+        "observation": "Ảnh đô thị/nhà ở khi mạch giải thích chuyển sang bất động sản."
+      },
+      {
+        "time": 93.94,
+        "observation": "Sơ đồ cơ quan và nhà đất đi cùng một con số doanh thu trong phần giải thích ngân sách."
+      }
+    ],
+    "beats": [
+      {
+        "start": 0,
+        "end": 7.4,
+        "summary": "Nêu sự hoài nghi về GDP qua lời quy cho một nhân vật và giới thiệu bộ ba chỉ báo.",
+        "role": "Thách thức thước đo quen thuộc bằng một lời dẫn có thẩm quyền."
+      },
+      {
+        "start": 7.4,
+        "end": 29.46,
+        "summary": "Lần lượt giải thích điện, hàng hóa đường sắt và tín dụng như dấu hiệu hoạt động.",
+        "role": "Trả lời danh sách đã hứa trước khi mở rộng."
+      },
+      {
+        "start": 29.46,
+        "end": 48.94,
+        "summary": "Chuyển sang tăng trưởng bằng nợ và sức nặng bất động sản.",
+        "role": "Đổi từ cách đo sang nguyên nhân rủi ro."
+      },
+      {
+        "start": 48.94,
+        "end": 75.22,
+        "summary": "Tổ chức lý do nhà đất đắt thành ba nhánh kỳ vọng, lựa chọn đầu tư và nhu cầu xã hội.",
+        "role": "Dùng một danh sách thứ hai để duy trì trật tự giải thích."
+      },
+      {
+        "start": 75.22,
+        "end": 93.02,
+        "summary": "Nêu giới hạn của cách can thiệp và cấu trúc sở hữu/nguồn thu đất.",
+        "role": "Bổ sung tầng cơ chế chính sách."
+      },
+      {
+        "start": 93.02,
+        "end": 104.16,
+        "summary": "Nối nguồn thu ngân sách với một khả năng rủi ro tiếp theo.",
+        "role": "Kết bằng cảnh báo mở thay vì đóng toàn bộ lập luận."
+      }
+    ],
+    "ending": "Lời hứa ba chỉ báo được trả trong 7,4–29,46 giây; phần cuối mở ra rủi ro nhà đất và ngân sách.",
+    "mechanism": "Nghi vấn thước đo quen thuộc qua nguồn được quy thẩm quyền → trả một danh sách thay thế có trật tự.",
+    "transfer": "Có thể học cách hứa một số lượng tiêu chí cụ thể rồi giải thích từng tiêu chí bằng hành động nhìn thấy; phát biểu gán cho nhân vật phải được kiểm nguồn riêng trước khi dùng lại.",
+    "limitations": [
+      "Phát biểu, số ngân sách và mô tả chính sách trong clip chưa được kiểm với tài liệu gốc.",
+      "Đây là video tiếng Việt từ kênh Việt về chủ đề Trung Quốc, không phải dữ liệu chỉ về kinh tế trong nước.",
+      "ASR + khung trích đã kiểm, chưa nghe toàn âm hay xem liên tục."
+    ]
+  }
+]

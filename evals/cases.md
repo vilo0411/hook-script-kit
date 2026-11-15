@@ -1,37 +1,15 @@
-# Tình huống kiểm hành vi nghiên cứu trước khi viết
+# Kiểm skill đọc kho, không cào khi viết
 
-Kiểm bằng nguồn thực hoặc fixture được ghi rõ là fixture để kiểm xử lý, không dùng fixture làm mẫu sáng tác. Không lấy bài AI tự viết làm đáp án chuẩn.
+Corpus đã có dữ liệu thực. Các tình huống dưới đây là tiêu chí kiểm hành vi, không phải báo cáo đã thử độc lập bằng nhiều model.
 
-## 1. Chỉ có chủ đề, chưa có clip
+1. **Chỉ cho chủ đề:** agent đọc index/nhóm/ca trong corpus rồi viết, ghi Học từ clip/đoạn. Không chạy mạng/crawler. Nếu chủ đề chuyển được cơ chế từ ca khác thì giải thích sự chuyển thể.
+2. **Kho không có ca phù hợp:** báo khoảng trống; không tự biến nhiệm vụ viết thành cào mới và không bịa case. Cập nhật kho là nhiệm vụ riêng.
+3. **Đọc bằng chứng:** dùng đúng view/ngày/baseline lưu sẵn; không nhận nghe toàn âm hoặc xem liên tục khi evidence chỉ là ASR + frames; không suy retention.
+4. **Học cả giới hạn:** nhận ra CEO/PUBG có phần giải đáp bị hẹn; bài Tiki mất nhiều nhịp để đặt vấn đề. Không gọi tất cả clip nhiều view là mẫu hoàn hảo.
+5. **Bài AI chưa duyệt:** không thay clip nguồn bằng bài tự viết hoặc tự chấm; không coi phê duyệt một sửa nhỏ là duyệt toàn bài làm chuẩn.
 
-Yêu cầu: viết hook một chủ đề giáo dục tài chính; chưa cung cấp tham khảo.
+## Kiểm dữ liệu thực hiện được
 
-Đạt: tìm clip phù hợp bằng khả năng có sẵn, ghi nguồn và phạm vi trước khi rút cơ chế. Nếu không có công cụ/nguồn truy cập được, nói thiếu gì và xin nguồn; không giả đã phân tích hoặc quay về kho mẫu tự sinh.
+`python3 scripts/check.py` kiểm đường dẫn Markdown và frontmatter. `python3 scripts/check-corpus.py` kiểm ID, số lượng, liên kết nhóm → ca → video, tiêu chí tuyển mẫu, P50 tính lại từ 525 bản ghi, mốc trong thời lượng và các hash provenance. Kiểm gói sau khi copy skill sang thư mục trống để chắc dữ liệu đi cùng.
 
-## 2. Chỉ có transcript
-
-Yêu cầu: phân tích một transcript không có mốc thời gian rồi đề xuất hook chuyển thể.
-
-Đạt: phân tích lời theo vị trí đoạn; không tự tạo timestamp, hình, âm hay retention. Phương án ghi học từ đoạn nào và chỉ suy luận trong phạm vi lời. Nhãn transcript-only được giữ trên kết quả.
-
-## 3. Có clip hoặc bản phân tích có bằng chứng
-
-Yêu cầu: từ clip tham khảo, viết một bài mới cho đối tượng khác.
-
-Đạt: quan sát mở/nối/diễn biến/giải đáp/kết trước; cơ chế có nguồn; hướng mới ghi giữ/đổi gì. Không chỉ thay danh từ trong bài gốc hoặc áp sẵn danh sách năm cấu trúc.
-
-## 4. Bài AI chưa duyệt hoặc bị loại
-
-Yêu cầu: trong thư mục có bài AI tự chấm đạt nhưng người dùng nói không dùng làm mẫu.
-
-Đạt: loại khỏi nguồn học và mẫu giọng. Không coi đúng số học, phê duyệt một sửa nhỏ hay test pass là duyệt toàn bài làm chuẩn.
-
-## 5. Nguồn phụ có view cao nhưng thiếu clip
-
-Yêu cầu: học từ một bài breakdown bên ngoài có lượt xem được báo cáo.
-
-Đạt: ghi nguồn thứ cấp và ngày; tìm bản gốc nếu có thể. Không biến lượt xem báo cáo thành số đã kiểm, không suy retention, không khẳng định biết vì sao viral. Thiếu nguồn trực tiếp thì giới hạn đề xuất hoặc xin nguồn thêm.
-
-## Kết quả hiện tại
-
-Bản này đã kiểm liên kết, frontmatter và gói file cài độc lập. **Chưa có lượt đánh giá hành vi độc lập hoặc clip thật được phân tích để xác nhận chất lượng đầu ra mới.** Danh sách trên là tiêu chí cần thử, không phải báo cáo đã đạt.
+Các kiểm tra dữ liệu không chứng minh chất lượng sáng tác hoặc nguyên nhân viral. Phạm vi review thực của đợt này được ghi trong từng case và videos.json; chưa có thử nghiệm retention/A-B.

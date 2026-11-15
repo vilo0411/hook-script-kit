@@ -1,0 +1,104 @@
+[
+  {
+    "id": "vn01",
+    "name": "Đặt cạnh hai khái niệm quen nhưng dễ nhầm",
+    "videos": [
+      "7697361245959114000",
+      "7683455896910908690"
+    ],
+    "principle": "Nêu cặp cần phân biệt ngay khi mở; chuyển câu hỏi thành vai trò/hệ quả cụ thể rồi giải thích theo từng vế.",
+    "proof": "CEO mở bằng quan hệ quyền lực và quay lại tầng quản trị; cổ phiếu/trái phiếu mở bằng nhầm lẫn hai loại tài sản rồi dùng nhân vật để phân vai.",
+    "limit": "Hai clip không trả lời giống nhau: CEO hoãn kết luận quyền lực, cổ phiếu/trái phiếu đã phân biệt cơ bản. Không mặc định hẹn phần hai là điều tốt."
+  },
+  {
+    "id": "vn02",
+    "name": "Hai sản phẩm giống bên ngoài nhưng khác cách kinh doanh",
+    "videos": [
+      "7692502679943187719"
+    ],
+    "principle": "Lấy cặp sản phẩm khán giả biết, xác nhận điểm giống rồi đổi tiêu chí nhìn sang khách hàng/mô hình.",
+    "proof": "Đoạn 0–14,4 giây xác nhận hai game cùng thể loại rồi xoay sang cách phục vụ người chơi.",
+    "limit": "Cách kiếm tiền vẫn bị hẹn phần sau; không học lời hứa quá phạm vi nội dung. Câu ASR mở có lỗi nên không dùng làm câu nguyên văn."
+  },
+  {
+    "id": "vn03",
+    "name": "Kỳ vọng đời thường va vào một kết quả khó chịu",
+    "videos": [
+      "7644506205179612423",
+      "7540936784776023312"
+    ],
+    "principle": "Đặt khán giả trong một tình huống tiền bạc/việc làm họ nhận ra, làm rõ chỗ trái kỳ vọng rồi đi vào cơ chế.",
+    "proof": "Mua trước trả sau đối chiếu thu nhập, món hàng và khoản trả tháng; bằng cấp đối chiếu học giỏi với thất nghiệp rồi nối cung cầu.",
+    "limit": "Đây là hai cách triển khai một loại xung đột, không có dữ liệu chứng minh chung hiệu quả. Bài bằng cấp trôi sang nhiều chủ đề ở cuối."
+  },
+  {
+    "id": "vn04",
+    "name": "Khác biệt địa phương làm cửa vào một mô hình kinh doanh",
+    "videos": [
+      "7686055803199032594"
+    ],
+    "principle": "Một khác biệt địa điểm quen thuộc tạo câu hỏi tại sao; bóc mô hình phía sau và quay lại tiền đề cuối bài.",
+    "proof": "Mở từ khác biệt hiện diện của thương hiệu, chuyển sang loại hình bách hóa, cuối đặt lại yếu tố địa lý.",
+    "limit": "Khẳng định địa lý thay đổi theo thời điểm; không dùng lại câu độc nhất như sự thật hiện tại nếu chưa kiểm."
+  },
+  {
+    "id": "vn05",
+    "name": "Gọi lại trải nghiệm rồi đối chiếu quá khứ với hiện tại",
+    "videos": [
+      "7682344714850323730"
+    ],
+    "principle": "Dẫn vào một cảnh tiêu dùng có chi tiết, dùng ký ức đó đặt câu hỏi doanh nghiệp đã đổi ra sao.",
+    "proof": "Mở bằng trải nghiệm mua sách; tới khoảng 16–32 giây mới đặt rõ nghịch lý doanh nghiệp.",
+    "limit": "Đây là phần mở xây nhiều nhịp gần 30 giây, không phải một câu ba giây; cần cân nhắc thời lượng đích."
+  },
+  {
+    "id": "vn06",
+    "name": "Giả định lợi ích lớn rồi đảo hệ quả",
+    "videos": [
+      "7359542441285930247"
+    ],
+    "principle": "Cho người xem nhận một lợi ích tưởng rõ, sau đó cho các bên khác phản ứng để tạo câu hỏi cơ chế.",
+    "proof": "Giả định tăng lương toàn xã hội ở đầu, phản ứng tăng giá xuất hiện khoảng 13 giây, tên khái niệm đến sau.",
+    "limit": "Đó là giả định của clip; không trình bày như chính sách đã xảy ra hoặc mô hình vĩ mô đầy đủ."
+  },
+  {
+    "id": "vn07",
+    "name": "Vật thể quen mang một chi tiết nguồn gốc trái kỳ vọng",
+    "videos": [
+      "7368451977803484423"
+    ],
+    "principle": "Bắt đầu từ hành vi mua một món cụ thể, làm lộ chi tiết xuất xứ rồi lần ngược phân chia giá trị.",
+    "proof": "Đôi giày được mua qua nước ngoài nhưng nhãn xuất xứ quay về Việt Nam; bài từ món hàng mở ra chuỗi giá trị và FDI.",
+    "limit": "Không tự dùng lại giá, tỷ lệ giá trị hoặc số liệu FDI như dữ kiện đã kiểm."
+  },
+  {
+    "id": "vn08",
+    "name": "Bản đồ dẫn đến sinh kế và một xung đột",
+    "videos": [
+      "7366583144767606023"
+    ],
+    "principle": "Cho thấy quan hệ địa lý trước, gắn quan hệ đó với đời sống rồi mới đặt tác động của một dự án.",
+    "proof": "Đầu clip dựng hệ thống sông và vùng hạ lưu; sau mới đưa kênh đào và rủi ro được tác giả nêu.",
+    "limit": "Mở tương đối chậm, kết còn để ngỏ; không coi mọi chi tiết địa chính trị là được chứng thực."
+  },
+  {
+    "id": "vn09",
+    "name": "Mượn một ý kiến tranh luận có sẵn rồi đổi tiêu chí so sánh",
+    "videos": [
+      "7529438894845218064"
+    ],
+    "principle": "Bắt đầu bằng ý kiến khán giả đang tranh luận, đưa điều kiện vận hành rồi bổ sung một tiêu chí khác.",
+    "proof": "So hai lượng xe, chuyển sang hạ tầng sạc/đổi pin, nhịp sau chuyển qua phát thải vòng đời.",
+    "limit": "Không tự tạo bình luận giả; số lượng xe và kết luận vòng đời cần nguồn chuyên môn riêng."
+  },
+  {
+    "id": "vn10",
+    "name": "Nghi vấn thước đo quen thuộc rồi hứa một bộ tiêu chí",
+    "videos": [
+      "7584790091629907217"
+    ],
+    "principle": "Đặt nghi vấn một thước đo được biết, nêu số lượng dấu hiệu thay thế và trả từng mục ngay sau mở.",
+    "proof": "GDP bị đặt câu hỏi qua lời được gán cho một nhân vật, rồi ba dấu hiệu hoạt động được giải thích trong khoảng 7–29 giây.",
+    "limit": "Phải kiểm lại phát biểu gán cho nhân vật. Đoạn sau mở rộng sang nhà đất; không biến một clip thành bằng chứng chính sách."
+  }
+]

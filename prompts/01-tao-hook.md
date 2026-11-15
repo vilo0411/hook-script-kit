@@ -1,35 +1,26 @@
-# Phân tích clip rồi tạo hook
+# Tạo hook từ corpus đã lưu
 
-Điền đầu vào, sao chép cả khối vào công cụ AI có khả năng đọc nguồn. Nếu công cụ chỉ nhận văn bản, cung cấp transcript và giữ rõ phạm vi đó.
+Với agent đã cài skill, corpus đi kèm trong `references/corpus/`. Với công cụ chat, đính kèm nhóm hook và các ca bạn chọn từ [kho](../skills/hook-script/references/corpus/index.md) trước khi gửi prompt.
 
 ```text
-Việc: phân tích nguồn trước rồi đề xuất hook, không lấy mẫu tự sinh làm chuẩn.
-
 Chủ đề / khán giả / mục tiêu: [điền]
-Giọng và thời lượng mong muốn: [điền nếu có]
-Clip hoặc nguồn phân tích sẵn có: [URL/file/transcript hoặc để trống]
-Rule phải giữ / mẫu giọng đã được tôi duyệt: [điền nếu có]
+Giọng / thời lượng / điều cần giữ: [điền nếu có]
+Corpus: [thư mục đi kèm skill hoặc các case đính kèm]
 
-Nếu chưa có clip, tìm clip công khai cùng chủ đề/khán giả/loại video bằng
-công cụ có sẵn. Nêu lý do chọn; lượt xem cao riêng lẻ chưa đủ chứng minh
-hook hiệu quả. Không có nguồn truy cập được thì báo thiếu gì và xin nguồn,
-không tự tạo clip/transcript hoặc viết bài rồi nhận đã học từ clip.
+Đọc corpus có sẵn để đề xuất hook. Không tìm, cào hoặc tải video mới trong
+nhiệm vụ này. Đọc mục lục, chọn nhóm và đọc ca phù hợp trước khi viết.
+Mỗi hướng ghi Học từ: nhóm, ID/link clip, đoạn quan sát, điều giữ/đổi.
 
-Trước khi đề xuất hook, giao:
-1. URL gốc, tác giả nếu biết, ngày quan sát, dữ liệu hiệu quả có nguồn.
-2. Phạm vi thực đã kiểm: hình/âm, khung chọn lọc, transcript hay bài thứ cấp.
-3. Bảng mốc thật hoặc vị trí đoạn: quan sát → vai trò → suy luận/giới hạn.
-Phân tích câu mở, nhịp nối, diễn biến và đoạn trả lời/kết theo dữ liệu có.
-Không có timestamp thì không tự đặt mốc giây; không có video thì không
-khẳng định về hình, âm hoặc diễn xuất. Không suy retention từ lượt xem.
+Viết ba hướng mới nếu chưa có yêu cầu khác: câu mở, nhịp nối, điều thân bài
+cần giải đáp và lý do phù hợp. Khuyến nghị một hướng. Không sao chép lời hay
+chỉ thay danh từ của clip. Chưa viết cả bài nếu tôi chỉ yêu cầu hook.
 
-Sau đó rút cơ chế có dẫn chứng và viết ba hướng hook mới. Mỗi hướng có:
-Học từ clip/đoạn nào; điều giữ/đổi; câu mở nguyên văn; câu nối;
-điều thân bài sẽ giải đáp; lý do hợp brief. Khuyến nghị một hướng.
-Không ép ba hướng vào ba công thức sẵn; không chép lời/ẩn dụ đặc trưng.
-Chưa viết cả kịch bản nếu tôi chỉ yêu cầu hook.
+Giữ đúng giới hạn evidence của ca: ASR/khung trích không đồng nghĩa nghe
+âm hoặc xem liên tục; view không chứng minh retention. Các đoạn mở chậm,
+hẹn phần hai hoặc trôi chủ đề cần được cân nhắc, không mặc định bắt chước.
+Không dùng bài AI chưa duyệt hoặc bị tôi loại làm mẫu giọng/chất lượng.
 
-Bài AI chưa duyệt hoặc đã bị tôi loại không được làm nguồn giọng/chất lượng.
-Số thực tế cần nguồn, giả định phải có nhãn. Thiếu nguồn thì ghi chưa có.
-Không bịa trải nghiệm, mốc quan sát hoặc bằng chứng thành công.
+Nếu thiếu file hoặc không có ca đủ liên quan, nói rõ thiếu gì; không bịa
+nguồn và không chuyển sang cào. Bổ sung corpus là nhiệm vụ riêng. Dữ kiện
+thực tế của bài mới cần nguồn riêng, ví dụ giả định cần nhãn.
 ```

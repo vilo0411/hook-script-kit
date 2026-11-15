@@ -1,31 +1,25 @@
-# Từ clip thật đến bài mới
+# Từ dữ liệu đã lưu đến bài mới
 
-## 1. Chốt điều cần học
+## 1. Chốt brief
 
-Dùng ngữ cảnh để xác định chủ đề, khán giả, mục tiêu, giọng và loại video. Phân biệt mục tiêu tìm clip: cách mở, cách giải thích, nhịp kể hay cách kết. Không lấy bài mới do AI tự viết làm đầu vào học phong cách.
+Dùng ngữ cảnh sẵn có: chủ đề, khán giả, điều cần hiểu, giọng, loại video và giới hạn. Chỉ hỏi phần thiếu làm đổi hướng. Không biến việc viết thành đợt cào dữ liệu.
 
-## 2. Tìm và chọn clip
+## 2. Đọc corpus
 
-Dùng clip người dùng gửi; nếu chưa có, tìm nguồn công khai cùng chủ đề/khán giả/định dạng. Ưu tiên khoảng ba clip để có điểm so sánh, không biến số lượng thành cổng cứng. Một clip đủ làm tham khảo một ca; chưa đủ khái quát thành công thức chung.
+Mở [index](corpus/index.md), [nhóm hook](corpus/patterns.md), rồi đọc các ca tương ứng. Dữ liệu đã được thu thập trước, gồm ID/link, view, baseline, mốc lời/hình và phân tích. Chọn theo vai trò cần học, không chỉ vì clip nhiều view nhất.
 
-Ghi URL, tác giả, ngày quan sát, số liệu đọc được và lý do phù hợp. Muốn gọi là nổi bật so với kênh, cần số so sánh cùng kênh/khoảng thời gian; thiếu thì ghi ứng viên tham khảo, không khẳng định vượt trung vị. Kho breakdown bên ngoài hỗ trợ tìm clip, không thay thế kiểm nguồn.
+## 3. Chốt điều giữ và điều đổi
 
-## 3. Phân tích trước khi rút cơ chế
+Ghi `Bằng chứng trong ca → cơ chế → lý do hợp brief → giới hạn → cách chuyển thể`. Câu mở cụ thể của clip không phải một mẫu bắt buộc điền chỗ trống. Một nhóm có một ca chỉ chứng minh cơ chế đã được quan sát ở ca đó, không phải quy luật hiệu quả chung.
 
-Đọc [analysis](analysis.md), điền [breakdown](breakdown-template.md). Quan sát cả câu mở, hình mở, diễn biến, nhịp cảm xúc, đoạn giải thích và kết khi có dữ liệu. Không chỉ chép câu đầu rồi gắn nhãn tò mò. Mốc phải từ nguồn thực; đoạn không có timestamp dùng vị trí đoạn, không tự dựng mốc giây.
+## 4. Viết phương án mới
 
-## 4. Rút điều có thể chuyển thể
+Mỗi hướng có Học từ (nhóm/clip/đoạn), hook, nhịp nối, nội dung và kết. Không sao chép lời/ví von đặc trưng. Nếu người dùng muốn toàn bài ngay, chọn một hướng có giải thích rồi viết tiếp trong phạm vi cho phép. Giữ lựa chọn đã duyệt và rule dự án.
 
-Viết thành chuỗi: **bằng chứng ở clip → cơ chế có thể đang được dùng → phù hợp brief ở đâu → cần đổi gì → giới hạn**. Cơ chế có thể chỉ đúng một ca. Công thức từ kho tham khảo giúp đặt tên sau quan sát, không quyết định trước điều cần tìm.
+## 5. Kiểm và giao
 
-## 5. Viết hook và kịch bản
+Dùng [review](review.md). Bảng lời/hình/thời gian phải có chỗ giải đáp hook; thời lượng chưa có bản đọc là ước tính. Không nhận đã nghe/xem nguồn vượt phạm vi corpus ghi. Nguồn cơ chế không tự là nguồn sự thật cho bài mới.
 
-Mỗi hướng ghi `Học từ` cụ thể: clip/đoạn, vai trò của nhịp đó, điều giữ và điều đổi. Viết tình huống/lời mới theo giọng được chọn; không thay danh từ trên một transcript. Giữ hướng/hook đã duyệt. Nếu được yêu cầu viết ngay toàn bài, chọn và giải thích một hướng rồi tiếp tục trong phạm vi được phép.
+## Khoảng trống và cập nhật
 
-Giao hook, nội dung, kết; với bài đầy đủ có bảng thời gian ước tính / lời / hình. Không đưa bản viết mới trở lại thư viện làm mẫu được duyệt chỉ vì AI tự chấm đạt.
-
-## 6. Review và lưu điều học được
-
-Đối chiếu bằng [review](review.md). Tách bản phân tích clip khỏi bài chuyển thể và phản hồi. Bài riêng chỉ được gắn nhãn mẫu giọng/mẫu kịch bản khi người dùng duyệt rõ để làm mẫu. Đồng ý một lần sửa hoặc một phép tính không phải duyệt toàn bài làm chuẩn.
-
-Nếu có dữ liệu sau đăng, lưu dữ liệu thật và ngày đo; không dùng nó để suy ngược chắc chắn một kỹ thuật gây ra thành công.
+Thiếu ca phù hợp thì ghi thiếu. Tác vụ cào/phân tích bổ sung do người bảo trì thực hiện riêng, không nằm trong luồng mặc định của skill. Bản viết mới chỉ làm mẫu giọng khi người dùng duyệt rõ cho mục đích đó; đừng tự đưa nó vào thay clip thực.

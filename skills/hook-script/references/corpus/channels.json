@@ -1,0 +1,46 @@
+[
+  {
+    "handle": "longkhongphainong",
+    "url": "https://www.tiktok.com/@longkhongphainong",
+    "collectedAt": "2026-11-15T03:29:15.461613+00:00",
+    "method": "yt-dlp --flat-playlist -J --playlist-end 150",
+    "videoCountCollected": 150,
+    "baselineCount": 150,
+    "baselineMedianViews": 18000.0,
+    "baselineRule": "Trung vị lượt xem tích lũy của các bài trong tập thu thập, bỏ bài dưới 48 giờ. Đây là tối đa 150 bài lấy được, không phải toàn bộ lịch sử kênh.",
+    "rawResponseSha256": "d263520953568a5657dcb84ce3e281eb729fb941f94e565c5afa1f613dea60ca"
+  },
+  {
+    "handle": "longvasocbc1",
+    "url": "https://www.tiktok.com/@longvasocbc1",
+    "collectedAt": "2026-11-15T03:29:04.132457+00:00",
+    "method": "yt-dlp --flat-playlist -J --playlist-end 150",
+    "videoCountCollected": 75,
+    "baselineCount": 75,
+    "baselineMedianViews": 12600,
+    "baselineRule": "Trung vị lượt xem tích lũy của các bài trong tập thu thập, bỏ bài dưới 48 giờ. Đây là tối đa 150 bài lấy được, không phải toàn bộ lịch sử kênh.",
+    "rawResponseSha256": "4caf4563f1638f72ef58eda9eca5e30d97c7f2a602479f4df2dd293b7dfc9bc5"
+  },
+  {
+    "handle": "nqs.kinhte",
+    "url": "https://www.tiktok.com/@nqs.kinhte",
+    "collectedAt": "2026-11-15T03:28:16.577711+00:00",
+    "method": "yt-dlp --flat-playlist -J --playlist-end 150",
+    "videoCountCollected": 150,
+    "baselineCount": 149,
+    "baselineMedianViews": 228300,
+    "baselineRule": "Trung vị lượt xem tích lũy của các bài trong tập thu thập, bỏ bài dưới 48 giờ. Đây là tối đa 150 bài lấy được, không phải toàn bộ lịch sử kênh.",
+    "rawResponseSha256": "c5c9c176a1639989acaccacba572ba283670d4355573006ff20cba1abf5e0553"
+  },
+  {
+    "handle": "tinhbao.thitruong",
+    "url": "https://www.tiktok.com/@tinhbao.thitruong",
+    "collectedAt": "2026-11-15T03:29:07.482899+00:00",
+    "method": "yt-dlp --flat-playlist -J --playlist-end 150",
+    "videoCountCollected": 150,
+    "baselineCount": 150,
+    "baselineMedianViews": 693950.0,
+    "baselineRule": "Trung vị lượt xem tích lũy của các bài trong tập thu thập, bỏ bài dưới 48 giờ. Đây là tối đa 150 bài lấy được, không phải toàn bộ lịch sử kênh.",
+    "rawResponseSha256": "d5ed9c8cbe8ab6d6e7d42ad1e663fb873f8e22eb0cc4192294ab78103d4268ec"
+  }
+]

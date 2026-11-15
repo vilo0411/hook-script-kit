@@ -1,29 +1,29 @@
 # Kiểm nguồn học và bài mới
 
-## Trước khi viết
+## Đọc kho trước khi viết
 
-- Có clip hoặc văn bản nguồn thực sự đọc được không?
-- Có nói đúng phạm vi: đã xem hình/nghe âm, chỉ có transcript hay chỉ bài thứ cấp?
-- Bảng diễn biến có dẫn nguồn/vị trí thật thay vì mốc tự đặt không?
-- Cơ chế rút ra có gắn với bằng chứng cụ thể, còn giới hạn nào?
-- Có đang dùng bài AI chưa được duyệt hoặc bài đã bị loại làm chuẩn không? Nếu có, bỏ nguồn đó.
+- Đã đọc nhóm và case phù hợp trong [corpus](corpus/index.md), không chỉ nhìn tên công thức?
+- Có truy được mỗi hướng về ID/link clip và đoạn được phân tích?
+- Dữ liệu view/ngày/baseline khớp file đã lưu?
+- Có giữ đúng giới hạn ASR/khung trích, không nhận đã nghe/xem liên tục?
+- Có tránh dùng bài AI chưa duyệt hoặc bị loại làm chuẩn?
 
-Thiếu đầu vào để phân tích thì tìm/xin nguồn; không lấy kết quả tự viết để chứng minh chính nó.
+Không cào khi viết. Thiếu ca thì nêu khoảng trống; bảo trì kho là việc riêng.
 
-## Trước khi giao bài mới
+## Trước khi giao
 
 | Kiểm | Dấu hiệu đạt |
 |---|---|
-| Học từ đâu | Mỗi hướng truy về clip và đoạn/quan sát cụ thể |
-| Chuyển thể thế nào | Có lý do giữ/đổi cơ chế theo brief, không chỉ thay danh từ |
-| Hook và diễn biến | Chuyện tiến lên, nhịp sau phát triển lời hứa đầu |
-| Kết | Trả đúng điều đã gợi bằng nội dung thực có |
-| Giọng | Theo lựa chọn của người dùng hoặc mẫu đã duyệt, không theo bài AI tự sinh |
-| Đúng thông tin | Nguồn/giả định rõ; đơn vị, điều kiện và phép tính khớp |
-| Đúng phạm vi | Không nhận đã xem/nghe/đo khi chưa làm |
+| Học từ đâu | Có nhóm, clip và bằng chứng cụ thể |
+| Chuyển thể | Có lý do giữ/đổi theo brief, không chỉ thay danh từ |
+| Diễn biến | Nhịp tiếp phát triển lời hứa mở |
+| Kết | Trả điều hook đã gợi; cân nhắc đoạn hẹn phần sau trong nguồn |
+| Giọng | Theo người dùng hoặc mẫu đã duyệt, không theo bài tự sinh |
+| Thông tin | Nguồn/giả định, đơn vị và điều kiện rõ |
+| Phạm vi | Không nói đã đo/xem/nghe khi chưa làm |
 
-Đúng số học, liên kết hoặc frontmatter không đồng nghĩa bài đã hay hoặc được người dùng chấp nhận. Ghi phản hồi thật, không tự đánh dấu mẫu được duyệt.
+Đúng dữ liệu hoặc test kỹ thuật không đồng nghĩa bài đã hay hay đã được người dùng duyệt. Nguồn phân tích cách kể không thay nguồn sự thật cho bài mới.
 
-## Sau khi có video hoặc dữ liệu đăng
+## Sau khi có video mới
 
-Xem/nghe bản thật để ghi lỗi theo mốc. Khi có số liệu, lưu nền tảng, ngày đo và dữ liệu so sánh; thiếu retention thì ghi chưa có. Phân biệt quan sát, giả thuyết tác dụng, chất lượng người dùng đánh giá và hiệu quả nền tảng đo. Không dùng lượt xem đơn lẻ để kết luận cơ chế gây viral.
+Kiểm bản thật để ghi lỗi theo mốc. Khi có số liệu đăng, lưu nền tảng/ngày/phạm vi so sánh. Không suy hiệu quả nhân quả từ một view cao. Không tự đưa bài mới thành mẫu giọng cho lần sau.

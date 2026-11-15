@@ -1,33 +1,29 @@
 ---
 name: hook-script
-description: Phân tích clip tham khảo để rút cơ chế hook, nhịp kể và cách kết rồi viết hoặc sửa video giáo dục/tài chính tiếng Việt. Dùng khi cần học từ clip viral, tìm nguồn cho kịch bản hoặc cải thiện bài đang chán. Không lấy bài AI chưa duyệt làm chuẩn.
+description: Viết hoặc sửa hook và kịch bản tiếng Việt từ kho TikTok Việt Nam đã thu thập, phân tích sẵn, mỗi nhóm có clip và bằng chứng. Đọc dữ liệu đi kèm tại chỗ, không cào khi viết; không lấy bài AI chưa duyệt làm mẫu.
 ---
 
-# Phân tích trước, viết sau
+# Viết từ kho clip đã lưu
 
-Dùng brief, khán giả, rule project và giọng người dùng đã chọn. Không yêu cầu một phần mềm riêng. Đọc [quy trình](references/workflow.md) và [phân tích clip](references/analysis.md) trước khi tạo hook hoặc viết lại toàn bài.
+Dùng brief, giọng và rule của người dùng. **Skill này đọc kho có sẵn, không chạy crawler, không tự đi tìm hoặc tải clip khi viết.** Thu thập và phân tích bổ sung là tác vụ bảo trì riêng, chỉ làm khi người dùng yêu cầu rõ.
 
-## Nguồn học
+## Chọn nguồn trong kho
 
-- Ưu tiên clip người dùng chỉ định và các phân tích đã có nguồn, còn truy vết được. Chưa có thì tìm clip cùng chủ đề/khán giả/loại nội dung bằng công cụ có sẵn. Không chọn chỉ theo lượt xem cao nhất.
-- Chỉ gọi là đã xem clip nếu thực sự có hình và âm; transcript chỉ hỗ trợ phân tích lời, bài breakdown bên ngoài là nguồn thứ cấp. Nêu giới hạn đó ngay trên kết quả. Không dùng nhãn viral để suy ra nguyên nhân thành công.
-- Theo [mẫu breakdown](references/breakdown-template.md), ghi điều quan sát được trước, rút cơ chế sau, rồi mới viết phương án mới. Mỗi phương án dẫn về clip và đoạn/bằng chứng cụ thể, không chỉ ghi tên một công thức.
-- Bài AI tự sinh và kịch bản riêng chưa được người dùng duyệt không phải mẫu giọng hay chuẩn chất lượng. Tự chấm, đúng số học hoặc qua kiểm kỹ thuật không biến chúng thành nguồn học được duyệt. Không dùng các bài đã bị người dùng loại.
+1. Đọc [mục lục corpus](references/corpus/index.md) và [nhóm hook có video](references/corpus/patterns.md).
+2. Chọn nhóm hợp vấn đề/khán giả/loại bài; đọc các bản phân tích clip được dẫn trước khi dùng. Không cần chủ đề mới trùng danh từ với clip: chuyển cơ chế khi mục tiêu phù hợp, giải thích được sự khác biệt.
+3. Mỗi hướng ghi `Học từ`: nhóm, ID clip, đoạn quan sát, điều giữ/đổi. Số view, baseline và ngày đo lấy từ [metadata](references/corpus/videos.json), không cập nhật giả hoặc suy retention.
+4. Phân biệt quan sát khung hình và ASR với giả thuyết về hiệu quả. Kho hiện chưa được nghe toàn âm/xem liên tục, không nhận đã làm việc đó. Không coi mọi dữ kiện kinh tế trong clip là nguồn kiến thức đã kiểm.
 
-## Các việc
+## Viết và sửa
 
-**Phân tích:** giao nguồn, phạm vi đã xem, bảng diễn biến, cơ chế có dẫn chứng và điều chưa xác nhận. Chưa viết bài mới nếu người dùng chỉ yêu cầu phân tích.
+- **Hook:** mặc định ba hướng mới khi chưa có số lượng yêu cầu; có hook nguyên văn, nhịp nối, nội dung sẽ giải đáp và dẫn nguồn ca thực. Khuyến nghị theo brief, không viết cả bài nếu chỉ được hỏi hook.
+- **Kịch bản:** giữ hướng đã chọn, phát triển lời/hình và kết trả điều hook đã gợi. Giao bảng thời gian ước tính / lời đọc / hình gợi ý cùng phần truy nguồn cơ chế và dữ kiện.
+- **Sửa bài:** đối chiếu đoạn yếu với đoạn có vai trò tương đương trong ca đã lưu rồi giao bản sửa. Không đổi phần người dùng yêu cầu giữ. Sửa chính tả/số đơn thuần không cần chọn ca.
 
-**Tạo hook:** sau phân tích, viết ba hướng chuyển thể khác nhau nếu không có yêu cầu khác. Mỗi hướng có `Học từ` (clip + đoạn quan sát), điều giữ/đổi, hook nguyên văn, nhịp tiếp và chỗ thân bài giải đáp. Khuyến nghị theo brief; không ép ba hướng vào ba nhãn công thức định sẵn.
+Học cơ chế, không chép câu hoặc chỉ thay danh từ trong transcript. Những đoạn hẹn phần hai, mở chậm hoặc trôi chủ đề trong kho được ghi để cân nhắc, không phải chuẩn bắt chước. Bài AI chưa duyệt/bị loại không làm chuẩn giọng dù tự chấm hay test kỹ thuật đạt.
 
-**Viết kịch bản:** giữ lựa chọn đã duyệt; nối hook với diễn biến và kết của bài mới. Giao bảng thời gian ước tính / lời đọc / hình gợi ý, phần học từ nguồn và những thay đổi cho khán giả hiện tại. Không sao chép lời, nhân vật hoặc ví von đặc trưng của clip.
+## Khi kho chưa bao phủ
 
-**Sửa bài:** đối chiếu bài hiện tại với đoạn có vai trò tương đương trong clip. Chẩn đoán bằng bằng chứng rồi giao bản sửa. Không đổi phần người dùng yêu cầu giữ. Sửa lỗi số/chính tả đơn thuần không cần nghiên cứu lại.
+Nếu không có ca đủ liên quan để chuyển cơ chế, nói rõ khoảng trống. Có thể đề xuất bảo trì kho như việc riêng, không tự chuyển tác vụ viết thành cào. Chỉ sáng tác không có đối chiếu khi người dùng yêu cầu, gắn nhãn bản nháp chưa có nguồn mẫu.
 
-## Khi thiếu dữ liệu
-
-Đã tìm nhưng không có nguồn truy cập được thì ghi thiếu gì và xin link, file, transcript hoặc phân tích có sẵn. Không viết bài rồi nhận là đã học từ clip. Chỉ chuyển sang sáng tác không có nguồn khi người dùng chủ động yêu cầu; gắn nhãn bản nháp chưa có đối chiếu. Bản chỉ dựa transcript có thể đề xuất về lời với giới hạn nêu rõ, không kết luận về hình/âm hoặc toàn clip chưa xem.
-
-## Kiểm trước khi giao
-
-Dùng [review](references/review.md). Phân biệt quan sát, suy luận biên tập, số liệu nền tảng và phản hồi của người dùng. Thời lượng chưa có bản đọc chỉ là ước tính. Số liệu thực cần nguồn, ví dụ giả định cần nhãn và phép tính. Không bịa trải nghiệm, nguồn hoặc kết quả retention. Không gọi dịch vụ trả phí hay đăng nội dung nếu chưa được cho phép.
+Đọc [quy trình](references/workflow.md) và [review](references/review.md) khi viết toàn bài. Số thực tế của bài mới cần nguồn riêng; giả định cần nhãn. Không bịa trải nghiệm, nguồn, mốc quan sát hoặc số hiệu quả. Kiểm kỹ thuật không thay phê duyệt chất lượng của người dùng.

@@ -1,20 +1,10 @@
-# Thư viện clip để học
+# Thư viện đã thu thập trước
 
-**Hiện chưa có bản phân tích clip trực tiếp được kiểm và duyệt trong repo này.** Không dùng tài liệu trống hoặc bài AI tự sinh để lấp vào số lượng ca.
+Kho chính nằm [bên trong skill](../skills/hook-script/references/corpus/index.md) để cài riêng vẫn đủ nguồn đọc. Có **525 bản ghi kênh, 12 ca phân tích và 10 nhóm hook có clip đối chiếu**, thu thập ngày 2026-11-15.
 
-## Nguồn tìm ứng viên
+- [Nhóm hook](../skills/hook-script/references/corpus/patterns.md).
+- [12 video và bằng chứng](../skills/hook-script/references/corpus/videos.json).
+- [Dữ liệu 525 video kênh](../skills/hook-script/references/corpus/channel-videos.json).
+- [Phương pháp cập nhật riêng](../MAINTENANCE.md).
 
-- [Chủ đề finance trong tiktok-viral-hooks](https://github.com/shixinzhang/tiktok-viral-hooks/blob/main/by-niche/en/finance.md).
-- [Mục lục cơ chế trong repo nguồn](https://github.com/shixinzhang/tiktok-viral-hooks#by-hook-pattern).
-- Clip người dùng gửi hoặc tìm công khai theo chủ đề/kênh mục tiêu.
-
-Các liên kết trên là nguồn khám phá, chưa phải thư viện clip đã được bộ này xác minh. Lượt xem, nhãn cơ chế và bản phân tích của bên ngoài cần kiểm lại khi dùng làm kết luận.
-
-## Thêm một ca
-
-Dùng [mẫu breakdown](../skills/hook-script/references/breakdown-template.md), lưu tại `library/breakdowns/<id>.md` rồi thêm dòng vào mục lục dưới. Phân biệt ứng viên, đã phân tích, được người dùng chọn và bị loại. Việc phân tích không tự chứng minh viral hoặc tự cấp duyệt cho bài sáng tác.
-
-| ID | Clip gốc | Chủ đề | Phạm vi đã kiểm | Trạng thái | Bản phân tích |
-|---|---|---|---|---|---|
-
-Khi skill được cài riêng, có thể lưu ca trong thư mục công việc của người dùng; không phụ thuộc đường dẫn thư viện này. Bài kịch bản riêng chỉ làm mẫu khi có duyệt rõ cho mục đích đó. Không đưa tài liệu riêng tư vào repo public.
+Skill viết đọc những file này, không cào tại thời điểm viết. Metadata/media đã được tải lại; phạm vi review hiện là các khung chọn lọc + ASR cache có mốc, chưa nghe toàn âm/xem liên tục. Từng ca ghi giới hạn và link gốc. Đây chưa phải bộ bao phủ toàn TikTok Việt Nam.

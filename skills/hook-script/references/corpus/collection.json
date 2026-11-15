@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "collectionCompletedAt": "2026-11-15T03:30:40.965054+00:00",
+  "platform": "TikTok",
+  "scope": "Tài chính/kinh tế tiếng Việt, bốn kênh được chọn có chủ đích",
+  "channels": 4,
+  "channelRecords": 525,
+  "videosDownloaded": 12,
+  "videosAnalyzed": 12,
+  "viralOperationalRule": ">=100.000 view và >=3× trung vị snapshot kênh sau lọc tuổi 48h; ngưỡng tuyển mẫu thực dụng, không chứng minh nhân quả.",
+  "samplingLimit": "Không lấy mẫu ngẫu nhiên hay đầy đủ toàn TikTok VN; tuyển ứng viên từ cache có ASR rồi cập nhật metadata/media. Có video cũ ngoài cửa sổ 150 bài của baseline.",
+  "evidenceLimit": "Đã tải media, kiểm các khung chọn lọc và đọc ASR có mốc; chưa nghe toàn âm/xem liên tục. Không có retention hoặc analytics địa lý.",
+  "publicData": "Metadata chuẩn hóa, đoạn hook ngắn và phân tích tự viết; không xuất signed CDN URLs, cookie, raw info.json, toàn transcript hoặc media của tác giả.",
+  "ytDlpVersion": "2026.08.19"
+}

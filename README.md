@@ -1,40 +1,41 @@
-# Hook & Script Kit
+# Hook & Script Kit — kho TikTok tiếng Việt
 
-Học từ clip thật để viết hook và kịch bản video giáo dục, tài chính.
+**Dữ liệu được cào và phân tích trước. Skill đọc kho có sẵn để viết.**
 
-**Luồng chính: tìm clip → phân tích bằng chứng → rút cơ chế → viết mới → xem lại kết quả.** Không lấy bài AI tự viết rồi tự chấm làm chuẩn chất lượng.
+Đợt đầu đã cào **525 bản ghi từ 4 kênh**, tải lại và phân tích **12 clip**, rút ra **10 nhóm hook**. Mỗi nhóm có video gốc, chỉ số lúc thu thập và bản phân tích mở/nối/diễn biến/kết để đối chiếu. Không dùng kịch bản AI chưa duyệt làm mẫu.
 
-Repo hiện cung cấp skill, prompt và mẫu ghi phân tích. **Chưa có clip nào được kiểm trực tiếp và duyệt vào thư viện của bộ này.** Các bài tự viết ở bản đầu đã được gỡ khỏi bản hiện hành theo phản hồi của chủ repo; không dùng chúng làm mẫu giọng hoặc nguồn học.
+## Mở kho
 
-> **English:** A research-first Vietnamese video-writing skill. Analyze reference clips before deriving hooks and scripts. The verified clip library is currently empty; this is a workflow toolkit, not a validated viral dataset.
+- [10 nhóm hook, từng nhóm kèm ca thực](skills/hook-script/references/corpus/patterns.md).
+- [Mục lục 12 video và phân tích](skills/hook-script/references/corpus/index.md).
+- [Dữ liệu 12 clip](skills/hook-script/references/corpus/videos.json), [525 bản ghi kênh](skills/hook-script/references/corpus/channel-videos.json), [baseline 4 kênh](skills/hook-script/references/corpus/channels.json).
 
-## Dùng ngay
+Các kênh: **Long và Sóc, Người Quan Sát, Tình Báo Thị Trường, Lóng**. Clip có lời tiếng Việt và hướng tới ngữ cảnh người Việt; một số chủ đề nói về nước ngoài. Không có analytics vị trí người xem để khẳng định toàn bộ view ở Việt Nam.
 
-- [Phân tích clip rồi tạo hook](prompts/01-tao-hook.md): đưa URL/file clip hoặc yêu cầu agent tìm clip cùng chủ đề.
-- [Viết kịch bản từ phân tích](prompts/02-viet-kich-ban.md): mỗi lựa chọn ghi rõ học từ clip và nhịp nào.
-- [Sửa bài qua đối chiếu](prompts/03-sua-bai.md): chỉ ra khác biệt giữa bài hiện tại và cách triển khai trong clip tham khảo.
-- [Cài skill](INSTALL.md) cho agent dùng thường xuyên.
+Ví dụ có thể mở ngay: [CEO và chủ tịch](skills/hook-script/references/corpus/cases/7697361245959114000.md), [lương và mua trước trả sau](skills/hook-script/references/corpus/cases/7644506205179612423.md), [giả định tăng lương và lạm phát](skills/hook-script/references/corpus/cases/7359542441285930247.md).
+
+## Dùng để viết
+
+[Cài skill](INSTALL.md), hoặc dùng prompt kèm các bản phân tích được chọn:
+
+- [Tạo hook từ kho](prompts/01-tao-hook.md).
+- [Viết kịch bản từ kho](prompts/02-viet-kich-ban.md).
+- [Sửa bài bằng đối chiếu](prompts/03-sua-bai.md).
 
 ```text
-Chủ đề cần viết: [chủ đề của bạn]
-Khán giả / mục tiêu / giọng: [điền]
-Clip tham khảo: [URL hoặc file; nếu chưa có, hãy tìm clip phù hợp]
-Việc cần làm: phân tích trước, sau đó đề xuất hook hoặc kịch bản.
-Bài riêng đã được tôi duyệt làm mẫu, nếu có: [đường dẫn hoặc để trống]
+Dùng hook-script và kho đã lưu để đề xuất hook cho [chủ đề].
+Khán giả / mục tiêu / giọng: [điền].
+Chỉ rõ học từ nhóm và video/đoạn nào; không cào thêm khi viết.
 ```
 
-Nếu không truy cập được clip, agent phải nói rõ tài liệu nào đã đọc: video, transcript hay bài phân tích thứ cấp. Không được nhận đã xem clip, đặt mốc hình/âm hoặc bịa dữ liệu hiệu quả. Thiếu nguồn thì tìm nguồn khác hoặc xin đầu vào còn thiếu; không lấp bằng một kho mẫu tự sinh.
+## Phạm vi bằng chứng
 
-## Trong bộ này
+Metadata và media của 12 clip được lấy lại ngày **2026-11-15**. Lượt xem từ **389.600 đến 7.600.000**. Cả 12 vượt 100.000 view và 3× P50 của snapshot kênh đủ tuổi 48 giờ; tỷ lệ thực tế từ khoảng 6,57× đến 71,15×. Đây là tiêu chí tuyển mẫu, không chứng minh một kỹ thuật gây viral hay đại diện toàn TikTok Việt Nam.
 
-| Phần | Công dụng |
-|---|---|
-| [Quy trình](skills/hook-script/references/workflow.md) | Từ chọn clip đến viết mới, có truy vết |
-| [Cách thu thập và phân tích](skills/hook-script/references/analysis.md) | Đầu vào thực, phạm vi đã xem và nhịp giữ chân |
-| [Mẫu ghi breakdown](skills/hook-script/references/breakdown-template.md) | Nguồn, mốc quan sát, suy luận và cách chuyển thể |
-| [Kiểm kết quả](skills/hook-script/references/review.md) | Đối chiếu nguồn và phần viết mới |
-| [Thư viện clip](library/README.md) | Phân biệt nguồn ứng viên, bản đã phân tích và nguồn đã duyệt |
+Đã xem các khung trích mới tải và đọc ASR có mốc từ bản lưu trước cùng ID. **Chưa nghe toàn âm hoặc xem liên tục**; có ghi lỗi/giới hạn từng ca. Không có dữ liệu retention. Một số clip nhiều view vẫn mở chậm hoặc hoãn đáp án: bản phân tích ghi cả điểm không nên học theo.
 
-Kho công thức của [rediumvex](https://github.com/rediumvex/viral-hooks-skill) dùng để gọi tên/so sánh cơ chế sau phân tích. Hướng tổ chức phân tích clip học từ [shixinzhang](https://github.com/shixinzhang/tiktok-viral-hooks). Không có dữ liệu chứng minh bộ này tăng retention; lượt xem và đánh giá của nguồn ngoài chưa được xác nhận độc lập.
+Repo chia sẻ metadata, đoạn hook ngắn, link gốc và phân tích riêng; không đăng lại toàn video hoặc transcript. Bộ dữ liệu nằm trong thư mục skill nên sao chép skill vẫn đủ nguồn để đọc tại chỗ.
 
-[Nguồn và giấy phép](SOURCES.md) · [Đóng góp](CONTRIBUTING.md) · [Kiểm hành vi](evals/cases.md) · [MIT License](LICENSE)
+> **English:** A pre-collected Vietnamese TikTok reference corpus: 525 channel records, 12 analyzed clips and 10 evidence-linked hook groups. The writing skill reads the bundled corpus; collection is a separate maintainer task.
+
+[Phương pháp thu thập](MAINTENANCE.md) · [Nguồn và giấy phép](SOURCES.md) · [Đóng góp](CONTRIBUTING.md) · [Kiểm tra](evals/cases.md) · [MIT](LICENSE)

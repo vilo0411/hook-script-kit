@@ -1,6 +1,6 @@
 # Cài và dùng skill
 
-Skill nằm trọn trong `skills/hook-script/`. Sao chép **cả thư mục**, gồm `SKILL.md` và `references/`. Repo không cần npm, Python hay API key để đọc nội dung. Tìm và xem clip cần công cụ truy cập nguồn của môi trường AI; repo chưa tích hợp backend tải/transcribe tự động.
+Skill nằm trọn trong `skills/hook-script/`. Sao chép **cả thư mục**, gồm `SKILL.md` và `references/`. Repo không cần npm, Python hay API key để dùng skill viết. Corpus đã cào và phân tích sẵn nằm trong `references/corpus/`; phải sao chép cả thư mục đó. Skill không cào hoặc gọi dịch vụ phân tích khi viết.
 
 ## Tải bộ tài liệu
 
@@ -28,8 +28,8 @@ fi
 Mở một phiên Codex trong project đó. Yêu cầu:
 
 ```text
-Dùng $hook-script tìm clip giáo dục tài chính phù hợp chủ đề lạm phát,
-phân tích trước rồi đề xuất hook. Ghi rõ nguồn và phạm vi đã kiểm.
+Dùng $hook-script đọc corpus đi kèm, chọn ca phù hợp rồi đề xuất hook
+về lạm phát. Ghi rõ học từ nhóm/clip/đoạn nào; không cào thêm.
 ```
 
 Muốn dùng cho mọi project, dùng cùng đoạn lệnh nhưng đặt `HOOK_TARGET="$HOME/.agents/skills"`. Vị trí project và cá nhân theo [tài liệu skills của OpenAI](https://developers.openai.com/codex/skills/).
@@ -39,14 +39,14 @@ Muốn dùng cho mọi project, dùng cùng đoạn lệnh nhưng đặt `HOOK_T
 Chạy lại đoạn sao chép ở trên với `HOOK_TARGET="/path/to/your-project/.claude/skills"`. Mở phiên Claude Code trong project rồi nhập:
 
 ```text
-/hook-script Tìm và phân tích clip cùng chủ đề lạm phát rồi đề xuất hook có dẫn nguồn.
+/hook-script Dùng corpus đã lưu để viết hook về lạm phát, dẫn rõ ca nguồn; không cào.
 ```
 
 Muốn dùng cá nhân, đặt `HOOK_TARGET="$HOME/.claude/skills"`. Hướng dẫn này dành cho phiên chạy tại máy, theo [tài liệu Claude Code](https://code.claude.com/docs/en/skills).
 
 ## Công cụ chat khác
 
-Không cần cài skill. Mở một trong [ba prompt](prompts/01-tao-hook.md), sao chép toàn bộ khối văn bản, điền đầu vào và gửi vào chat. Các prompt dùng độc lập. Nếu muốn thêm mẫu, đính kèm tài liệu Markdown liên quan; không giả định công cụ chat đọc được một đường dẫn trên máy bạn.
+Không cần cài skill. Mở một trong [ba prompt](prompts/01-tao-hook.md), sao chép toàn bộ khối văn bản, điền đầu vào và gửi vào chat. Các prompt cần corpus có sẵn trong ngữ cảnh hoặc tệp đính kèm: chọn nhóm trong `references/corpus/patterns.md` rồi đính kèm các case được dẫn. Không giả định công cụ chat đọc được một đường dẫn trên máy bạn và không yêu cầu chat tự cào.
 
 ## Cập nhật hoặc gỡ
 
