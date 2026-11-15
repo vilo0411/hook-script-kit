@@ -1,0 +1,19 @@
+%%{init: {"htmlLabels": false, "themeVariables": {"fontSize": "18px"}, "flowchart": {"padding": 16, "rankSpacing": 22, "wrappingWidth": 360}}}%%
+flowchart TD
+  n0["01 · 00:00.42–00:08.76<br/>Hỏi điều hối hận nhất rồi nêu hình<br/>xăm."]
+  n1["02 · 00:08.76–00:17.38<br/>Nhấn mức hối hận, báo trước quan điểm<br/>có thể gây tranh cãi."]
+  n0 --> n1
+  n2["03 · 00:18.12–00:47.64<br/>Nêu cảm nhận thẩm mỹ chủ quan và mong<br/>muốn xóa xăm."]
+  n1 --> n2
+  n3["04 · 00:47.64–01:02.98<br/>Kể hồi trẻ và môi trường học, đối<br/>chiếu cảm nhận hiện tại."]
+  n2 --> n3
+  n4["05 · 01:02.98–01:22.82<br/>Chuyển sang lời kêu gọi cân nhắc trước<br/>quyết định."]
+  n3 --> n4
+  n5["06 · 01:22.82–01:32.96<br/>Kết bằng ước muốn quay lại và mức hối<br/>hận lặp mạnh."]
+  n4 --> n5
+  classDef phase fill:#F8FAFC,stroke:#CBD5E1,color:#0F172A,font-size:18px;
+  classDef opening fill:#DBEAFE,stroke:#2563EB,color:#172554,font-size:18px;
+  classDef ending fill:#DCFCE7,stroke:#16A34A,color:#14532D,font-size:18px;
+  class n0,n1,n2,n3,n4,n5 phase;
+  class n0 opening;
+  class n5 ending;

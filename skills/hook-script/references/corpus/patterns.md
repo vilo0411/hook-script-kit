@@ -1,4 +1,4 @@
-# 26 nhóm hook có clip đối chiếu
+# 35 nhóm hook có clip đối chiếu
 
 Nhóm được rút từ corpus đã lưu, không phải công thức đặt trước. Nhóm ít ca là quan sát ca cụ thể, chưa chứng minh hiệu quả chung.
 
@@ -108,10 +108,12 @@ Khi được yêu cầu tạo hook, mặc định trình **10 lựa chọn khác
 
 **Cơ chế:** Đặt nghi vấn một thước đo được biết, nêu số lượng dấu hiệu thay thế và trả từng mục ngay sau mở.
 
-**Bằng chứng:** GDP bị đặt câu hỏi qua lời được gán cho một nhân vật, rồi ba dấu hiệu hoạt động được giải thích trong khoảng 7–29 giây. Ca Techcombank bổ sung cách chuyển từ lợi nhuận bề mặt sang chất lượng tăng trưởng và rủi ro; có hashtag hợp tác thương mại, cần đọc theo ngữ cảnh quảng bá.
+**Bằng chứng:** GDP bị đặt câu hỏi qua lời được gán cho một nhân vật, rồi ba dấu hiệu hoạt động được giải thích trong khoảng 7–29 giây. Ca Techcombank bổ sung cách chuyển từ lợi nhuận bề mặt sang chất lượng tăng trưởng và rủi ro; có hashtag hợp tác thương mại, cần đọc theo ngữ cảnh quảng bá. Hai ca Vật Vờ bổ sung đối chiếu thông số với phần thực dùng và xem lại quyết định nâng cấp theo tiêu chí nhu cầu. Nguồn kỹ thuật trong clip là thứ cấp; không dùng nhận dạng ASR để xếp hạng hãng.
 
 - [Phân tích 7584790091629907217](cases/7584790091629907217.md) · [Video @longkhongphainong](https://www.tiktok.com/@longkhongphainong/video/7584790091629907217) · 389,600 view · [Sơ đồ](cases/7584790091629907217.md#mindmap).
 - [Phân tích 7672004205518933255](cases/7672004205518933255.md) · [Video @quocthichkinhte](https://www.tiktok.com/@quocthichkinhte/video/7672004205518933255) · 316,300 view · [Sơ đồ](cases/7672004205518933255.md#mindmap).
+- [Phân tích 7667805587454971144](cases/7667805587454971144.md) · [Video @vatvostudio](https://www.tiktok.com/@vatvostudio/video/7667805587454971144) · 935,000 view · [Sơ đồ](cases/7667805587454971144.md#mindmap).
+- [Phân tích 7687220059579632903](cases/7687220059579632903.md) · [Video @vatvostudio](https://www.tiktok.com/@vatvostudio/video/7687220059579632903) · 653,900 view · [Sơ đồ](cases/7687220059579632903.md#mindmap).
 
 **Không học máy móc:** Phải kiểm lại phát biểu gán cho nhân vật. Đoạn sau mở rộng sang nhà đất; không biến một clip thành bằng chứng chính sách.
 
@@ -191,9 +193,10 @@ Khi được yêu cầu tạo hook, mặc định trình **10 lựa chọn khác
 
 **Cơ chế:** Người kể vào thẳng một sự cố cá nhân, thêm biến cố kế tiếp và trả bằng chi tiết cuối liên quan trải nghiệm đầu.
 
-**Bằng chứng:** Chuyến bay và các trục trặc từ lúc đến sân bay tạo một chuỗi kể ngôi một, kết ở tình trạng hành lý.
+**Bằng chứng:** Chuyến bay và các trục trặc từ lúc đến sân bay tạo một chuỗi kể ngôi một, kết ở tình trạng hành lý. Khoai mở một cuộc gặp thật được người kể tự thuật, chỉ người áo đen rồi để hành động đáng chú ý được trả về sau; không cần sự cố giật gân hay giả lời nhân chứng.
 
 - [Phân tích 7608607292241497362](cases/7608607292241497362.md) · [Video @longkhongphainong](https://www.tiktok.com/@longkhongphainong/video/7608607292241497362) · 388,500 view · [Sơ đồ](cases/7608607292241497362.md#mindmap).
+- [Phân tích 7429725622441659649](cases/7429725622441659649.md) · [Video @khoailangthang](https://www.tiktok.com/@khoailangthang/video/7429725622441659649) · 8,800,000 view · [Sơ đồ](cases/7429725622441659649.md#mindmap).
 
 **Không học máy móc:** Đây là lời tự thuật của tác giả, chưa fact-check thương hiệu. Chỉ dùng ngôi một nếu người dùng có trải nghiệm thật được cung cấp.
 
@@ -277,3 +280,97 @@ Khi được yêu cầu tạo hook, mặc định trình **10 lựa chọn khác
 - [Phân tích 7692042220106468660](cases/7692042220106468660.md) · [Video @quocthichkinhte](https://www.tiktok.com/@quocthichkinhte/video/7692042220106468660) · 342,100 view · [Sơ đồ](cases/7692042220106468660.md#mindmap).
 
 **Không học máy móc:** Đây là video TikTok dài hơn 12 phút. Không áp thời gian mở của ca này làm chuẩn Shorts, không dùng danh sách tài sản như lời khuyên đầu tư đã kiểm.
+
+## vn27 — Hình lạ đi trước câu hỏi nhận diện
+
+**Cơ chế:** Cho thấy vật thể/hành động khó nhận diện, gọi đúng câu hỏi hình gây ra, giải nhận diện rồi mở bối cảnh.
+
+**Bằng chứng:** Ca Kumpo đặt hình người/vật bọc sợi trên màn hình trước lời giải trang phục và cộng đồng.
+
+- [Phân tích 7680097632626248968](cases/7680097632626248968.md) · [Video @kienkhongngu_official](https://www.tiktok.com/@kienkhongngu_official/video/7680097632626248968) · 708,800 view · [Sơ đồ](cases/7680097632626248968.md#mindmap).
+
+**Không học máy móc:** Phân biệt quan sát và diễn giải văn hóa; không coi điều khác lạ là bằng chứng siêu nhiên hay lừa dối.
+
+## vn28 — Một lời đồn được thử bằng việc đổi điều kiện
+
+**Cơ chế:** Giữ cùng một bài toán, thay một điều kiện qua các lần thử và trả kết quả từng bậc.
+
+**Bằng chứng:** Ca xe mui trần gặp mưa đổi tốc độ trong phần kể về thí nghiệm; ảnh trích cho thấy xe, nước và các mức thử.
+
+- [Phân tích 7691281157266132231](cases/7691281157266132231.md) · [Video @kienkhongngu_official](https://www.tiktok.com/@kienkhongngu_official/video/7691281157266132231) · 1,100,000 view · [Sơ đồ](cases/7691281157266132231.md#mindmap).
+
+**Không học máy móc:** Phân tích cách kể không xác nhận kỹ thuật; không tái tạo hành vi lái xe nguy hiểm hay suy mô phỏng tài chính bảo đảm tương lai.
+
+## vn29 — Thao tác và thành phẩm dẫn người xem qua quy trình
+
+**Cơ chế:** Đưa vật liệu/hành động hoặc kết quả nhìn được lên đầu, để các bước giải thích làm sao đi tới kết quả ấy.
+
+**Bằng chứng:** Hai ca nấu trứng và Cheese Ball có hình thao tác/thành phẩm hỗ trợ lời; lời hứa được trả bằng món làm ra thay vì một kết luận trừu tượng.
+
+- [Phân tích 7620769376920145160](cases/7620769376920145160.md) · [Video @genjadao](https://www.tiktok.com/@genjadao/video/7620769376920145160) · 10,800,000 view · [Sơ đồ](cases/7620769376920145160.md#mindmap).
+- [Phân tích 7691642587522010388](cases/7691642587522010388.md) · [Video @genjadao](https://www.tiktok.com/@genjadao/video/7691642587522010388) · 2,000,000 view · [Sơ đồ](cases/7691642587522010388.md#mindmap).
+
+**Không học máy móc:** Không chuyển độ ngon/giòn thành sự thật cảm giác đã kiểm. Tên thương hiệu xuất hiện không tự chứng minh tài trợ; sang chủ đề khác cần vật/bằng chứng thay được vai trò thành phẩm.
+
+## vn30 — Lời quả quyết được hình ở thời điểm sau kiểm lại
+
+**Cơ chế:** Nêu dự đoán hoặc ý định dễ hiểu, rồi để hình sau sự kiện trả lời thay cho lời giảng.
+
+**Bằng chứng:** Ca đám cưới đặt sự quả quyết trước montage lau nước mắt; ca healthy đổi từ đạo cụ dự định sang bữa mì nhiều topping.
+
+- [Phân tích 7653107443475467527](cases/7653107443475467527.md) · [Video @vietphuongthoa98](https://www.tiktok.com/@vietphuongthoa98/video/7653107443475467527) · 10,200,000 view · [Sơ đồ](cases/7653107443475467527.md#mindmap).
+- [Phân tích 7660917957991779592](cases/7660917957991779592.md) · [Video @vietphuongthoa98](https://www.tiktok.com/@vietphuongthoa98/video/7660917957991779592) · 12,300,000 view · [Sơ đồ](cases/7660917957991779592.md#mindmap).
+
+**Không học máy móc:** Nguồn chỉ đủ quan sát bối cảnh và tương phản; không suy cảm xúc mọi nhân vật hoặc giá trị dinh dưỡng từ hình. Ca healthy không đủ ASR đáng tin để học nguyên văn.
+
+## vn31 — Hai hành động hoặc hành động lệch bối cảnh tạo hook hình
+
+**Cơ chế:** Dùng bối cảnh quen để tạo một kỳ vọng hành động, rồi cho thấy biến thể hoặc đối chiếu hai lớp hình.
+
+**Bằng chứng:** Hai ca máy chạy/biểu diễn cho mắt so hành động trong cùng một cảnh; không có câu hỏi bí mật hoặc lời giải tự sự đã kiểm.
+
+- [Phân tích 7657036293284629780](cases/7657036293284629780.md) · [Video @thunglongfamily](https://www.tiktok.com/@thunglongfamily/video/7657036293284629780) · 3,000,000 view · [Sơ đồ](cases/7657036293284629780.md#mindmap).
+- [Phân tích 7704655257149705473](cases/7704655257149705473.md) · [Video @thunglongfamily](https://www.tiktok.com/@thunglongfamily/video/7704655257149705473) · 2,100,000 view · [Sơ đồ](cases/7704655257149705473.md#mindmap).
+
+**Không học máy móc:** Đây chủ yếu là mẫu mở bằng hình. Không ép thành hook lời, không bịa open-loop; sức hấp dẫn còn phụ thuộc nhạc và diễn xuất. Không tái tạo động tác nguy hiểm.
+
+## vn32 — Nhìn lại quyết định cũ qua tiêu chí đã đổi
+
+**Cơ chế:** Nêu một lựa chọn từng làm và cảm nhận hiện tại, hé lựa chọn sớm rồi giải thích sự thay đổi.
+
+**Bằng chứng:** Ca Hà Linh nói về điều hối hận và hình xăm qua lời tự thuật; trang ca chỉ ra ngôn ngữ đánh giá thẩm mỹ không nên sao.
+
+- [Phân tích 7644445587944836370](cases/7644445587944836370.md) · [Video @halinhofficial](https://www.tiktok.com/@halinhofficial/video/7644445587944836370) · 12,300,000 view · [Sơ đồ](cases/7644445587944836370.md#mindmap).
+
+**Không học máy móc:** Không khái quát sở thích cá nhân thành chuẩn cho người khác hoặc tư vấn y tế. Chỉ dùng trải nghiệm thật, không bịa hồi tưởng để có hook.
+
+## vn33 — Gọi rồi đáp: nhiều nhân vật hội tụ vào một thông tin
+
+**Cơ chế:** Một tín hiệu mở hướng nhìn sang những người đáp lại, cuối cùng gom các phản ứng vào mục đích chung.
+
+**Bằng chứng:** Tiểu phẩm Hà Linh mở nhóm người rồi hội tụ thành lịch SuperLive 10.10 ở đuôi.
+
+- [Phân tích 7692026934426979602](cases/7692026934426979602.md) · [Video @halinhofficial](https://www.tiktok.com/@halinhofficial/video/7692026934426979602) · 11,700,000 view · [Sơ đồ](cases/7692026934426979602.md#mindmap).
+
+**Không học máy móc:** Nguồn có mục đích bán hàng và unknown organic reach. Đám đông hưởng ứng không phải bằng chứng chất lượng hay an toàn sản phẩm.
+
+## vn34 — Đưa phần thưởng thị giác lên trước phần giải thích
+
+**Cơ chế:** Cho thấy ngay kết quả/hiện tượng đáng nhìn, rồi dùng quan sát, phản ứng và giải thích làm trải nghiệm đầy hơn.
+
+**Bằng chứng:** Ca cực quang đã cho cảnh rõ ở khung 0s; khung 45,65s có vòm màu rõ hơn. Phần giải thích tới sau phần thưởng đầu. Có logo/hashtag hợp tác Lifebuoy/Unilever.
+
+- [Phân tích 7593064718789512456](cases/7593064718789512456.md) · [Video @khoailangthang](https://www.tiktok.com/@khoailangthang/video/7593064718789512456) · 11,300,000 view · [Sơ đồ](cases/7593064718789512456.md#mindmap).
+
+**Không học máy móc:** Không ép câu hỏi bí mật hoặc nhận lời nhá chưa đẹp nhất là kết quả khách quan. Sức hút phụ thuộc cảnh độc đáo và ngữ cảnh hợp tác; ASR có đoạn lặp, không dùng để suy nhịp lời.
+
+## vn35 — Một giao dịch nhỏ mở ra cuộc gặp tại chỗ
+
+**Cơ chế:** Bắt đầu từ người và món hàng trong không gian cụ thể, để trao đổi tại chỗ đưa thêm chi tiết về nhân vật.
+
+**Bằng chứng:** Hai ca Quan đặt người bán và thao tác món hàng vào hình; ca Hội An chỉ đủ nhận xét phần khung/chữ vì ASR ảo, không xác nhận đối thoại đa ngôn ngữ.
+
+- [Phân tích 7691640756704005384](cases/7691640756704005384.md) · [Video @quankhonggo](https://www.tiktok.com/@quankhonggo/video/7691640756704005384) · 4,400,000 view · [Sơ đồ](cases/7691640756704005384.md#mindmap).
+- [Phân tích 7694998594134281480](cases/7694998594134281480.md) · [Video @quankhonggo](https://www.tiktok.com/@quankhonggo/video/7694998594134281480) · 4,000,000 view · [Sơ đồ](cases/7694998594134281480.md#mindmap).
+
+**Không học máy móc:** Không bịa hoàn cảnh nhân vật hay lòng tốt để gây cảm xúc. Ca thiếu lời chỉ dùng học hình và tổ chức cuộc gặp, không dùng làm nguyên văn phỏng vấn.

@@ -10,7 +10,7 @@ Corpus đã có dữ liệu thực. Các tình huống dưới đây là tiêu c
 
 ## Kiểm dữ liệu thực hiện được
 
-`python3 scripts/check.py` kiểm đường dẫn Markdown và frontmatter. `python3 scripts/check-corpus.py` kiểm ID, số lượng, liên kết nhóm → ca → video, tiêu chí tuyển mẫu, P50 tính lại từ 1.949 bản ghi, mốc trong thời lượng, nội dung phân tích sâu và file sơ đồ tương ứng. Kiểm gói sau khi copy skill sang thư mục trống để chắc dữ liệu đi cùng.
+`python3 scripts/check.py` kiểm đường dẫn Markdown và frontmatter. `python3 scripts/check-corpus.py` kiểm ID, số lượng, liên kết nhóm → ca → video, tiêu chí tuyển mẫu, P50 tính lại từ 3.149 bản ghi, mốc trong thời lượng, nội dung phân tích sâu và file sơ đồ tương ứng. Kiểm gói sau khi copy skill sang thư mục trống để chắc dữ liệu đi cùng.
 
 Các kiểm tra dữ liệu không chứng minh chất lượng sáng tác hoặc nguyên nhân viral. Phạm vi review thực của đợt này được ghi trong từng case và videos.json; chưa có thử nghiệm retention/A-B.
 
@@ -21,3 +21,5 @@ Các kiểm tra dữ liệu không chứng minh chất lượng sáng tác hoặ
 8. Trong workflow dự án, số hướng ý tưởng vẫn theo settings; không tạo gate mới hoặc tự thay hook đã duyệt chỉ vì mặc định mới.
 
 Xem [kết quả kiểm đợt mở rộng](validation.md); không dùng kết quả kiểm này làm phê duyệt chất lượng sáng tác.
+
+Kiểm `hookStudy`: số/ID ca phải khớp collection; đủ lớp lời/hình/chữ và mốc mở/payoff trong duration; blueprint hai phần. Ca chỉ học hình không được dùng ASR lỗi làm lời nguồn. Phản hồi người dùng loại cả 10 hook được ghi, không nhập lại chúng thành mẫu tốt.

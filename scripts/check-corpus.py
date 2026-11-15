@@ -36,6 +36,9 @@ def validate(root):
     by_channel = {v['handle']: v for v in channels}
     require({v['id'] for v in analyses} == set(by), 'Analysis/video IDs differ')
     require(len(analyses) == len(videos), 'Duplicate or missing analysis')
+    study_ids = {a['id'] for a in analyses if a.get('hookStudy')}
+    require(len(study_ids) == collection.get('hookStudies', 0), 'Hook study count differs')
+    require(study_ids == set(collection.get('hookStudyVideoIds', [])), 'Hook study/video IDs differ')
 
     for ch in channels:
         rr = [v for v in records if v['handle'] == ch['handle']]
@@ -87,6 +90,20 @@ def validate(root):
             require(0 <= f['time'] <= dur, 'Observation outside duration: ' + a['id'])
         require(bool(a['limitations']), 'Missing limitations: ' + a['id'])
         detail = a.get('detail', {})
+        study = a.get('hookStudy')
+        if study:
+            for key in ['window', 'layers', 'attentionMethod', 'stopReason', 'unresolvedQuestion',
+                        'withheldDetail', 'retentionBridge', 'payoff', 'twoSentenceBlueprint',
+                        'crossNicheTransfer', 'doNotTransfer', 'evidenceScope']:
+                require(bool(study.get(key)), 'Missing hook study field: ' + a['id'] + '/' + key)
+            for key in ['window', 'payoff']:
+                span = study.get(key, {})
+                require(0 <= span.get('start', -1) < span.get('end', -1) <= dur,
+                        'Hook study outside duration: ' + a['id'] + '/' + key)
+            require(all(study.get('layers', {}).get(k) for k in ['speech', 'visual', 'screenText']),
+                    'Missing hook observation layer: ' + a['id'])
+            require(len(study.get('twoSentenceBlueprint', [])) == 2, 'Hook blueprint must have two parts: ' + a['id'])
+            require(bool(by[a['id']].get('contentNiche')), 'Missing content niche: ' + a['id'])
         for key in ['promise', 'centralQuestion', 'emotionalArc', 'informationDesign',
                     'strengths', 'weaknesses', 'shareabilityHypotheses', 'adaptationRules', 'mindmapBranches']:
             require(bool(detail.get(key)), 'Missing detailed field: ' + a['id'] + '/' + key)

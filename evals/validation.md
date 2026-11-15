@@ -2,6 +2,17 @@
 
 Ngày 2026-11-15. Phân biệt kiểm gói dữ liệu, kiểm tuân thủ skill và đánh giá chất lượng của người dùng.
 
+## Đợt ngoài ngách sau bộ hook bị loại
+
+- Dữ liệu: 3.149 bản ghi, 22 kênh, 56 ca, 35 nhóm. 16 ca ngoài ngách có `hookStudy`, mỗi ca đủ cửa sổ thực tế, lời/hình/chữ, nhịp nối, mốc trả, hai câu tóm cấu trúc và giới hạn chuyển ngách.
+- Bốn ca được gắn chỉ học hình/chữ; không trích ASR ảo/nhạc. Hai segment mở khác được bỏ/thu ngắn do sai đơn vị tiền và tên người/sự kiện. Không nhận nghe toàn âm/xem liên tục.
+- `check.py`, `check-corpus.py` và skill validator qua. P50/tiêu chí tuyển mẫu/timestamp/hash vẫn tính từ dữ liệu lưu, không gọi mạng.
+- Render 56/56 sơ đồ thành công bằng Mermaid CLI 12.2.0; xem ảnh mẫu đám cưới mới. Renderer chạy lại không đổi dữ liệu.
+- Hai gói cài riêng `.agents/skills/` và `.claude/skills/` đủ 67 Markdown cùng corpus, kiểm tại chỗ thành công.
+- Bản sao tạm có payoff ngoài thời lượng, thiếu lớp hình hoặc xóa nghiên cứu phần mở bắt buộc đều bị từ chối. Kiểm sai loại sơ đồ/mốc quan sát giả từ đợt trước vẫn qua.
+- Workspace `npm test`: 229/229 qua; skill sync báo 0 adapter cũ.
+- Chưa có benchmark sáng tác mới hoặc phê duyệt chất lượng mới từ người dùng. Bộ 10 câu trước được ghi là bị loại; các kiểm trên không chứng minh hook đã hay hoặc cải thiện retention.
+
 ## Đợt đa dạng hóa và sơ đồ dọc
 
 - 1.949 bản ghi, 14 kênh, 40 ca, 26 nhóm hook và 40 sơ đồ dọc. Thêm đúng 2 ca mỗi kênh mới; kênh có nhiều ca nhất chiếm 15%.

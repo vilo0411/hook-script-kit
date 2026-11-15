@@ -9500,5 +9500,4296 @@
         }
       ]
     }
+  },
+  {
+    "id": "7429725622441659649",
+    "title": "Người lạ ở Madagascar: giấu một hành động tử tế trong trải nghiệm nước mía",
+    "deliveryStyle": "Vlog hiện trường có lời kể hồi tưởng, tương tác thật và phụ đề tình huống",
+    "openingObservation": "0–3,24 giây ASR mới mời nghe chuyện và nói đi uống nước mía; khung mở là Khoai đi tới xe trên phố. Móc câu cụ thể nằm ở4,12–11,8 giây: chỉ người áo đen ở cạnh xe, kể rằng anh làm điều khiến Khoai nhớ. Hành động chưa được nói ra; người được nhắc đã có trong cảnh nên đây là một câu hỏi gắn với con người nhìn thấy, không chỉ một lời hứa mơ hồ.",
+    "visualEvidence": [
+      {
+        "time": 0,
+        "observation": "Khoai đeo ba lô đi về xe nước mía trên phố; không có tiêu đề lớn che cảnh."
+      },
+      {
+        "time": 1,
+        "observation": "Khoai quay mặt về máy; người áo đen đã đứng cạnh xe phía sau."
+      },
+      {
+        "time": 3,
+        "observation": "Khoai tới xe, người áo đen cầm đồ uống phía bên kia."
+      },
+      {
+        "time": 5,
+        "observation": "Khoai cúi về xe và người bán; hiện trường cho thấy các nhân vật của câu chuyện."
+      },
+      {
+        "time": 13.52,
+        "observation": "Cận máy ép nước mía với đoạn mía đang ở trong; hình chuyển sang thao tác bán hàng."
+      },
+      {
+        "time": 27.03,
+        "observation": "Cận bàn tay và vòi ép, có ly được đưa vào hứng nước."
+      },
+      {
+        "time": 40.55,
+        "observation": "Ly nước được cầm gần máy; chữ hỏi nó ra sao chuyển chú ý sang trải nghiệm uống."
+      },
+      {
+        "time": 54.07,
+        "observation": "Khoai uống cạnh người áo đen, đưa nhân vật được nhá trở lại cùng cảnh."
+      },
+      {
+        "time": 67.58,
+        "observation": "Khoai và người áo đen trò chuyện; phụ đề hỏi cách nói cảm ơn bằng tiếng của bạn."
+      },
+      {
+        "time": 81.1,
+        "observation": "Hai người đứng gần nhau, phụ đề nói xung quanh nhiều móc túi."
+      },
+      {
+        "time": 89.11,
+        "observation": "Màn đen có dòng nhận xét thiệt là dễ thương, đóng bằng cảm xúc."
+      }
+    ],
+    "beats": [
+      {
+        "start": 0,
+        "end": 11.8,
+        "summary": "Giới thiệu chuyện đi uống nước mía và chỉ người áo đen đã làm điều đáng nhớ, chưa tiết lộ hành động.",
+        "role": "Gắn vòng hỏi với một người cụ thể ngay trong hình."
+      },
+      {
+        "start": 11.8,
+        "end": 27,
+        "summary": "Kể máy ép không dùng điện và sức người, bày tỏ ngạc nhiên về người bán.",
+        "role": "Cho hiện trường một điều lạ để xem trong lúc câu hỏi người lạ còn mở."
+      },
+      {
+        "start": 27.56,
+        "end": 53.28,
+        "summary": "Theo cách pha, giá theo lời kể và nhận xét mùi/vị/nhiệt độ; khung cận ly thêm câu hỏi phụ về đồ uống.",
+        "role": "Đưa phần thưởng nhỏ của trải nghiệm thay vì chỉ trì hoãn lời giải chính."
+      },
+      {
+        "start": 53.28,
+        "end": 65.4,
+        "summary": "Báo trở lại hành động được nhá rồi nói người đứng sau trả tiền cho Khoai, tiếp theo là lời cảm ơn.",
+        "role": "Trả câu hỏi người lạ đã làm gì bằng một hành động cụ thể."
+      },
+      {
+        "start": 65.4,
+        "end": 79.96,
+        "summary": "Trao đổi cách nói cảm ơn, chào nhau; lời tiếng Anh tiếp tục nhắc chiếc túi ở cuối đoạn.",
+        "role": "Kéo dài cuộc gặp bằng sự đáp lại và thêm chi tiết chăm sóc."
+      },
+      {
+        "start": 79.96,
+        "end": 90.04,
+        "summary": "Khép bằng cảm giác được nạp năng lượng tích cực và tình cảm với Madagascar; hình cuối thành một câu nhận xét trên nền đen.",
+        "role": "Nâng sự việc nhỏ thành ý nghĩa của chuyến đi, không mở cliffhanger mới."
+      }
+    ],
+    "ending": "Hành động trả tiền đã được ASR nói ở61,32–62,28 giây; phần sau còn trao đổi lời cảm ơn và cảnh báo chiếc túi. Đoạn cuối không cần bí mật mới, mà khép bằng đánh giá tích cực về cuộc gặp và nơi chốn.",
+    "mechanism": "Chỉ nhân vật ngay trong cảnh → giấu việc họ đã làm → dùng quá trình mua nước tạo bối cảnh và phần thưởng phụ → tiết lộ sự tử tế → đáp lại bằng giao tiếp → gọi tên cảm xúc. Sức nặng của lời giải đến từ sự kiện và tương tác, không phải câu chữ cường điệu riêng lẻ.",
+    "transfer": "Có thể học quan hệ một hành động nhỏ làm đổi cách hiểu về một con người. Khi chuyển sang finance, chỉ dùng tình huống/hồ sơ thật có thể cho xem; một đoạn quy trình hoặc chi tiết vật thể cần tự có giá trị, không dùng để kéo dài trước một đáp án yếu.",
+    "limitations": [
+      "Đã đọc toàn bộ ASR có timestamp và xem 12 khung trích của bản tải mới; chưa nghe toàn âm hoặc xem video liên tục.",
+      "Mốc nhịp dựa trên ASR; không dùng bản chép tự động làm trích dẫn nguyên văn.",
+      "Không có retention hay thử nghiệm nhân quả; số lượt xem không chứng minh hook tạo ra kết quả.",
+      "Chỉ đọc ASR và12 khung trích, chưa xác minh độc lập sự kiện trả tiền hoặc ý nghĩa toàn bộ trao đổi ngôn ngữ.",
+      "Giá và nhiệt độ theo lời kể, không phải dữ liệu du lịch đã kiểm.",
+      "ASR có những khoảng không có lời và phiên âm tiếng địa phương chưa chắc đúng; không trích các câu đó như bản chép chuẩn.",
+      "Đây là câu chuyện hiện trường với quan hệ con người; không suy mức chờ đợi của người xem từ lượt xem."
+    ],
+    "detail": {
+      "promise": "Kể điều một người lạ làm khiến Khoai nhớ sau một lần mua nước mía.",
+      "centralQuestion": "Người áo đen trong cảnh đã làm điều gì cho Khoai?",
+      "emotionalArc": [
+        {
+          "start": 0,
+          "end": 11.8,
+          "emotion": "Tò mò về con người nhìn thấy",
+          "evidence": "Người áo đen được chỉ cụ thể nhưng hành động bị giữ lại.",
+          "interpretation": "Giả thuyết: lời kể khiến ánh nhìn tìm đúng người trong khung."
+        },
+        {
+          "start": 11.8,
+          "end": 53.28,
+          "emotion": "Quan sát và muốn nếm thử",
+          "evidence": "Máy quay tay, pha gừng/chanh và ly nước được đưa vào cận.",
+          "interpretation": "Cho sự chờ có hoạt động đời sống thay vì chỉ lặp bí mật."
+        },
+        {
+          "start": 53.28,
+          "end": 65.4,
+          "emotion": "Bất ngờ ấm áp",
+          "evidence": "ASR nói người lạ trả tiền rồi cảm ơn.",
+          "interpretation": "Một khoản trả hộ nhỏ đổi nghĩa của nhân vật."
+        },
+        {
+          "start": 65.4,
+          "end": 90.04,
+          "emotion": "Thân thiện và được quan tâm",
+          "evidence": "Hai người dạy lời cảm ơn; phần cuối nhắc túi và cảm xúc tích cực.",
+          "interpretation": "Bổ sung sự qua lại sau lời giải; chưa đo cảm xúc thực tế của khán giả."
+        }
+      ],
+      "informationDesign": [
+        {
+          "start": 0,
+          "end": 11.8,
+          "move": "Cố định ai trước khi giấu làm gì.",
+          "reason": "Người xem có điểm nhìn cụ thể cho câu hỏi."
+        },
+        {
+          "start": 11.8,
+          "end": 53.28,
+          "move": "Chèn quá trình mua đồ uống có quan sát riêng.",
+          "reason": "Bối cảnh giúp sự việc đời thường có chất liệu, nhưng khoảng chờ cần đủ hấp dẫn."
+        },
+        {
+          "start": 53.28,
+          "end": 65.4,
+          "move": "Báo hiệu quay lại câu hỏi rồi trả lời.",
+          "reason": "Lời nhắc hành động nối lại vòng thông tin đầu."
+        },
+        {
+          "start": 65.4,
+          "end": 90.04,
+          "move": "Cho phản ứng và ý nghĩa sau sự kiện.",
+          "reason": "Không chấm dứt ngay ở cú tiết lộ; khép quan hệ con người."
+        }
+      ],
+      "strengths": [
+        {
+          "point": "Nhân vật của bí mật đã nằm trong hình",
+          "evidence": "Khung1–5 giây có người áo đen; ASR4,12–6,48 giây chỉ đúng anh ấy."
+        },
+        {
+          "point": "Có phần thưởng phụ nhìn được",
+          "evidence": "13,52 và27,03 giây là máy ép và nước chảy;40,55 giây là ly cận."
+        },
+        {
+          "point": "Lời giải cụ thể, tương xứng câu hỏi",
+          "evidence": "61,32–62,28 giây nêu anh trả tiền, rồi cuộc cảm ơn tiếp diễn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "point": "Người chỉ xem3 giây đầu chưa gặp câu hỏi chính",
+          "evidence": "ASR0–3,24 giây mới giới thiệu chuyện uống nước mía."
+        },
+        {
+          "point": "Khoảng chờ dài nếu bối cảnh không có giá trị với người xem",
+          "evidence": "Hành động được giữ từ7,76 giây tới61,32 giây, giữa là phần mua và uống."
+        },
+        {
+          "point": "Một số ý không thể kiểm bằngkhung chọn mẫu",
+          "evidence": "Không có khung đúng thời điểm trao tiền; lời giải hiện dựa trênASR và tương tác sau đó."
+        }
+      ],
+      "shareabilityHypotheses": [
+        "Sự tử tế giữa người lạ có thể thúc đẩy gửi cho bạn cùng xem một câu chuyện tích cực; chưa có số liệu lý do chia sẻ.",
+        "Trao đổi lời cảm ơn và nhắc túi tạo nhiều chi tiết đời sống có thể được nhắc lại trong bình luận, không chỉ cú tiết lộ."
+      ],
+      "adaptationRules": [
+        "Chỉ giấu một hành động có thật và có giá trị khi được tiết lộ.",
+        "Cho nhân vật xuất hiện trước lời nhá để câu hỏi có đối tượng.",
+        "Trong lúc giữ chi tiết, cung cấp quan sát hữu ích hoặc trải nghiệm cụ thể.",
+        "Không bịa người lạ hay giao dịch thiện chí cho hook tài chính.",
+        "Không biến một sự tử tế thành bằng chứng chung về cả quốc gia."
+      ],
+      "mindmapBranches": [
+        {
+          "label": "Ai",
+          "children": [
+            "Khoai",
+            "Người áo đen cạnh xe"
+          ]
+        },
+        {
+          "label": "Giấu gì",
+          "children": [
+            "Hành động khiến nhớ",
+            "Chưa nói trả tiền"
+          ]
+        },
+        {
+          "label": "Cầu nối",
+          "children": [
+            "Máy ép tay",
+            "Cách pha",
+            "Nếm nước"
+          ]
+        },
+        {
+          "label": "Đáp án",
+          "children": [
+            "Người lạ trả tiền",
+            "Cảm ơn qua ngôn ngữ"
+          ]
+        },
+        {
+          "label": "Ý nghĩa",
+          "children": [
+            "Nhắc túi",
+            "Tích cực về cuộc gặp"
+          ]
+        },
+        {
+          "label": "Giới hạn",
+          "children": [
+            "Không có retention",
+            "Lời giải dựaASR",
+            "Không đại diện mọi chuyến đi"
+          ]
+        }
+      ]
+    },
+    "hookStudy": {
+      "window": {
+        "start": 0,
+        "end": 11.8
+      },
+      "layers": {
+        "speech": "0–3,24s giới thiệu chuyện;4,12–11,8s chỉ người áo đen và nhá việc anh làm đáng nhớ.",
+        "visual": "Khoai tiến tới xe; người áo đen đã có trong khung1–5s.",
+        "screenText": "Không thấy lời nhá dạng tiêu đề lớn trong khung0–5s; sự nhận diện người dựa vào lời và cảnh."
+      },
+      "attentionMethod": "Câu chuyện hồi tưởng có một con người trong cảnh nhưng thiếu hành động then chốt.",
+      "stopReason": "Giả thuyết biên tập: người xem muốn tìm hiểu vì sao người đang đứng cạnh xe lại trở thành ký ức đáng kể.",
+      "unresolvedQuestion": "Anh áo đen đã làm gì cho Khoai?",
+      "withheldDetail": "Việc người lạ trả tiền, chỉ được nói ở61,32s.",
+      "retentionBridge": "Quá trình ép nước bằng tay, pha/nếm và cuộc gặp đang diễn ra cung cấp những quan sát nhỏ trước lời giải; không có dữ liệu chứng minh cầu nối giữ được người xem.",
+      "payoff": {
+        "start": 53.28,
+        "end": 65.4,
+        "summary": "Báo trở lại câu hỏi rồi nói người lạ trả tiền; có phản ứng cảm ơn. Lời giải dựaASR, không có khung trao tiền trong contact."
+      },
+      "twoSentenceBlueprint": [
+        "Cho thấy một người cụ thể rồi báo rằng hành động của họ đã thay đổi cách người kể nhớ cuộc gặp.",
+        "Đi qua những quan sát thật của tình huống trước khi tiết lộ hành động và cho thấy cách người kể đáp lại."
+      ],
+      "crossNicheTransfer": "Có thể chuyển quan hệ người → hành động bị giấu → ý nghĩa đổi sang một ca quyết định tài chính có tài liệu. Nó mất sức nặng nếu người và hậu quả bị bịa, hoặc nếu phần giữa chỉ là thuật ngữ không có quan sát để xem.",
+      "doNotTransfer": [
+        "Không chép lời nhá mơ hồ mà bỏ người thật và hành động trả được.",
+        "Không mặc định trì hoãn hơn50s phù hợp video tài chính ngắn."
+      ],
+      "evidenceScope": "ToànASR mới và12 khung timestamp; không nghe toàn âm/xem liên tục; diễn giải tâm lý là giả thuyết."
+    }
+  },
+  {
+    "id": "7620769376920145160",
+    "title": "Trứng sốt mắm: chọn cách làm rồi cho xem một phiên bản",
+    "deliveryStyle": "Nấu ăn cận tay nhìn từ trên xuống, xen nếm món và lời dẫn trò chuyện",
+    "openingObservation": "Ngay0 giây đã thấy trứng được thả vào chảo sốt đỏ;1–3 giây thêm nhiều trứng và thấy hỗn hợp sôi. Lời dẫn nêu món quen rồi hỏi chọn cho trứng vào sốt hay chiên trước mới thêm sốt. Cảnh mở cung cấp vật thể và thao tác của một vế câu hỏi trước khi hướng dẫn quay về từ đầu, không cần một câu cảnh báo hay bí mật lớn.",
+    "visualEvidence": [
+      {
+        "time": 0,
+        "observation": "Hai tay đưa một quả trứng từ cốc nhỏ vào chảo sốt đỏ đang sôi, trứng đầu đã nằm trong sốt."
+      },
+      {
+        "time": 1,
+        "observation": "Chảo đã có thêm trứng; góc trên giữ rõ thao tác tay."
+      },
+      {
+        "time": 3,
+        "observation": "Bốn trứng trong sốt, phần lòng trắng đang chuyển màu."
+      },
+      {
+        "time": 5,
+        "observation": "Món đã rắc hành, muỗng lấy sốt ở cận cảnh; đây là hình thành phẩm được cho thấy sớm."
+      },
+      {
+        "time": 8.83,
+        "observation": "Người nấu cầm bát và muỗng trước chảo, tạo một nhịp nếm trong cảnh có gương mặt."
+      },
+      {
+        "time": 17.65,
+        "observation": "Chảo hành tím và chất lỏng ở góc cận trên, bắt đầu trình bày quy trình."
+      },
+      {
+        "time": 26.48,
+        "observation": "Chai tươngớtCHIN-SU được đưa lớn vào khung, nhãn nhìn rõ trước chảo."
+      },
+      {
+        "time": 35.3,
+        "observation": "Muỗng khuấy sốt đỏ trong chảo, tương ứng mốc sốt hòa tan."
+      },
+      {
+        "time": 44.13,
+        "observation": "Trứng từ cốc nhỏ được cho vào chảo; lời kể giải thích vì sao đập riêng."
+      },
+      {
+        "time": 52.96,
+        "observation": "Cận trứng vàsốt với hành, làm rõ diện mạo sau nấu."
+      },
+      {
+        "time": 57.84,
+        "observation": "Muỗng nâng phần lòng đỏ màu cam ra trước chảo ở khung cuối."
+      }
+    ],
+    "beats": [
+      {
+        "start": 0,
+        "end": 6.52,
+        "summary": "Nêu món trứng sốt mắm và hỏi thứ tự trứng/sốt nào ngon hơn; hình đã cho xem trứng vào sốt và thành phẩm sớm.",
+        "role": "Đặt lựa chọn quen thuộc trên một thao tác nhìn được."
+      },
+      {
+        "start": 6.52,
+        "end": 17.62,
+        "summary": "Tác giả nói các cách đều ngon theo cảm nhận, rồi xác định hôm nay làm phiên bản cho trứng vào sốt.",
+        "role": "Thu hẹp từ câu hỏi so sánh thành một cách được trình diễn, không mở thử nghiệm hai cách."
+      },
+      {
+        "start": 17.62,
+        "end": 33.8,
+        "summary": "Làm sốt theo phần nguyên liệu, đưa tươngớt và tiêu vào rồi khuấy.",
+        "role": "Cung cấp trình tự thực hiện; có một nhịp sản phẩm thương hiệu rõ."
+      },
+      {
+        "start": 33.8,
+        "end": 45.76,
+        "summary": "Nói không cần đợi sốt sệt, thả trứng rồi giải thích việc đập ra chén trước bằng trải nghiệm quá khứ.",
+        "role": "Giải một thắc mắc nhỏ của thao tác đang xem, thêm chuyện cá nhân ngắn."
+      },
+      {
+        "start": 45.76,
+        "end": 58.52,
+        "summary": "Mô tả độ mềm, thấm sốt và vị, đưa cận thành phẩm rồi hỏi người xem thường làm cách nào.",
+        "role": "Trả phần thưởng cảm quan của một phiên bản và quay lại câu lựa chọn để mời trao đổi."
+      }
+    ],
+    "ending": "Kết bằng cận lòng đỏ và câu hỏi người xem chọn cách nào. Clip không tổ chức đối chiếu hai chảo hay kết luận khách quan rằng một cách thắng; lời hứa thực tế là cho xem một phiên bản hấp dẫn.",
+    "mechanism": "Thao tác có kết quả cảm quan → câu lựa chọn hai thứ tự → cho trước thành phẩm → quay về trình tự làm → giải thích tiểu tiết đang thấy → trở lại thành phẩm/câu hỏi. Nguyên liệu và hành động làm hook cụ thể; câu đầu không thể tách khỏi cận chảo để học.",
+    "transfer": "Chuyển sangfinance có thể giữ quan hệ hai cách làm cùng mục tiêu, cho thấy đầu ra rồi giải thích một quy trình minh họa. Nếu chỉ làm một vế, phải nói rõ chưa chứng minh vế đó tốt hơn; một ví dụ giao dịch không thay so sánh kết quả có kiểm soát.",
+    "limitations": [
+      "Đã đọc toàn bộ ASR có timestamp và xem 12 khung trích của bản tải mới; chưa nghe toàn âm hoặc xem video liên tục.",
+      "Mốc nhịp dựa trên ASR; không dùng bản chép tự động làm trích dẫn nguyên văn.",
+      "Không có retention hay thử nghiệm nhân quả; số lượt xem không chứng minh hook tạo ra kết quả.",
+      "CHIN-SU xuất hiện rõ trong hình26,48s và đượcASR nêu tên; chưa có bằng chứng trong dữ liệu này xác định có tài trợ hoặc tiền quảng cáo.",
+      "ASR sai vài từ ở câu lựa chọn và nguyên liệu; không trích như hướng dẫn nấu chuẩn.",
+      "Độ ngon và kết cấu theo tác giả là cảm nhận, không có thử hai cách độc lập.",
+      "Phân tích cách trình bày; không cung cấp hướng dẫn an toàn thực phẩm hoặc khuyến nghị mua sản phẩm."
+    ],
+    "detail": {
+      "promise": "Cho xem một phiên bản trứng sốt mắm và mời trao đổi về thứ tự nấu.",
+      "centralQuestion": "Cho trứng vào sốt hay làm trứng trước rồi thêm sốt: tác giả sẽ trình diễn phiên bản nào?",
+      "emotionalArc": [
+        {
+          "start": 0,
+          "end": 6.52,
+          "emotion": "Nhận ra món và muốn chọn",
+          "evidence": "Hình trứng/sốt đã hiện trong lúc lời hỏi thứ tự.",
+          "interpretation": "Người từng làm món có thể tự có lựa chọn; đây là giả thuyết biên tập."
+        },
+        {
+          "start": 6.52,
+          "end": 17.62,
+          "emotion": "Chờ xem cách tác giả làm",
+          "evidence": "Tác giả chọn một phiên bản sau khi nói các cách đều ngon.",
+          "interpretation": "Hạ cuộc tranh hơn/thua thành chia sẻ thực hành."
+        },
+        {
+          "start": 33.8,
+          "end": 45.76,
+          "emotion": "Tò mò về chi tiết nhỏ",
+          "evidence": "Thắc mắc vì sao đập trứng ra chén được nói cùng thao tác.",
+          "interpretation": "Câu hỏi phụ mọc từ hình, không cần dựng thêm câu sốc."
+        },
+        {
+          "start": 45.76,
+          "end": 58.52,
+          "emotion": "Thấy kết quả cụ thể",
+          "evidence": "Cận món vàmuỗng lòng đỏ, lời mô tả vị và độ mềm.",
+          "interpretation": "Món thật làm phần thưởng; chưa đo phản ứng thèm ăn."
+        }
+      ],
+      "informationDesign": [
+        {
+          "start": 0,
+          "end": 6.52,
+          "move": "Đặt hai thứ tự thao tác trên cùng món.",
+          "reason": "Chủ đề đủ hẹp để hiểu lựa chọn ngay."
+        },
+        {
+          "start": 0,
+          "end": 17.62,
+          "move": "Cho trước quá trình cuối và cảnh nếm.",
+          "reason": "Người xem biết đầu ra của hướng dẫn trước khi đi qua công thức."
+        },
+        {
+          "start": 17.62,
+          "end": 33.8,
+          "move": "Trình bày sốt theo các phần.",
+          "reason": "Tạo quy tắc theo dõi thay vì một danh sách nguyên liệu không hành động."
+        },
+        {
+          "start": 33.8,
+          "end": 45.76,
+          "move": "Giải thích một hành động trông hơi thừa.",
+          "reason": "Biến thắc mắc tự nhiên từ hình thành nhịp trò chuyện."
+        },
+        {
+          "start": 45.76,
+          "end": 58.52,
+          "move": "Cho cận kết quả rồi hỏi lại lựa chọn.",
+          "reason": "Nối đầu-cuối bằng cùng vấn đề nhưng không giả vờ có thử nghiệmso sánh."
+        }
+      ],
+      "strengths": [
+        {
+          "point": "Vật thể và hành động rõ từ0s",
+          "evidence": "Chảo sốt, cốc trứng và tay đang thả cùng nằm trong khung."
+        },
+        {
+          "point": "Có hình thành phẩm trước hướng dẫn",
+          "evidence": "5s thấy món rắc hành vàmuỗng sốt;8,83s có cảnh nếm."
+        },
+        {
+          "point": "Câu hỏi phụ bám thao tác",
+          "evidence": "37,84–45,76s giải thích chén đập trứng trong lúc người xem đang thấy thả trứng."
+        }
+      ],
+      "weaknesses": [
+        {
+          "point": "Câu chọn cách ngon hơn không được kiểm hai vế",
+          "evidence": "15,64–17,62s chỉ chọn phiên bản trứng vào sốt; cuối hỏi ý kiến thay vì đối chiếu."
+        },
+        {
+          "point": "Thương hiệu có thể bị hiểu như nguyên liệu bắt buộc",
+          "evidence": "ChaiCHIN-SU chiếm rõ khung26,48s và lời nhấn không thể thiếu; không nên học thành khẳng định phải mua nhãn này."
+        },
+        {
+          "point": "Nhiều nhận xét vị vẫn là lời chủ quan",
+          "evidence": "45,76–55,96s nói mềm, thấm và hao cơm, không phải kết quả đo."
+        }
+      ],
+      "shareabilityHypotheses": [
+        "Lựa chọn hai cách quen có thể mời người xem kể cách nhà mình làm, thay vì chỉ khen món; chưa có dữ liệu bình luận để kiểm.",
+        "Cận thành phẩm có thể khiến người xem lưu để làm lại, nhưng không có số lưu theo đoạn."
+      ],
+      "adaptationRules": [
+        "Hook bắt đầu từ hành động/đồ vật nhìn rõ, không chỉ nhãn công thức.",
+        "Nếu nêu hai lựa chọn mà chỉ diễn một, nói đúng phạm vi minh họa.",
+        "Giải thích tiểu tiết đúng lúc nó xuất hiện trên hình.",
+        "Không biến cảm nhận cá nhân thành so sánh khách quan.",
+        "Ghi hiện diện thương hiệu và tìm bằng chứng trước kết luận tài trợ."
+      ],
+      "mindmapBranches": [
+        {
+          "label": "Mở nhìn thấy",
+          "children": [
+            "Trứng vào sốt",
+            "Cận chảo sôi"
+          ]
+        },
+        {
+          "label": "Lựa chọn",
+          "children": [
+            "Trứng vào sốt",
+            "Làm trứng rồi thêm sốt"
+          ]
+        },
+        {
+          "label": "Cầu nối",
+          "children": [
+            "Cho thấy món trước",
+            "Quay về làm sốt"
+          ]
+        },
+        {
+          "label": "Chi tiết",
+          "children": [
+            "Đập trứng ra chén",
+            "Lời kể kinh nghiệm"
+          ]
+        },
+        {
+          "label": "Kết",
+          "children": [
+            "Lòng đỏ và món hoàn thành",
+            "Hỏi cách người xem làm"
+          ]
+        },
+        {
+          "label": "Giới hạn",
+          "children": [
+            "Chỉ một cách được làm",
+            "Có nhãnCHIN-SU",
+            "Không kiểm ngon hơn"
+          ]
+        }
+      ]
+    },
+    "hookStudy": {
+      "window": {
+        "start": 0,
+        "end": 6.52
+      },
+      "layers": {
+        "speech": "0–2,02s nêu món;2,02–6,52s đặt lựa chọn thứ tự trứng và sốt, câuASR có từ sai nên diễn ý.",
+        "visual": "0–3s liên tiếp thấy trứng vào sốt đang sôi;5s đã thấy thành phẩm có hành.",
+        "screenText": "Không thấy tiêu đề chữ lớn trong khung0–5s; đầu vào nhận diện bằng món và thao tác."
+      },
+      "attentionMethod": "Câu hỏi lựa chọn rất cụ thể chạy cùng cận thao tác của một vế.",
+      "stopReason": "Giả thuyết: người quen món muốn đối chiếu cách mình làm, đồng thời chảo trứng/sốt cung cấp kết quả cảm quan ngay.",
+      "unresolvedQuestion": "Hôm nay tác giả làm vế nào, và thành phẩm trông ra sao?",
+      "withheldDetail": "Trình tự làm sốt và lý do đập trứng vào chén chưa được giải ởmở; diện mạo thành phẩm không bị giấu hoàn toàn.",
+      "retentionBridge": "Cho trước cảnh nếm/thành phẩm, rồi quay về làm sốt; nhịp giải thích chén trứng thêm một câu hỏi bám hình.",
+      "payoff": {
+        "start": 45.76,
+        "end": 58.52,
+        "summary": "Thành phẩm cận và lời mô tả kết cấu trả phần xem một phiên bản; câu cách nào ngon hơn vẫn không có thửhai vế để kết luận."
+      },
+      "twoSentenceBlueprint": [
+        "Cho thấy một thao tác trên vật thể quen thuộc và đặt hai trình tự có thể dẫn tới cùng mục tiêu.",
+        "Chọn một trình tự, cho xem cách làm và kết quả, rồi để câu lựa chọn mở đúng mức bằng chứng đang có."
+      ],
+      "crossNicheTransfer": "Chuyển được quan hệ hai quy trình cùng mục tiêu → minh họa một quy trình → kết quả có thể kiểm. Khi sangfinance, kết quả cảm quan phải được thay bằng đầu ra/cách tính có nguồn; sẽ sai nếu coi một lần minh họa là bằng chứng phương án tốt hơn.",
+      "doNotTransfer": [
+        "Không tạo câu chọnA/B rồi phán thắng khi chỉ cho xemA.",
+        "Không coi thao tác có thương hiệu là khuyến nghị mua sản phẩm."
+      ],
+      "evidenceScope": "ToànASR mới và12 khungtimestamp; chưa nghe toàn âm/xem liên tục; chỉ quan sát hình tại các mốc."
+    }
+  },
+  {
+    "id": "7593064718789512456",
+    "title": "Cực quang Iceland: phần thưởng thị giác xuất hiện trước lời giải",
+    "deliveryStyle": "Vlog cảnh đêm kéo dài, phản ứng tại chỗ xen giải thích; có nhãn hàng đồng hành",
+    "openingObservation": "Khung0 giây đã cho thấy vệt cực quang xanh và Khoai dưới bãi xe;ASR0–2 giây là phản ứng ngạc nhiên.1–3 giây người di chuyển trong cảnh,5 giây lại có bầu trời sáng rõ. Hook không giấu sự tồn tại của cực quang: cảnh hiếm là phần thưởng ngay, còn lời ở8–11 giây thêm tình huống vừa tới Iceland ngày đầu. Dòng mô tả ngoài video nhá rằng đầu chưa đẹp nhất;không coi mô tả ấy là chữ hiện trên khung mở.",
+    "visualEvidence": [
+      {
+        "time": 0,
+        "observation": "Vệt sáng xanh trên trời bên trên người và bãi xe; đèn sáng cạnh đường chân trời."
+      },
+      {
+        "time": 1,
+        "observation": "Khoai di chuyển trong bãi xe tối, không thấy cùng mức vệt sáng như khung0;không suy trời đã hết cực quang từ một khung."
+      },
+      {
+        "time": 3,
+        "observation": "Người tiếp tục đi giữa xe đỗ; không thấy tiêu đề lớn."
+      },
+      {
+        "time": 5,
+        "observation": "Cực quang xanh sáng trở lại trong khung rộng có người nhỏ phía dưới."
+      },
+      {
+        "time": 45.65,
+        "observation": "Vòm xanh có dải hồng ở đáy trên bãi xe, phần thưởng thị giác phong phú hơn khung đầu."
+      },
+      {
+        "time": 91.3,
+        "observation": "Dải xanh và hồng trải ngang bầu trời, bãi xe làm mốc tỷ lệ."
+      },
+      {
+        "time": 136.95,
+        "observation": "Cực quang nhiều màu phía trên xe, logoLifebuoy cùng dòng nhãn hàng đồng hành hiện ở dưới."
+      },
+      {
+        "time": 182.6,
+        "observation": "Bóng người đứng nhìn bầu trời ở tiền cảnh; vệt xanhhồng phía trên."
+      },
+      {
+        "time": 228.25,
+        "observation": "Một nhóm người đứng giữa bãi xe trong cảnh tối, nối với phần kể phản ứng du khách."
+      },
+      {
+        "time": 273.91,
+        "observation": "Vệt sáng xanhhồng rõ trên bầu trời, không phải màn chữ giải thích."
+      },
+      {
+        "time": 303.34,
+        "observation": "Khoai đứng cạnh xe trắng; chữ báo giá thuê6–7 triệu/ngày và lưu ý thay đổi theo mùa."
+      }
+    ],
+    "beats": [
+      {
+        "start": 0,
+        "end": 27,
+        "summary": "Phản ứng trước cực quang, nói gặp ngay ngày đầu, di chuyển để tránh đèn chói.",
+        "role": "Cho người xem cùng tìm một góc nhìn tốt hơn của hiện tượng đã có ngay đầu."
+      },
+      {
+        "start": 27,
+        "end": 97.48,
+        "summary": "Tiếp tục ngắm nhiều màu, đổiống kính theo lời kể và nhận xét may mắn; đề nghị đứng lâu để người xem cùng ngắm.",
+        "role": "Phần thưởng không ngừng là hình trời, không phải một đáp án bị giữ tới cuối."
+      },
+      {
+        "start": 101.86,
+        "end": 155.52,
+        "summary": "Từ lời về mùa cực quang sang giải thích nguồn sáng/màu và điều kiện hiếm theo tác giả.",
+        "role": "Đặt thông tin khoa học sau trải nghiệm trực quan, tăng ý nghĩa điều đang thấy."
+      },
+      {
+        "start": 156.12,
+        "end": 201.72,
+        "summary": "Ví cảnh trời như biểu diễn ánh sáng, trở lại cảm giác điều mong muốn thành thật ngay ngày đầu.",
+        "role": "Dùng ẩn dụ và câu chuyện cá nhân làm lớp cảm xúc của cảnh."
+      },
+      {
+        "start": 207.78,
+        "end": 226.02,
+        "summary": "Thử nhìn qua thiết bị và nói về các khoảng sáng rõ rồi mờ theo quan sát của tác giả.",
+        "role": "Tạo câu hỏi về cách thấy và thời điểm, trong khi tiếp tục có cảnh để xem."
+      },
+      {
+        "start": 226.6,
+        "end": 283.92,
+        "summary": "Kể du khách ngày cuối cũng phấn khích, qua đó điều chỉnh suy nghĩ ban đầu về độ thường gặp; tiếp tục chỉvệt mới rồi so với lúc trước.",
+        "role": "Dùng phản ứng của người khác làm một phát hiện thứhai, chưa là dữ liệu xác nhận độ hiếm."
+      },
+      {
+        "start": 286.52,
+        "end": 304.34,
+        "summary": "Chuyển sang nhậncamper và mô tả chỗ ngủ/kích thước, khung cuối nêu mức thuê theo mùa.",
+        "role": "Khép buổi ngắm bằng hoạt động kế tiếp của chuyến đi, không ép thành một bài học chung."
+      }
+    ],
+    "ending": "Phần cực quang đã có nhiều lần cho thấy trước khi kết. Đoạn cuối đổi sang chiếccamper và thôngtin thuê trên hình, nên kết là tiếp tục hành trình, không phải cuối mới mở khóa cảnh đẹp. LogoLifebuoy và hashtag hợp tác trong nguồn cho thấy ngữ cảnh thương mại cần được giữ khi học mẫu.",
+    "mechanism": "Cho cảnh hiếm ngay → cùng điều chỉnh cách nhìn → hình thay đổi tiếp tục thưởng → thêm giải thích và ý nghĩa cá nhân → quan sát người khác → về hoạt động du lịch. Đây là mẫu nội dung có giá trị thị giác tự thân; không thể rút gọn thành “giấu điều hay nhất” rồi áp cho mọi chủ đề.",
+    "transfer": "Finance có thể học việc cho thấy một hiện tượng/sai lệch dữ liệu ngay rồi hướng mắt tới chi tiết ngày càng rõ và giải thích sau. Một biểu đồ phải có biến đổi đáng xem và nguồn;không thể thay cảnh hiếm thật bằng câu khẳng định suông hoặc trang số đứng yên rồi giữ người xem nhiều phút.",
+    "limitations": [
+      "Đã đọc toàn bộ ASR có timestamp và xem 12 khung trích của bản tải mới; chưa nghe toàn âm hoặc xem video liên tục.",
+      "Mốc nhịp dựa trên ASR; không dùng bản chép tự động làm trích dẫn nguyên văn.",
+      "Không có retention hay thử nghiệm nhân quả; số lượt xem không chứng minh hook tạo ra kết quả.",
+      "Nguồn có#HợpTácCùngUnilever,#LifebuoyMen và logo nhãn hàng đồng hành ở136,95s;không biết phần lượt xem tự nhiên so với phân phối thương mại.",
+      "ASR có đoạn lặp phản ứng máy ở khoảng71–89s;không dùng số lần lặp để suy nhịp nói hoặc cảm xúc.",
+      "Giải thích khoa học, độ hiếm theo mùa và câu chuyện du khách là nội dung tác giả nêu, chưa kiểm chứng độc lập.",
+      "Màu/độ sáng được máy quay ghi lại không đủ xác nhận mắt thường thấy giống hệt.",
+      "Giácamper cuối là chữ trên hình theo chuyến đi,không phải báo giá hay gợi ý đặt dịch vụ hiện nay."
+    ],
+    "detail": {
+      "promise": "Cho người xem cùngngắm cực quang nhiều màu và nghe trải nghiệm gặp ngay ngày đầu tới Iceland.",
+      "centralQuestion": "Cảnh trời này đang hiệnra thế nào, và vì sao tác giả xem lần gặp ấy là may mắn?",
+      "emotionalArc": [
+        {
+          "start": 0,
+          "end": 27,
+          "emotion": "Ngạc nhiên cùng người trong cảnh",
+          "evidence": "ASR phản ứng ngắn, hình có vệt xanh, người tránh đèn.",
+          "interpretation": "Giả thuyết: khán giả được tham gia một sự kiện đang diễn ra thay vì nghe tổng kết."
+        },
+        {
+          "start": 27,
+          "end": 97.48,
+          "emotion": "Muốn nhìn lâu hơn",
+          "evidence": "Khung45,65 và91,3s có thêm dải hồng; tác giả nói đứnglâu để cùng ngắm.",
+          "interpretation": "Phần thưởng lặp đến từ cảnh,không cần cứ tăng mức câu hứa."
+        },
+        {
+          "start": 111.94,
+          "end": 155.52,
+          "emotion": "Tò mò về điều kiện và màu",
+          "evidence": "Giải thích va chạm/hạt và màu sau khi thấy bầu trời.",
+          "interpretation": "Tri thức có đối tượng đã nhìn được."
+        },
+        {
+          "start": 156.12,
+          "end": 201.72,
+          "emotion": "Thỏa nguyện cá nhân",
+          "evidence": "Tác giả nói điều mong muốn thànhthật ngày đầu.",
+          "interpretation": "Thêm ý nghĩa chuyến đi;chưa đo cảm xúc của người xem."
+        },
+        {
+          "start": 226.6,
+          "end": 261.24,
+          "emotion": "Bất ngờ về mức may mắn",
+          "evidence": "Lời kể du khách đi nhiều tuần cũng coi đây là lần đẹp.",
+          "interpretation": "Đổi khung hiểu từ mỗi mình vui sang cơ hội đáng nhớ,nhưng lời kể vẫn chưa là thốngkê."
+        }
+      ],
+      "informationDesign": [
+        {
+          "start": 0,
+          "end": 27,
+          "move": "Cho hiện tượng trước giải thích.",
+          "reason": "Cảnh có thể tự chứng minh điều đang được nhìn ở quy mô quan sát."
+        },
+        {
+          "start": 27,
+          "end": 97.48,
+          "move": "Giữ mốc bãi xe/người và thay cảnhtrời.",
+          "reason": "Mốc đời thường giúp nhìn độ lớn và sự khác nhau của các vệt."
+        },
+        {
+          "start": 111.94,
+          "end": 155.52,
+          "move": "Đưa khoa học sau màu sắc.",
+          "reason": "Người xem có một câu hỏi thực từ hình để theo thôngtin."
+        },
+        {
+          "start": 226.6,
+          "end": 261.24,
+          "move": "Thêm lời kể người khác sau ấn tượng cá nhân.",
+          "reason": "Làm câu chuyện có bước sửa nhận thức,chưa đủ để chứng minh tần suất hiện tượng."
+        },
+        {
+          "start": 286.52,
+          "end": 304.34,
+          "move": "Chuyển hoạt động khi phần ngắm kết.",
+          "reason": "Giữ dạng nhật ký hànhtrình thay vì lặp thêm một kết luận cảnh đẹp."
+        }
+      ],
+      "strengths": [
+        {
+          "point": "Phần thưởng chính xuất hiện tức thì",
+          "evidence": "Khung0 và5s đã có cực quang,không bắt chờ lời giới thiệu dài."
+        },
+        {
+          "point": "Có lớp hình khác nhau để xem",
+          "evidence": "45,65;91,3;273,91s đều có hình cựcquang với cấu trúc/màu nhìnđược khác khung0."
+        },
+        {
+          "point": "Thôngtin giải thích theo sau đối tượng",
+          "evidence": "ASR111,94s mới bắt đầu giải thích nguồn ánhsáng sau hơnmột phút ngắm."
+        }
+      ],
+      "weaknesses": [
+        {
+          "point": "Tính bền của mẫu phụ thuộc cảnh gốc",
+          "evidence": "Phần dài0–97,48s thưởng chủyếu bằng cảnh và phảnứng,khó chuyển sang chủđề chỉ có lời."
+        },
+        {
+          "point": "Độ hiếm dễ được nói rộng quá bằngchứng",
+          "evidence": "Tác giả nói mộtvài lần/năm và kể tháng qua đẹpnhất,nhưng dữ liệu hiện không có thốngkê."
+        },
+        {
+          "point": "Ngữ cảnh hợp tác cần đi cùng mẫu",
+          "evidence": "Logo đồnghành vàhashtagUnilever khiến không thể gọi toàn bộ11,3triệu views là lantruyền tựnhiên."
+        }
+      ],
+      "shareabilityHypotheses": [
+        "Cảnh nhiều màu có thể được gửi như trải nghiệm muốn người khác cùng xem,không cần họ quan tâm khoa học;chưa có dữ liệu lý do chia sẻ.",
+        "Tương phản cảnhtrời với bãi xe đời thường có thể làm khoảnhkhắc dễ kểlại,nhưng không chứngminh nhânquả lượt xem."
+      ],
+      "adaptationRules": [
+        "Chỉ học mẫu thưởng ngay khi đã có hình/tài liệu đáng xem.",
+        "Tách phần hiện tượng quan sát được,giải thích khoa học và cảmnhận cá nhân.",
+        "Không suy độ hiếm toànnăm từ một cuộc gặp.",
+        "Giữ dấu hợp tác thươnghiệu và không kếtluận organic reach.",
+        "Với finance,thay kỳquan bằng dữliệu xácthực có phát hiện thịgiác,tuyệtđối không thổi màu biểuđồ để giả sự kiện."
+      ],
+      "mindmapBranches": [
+        {
+          "label": "Phần thưởng",
+          "children": [
+            "Cực quang ngay0s",
+            "Xanh và hồng"
+          ]
+        },
+        {
+          "label": "Cùng tìm góc",
+          "children": [
+            "Tránh đèn",
+            "Đổi ống kính"
+          ]
+        },
+        {
+          "label": "Giải thích",
+          "children": [
+            "Màu và hạt theo tác giả",
+            "Điều kiện theo lời kể"
+          ]
+        },
+        {
+          "label": "Cảm xúc",
+          "children": [
+            "Ngày đầu gặp",
+            "Điều mongmuốn thànhthật"
+          ]
+        },
+        {
+          "label": "Hành trình",
+          "children": [
+            "Gặp du khách",
+            "Nhậncamper"
+          ]
+        },
+        {
+          "label": "Giới hạn",
+          "children": [
+            "Có hợp tác",
+            "ASR lặp",
+            "Không có retention"
+          ]
+        }
+      ]
+    },
+    "hookStudy": {
+      "window": {
+        "start": 0,
+        "end": 11
+      },
+      "layers": {
+        "speech": "0–2s phảnứng ngạc nhiên;8–11s nói gặp cựcquang ngay ngày đầu ởIceland,không gộp khoảngim thành lời liên tục.",
+        "visual": "0s và5s đã có vệt xanh trên bãi xe;1–3s thấy người di chuyển trong cảnh tối.",
+        "screenText": "Không thấy dòng hứa lớn ởkhung0–5s;ý đầu chưa đẹpnhất nằm trong mô tả nguồn,không phải bằngchứng chữ mởvideo."
+      },
+      "attentionMethod": "Phần thưởng thịgiác cóngay,đi cùng phảnứng tại chỗ vàtình huống maymắn.",
+      "stopReason": "Giảthuyết: hình trời khác thường làmngười xem muốn ởlại ngắm,còn phảnứng củangười nhỏdưới bãi xe cho mốctỷlệ vàcảmgiác cómặt.",
+      "unresolvedQuestion": "Cảnh sẽ rõ/nhiềumàu tớiđâu vàvìsao lần gặpđược kểlà maymắn?",
+      "withheldDetail": "Không giấu hiện tượng;thôngtin nguồn màu/điều kiện vàdiệnmạo cácvệt tiếp theo chưahiện ởmở.",
+      "retentionBridge": "Liên tục có hìnhtrời đểxem,xen thử góc nhìn,lời phảnứng vàgiải thích;không có dữliệu giữchân.",
+      "payoff": {
+        "start": 0,
+        "end": 45.65,
+        "summary": "Phần thưởng nhìnđược bắtđầu ngay0s;khung45,65s có vòm xanhhồng rõhơn.Lời nhá chưa đẹpnhất trong mô tả là một so sánh chủquan,không có một đápán duy nhất bịgiấu tới cuối."
+      },
+      "twoSentenceBlueprint": [
+        "Cho thấy ngay hiện tượng mà người xem khó gặp,để phảnứng của nhânvật vàmốc cảnh đời thường làm nó cụthể.",
+        "Tiếp tục làm rõ cách quan sát rồi thêm giải thích vàýnghĩa sau khi người xem đã nhận phần thưởng đầu."
+      ],
+      "crossNicheTransfer": "Chuyển được quan hệ cho bằngchứng trước → hướng chúý tới biếnđổi → giải thích sau bằng một biểuđồ hoặc tài liệu có nguồn.Điều hỏng khi sangfinance là cho một bảngsố không cóphát hiện rồi giảđịnh nó hấp dẫn bằng một kỳquan thịgiác.",
+      "doNotTransfer": [
+        "Không biến thành côngthức chỉ giấu điều haynhất.",
+        "Không sao độdài5phút hoặc lời cảmthán nếu không có phần thưởng mới.",
+        "Không gọi view có hợp tác làorganic."
+      ],
+      "evidenceScope": "Đọc toànASR và12khung;loại cácđoạn lặpASR vôích;chưa nghe toànâm/xem liên tục."
+    }
+  },
+  {
+    "id": "7691640756704005384",
+    "title": "Bò bía của “đại tá” Thành: từ vẻ nghiêm đến tương tác thân thiện",
+    "deliveryStyle": "Vlog tự quay, ảnh ghép nhân vật và phản ứng màn hình trong màn hình, xen cảnh mua và nếm",
+    "openingObservation": "ASR mở bằng đối chiếu An Giang có “đại tá” Minh với Hà Nội có “đại tá” Thành. Hình0–3 giây ghép lần lượt hai chân dung cùng nhãn địa danh/tên trên người dẫn đang đi phố. Tên gọi tạo một chân dung để đi gặp; lời3,12–6,64 giây nói sẽ ghé ăn. Trong nguồn, đây là biệt danh/so sánh của người kể, không phải xác nhận quân hàm của người bán.",
+    "visualEvidence": [
+      {
+        "time": 0,
+        "observation": "Người dẫn tự quay khi đi phố, trên đầu ghép chân dung khác với chữ An Giang."
+      },
+      {
+        "time": 1,
+        "observation": "Ảnh ghép vẫn ở trên, chữ vàng ghi đại tá Minh."
+      },
+      {
+        "time": 2,
+        "observation": "Nhãn Hà Nội xuất hiện trên cảnh người dẫn, đặt hai nơi thành cặp."
+      },
+      {
+        "time": 3,
+        "observation": "Chân dung người áo đỏ và nhãn đại tá Thành được ghép phía trên."
+      },
+      {
+        "time": 5,
+        "observation": "Thấy người xếp hàng ở mặt tiền; chữ vàng nêu ăn bò bía của người bán vừa giới thiệu."
+      },
+      {
+        "time": 16.59,
+        "observation": "Người bán áo đỏ đứng thao tác cạnh chậu, nét mặt nghiêm ở khung này."
+      },
+      {
+        "time": 33.17,
+        "observation": "Mặt người dẫn cười trong một ô hình đặt trên cảnh tối phía dưới, cho thấy cách chèn phản ứng."
+      },
+      {
+        "time": 49.76,
+        "observation": "Người bán cười cúi đầu; ô mặt người dẫn phía trên cũng cười, tạo đối chiếu với khung16,59s."
+      },
+      {
+        "time": 66.35,
+        "observation": "Người dẫn cầm bánh đang ăn ngoài cửa hàng, quay sang người cạnh mình."
+      },
+      {
+        "time": 82.94,
+        "observation": "Người dẫn tiếp tục cầm bánh nói với máy, đưa câu chuyện trở lại món ăn."
+      },
+      {
+        "time": 99.52,
+        "observation": "Người dẫn giơ tay gần mắt khi nói về dáng vẻ người bán theo ASR."
+      },
+      {
+        "time": 109.58,
+        "observation": "Dòng chữ xứng đáng để xếp hàng nằm trên người dẫn ở khung cuối."
+      }
+    ],
+    "beats": [
+      {
+        "start": 0,
+        "end": 6.64,
+        "summary": "Ghép hai người/địa danh thành cặp biệt danh rồi nêu ý định ghé mua bò bía.",
+        "role": "Dùng một chân dung khác thường để tạo lý do đi thử trải nghiệm."
+      },
+      {
+        "start": 6.64,
+        "end": 37.84,
+        "summary": "Bình luận vẻ mặt và tác phong nghiêm, đùa việc không dám phỏng vấn rồi nói sẽ mua và ra ngoài ăn.",
+        "role": "Dựng khoảng cách giữa hình dung người bán khó gần với người dẫn đang ngại mà cười."
+      },
+      {
+        "start": 37.84,
+        "end": 60.16,
+        "summary": "Gọi năm cái, nói từSài Gòn tới và nhắc biệt danh; khung49,76s thấy người bán cười cùng ô phản ứng người dẫn.",
+        "role": "Cho một cuộc gặp thật làm mềm chân dung được phóng đại ở đầu."
+      },
+      {
+        "start": 60.16,
+        "end": 83.84,
+        "summary": "Nêu giá theo lời kể, nhìn thành phần bánh/dừa/đường và nhận xét vị sau nếm.",
+        "role": "Trả nhu cầu review món ăn trong khi vẫn giữ nhân vật làm tâm điểm."
+      },
+      {
+        "start": 83.84,
+        "end": 103.36,
+        "summary": "Quay lại câu vì sao có biệt danh, giải thích bằng tác phong, trang phục, ánh mắt và kể nghề trước đây theo lời người dẫn.",
+        "role": "Trả câu hỏi nhận diện đã mở bằng ảnh ghép; một phần thôngtin tiểu sử chưa được kiểm."
+      },
+      {
+        "start": 103.36,
+        "end": 110.56,
+        "summary": "Đánh giá món, giá và sự dễ thương, thừa nhận có xếp hàng nhưng cho là đáng.",
+        "role": "Đóng bằng kết luận trải nghiệm của tác giả, không thêm bí mật mới."
+      }
+    ],
+    "ending": "Kết vừa nhận xét món vừa khép khoảng cách với người bán: dễ thương, đáng xếp hàng. Trước đó hình49,76s đã cho thấy nụ cười, nên phần thưởng về con người đến sớm hơn lời giải biệt danh83,84s.",
+    "mechanism": "Đặt biệt danh qua cặp ảnh → dựng ấn tượng nghiêm → người dẫn có phản ứng → tương tác cho thấy nụ cười → nếm món → giải thích biệt danh → đánh giá trải nghiệm. Mẫu dựa vào tương phản giữa ấn tượng và hành vi quan sát được, không chỉ dùng nhân vật nổi làm mồi.",
+    "transfer": "Có thể chuyển sangfinance theo quan hệ ấn tượng ban đầu → kiểm qua một hành vi/tài liệu cụ thể → sửa cách hiểu. Một tổ chức hoặc người thật không nên bị gắn biệt danh/cáo buộc để gây chú ý; phần kiểm phải thật sự có chứng cứ khác với ấn tượng.",
+    "limitations": [
+      "Đã đọc toàn bộ ASR có timestamp và xem 12 khung trích của bản tải mới; chưa nghe toàn âm hoặc xem video liên tục.",
+      "Mốc nhịp dựa trên ASR; không dùng bản chép tự động làm trích dẫn nguyên văn.",
+      "Không có retention hay thử nghiệm nhân quả; số lượt xem không chứng minh hook tạo ra kết quả.",
+      "Biệt danh đại tá/công an ngầm là cách đùa trong video, không xác nhận quân hàm hay vai trò hiện tại.",
+      "ASR có nhiều từ sai ở tên món, tên người và câu đùa; không dùng làm trích dẫn chuẩn.",
+      "Việc người bán từng làm công an xã, số năm bán và giá là lời người dẫn, chưa xác minh độc lập.",
+      "Nhận xét món và đáng xếp hàng là trải nghiệm tác giả, không phải khuyến nghị mua hay đi ăn của phân tích."
+    ],
+    "detail": {
+      "promise": "Đi gặp người bán bò bía được gọi bằng biệt danh có vẻ nghiêm, rồi kể trải nghiệm mua và ăn.",
+      "centralQuestion": "Người bán thật sự khó gần như ấn tượng ban đầu hay không, và vì sao có biệt danh ấy?",
+      "emotionalArc": [
+        {
+          "start": 0,
+          "end": 6.64,
+          "emotion": "Tò mò vì cặp biệt danh",
+          "evidence": "Hai chân dung và địa danh được dựng nối tiếp, món ăn chỉ nói sau.",
+          "interpretation": "Nhân vật đi trước sản phẩm tạo một đường vào khác review thông thường."
+        },
+        {
+          "start": 6.64,
+          "end": 37.84,
+          "emotion": "Ngại mà vui theo người kể",
+          "evidence": "ASR đùa vẻ nghiêm và không dám nói; ô phản ứng ở33,17s là nụ cười.",
+          "interpretation": "Tạo khoảng cách hài giữa lời sợ và phản ứng, chưa đo khán giả."
+        },
+        {
+          "start": 37.84,
+          "end": 60.16,
+          "emotion": "Thân thiện hơn",
+          "evidence": "Người bán cười ở49,76s khi người dẫn đang tương tác.",
+          "interpretation": "Cảnh cụ thể sửa ấn tượng nghiêm bằng quan hệ giữa hai người."
+        },
+        {
+          "start": 60.16,
+          "end": 83.84,
+          "emotion": "Muốn biết món ra sao",
+          "evidence": "Nếm và nói về thành phần/giá.",
+          "interpretation": "Trả mục đích đồ ăn thay vì bỏ quên món sau hook nhân vật."
+        },
+        {
+          "start": 83.84,
+          "end": 110.56,
+          "emotion": "Có cách hiểu cho biệt danh",
+          "evidence": "Tác phong được giải thích rồi nhận xét người bán dễ thương.",
+          "interpretation": "Kết luận bớt tuyệt đối so với chân dung phóng đại ban đầu."
+        }
+      ],
+      "informationDesign": [
+        {
+          "start": 0,
+          "end": 6.64,
+          "move": "Ghép hai chân dung và địa danh.",
+          "reason": "Gọi một liên tưởng có sẵn rồi đưa nhân vật mới vào cùng phép so."
+        },
+        {
+          "start": 6.64,
+          "end": 37.84,
+          "move": "Cho thấy cả người bán lẫn phản ứng người dẫn.",
+          "reason": "Nhân vật nghiêm được lọc qua người kể có tính cách, không chỉ quay tĩnh."
+        },
+        {
+          "start": 37.84,
+          "end": 60.16,
+          "move": "Tương tác trước khi giải thích tiểu sử.",
+          "reason": "Nụ cười là một sự kiện quan sát được làm đổi giọng câu chuyện."
+        },
+        {
+          "start": 60.16,
+          "end": 83.84,
+          "move": "Quay về thành phần/giá/trải nghiệm ăn.",
+          "reason": "Giữ lời hứa ghé ăn ở đầu."
+        },
+        {
+          "start": 83.84,
+          "end": 110.56,
+          "move": "Trả biệt danh rồi chốt trải nghiệm.",
+          "reason": "Khép cả hai tuyến người và món."
+        }
+      ],
+      "strengths": [
+        {
+          "point": "Hai lớp hình làm rõ phép so ngay đầu",
+          "evidence": "Khung0–3s có địa danh, chân dung và tên, không bắt hiểu chỉ bằng lời."
+        },
+        {
+          "point": "Có hành vi đối chiếu ấn tượng",
+          "evidence": "16,59s người bán nét nghiêm;49,76s cười, cùng phản ứng người dẫn."
+        },
+        {
+          "point": "Không bỏ món sau hook nhân vật",
+          "evidence": "60,16–83,84s nói thành phần, giá và nếm."
+        }
+      ],
+      "weaknesses": [
+        {
+          "point": "Mở đầu cần biết liên tưởng trước đó",
+          "evidence": "Cặp đại tá Minh/Thành có thể kém rõ với người chưa biết nhân vật được ghép."
+        },
+        {
+          "point": "Lời đùa dễ bị hiểu thành xác nhận chức vụ",
+          "evidence": "0–3,12s dùng danh xưng ngay, còn giải thích tiểu sử ở98,24–103,36s mới tới và chưa kiểm."
+        },
+        {
+          "point": "Nhiều lời bình về vẻ nghiêm trước giao tiếp",
+          "evidence": "6,64–37,84s kéo dài ấn tượng trước khi đặt mua, dễ thành trì hoãn nếu người xem chỉ cần biết món."
+        }
+      ],
+      "shareabilityHypotheses": [
+        "Tương phản vẻ nghiêm và nụ cười có thể khiến người xem gửi để cùng nhận ra một nhân vật, nhưng chưa có dữ liệu lý do chia sẻ.",
+        "Cặp liên tưởng có thể khơi bình luận nhận diện giữa hai nhân vật, không phải bằng chứng về chất lượng món."
+      ],
+      "adaptationRules": [
+        "Đánh dấu biệt danh và lời đùa, tránh trình bày như chức vụ đã xác minh.",
+        "Cho hành vi thật cơ hội sửa ấn tượng thay vì chỉ lặp nhãn nhân vật.",
+        "Khi mượn hình đối chiếu cần bảo đảm khán giả vẫn hiểu nếu chưa biết người thứnhất.",
+        "Giữ tuyến kết quả thực tế của trải nghiệm sau phần hook về con người.",
+        "Không nhập định kiến về ngoại hình/tác phong vào nhận định tài chính."
+      ],
+      "mindmapBranches": [
+        {
+          "label": "Liên tưởng",
+          "children": [
+            "An Giang/Hà Nội",
+            "Hai chân dung"
+          ]
+        },
+        {
+          "label": "Ấn tượng",
+          "children": [
+            "Vẻ nghiêm",
+            "Người dẫn đùa ngại"
+          ]
+        },
+        {
+          "label": "Tương tác",
+          "children": [
+            "Đặt mua",
+            "Người bán cười"
+          ]
+        },
+        {
+          "label": "Món",
+          "children": [
+            "Bánh và dừa",
+            "Giá theo tác giả",
+            "Nếm"
+          ]
+        },
+        {
+          "label": "Trả lời",
+          "children": [
+            "Vì sao có biệt danh",
+            "Dễ thương theo trải nghiệm"
+          ]
+        },
+        {
+          "label": "Giới hạn",
+          "children": [
+            "Biệt danh không là chức vụ",
+            "Tiểu sử chưa kiểm",
+            "Không có retention"
+          ]
+        }
+      ]
+    },
+    "hookStudy": {
+      "window": {
+        "start": 0,
+        "end": 6.64
+      },
+      "layers": {
+        "speech": "0–3,12s đối chiếu hai biệt danh theo nơi;3,12–6,64s nói sẽ ghé ăn và xếp hàng,ASR có từ sai nên diễn ý.",
+        "visual": "Người dẫn tự quay đi phố;0–3s ghép lần lượt hai chân dung,5s thấy hàng người.",
+        "screenText": "Chữ địa danhAn Giang/Hà Nội vànhãnđại táMinh/Thành;5s chữ xácđịnh món bòbía."
+      },
+      "attentionMethod": "Đối chiếu nhân vật qua biệt danh, sau đó hứa đi gặp trong một trải nghiệm ăn.",
+      "stopReason": "Giả thuyết: sự lệch giữa danh xưng nghiêm và một người bán đồ ăn khiến khán giả muốn biết con người này ra sao; không phải quan sát retention.",
+      "unresolvedQuestion": "Vì sao người bán có biệt danh này và có thật khó gần như người dẫn đùa?",
+      "withheldDetail": "Lý do biệt danh được để tới83,84s; nụ cười và tương tác thân thiện xuất hiện trước ở49,76s.",
+      "retentionBridge": "Cảnh xếp hàng, phản ứng người dẫn, gọi mua và nếm món tạo chuỗi sự kiện, không chỉ lời mô tả kéo dài.",
+      "payoff": {
+        "start": 83.84,
+        "end": 103.36,
+        "summary": "ASR giải thích biệt danh bằng tác phong/ánh mắt và kể nghề cũ; phần nghề cũ chưa kiểm. Hình49,76s đã trả một phần câu khó gần bằng nụ cười."
+      },
+      "twoSentenceBlueprint": [
+        "Dựng một ấn tượng rõ về nhân vật bằng phép đối chiếu, rồi đặt người kể vào cuộc gặp để thử ấn tượng ấy.",
+        "Cho hành vi và kết quả trải nghiệm sửa hoặc bổ sung ấn tượng trước khi giải thích nhãn ban đầu."
+      ],
+      "crossNicheTransfer": "Chuyển được quan hệ ấn tượng → thử bằng hành vi/tài liệu → hiểu lại; ví dụ phân tích một cách doanh nghiệp kiếm tiền khác hình dung ban đầu. Sẽ hỏng nếu mang biệt danh, ngoại hình hoặc nghề cũ thành chứng cứ đánh giá năng lực/rủi ro tài chính.",
+      "doNotTransfer": [
+        "Không tạo danh xưng sai để nhử chúý.",
+        "Không dùng cảm giác về con người thay dữ liệu khi nhận định doanh nghiệp.",
+        "Không trìhoãn lời giải chỉ để bắtchước độdài."
+      ],
+      "evidenceScope": "ToànASR mới và12khung; tênmón/tiểusử cóASR lỗi; chưa nghe toànâm/xem liên tục."
+    }
+  },
+  {
+    "id": "7694998594134281480",
+    "title": "Gánh đậu hũ Hội An: lời hứa nhiều ngôn ngữ được đưa thẳng vào cuộc gặp",
+    "deliveryStyle": "Vlog tương tác với người bán, phụ đề đa ngôn ngữ; phân tích hình và chữ vìASR lỗi",
+    "openingObservation": "Khung0 giây đã có dòngPOV nói người bán đậu hũ biết hơn5 thứ tiếng ởHội An, cùng người dẫn đi tới gánh.1–2 giây hiện lời chào bằng chữ Hàn kèm bản dịch tiếngViệt;3–5 giây phụ đề đổi sang từđậu hũ và người dẫn ngồi xuống cạnh người bán. Như vậy lời hứa năng lực khác thường được theo ngay bằng một tương tác có chữ đối chiếu. ASR của clip lặp lời mời theo dõi một kênh không liên quan, bị loại hoàn toàn khỏi căn cứ lời thoại.",
+    "visualEvidence": [
+      {
+        "time": 0,
+        "observation": "Người dẫn tiến tới gánh hàng dưới hiên nhà; chữPOV hứa chị chủ nói hơn5 thứ tiếng."
+      },
+      {
+        "time": 1,
+        "observation": "Người bán ngồi cạnh thùng và bảng món; dòng chữ Hàn cùng bản dịch xin chào hiện phía dưới."
+      },
+      {
+        "time": 2,
+        "observation": "Chữ chào tiếngHàn/Việt tiếp tục khi hai người đối diện ở gánh."
+      },
+      {
+        "time": 3,
+        "observation": "Phụ đề chữHàn kèm đậu hũ hiện dưới tiêu đề; người dẫn sát gánh hơn."
+      },
+      {
+        "time": 5,
+        "observation": "Người dẫn ngồi cạnh người bán, có bát/ly trong tay và phụ đề đậu hũ."
+      },
+      {
+        "time": 37.55,
+        "observation": "Hai người ngồi cạnh bảng món và các hũ; chữ ngườiVietnamese đó xuất hiện ở dưới."
+      },
+      {
+        "time": 75.1,
+        "observation": "Cận người bán, phụ đề chữTrung kèm mua1 phần mangvề."
+      },
+      {
+        "time": 112.65,
+        "observation": "Người bán cười trong cận cảnh, chưa có chữ nêu thêm ngôn ngữ trong khung này."
+      },
+      {
+        "time": 150.2,
+        "observation": "Khung rộng ngoài phố có người đi qua; phụ đề ghi chỉ bán tiếngTrung nhưgió. Đây là chữ trong video, không xác minh năng lực phát âm."
+      },
+      {
+        "time": 187.75,
+        "observation": "Người dẫn ở tiềncảnh, người bán phía sau giơ tay; chữ liệt kê sushi,sashimi,kimpap."
+      },
+      {
+        "time": 225.3,
+        "observation": "Hai người ngồi lại cạnh các thùng, người bán đang chỉ tay về người dẫn."
+      },
+      {
+        "time": 249.33,
+        "observation": "Người bán giơ tay cao, cả hai cười trong cảnh cuối được trích."
+      }
+    ],
+    "beats": [
+      {
+        "start": 0,
+        "end": 5,
+        "summary": "Mẫu khung0 nêu lời hứa nhiều ngôn ngữ;1–5 giây có lời chào và từđậu hũ bằng phụ đềHàn/Việt khi người dẫn tới gánh rồi ngồi xuống.",
+        "role": "Đưa một ví dụ bám lời hứa ngay trong cửa sổ mở; không dựa vàoASR lỗi."
+      },
+      {
+        "start": 5,
+        "end": 37.55,
+        "summary": "Hai mốc đều cho thấy người dẫn và người bán ngồi gần gánh;37,55s có phụ đề pha từVietnamese. Không có căn cứ để chép toàn cuộc trao đổi giữa hai mốc.",
+        "role": "Định vị lời hứa trong một cuộc mua bán/trò chuyện gần gũi qua các mẫu hình."
+      },
+      {
+        "start": 37.55,
+        "end": 112.65,
+        "summary": "Mốc75,1s cận người bán với phụ đềTrung/Việt về mangvề;112,65s thấy nụ cười.",
+        "role": "Bổ sung một hệ chữ khác làm ví dụ tiếp theo; chưa đủ đếm hơn5 ngôn ngữ."
+      },
+      {
+        "start": 112.65,
+        "end": 187.75,
+        "summary": "Mốc150,2s ra cảnh phố với nhận xét về tiếngTrung;187,75s có người bán giơtay và danh sách tênmón quốc tế.",
+        "role": "Các khung cho thấy mở rộng ngữ cảnh quanh lời hứa; không suy nội dung hay thứtự lời nói ở khoảng trống."
+      },
+      {
+        "start": 187.75,
+        "end": 249.33,
+        "summary": "Mốc225,3s hai người trò chuyện cạnh gánh;249,33s cùng cười, người bán giơtay.",
+        "role": "Khép ở quan hệ vui vẻ trong hình, không dựng kết luận ngôn ngữ từASR bỏ đi."
+      }
+    ],
+    "ending": "Khung cuối249,33 giây cho thấy hai người cười và người bán giơtay. Không đủ căn cứ về câu nói kết hoặc việc đã biểu diễn đủ hơn5 ngôn ngữ. Lời hứa có ví dụ phụ đềHàn vàTrung quan sát được, nhưng kết luận đếm và năng lực nói vẫn để chưa xác minh.",
+    "mechanism": "Lời hứa về người bán quen thuộc có một năng lực bất ngờ → ví dụ nhỏ ngaykhi chào → các đoạn tương tác có phụ đề đốichiếu → chân dung thân thiện. Với chứngcứ hiện tại chỉ học được cách để lời hứa đi cùng ví dụ hiển thị; không học lời nói, nhịp thoại hoặc độ thành thạo.",
+    "transfer": "Finance có thể dùng quan hệ một người/vật quen nhưng có chức năng ít biết → trìnhdiễn một ví dụ ngay → thêm ví dụ có kiểm. Phải thay phụ đề xác nhận bằng tài liệu hoặc phép thử đúng; không đưa nhãn biết nhiều/giỏi rồi coi chính nhãn là bằngchứng.",
+    "limitations": [
+      "Đã xem12 khung trích và đọc ASR để kiểm chất lượng; ASR lỗi bị loại, chưa nghe toàn âm hoặc xem liên tục.",
+      "Mốc nhịp dựa trên ASR; không dùng bản chép tự động làm trích dẫn nguyên văn.",
+      "Không có retention hay thử nghiệm nhân quả; số lượt xem không chứng minh hook tạo ra kết quả.",
+      "ASR gần toàn clip lặp lalaschool/subscribe không liênquan; đã loại khỏi phân tích và không có căn cứ phiênâm đángtin.",
+      "Beats là khoảng gom các khung mẫu có timestamp,không phải phâncảnh/cắt hay timeline thoại xác định.",
+      "Phụ đềHàn/Trung được đọc như chữ biên tập của video; chưa nghe, chưa kiểm dịch hoặc nănglực phát âm.",
+      "Lời hứa hơn5 ngôn ngữ chưa được chứngminh từ12 khung; không nhận đã đếm đủ.",
+      "Tênmón và nhậnxét trên phụ đề không phải khuyến nghị mua/ăn hoặc khẳngđịnh chuyênmôn của người bán."
+    ],
+    "detail": {
+      "promise": "Theo chữ mởvideo, gặp người bán đậu hũ được giới thiệu nói nhiều ngôn ngữ; bằngchứng hiện đủ quan sát vài ví dụ phụ đề.",
+      "centralQuestion": "Một người bán hàng quen thuộc sẽ tạo bấtngờ gì khi giao tiếp với khách?",
+      "emotionalArc": [
+        {
+          "start": 0,
+          "end": 5,
+          "emotion": "Tò mò vì tươngphản",
+          "evidence": "Gánh hàng đời thường nằm dưới lời hứa hơn5 ngôn ngữ và phụ đềHàn.",
+          "interpretation": "Giảthuyết: năng lực không thường được gắn với bối cảnh khiến muốn xem ví dụ."
+        },
+        {
+          "start": 37.55,
+          "end": 112.65,
+          "emotion": "Thích thú từ giao tiếp",
+          "evidence": "Có phụ đềTrung ở75,1s và nụ cười112,65s.",
+          "interpretation": "Cảnh cho thấy một cuộc gặp thânthiện,không đo cảmxúc người xem."
+        },
+        {
+          "start": 187.75,
+          "end": 249.33,
+          "emotion": "Vui cùng nhânvật",
+          "evidence": "Các khung có cử chỉ tay và cảhai cười.",
+          "interpretation": "Biểu cảm làm lớp phầnthưởng về conngười,không chứngminh toàn lời hứa ngôn ngữ."
+        }
+      ],
+      "informationDesign": [
+        {
+          "start": 0,
+          "end": 5,
+          "move": "Nêu lời hứa rồi đặt phụ đề vídụ sát mở.",
+          "reason": "Giảm chờ đợi giữa tuyênbố và biểuhiện cóthể quan sát."
+        },
+        {
+          "start": 37.55,
+          "end": 75.1,
+          "move": "Hai mẫu chữ cho thấy cách trìnhbày đổi ngôn ngữ.",
+          "reason": "Cho căn cứ thịgiác về loại tươngtác,mà chưa thể kiểmâm."
+        },
+        {
+          "start": 112.65,
+          "end": 249.33,
+          "move": "Giữ chân dung qua cậnmặt và cửchỉ.",
+          "reason": "Nội dung không chỉ là danh sách từ; có mối quan hệ nhìnthấy."
+        }
+      ],
+      "strengths": [
+        {
+          "point": "Lời hứa có vídụ ngay",
+          "evidence": "0s tiêuđề;1–2s phụđềHàn/Việt khi chào."
+        },
+        {
+          "point": "Bối cảnh làm nănglực thành bấtngờ",
+          "evidence": "Gánh đậu hũ,thùng hàng và hiênphố nằm cùng khung với chữ nhiều ngôn ngữ."
+        },
+        {
+          "point": "Có phảnứng conngười",
+          "evidence": "112,65s người bán cười;249,33s cảhai cười,có cửchỉ giơtay."
+        }
+      ],
+      "weaknesses": [
+        {
+          "point": "Lời hứa địnhlượng chưa đủ kiểm",
+          "evidence": "Hơn5 thứtiếng ở0s nhưng contact chỉ đủ đọc vài mẫu;ASR lỗi không bổsung được."
+        },
+        {
+          "point": "Phụđề không thay xácminh giọng nói",
+          "evidence": "ChữHàn/Trung có dịchViệt ở1s và75,1s,nhưng không có phiênâm tin cậy để kếtluận thànhthạo."
+        },
+        {
+          "point": "Nhịp thoại chưa đánhgiá được",
+          "evidence": "Khoảng5–37,55s và75,1–112,65s rộng,không suy cách đổi ngôn ngữ hoặc độ nhanh từkhung."
+        }
+      ],
+      "shareabilityHypotheses": [
+        "Nănglực bấtngờ trong một gánh hàng cóthể khiến người xem gửi để giới thiệu một conngười đángnhớ;đây là giảthuyết.",
+        "Biểu cảm cười/cửchỉ cóthể là phần chia sẻ được ngoài yếu tố ngôn ngữ,chưa có dữliệu chứngminh."
+      ],
+      "adaptationRules": [
+        "Đặt vídụ kiểm được sát câu hứa nănglực.",
+        "Không dùng số ngôn ngữ nếu chưa có bằngchứng đếm đủ.",
+        "Phân biệt phụđề của tácgiả với xácminh độc lập.",
+        "Không học lời thoại từASR lặp/hallucination.",
+        "Giữ bối cảnh và hànhvi khiến nhânvật cụthể,không chỉ gắn nhãn người tài."
+      ],
+      "mindmapBranches": [
+        {
+          "label": "Lời hứa",
+          "children": [
+            "Gánh đậu hũ",
+            "Hơn5 ngôn ngữ theo chữ"
+          ]
+        },
+        {
+          "label": "Ví dụ thấyđược",
+          "children": [
+            "ChàoHàn/Việt",
+            "Mua mangvềTrung/Việt"
+          ]
+        },
+        {
+          "label": "Conngười",
+          "children": [
+            "Cậnmặt",
+            "Cười và giơtay"
+          ]
+        },
+        {
+          "label": "Phạmvi hình",
+          "children": [
+            "12mốc mẫu",
+            "Khôngxem liên tục"
+          ]
+        },
+        {
+          "label": "Chưa xácminh",
+          "children": [
+            "Đếm ngôn ngữ",
+            "Phátâm/dịch"
+          ]
+        },
+        {
+          "label": "Loại bỏ",
+          "children": [
+            "ASR lặp không liênquan",
+            "Không suy lời nói"
+          ]
+        }
+      ]
+    },
+    "hookStudy": {
+      "window": {
+        "start": 0,
+        "end": 5
+      },
+      "layers": {
+        "speech": "Không đủ bằngchứng phiênâm: ASR lặp nội dungkhông liênquan,không đưa nhậnđịnh lời nóimở.",
+        "visual": "Người dẫn tiến tới gánh rồi ngồi cạnh người bán;ví dụ giao tiếp diễnra ngay bối cảnh chào hỏi.",
+        "screenText": "0–5s lời hứaPOV người bán nói hơn5 ngôn ngữ;1–2s phụđềHàn/Việt xin chào,3–5s từ đậu hũ."
+      },
+      "attentionMethod": "Tươngphản người bán hàng đời thường với nănglực được nêu, kèm một vídụ bằng phụđề ngay.",
+      "stopReason": "Giảthuyết: người xem muốn xem nănglực bấtngờ được thểhiện trong tươngtác hàngngày;không có bằngchứng retention.",
+      "unresolvedQuestion": "Người bán sẽ giao tiếp bằng những ngôn ngữ nào trong cuộc gặp?",
+      "withheldDetail": "Những vídụ tiếp theo vànguồn gốc nănglực chưa có ởmở;không biết clip có giải thích nguồn gốc haykhông.",
+      "retentionBridge": "Các mẫu phụđề ngôn ngữ, cận người bán vàphảnứng cười/cửchỉ;không khẳngđịnh trìnhtự lời thoại ởkhoảngtrống.",
+      "payoff": {
+        "start": 1,
+        "end": 75.1,
+        "summary": "Payoff mộtphần: có phụđềHàn/Việt ở1s vàTrung/Việt ở75,1s. Chưa đủ để xácnhận hơn5 ngôn ngữ hayđộ thànhthạo;không tạo một đápán cuối giả."
+      },
+      "twoSentenceBlueprint": [
+        "Đặt một nănglực không thường được chờđợi vào bối cảnh đời thường vàcho ví dụ ngay trong lần tiếp xúc đầu.",
+        "Mở rộng bằng những tươngtác cóthể quan sát,để chân dung conngười làm phầnthưởng cùng nănglực."
+      ],
+      "crossNicheTransfer": "Chuyển được quan hệ vật/người quen → chức năng ít biết → thử vídụ ngay. Sangfinance cần tài liệu/đầu ra kiểm được tươngứng; lời gắn nhãn vàphụđề tựxácnhận không đủ chứngminh lợiích haynănglực.",
+      "doNotTransfer": [
+        "Không sao lời tuyênbố hơn5 nếu chưa đếm/kiểm.",
+        "Không dựng phiênâm từASR hỏng.",
+        "Không coi tháiđộ thânthiện làbằngchứng đángtin cậy về sảnphẩm tài chính."
+      ],
+      "evidenceScope": "Visual-only:12khung vàchữ đọc được;ASR bịloại dohallucination;không nghe toànâm/xem liên tục."
+    }
+  },
+  {
+    "id": "7691642587522010388",
+    "title": "Cheese Ball tại nhà: giá bên ngoài đối chiếu với một mẻ tự làm",
+    "deliveryStyle": "Nấu ăn cận tay, cho thành phẩm trước rồi quay lại quy trình; xen người nấu và đối đáp ngắn",
+    "openingObservation": "0–3,64 giây lời dẫn hỏi vì sao bỏ79 nghìn cho3 viên, trong khi hình đã cho thấy một bát nhiều viên và thao tác phủ/lắc bột.3,64–7,66 giây chuyển sang có thể tự làm rẻ hơn, được nhiều hơn;5 giây cận một viên được nâng lên. Mở bài không chỉ hứa tiết kiệm bằng lời: số lượng và bề mặt món hiện trước khi giải thích quy trình. Giá79 nghìn là đối chiếu do tác giả nêu, chưa có hóa đơn hoặc định lượng tương đương để kiểm.",
+    "visualEvidence": [
+      {
+        "time": 0,
+        "observation": "Các viên vàng được đổ từ khay vào bát kim loại, nhìn thấy nhiều hơn một phần3 viên được lời dẫn nhắc."
+      },
+      {
+        "time": 1,
+        "observation": "Bột màu cam được rắc từ rây lên bát bánh."
+      },
+      {
+        "time": 2,
+        "observation": "Tay lắc bát chứa nhiều viên để phủ bột."
+      },
+      {
+        "time": 3,
+        "observation": "Cận những viên đã phủ bột khi bát tiếp tục được cầm; không thấy bảng giá trong khung."
+      },
+      {
+        "time": 5,
+        "observation": "Tay nâng một viên bánh gần máy, làm rõ lớp vỏ trước khi quay lại cách làm."
+      },
+      {
+        "time": 12.2,
+        "observation": "Người nấu cười, kéo hai nửa bánh có sợi phô mai, cho thấy đầu ra sớm."
+      },
+      {
+        "time": 24.4,
+        "observation": "Cận bát bột và trứng đang được trộn bằng đũa, nằm trong phần quy trình."
+      },
+      {
+        "time": 36.6,
+        "observation": "Người nấu đang nặn; trên bàn có các phần bột và khối phô mai xếp hàng."
+      },
+      {
+        "time": 48.8,
+        "observation": "Cận tay bọc bột; chữ bự em ăn cho biết nhịp đùa về kích thước."
+      },
+      {
+        "time": 61,
+        "observation": "Một viên vàng được gắp phía trên nồi dầu, cho thấy kết quả chiên."
+      },
+      {
+        "time": 73.2,
+        "observation": "Tay bắt đầu bẻ viên trên đĩa ở phần chốt chi phí theo lời dẫn."
+      },
+      {
+        "time": 80.34,
+        "observation": "Hai nửa bánh được tách ra, phô mai kéo thành sợi dài; phần cuối được trích không có lờiASR tương ứng."
+      }
+    ],
+    "beats": [
+      {
+        "start": 0,
+        "end": 9.18,
+        "summary": "Đặt giá3 viên ngoài hàng cạnh lựa chọn tự làm được nhiều/rẻ hơn; hình là nhiều viên thành phẩm và các bước hoàn thiện.",
+        "role": "Tạo phép đối chiếu chi phí gắn với số lượng nhìn được."
+      },
+      {
+        "start": 9.18,
+        "end": 18.2,
+        "summary": "Báo sẽ làm tại nhà, cho phản ứng/nếm; khung12,2s có phô mai kéo sợi.",
+        "role": "Trả một phần thưởng trước quy trình, chứng minh hình thức món đã làm được."
+      },
+      {
+        "start": 18.2,
+        "end": 31.74,
+        "summary": "Liệt kê nguyên liệu vào bột, thêm nước rồi nhào tới hết dính và chờ theo thời gian tác giả nêu.",
+        "role": "Bắt đầu giải đáp làm bằng cách nào, cho tiêu chí thao tác."
+      },
+      {
+        "start": 31.74,
+        "end": 49.56,
+        "summary": "Cắt phô mai, định lượng bột và bọc nhân; một câu hỏi về viên to dẫn tới câu đùa ăn cho đã.",
+        "role": "Cụ thể hóa số lượng/kích cỡ trong một nhịp thao tác có tính cách."
+      },
+      {
+        "start": 49.56,
+        "end": 68.82,
+        "summary": "Giải thích thay nhiệt khi chiên theo tác giả, rồi hoàn thiện bằng bột và gia vị.",
+        "role": "Nêu điểm cần lưu ý trước khi đưa thành phẩm cuối; đây là lời trong nguồn, không hướng dẫn an toàn của phân tích."
+      },
+      {
+        "start": 68.82,
+        "end": 81.33,
+        "summary": "Nêu mẻ khoảng15 viên và chưa tới10 nghìn/viên rồi chúc làm thành công; các khung73,2 và80,34s bẻ bánh, kéo sợi.",
+        "role": "Quay lại đơn vị chi phí đầu bài và cho phần thưởng vật thể ở cuối; chi phí vẫn chưa có bảng tính kiểm."
+      }
+    ],
+    "ending": "ASR khép ở74,6 giây bằng lời chúc; hình cuối80,34 giây tiếp tục cho phô mai kéo sợi. Khoảng15 viên/chưa10 nghìn mỗi viên gọi lại phép so đầu, nhưng không có bảng chi phí đủ để xác nhận mức tiết kiệm tương đương.",
+    "mechanism": "Giá/số lượng bên ngoài → nhiều thành phẩm nhìn được → lời tự làm → cho trước kéo sợi → quay về quy trình → tiểu tiết kích cỡ → chi phí/viên và kéo sợi cuối. Cảnh vật thể liên tục trả lợi ích cảm quan, trong khi số đầu/cuối làm phần logic của câu chuyện.",
+    "transfer": "Finance có thể học việc giữ cùng đơn vị đầu ra cho một phép so chi phí rồi cho thấy quy trình tạo chênh lệch. Cần thay mệnh đề rẻ hơn bằng bảng đầy đủ vốn, thời gian, công và rủi ro; không dùng một thành phẩm đẹp để chứng minh toàn bộ hiệu quả kinh tế.",
+    "limitations": [
+      "Đã đọc toàn bộ ASR có timestamp và xem 12 khung trích của bản tải mới; chưa nghe toàn âm hoặc xem video liên tục.",
+      "Mốc nhịp dựa trên ASR; không dùng bản chép tự động làm trích dẫn nguyên văn.",
+      "Không có retention hay thử nghiệm nhân quả; số lượt xem không chứng minh hook tạo ra kết quả.",
+      "Giá79 nghìn/3 viên và dưới10 nghìn/viên là lời tác giả; chưa xác nhận nguồn giá, khối lượng ngang nhau hoặc các chi phí ngoài nguyên liệu.",
+      "ASR có lỗi từ ở nguyên liệu và vài câu ngắn; không biến bản chép thành hướng dẫn nấu chính xác.",
+      "Phần74,6–81,33s không có lờiASR; quan sát cuối dựa trên khung80,34s.",
+      "Kết cấu nhìn được không chứng minh vị hoặc độ an toàn; phân tích không cung cấp hướng dẫn thực phẩm."
+    ],
+    "detail": {
+      "promise": "Cho thấy cách tự làm một mẻCheese Ball và đối chiếu chi phí/viên theo tác giả.",
+      "centralQuestion": "Làm ở nhà tạo ra nhiều viên với chi phí được kể khác bên ngoài bằng quy trình nào?",
+      "emotionalArc": [
+        {
+          "start": 0,
+          "end": 9.18,
+          "emotion": "Muốn đối chiếu giá và lượng",
+          "evidence": "Lời79 nghìn/3 viên đi cùng bát nhiều viên.",
+          "interpretation": "Giả thuyết: sự chênh đầu vào/đầu ra tạo câu hỏi thực tế, không đo hành vi dừng."
+        },
+        {
+          "start": 9.18,
+          "end": 18.2,
+          "emotion": "Thấy đích của quy trình",
+          "evidence": "Khung12,2s cho kéo phô mai trước phần pha bột.",
+          "interpretation": "Kết quả nhìn được làm lời hứa cụ thể hơn."
+        },
+        {
+          "start": 31.74,
+          "end": 49.56,
+          "emotion": "Theo việc và có chút vui",
+          "evidence": "Nặn kích thước được nêu rồi có câu hỏi viên to cùng chữ bự em ăn.",
+          "interpretation": "Tiểu tiết thao tác làm cầu nối có tính cách."
+        },
+        {
+          "start": 68.82,
+          "end": 81.33,
+          "emotion": "Khép phép so bằng kết quả",
+          "evidence": "Nêu số viên/giá mỗi viên, cuối lại kéo phô mai.",
+          "interpretation": "Kết gồm cả phần logic và cảm quan; chưa chứng minh phép so đầy đủ."
+        }
+      ],
+      "informationDesign": [
+        {
+          "start": 0,
+          "end": 9.18,
+          "move": "Đưa cùng đơn vị viên nhưng hai cách có món.",
+          "reason": "Số tiền là lý do xem quy trình, không phải một con số sốc rời rạc."
+        },
+        {
+          "start": 9.18,
+          "end": 18.2,
+          "move": "Cho kết quả trước nguyên liệu.",
+          "reason": "Xác định mục tiêu nhìn được cho phần hướng dẫn."
+        },
+        {
+          "start": 18.2,
+          "end": 49.56,
+          "move": "Đi từ bột sang nhân rồi tạo viên.",
+          "reason": "Tổ chức theo biến đổi vật thể, dễ theo dõi hơn danh sách mẹo."
+        },
+        {
+          "start": 49.56,
+          "end": 68.82,
+          "move": "Nêu lưu ý ở bước tương ứng.",
+          "reason": "Giải thích gắn với lúc có thể phát sinh vấn đề trong thao tác."
+        },
+        {
+          "start": 68.82,
+          "end": 81.33,
+          "move": "Quay về giá/viên và hình bẻ bánh.",
+          "reason": "Gọi lại hai lời hứa chi phí và thành phẩm."
+        }
+      ],
+      "strengths": [
+        {
+          "point": "Giá gắn với số lượng và vật thể",
+          "evidence": "0–7,66s lời so3 viên với tự làm; hình0–3s đã có bát nhiều viên."
+        },
+        {
+          "point": "Trả kết quả sớm rồi mới hướng dẫn",
+          "evidence": "12,2s kéo sợi,18,2s mới pha bột."
+        },
+        {
+          "point": "Kết gọi lại đơn vị so sánh",
+          "evidence": "68,82–73,3s nêu số viên và chi phí mỗi viên."
+        }
+      ],
+      "weaknesses": [
+        {
+          "point": "Chưa đủ cơ sở khẳng định rẻ hơn tương đương",
+          "evidence": "Không có bảng nguyên liệu/công/thời gian; viên tự làm được nói là to hơn ở37,78s."
+        },
+        {
+          "point": "Một mẻ thành phẩm chưa chứng minh mức dễ với mọi người",
+          "evidence": "18,2s nói dễ nhưng đoạn nhào/chờ/chiên vẫn có nhiều điều kiện thao tác."
+        },
+        {
+          "point": "Không thể dựa vào lờiASR để tái tạo món chuẩn",
+          "evidence": "Một số tên nguyên liệu bị nhận sai, hình mẫu không bao trùm tất cả bước."
+        }
+      ],
+      "shareabilityHypotheses": [
+        "Phép so một phần bên ngoài với cả mẻ có thể khiến người xem gửi cho người hay ăn món này; đây là giả thuyết.",
+        "Kéo phô mai ở12,2 và80,34s có thể khiến kết quả dễ nhớ dù người xem không định làm, chưa có dữ liệu lưu/chia sẻ để kiểm."
+      ],
+      "adaptationRules": [
+        "Giữ đơn vị đầu ra nhất quán khi so chi phí.",
+        "Cho kết quả minh họa trước, nhưng tách nó khỏi chứng minh tiết kiệm.",
+        "Đưa lưu ý đúng lúc bước tương ứng xuất hiện.",
+        "Khi chuyển ngách, tính đủ chi phí và điều kiện thay vì chỉ so giá mặt ngoài.",
+        "Không biến câu rẻ/dễ trong nguồn thành bảo đảm cho người dùng."
+      ],
+      "mindmapBranches": [
+        {
+          "label": "Phép so",
+          "children": [
+            "79 nghìn/3 viên theo lời kể",
+            "Tự làm nhiều hơn"
+          ]
+        },
+        {
+          "label": "Trả trước",
+          "children": [
+            "Nhiều viên",
+            "Kéo phô mai"
+          ]
+        },
+        {
+          "label": "Quy trình",
+          "children": [
+            "Bột",
+            "Nhân",
+            "Tạo viên",
+            "Chiên"
+          ]
+        },
+        {
+          "label": "Chi tiết",
+          "children": [
+            "Kích thước",
+            "Câu đùa bự em ăn"
+          ]
+        },
+        {
+          "label": "Kết",
+          "children": [
+            "15 viên theo tác giả",
+            "Dưới10 nghìn/viên",
+            "Kéo sợi cuối"
+          ]
+        },
+        {
+          "label": "Giới hạn",
+          "children": [
+            "Thiếu bảng chi phí",
+            "Đơn vị cần tương đương",
+            "ASR có lỗi"
+          ]
+        }
+      ]
+    },
+    "hookStudy": {
+      "window": {
+        "start": 0,
+        "end": 9.18
+      },
+      "layers": {
+        "speech": "0–3,64s nêu79 nghìn/3 viên;3,64–7,66s đối chiếu tự làm rẻ/nhiều hơn;7,66–9,18s là câu đối đáp ngắn, không gán tất cả vào0–3s.",
+        "visual": "0–3s đổ bánh, phủ bột, lắc một bát nhiều viên;5s nâng một viên cận.",
+        "screenText": "Không thấy bảng giá/tiêu đề lớn trong khung0–5s; giá nằm ở lời dẫn."
+      },
+      "attentionMethod": "Phép so chi phí/số lượng được đặt cạnh thành phẩm đã có, rồi mở câu hỏi cách làm.",
+      "stopReason": "Giả thuyết: khán giả muốn kiểm liệu một mẻ nhìn hấp dẫn có thực sự thay được phần mua ngoài với chi phí đã nêu.",
+      "unresolvedQuestion": "Tác giả làm một mẻ như vậy bằng các bước nào và chi phí được kể ra sao?",
+      "withheldDetail": "Các bước, số viên toàn mẻ và mức chi phí/viên chưa nêu ở mở; diện mạo món đã cho xem.",
+      "retentionBridge": "Kéo phô mai sớm ở12,2s làm đích nhìn được, sau đó biến đổi bột→nhân→viên→chiên và câu đùa kích cỡ dẫn tới kết.",
+      "payoff": {
+        "start": 68.82,
+        "end": 81.33,
+        "summary": "ASR nêu khoảng15 viên và chưa10 nghìn/viên; khung80,34s kéo phô mai. Đây là payoff lời kể về mẻ tự làm, chưa phải kiểm chứng đầy đủ mức tiết kiệm."
+      },
+      "twoSentenceBlueprint": [
+        "Đặt chi phí của một phần quen thuộc cạnh một mẻ thành phẩm tự làm đã nhìn thấy.",
+        "Quay về quy trình tạo mẻ đó rồi khép bằng cùng đơn vị chi phí và hình kết quả."
+      ],
+      "crossNicheTransfer": "Chuyển được quan hệ chi phí cùng đầu ra → cho thấy quy trình → quay lại chi phí/đơn vị. Sangfinance phải tính đủ công, thời gian, phí và rủi ro; thành phẩm đẹp hoặc phép tính một lần không tự chứng minh lựa chọn hiệu quả hơn.",
+      "doNotTransfer": [
+        "Không sao giá và số lượng nếu không có nguồn ngang điều kiện.",
+        "Không coi hình thành phẩm là bằng chứng kinh tế đầy đủ.",
+        "Không tách câu hỏi giá khỏi quy trình trả lời thật."
+      ],
+      "evidenceScope": "ToànASR mới và12khung; không nghe toàn âm/xem liên tục; phần cuối không có lời được mô tả bằng khung."
+    }
+  },
+  {
+    "id": "7691281157266132231",
+    "title": "Xe mui trần gặp mưa: lời đồn được thử qua nhiều tốc độ",
+    "deliveryStyle": "Lời dẫn giải thích trên tư liệu và đồ hoạ ghép; mở bằng thẻ câu hỏi, sau đó phụ đề ngắn trên mô hình xe và cảnh thử nghiệm thật. Hình ngang được đặt trong khung dọc với nền mờ.",
+    "openingObservation": "0–2,68 giây ASR đặt câu hỏi xe mui trần chạy giữa mưa có bị ướt không; cùng lúc ảnh 0–2 giây cho thấy xe không mui trên mặt đường ướt và thẻ câu hỏi. Từ 2,92 giây mới thêm điều kiện chạy đủ nhanh có thể tránh ướt. Khoảng trống cụ thể là kết quả đổi thế nào khi tăng tốc, không chỉ một nhãn tò mò chung.",
+    "visualEvidence": [
+      {
+        "time": 0,
+        "observation": "Xe mui trần trên đường ướt, thẻ câu hỏi màu đỏ chiếm phần dưới."
+      },
+      {
+        "time": 2,
+        "observation": "Vẫn xe và cùng thẻ câu hỏi; chưa hiện kết quả thử nghiệm."
+      },
+      {
+        "time": 3,
+        "observation": "Tư liệu xe mui trần ngoài trời, phụ đề chuyển sang lời đồn."
+      },
+      {
+        "time": 5,
+        "observation": "Hình ghép xe, người và đồng hồ tốc độ trên nền xanh, chuyển câu chuyện sang biến tốc độ."
+      },
+      {
+        "time": 8.71,
+        "observation": "Mô hình xe trong bối cảnh thử nghiệm, phụ đề giới thiệu nhóm kiểm tra lời đồn."
+      },
+      {
+        "time": 17.42,
+        "observation": "Mô hình xe dưới giọt nước với các mũi tên vẽ hướng dòng khí."
+      },
+      {
+        "time": 26.13,
+        "observation": "Vẫn mô hình, giọt nước và mũi tên phía trên xe, phụ đề nêu ngăn phần lớn nước."
+      },
+      {
+        "time": 34.84,
+        "observation": "Một người đội mũ trên xe thật, phụ đề gắn một mốc tốc độ."
+      },
+      {
+        "time": 43.55,
+        "observation": "Tấm bề mặt sáng nằm trên khu vực ghế xe, phù hợp phần lời nói về tấm đo nước; ảnh riêng không xác minh độ khô."
+      },
+      {
+        "time": 57.07,
+        "observation": "Hình bó mì Ý và câu hỏi mới, khác đề tài xe."
+      }
+    ],
+    "beats": [
+      {
+        "start": 0,
+        "end": 7.58,
+        "summary": "Hỏi có ướt không, rồi thêm lời đồn chạy nhanh sẽ khác.",
+        "role": "Tạo dự đoán hai khả năng với một biến được nêu rõ."
+      },
+      {
+        "start": 7.98,
+        "end": 20.08,
+        "summary": "Đưa mô hình và lần thử tốc độ thấp, nguồn kể rằng ghế bị ướt.",
+        "role": "Thiết lập phép thử và kết quả đầu làm mốc so."
+      },
+      {
+        "start": 20.6,
+        "end": 26.62,
+        "summary": "Tăng tốc mô hình, nguồn mô tả dòng khí giảm nước lọt vào.",
+        "role": "Trả một phần lời đồn và mở cơ chế."
+      },
+      {
+        "start": 27.08,
+        "end": 42.7,
+        "summary": "Chuyển sang xe thật với vật đo nước và hai mốc tốc độ cao hơn.",
+        "role": "Nâng quy mô minh hoạ và tiến tới kết quả nguồn công bố."
+      },
+      {
+        "start": 43.14,
+        "end": 53.16,
+        "summary": "Kết luận có điều kiện rồi nhắc nguy cơ tốc độ trong mưa.",
+        "role": "Trả câu hỏi chính nhưng giới hạn điều được học thành khuyến cáo thực hành."
+      },
+      {
+        "start": 53.62,
+        "end": 57.64,
+        "summary": "Mở câu hỏi bẻ mì Ý cho phần sau.",
+        "role": "Tạo cầu sang tập khác sau khi đã đóng chủ đề hiện tại."
+      }
+    ],
+    "ending": "Nguồn trả lời rằng tốc độ đủ cao có thể ngăn phần lớn nước trong tình huống thử, rồi nhắc không đổi an toàn lấy việc tránh ướt. Đuôi hẹn một câu hỏi khác về mì Ý; phần giải đáp xe đã diễn ra trước lời hẹn.",
+    "mechanism": "Câu hỏi thấy được bằng hình → thêm biến tốc độ → kết quả lần đầu → tăng biến và giải thích dòng khí → thử ở xe thật → đáp án kèm giới hạn. Chi tiết có thể học là kết quả đến từng bậc thay vì giữ toàn bộ đáp án tới cuối.",
+    "transfer": "Chuyển được quan hệ dự đoán–đổi một biến–so kết quả. Sang tài chính phải dùng mô phỏng hoặc dữ liệu với giả định và điều kiện, không biến đường đi của một chiếc xe thành bằng chứng lợi nhuận chắc chắn.",
+    "limitations": [
+      "Đã đọc toàn bộ ASR có timestamp và xem 12 khung trích của cùng ID; chưa nghe toàn âm thanh hoặc xem video liên tục.",
+      "Không có retention, tỷ lệ xem hết hay thử nghiệm nhân quả; các nhận định giữ chân và chia sẻ là giả thuyết về cách trình bày.",
+      "Không xác minh độc lập thí nghiệm gốc, xuất xứ tư liệu, tốc độ, điều kiện mưa hay giải thích khí động học.",
+      "Các con số tốc độ là phần tường thuật của clip, không phải hướng dẫn thử xe.",
+      "Metadata không nêu tài trợ rõ trong mô tả đã đọc; không xác định được tỷ lệ tiếp cận tự nhiên hay trả phí."
+    ],
+    "detail": {
+      "promise": "Giải đáp lời đồn về xe mui trần bằng chuỗi thử được kể lại.",
+      "centralQuestion": "Tăng tốc có thật sự làm nước mưa lọt vào xe ít hơn, và tới mức nào?",
+      "emotionalArc": [
+        {
+          "start": 0,
+          "end": 7.58,
+          "emotion": "Dự đoán và ngạc nhiên",
+          "evidence": "Câu hỏi có ướt được nối với khả năng trái trực giác khi chạy nhanh.",
+          "interpretation": "Mời người xem tự chọn đáp án trước khi có phép thử."
+        },
+        {
+          "start": 7.98,
+          "end": 26.62,
+          "emotion": "Theo dõi sự thay đổi",
+          "evidence": "Mô hình được kể ở hai tốc độ, kết quả và dòng khí khác nhau.",
+          "interpretation": "Mỗi lần thay biến cho một mảnh lời giải, không chỉ trì hoãn."
+        },
+        {
+          "start": 27.08,
+          "end": 47.02,
+          "emotion": "Chờ đối chiếu thực tế",
+          "evidence": "Chuyển xe thật và tấm đo rồi kết luận theo nguồn.",
+          "interpretation": "Nâng mức cụ thể cho câu trả lời, chưa chứng minh được độ tin cậy phép thử."
+        },
+        {
+          "start": 47.52,
+          "end": 57.64,
+          "emotion": "Giới hạn rồi tò mò mới",
+          "evidence": "Cảnh báo an toàn trước câu hỏi mì Ý.",
+          "interpretation": "Đóng vòng hiện tại rồi mới mở vòng tiếp."
+        }
+      ],
+      "informationDesign": [
+        {
+          "start": 0,
+          "end": 7.58,
+          "move": "Đặt hiện tượng và biến",
+          "reason": "Mưa, xe không mui và tốc độ cùng nằm trong câu hỏi."
+        },
+        {
+          "start": 7.98,
+          "end": 26.62,
+          "move": "Mô hình trước",
+          "reason": "Tạo phép so nhỏ và đồ hoạ dòng khí dễ nhìn."
+        },
+        {
+          "start": 27.08,
+          "end": 47.02,
+          "move": "Đối chiếu xe thật",
+          "reason": "Cho lời đồn một lần kiểm tra ở quy mô khác theo tường thuật."
+        },
+        {
+          "start": 47.52,
+          "end": 57.64,
+          "move": "Tách đáp án và thực hành",
+          "reason": "Nhận biết một hiện tượng không đồng nghĩa nên tái hiện hành vi nguy hiểm."
+        }
+      ],
+      "strengths": [
+        {
+          "point": "Ba lớp mở thống nhất",
+          "evidence": "0–2,68 giây câu hỏi trong ASR khớp xe trên đường ướt và thẻ hỏi trong ảnh0–2."
+        },
+        {
+          "point": "Cầu giữa hook và thân có hoạt động rõ",
+          "evidence": "7,98–14,5 giây giới thiệu thí nghiệm, mô hình và hệ thống phun nước."
+        },
+        {
+          "point": "Có đóng lời hứa trước hẹn tập",
+          "evidence": "43,14–53,16 giây kết luận và giới hạn trước nhịp mì Ý."
+        }
+      ],
+      "weaknesses": [
+        {
+          "point": "Tư liệu tóm lược thiếu điều kiện kiểm chứng",
+          "evidence": "ASR nêu kết quả nhiều tốc độ nhưng không trình phương pháp đầy đủ, nguồn thí nghiệm hay sai số."
+        },
+        {
+          "point": "Hình không đủ xác nhận số đo",
+          "evidence": "Ảnh43,55 giây cho thấy bề mặt đo nhưng không chứng minh lượng nước hoặc độ khô được tường thuật."
+        }
+      ],
+      "shareabilityHypotheses": [
+        "Câu hỏi có thể được gửi như một bài đố trước khi mở đáp án; chưa có dữ liệu cho thấy đó là lý do chia sẻ thực.",
+        "Kết quả tăng theo biến có thể khiến người xem muốn đối chiếu dự đoán của mình."
+      ],
+      "adaptationRules": [
+        "Chọn một quan hệ có biến và kết quả rõ.",
+        "Trả lời từng phần qua các lần so, không chỉ kéo dài câu hỏi.",
+        "Nguồn và điều kiện phép thử phải đủ để người xem kiểm tra.",
+        "Tách điều quan sát trong thử nghiệm khỏi hành vi nên thực hiện."
+      ],
+      "mindmapBranches": [
+        {
+          "label": "Hỏi và dự đoán · 0–7,58s",
+          "children": [
+            "Xe không mui gặp mưa",
+            "Thêm điều kiện tốc độ"
+          ]
+        },
+        {
+          "label": "Mốc đầu · 7,98–20,08s",
+          "children": [
+            "Mô hình và phun nước",
+            "Kết quả ướt theo nguồn"
+          ]
+        },
+        {
+          "label": "Đổi biến · 20,6–26,62s",
+          "children": [
+            "Tăng tốc",
+            "Giải thích dòng khí"
+          ]
+        },
+        {
+          "label": "Đối chiếu · 27,08–42,7s",
+          "children": [
+            "Xe thật và vật đo",
+            "Hai mốc thử tiếp"
+          ]
+        },
+        {
+          "label": "Trả và giới hạn · 43,14–53,16s",
+          "children": [
+            "Đáp án có điều kiện",
+            "Không khuyến khích thử nguy hiểm"
+          ]
+        },
+        {
+          "label": "Câu hỏi mới · 53,62–57,64s",
+          "children": [
+            "Mì Ý",
+            "Đề tài cũ đã khép"
+          ]
+        }
+      ]
+    },
+    "hookStudy": {
+      "window": {
+        "start": 0,
+        "end": 7.58
+      },
+      "layers": {
+        "speech": "0–2,68s hỏi kết quả khi xe mui trần gặp mưa; 2,92–7,58s thêm lời đồn chạy đủ nhanh thì không ướt.",
+        "visual": "Ảnh0–2s: xe mở mui trên đường ướt. Ảnh5s thêm đồng hồ tốc độ, biến được đưa lên hình.",
+        "screenText": "Thẻ đỏ nêu câu hỏi có ướt, không nêu đáp án; từ ảnh3s có phụ đề theo lời."
+      },
+      "attentionMethod": "Đặt một tình huống dễ đoán rồi thêm điều kiện có vẻ làm đáp án ngược lại; người xem có thứ cụ thể để kiểm tra.",
+      "stopReason": "Giả thuyết biên tập: hình xe không mui trên mặt đường ướt khiến câu hỏi dễ hình dung ngay; điều kiện tăng tốc có thể làm người xem nghi ngờ dự đoán ban đầu. Không phải retention đã đo.",
+      "unresolvedQuestion": "Trong lời đồn, chạy nhanh thay đổi lượng nước vào xe ra sao?",
+      "withheldDetail": "Hook chưa cho các mốc tốc độ, kết quả thử và cách dùng tấm đo nước.",
+      "retentionBridge": "7,98–14,5s chuyển thẳng sang nhóm làm thí nghiệm và mô hình, cung cấp phương pháp thay vì lặp lại câu hỏi.",
+      "payoff": {
+        "start": 32.64,
+        "end": 53.16,
+        "summary": "Nguồn kể kết quả thử xe thật ở các tốc độ, kết luận có thể ít ướt khi đủ nhanh rồi nêu giới hạn an toàn; chưa kiểm chứng độc lập."
+      },
+      "twoSentenceBlueprint": [
+        "Cho thấy một tình huống quen thuộc và thêm một điều kiện có thể đảo dự đoán.",
+        "Đổi điều kiện qua các lần thử, trả kết quả từng bậc rồi nêu giới hạn của kết luận."
+      ],
+      "crossNicheTransfer": "Chuyển quan hệ cùng bài toán–thay một giả định–đối chiếu kết quả sang mô phỏng tài chính có nguồn. Sẽ hỏng nếu coi mô phỏng là thí nghiệm bảo đảm tương lai hoặc bỏ phí, rủi ro và điều kiện.",
+      "doNotTransfer": [
+        "Không chuyển tốc độ/thử nguy hiểm thành hành động mẫu.",
+        "Không mượn hiệu ứng thí nghiệm để bảo chứng lợi nhuận."
+      ],
+      "evidenceScope": "Toàn bộ ASR58s và12 ảnh có mốc từ bản tải mới; chưa nghe toàn âm/xem liên tục, chưa xác minh nghiên cứu gốc."
+    }
+  },
+  {
+    "id": "7680097632626248968",
+    "title": "Kumpo: từ vật thể kỳ lạ đến bối cảnh cộng đồng",
+    "deliveryStyle": "Tư liệu biểu diễn ngoài trời, lời dẫn giải thích và phụ đề nhỏ; mở bằng thẻ đỏ chứa tiêu đề lớn. Các góc xa–gần cho thấy trang phục chuyển động và chân người; đuôi đổi sang hình túi bẫy côn trùng.",
+    "openingObservation": "0–2,54 giây ASR dùng lời hứa về sự thật của một điệu nhảy Tây Phi; ảnh0–2 cho thấy một khối lá đang chuyển động giữa sân có khán giả. Từ3–7,58 giây lời dẫn mới diễn tả nó giống bụi cỏ tự xoay. Hình lạ là chất liệu tò mò cụ thể; cách nói toàn thế giới ngạc nhiên chỉ là cường điệu chưa có bằng chứng.",
+    "visualEvidence": [
+      {
+        "time": 0,
+        "observation": "Một khối trang phục phủ lá ở sân đất có người xem; thẻ đỏ nêu sự thật về điệu nhảy Tây Phi."
+      },
+      {
+        "time": 2,
+        "observation": "Trang phục ở trạng thái bung rộng, phía sau là người đứng xem."
+      },
+      {
+        "time": 3,
+        "observation": "Cỡ gần của khối lá; phụ đề mô tả xoay giữa làng."
+      },
+      {
+        "time": 7.2,
+        "observation": "Cận lá bung, khoảng dưới trang phục tối; ảnh không đủ xác định người biểu diễn."
+      },
+      {
+        "time": 14.41,
+        "observation": "Tư liệu khác với lớp lá màu nâu và người đứng phía sau."
+      },
+      {
+        "time": 21.61,
+        "observation": "Phần dưới trang phục cho thấy chân và vải hoa, có ký hiệu mũi tên đỏ chỉ vào."
+      },
+      {
+        "time": 28.81,
+        "observation": "Người mặc trang phục đứng gần nhóm người và xe máy trong sân."
+      },
+      {
+        "time": 36.01,
+        "observation": "Trang phục lá xoay gần máy, phù hợp đoạn lời nói danh tính thường giữ kín nhưng không xác minh danh tính."
+      },
+      {
+        "time": 43.22,
+        "observation": "Toàn thân trang phục đứng cao với một trục nhô lên, người xem trong sân."
+      },
+      {
+        "time": 47.02,
+        "observation": "Túi bẫy côn trùng treo ngoài trời, phụ đề hỏi về chủ đề sau."
+      }
+    ],
+    "beats": [
+      {
+        "start": 0,
+        "end": 7.58,
+        "summary": "Cho thấy khối lá xoay và đặt bí ẩn về điệu nhảy.",
+        "role": "Kích hoạt câu hỏi thứ gì hoặc ai khiến nó chuyển động."
+      },
+      {
+        "start": 8.04,
+        "end": 18.88,
+        "summary": "Nguồn gọi tên Kumpo và mô tả trang phục che kín người diễn.",
+        "role": "Trả lời nhận diện bằng tên và vật liệu, không tiếp tục gợi siêu nhiên."
+      },
+      {
+        "start": 19.34,
+        "end": 24.42,
+        "summary": "Mô tả xoay nhanh làm lớp lá bung rộng.",
+        "role": "Giải thích vẻ ngoài khác thường từ chuyển động quan sát được."
+      },
+      {
+        "start": 24.8,
+        "end": 36.3,
+        "summary": "Chuyển sang vai trò cộng đồng và việc giữ kín danh tính.",
+        "role": "Mở ý nghĩa vượt khỏi một mẹo trình diễn."
+      },
+      {
+        "start": 36.6,
+        "end": 44.2,
+        "summary": "Bác cách gọi ma quỷ và nhắc đây là truyền thống theo nguồn.",
+        "role": "Sửa lối diễn giải giật gân đã có trên mạng."
+      },
+      {
+        "start": 44.64,
+        "end": 47.58,
+        "summary": "Giới thiệu túi bẫy côn trùng ở tập sau.",
+        "role": "Cầu nối tập sau sau khi đã trả nhận diện và bối cảnh."
+      }
+    ],
+    "ending": "Phần chính khép bằng việc sửa tên gọi giật gân, nhấn bối cảnh truyền thống theo nguồn; đuôi hẹn một vật lạ khác. Clip không giải hết kỹ thuật biểu diễn hay xác thực từng chi tiết văn hoá.",
+    "mechanism": "Hình chuyển động khó nhận diện → khơi dự đoán vui → gọi tên và chỉ ra trang phục → giải thích chuyển động → thêm bối cảnh cộng đồng → sửa nhãn sai. Bí ẩn được giải khá sớm để câu chuyện chuyển từ cái gì sang có ý nghĩa gì.",
+    "transfer": "Học quan hệ vẻ ngoài gây hiểu sai–chi tiết quan sát sửa cách hiểu–bối cảnh làm rõ chức năng. Sang tài chính chỉ áp dụng khi có một hiện tượng và cơ chế có nguồn; không gắn kỳ bí hoặc đạo đức cho nhóm người, không coi một ảnh là bằng chứng gian lận.",
+    "limitations": [
+      "Đã đọc toàn bộ ASR có timestamp và xem 12 khung trích của cùng ID; chưa nghe toàn âm thanh hoặc xem video liên tục.",
+      "Không có retention, tỷ lệ xem hết hay thử nghiệm nhân quả; các nhận định giữ chân và chia sẻ là giả thuyết về cách trình bày.",
+      "Các tên văn hoá trong ASR có thể sai phiên âm; bài này gọi Kumpo theo nguồn và không xác nhận cách phiên âm tên cộng đồng.",
+      "Chưa kiểm chứng độc lập xuất xứ tư liệu, ý nghĩa nghi lễ, vùng địa lý hay các khái quát văn hoá.",
+      "Không có bằng chứng cho phát biểu cường điệu toàn thế giới ngạc nhiên. Mô tả metadata không cho biết tiếp cận tự nhiên hay trả phí."
+    ],
+    "detail": {
+      "promise": "Nhận diện một trình diễn có vẻ kỳ lạ và đặt nó vào bối cảnh văn hoá theo nguồn.",
+      "centralQuestion": "Khối lá tự xoay là gì, và vì sao nó xuất hiện trong cộng đồng?",
+      "emotionalArc": [
+        {
+          "start": 0,
+          "end": 7.58,
+          "emotion": "Lạ mắt",
+          "evidence": "Hình trang phục lá chuyển động đi cùng mô tả như bụi cỏ tự xoay.",
+          "interpretation": "Bí ẩn đến từ khó nhận ra hình người, không phải bằng chứng siêu nhiên."
+        },
+        {
+          "start": 8.04,
+          "end": 24.42,
+          "emotion": "Có lời giải vật lý",
+          "evidence": "Lời gọi tên, vật liệu che người và chuyển động được đưa liên tiếp.",
+          "interpretation": "Câu hỏi nhận diện được giải sớm để mở lớp ý nghĩa khác."
+        },
+        {
+          "start": 24.8,
+          "end": 36.3,
+          "emotion": "Tò mò về ý nghĩa",
+          "evidence": "Nguồn kể chức năng cộng đồng và giữ kín danh tính.",
+          "interpretation": "Duy trì quan tâm bằng bối cảnh thay vì kéo dài trò đoán."
+        },
+        {
+          "start": 36.6,
+          "end": 47.58,
+          "emotion": "Sửa nhận thức rồi chuyển đề tài",
+          "evidence": "Bác tên gọi ma quỷ trước lời hẹn tập.",
+          "interpretation": "Đưa sự lạ về phạm vi văn hoá theo nguồn, không xác nhận toàn bộ nội dung."
+        }
+      ],
+      "informationDesign": [
+        {
+          "start": 0,
+          "end": 7.58,
+          "move": "Cho thấy trước khi định danh",
+          "reason": "Người xem có hiện tượng cụ thể để đặt câu hỏi."
+        },
+        {
+          "start": 8.04,
+          "end": 24.42,
+          "move": "Gọi tên rồi giải vẻ ngoài",
+          "reason": "Tách trang phục, người diễn và chuyển động."
+        },
+        {
+          "start": 24.8,
+          "end": 44.2,
+          "move": "Bổ sung chức năng và sửa nhãn",
+          "reason": "Biến một hình lạ thành bài giải thích bối cảnh theo nguồn."
+        },
+        {
+          "start": 44.64,
+          "end": 47.58,
+          "move": "Đề tài mới",
+          "reason": "Không treo câu hỏi cũ để buộc xem tiếp."
+        }
+      ],
+      "strengths": [
+        {
+          "point": "Hình mở tự tạo câu hỏi",
+          "evidence": "Ảnh0–3s cho thấy trang phục lá chuyển động giữa người xem, trước đoạn định danh8,04s."
+        },
+        {
+          "point": "Có chuyển lớp câu hỏi",
+          "evidence": "8,04–24,42s giải cái gì và vì sao trông lạ;24,8–44,2s kể ý nghĩa và sửa nhãn."
+        },
+        {
+          "point": "Chi tiết người diễn được minh hoạ",
+          "evidence": "Ảnh21,61s có chân và vải dưới lá, hỗ trợ phần giải thích trang phục."
+        }
+      ],
+      "weaknesses": [
+        {
+          "point": "Mở phóng đại phản ứng xã hội",
+          "evidence": "0–2,54s khẳng định cả thế giới ngỡ ngàng mà không có chứng cứ kèm theo."
+        },
+        {
+          "point": "Bối cảnh văn hoá được tóm rất ngắn",
+          "evidence": "27,08–44,2s gồm nhiều khái quát cộng đồng nhưng thiếu nguồn chuyên biệt để kiểm tra. Đây là giới hạn bằng chứng, không khẳng định nội dung sai."
+        }
+      ],
+      "shareabilityHypotheses": [
+        "Một vật khó định danh có thể được gửi như câu đố nhìn hình.",
+        "Đoạn sửa cách gọi sai có thể hữu ích trong cuộc trao đổi về một clip tương tự; chưa có dữ liệu chia sẻ."
+      ],
+      "adaptationRules": [
+        "Cho vật thật và chi tiết quan sát trước khi dùng nhãn cơ chế.",
+        "Trả bí ẩn nhận diện sớm rồi mở lớp chức năng có nguồn.",
+        "Tránh cường điệu phản ứng toàn xã hội.",
+        "Kiểm tên gọi và nguồn văn hoá, không khai thác sự lạ để kỳ thị."
+      ],
+      "mindmapBranches": [
+        {
+          "label": "Hình lạ · 0–7,58s",
+          "children": [
+            "Khối lá chuyển động",
+            "Câu hỏi nhận diện"
+          ]
+        },
+        {
+          "label": "Gọi tên · 8,04–18,88s",
+          "children": [
+            "Kumpo theo nguồn",
+            "Trang phục che người"
+          ]
+        },
+        {
+          "label": "Giải vẻ ngoài · 19,34–24,42s",
+          "children": [
+            "Chuyển động xoay",
+            "Lá bung rộng"
+          ]
+        },
+        {
+          "label": "Ý nghĩa · 24,8–36,3s",
+          "children": [
+            "Chức năng cộng đồng",
+            "Danh tính giữ kín theo nguồn"
+          ]
+        },
+        {
+          "label": "Sửa nhãn · 36,6–44,2s",
+          "children": [
+            "Không gọi ma quỷ",
+            "Bối cảnh truyền thống"
+          ]
+        },
+        {
+          "label": "Chuyển tập · 44,64–47,58s",
+          "children": [
+            "Vật lạ khác",
+            "Câu hỏi chính đã trả"
+          ]
+        }
+      ]
+    },
+    "hookStudy": {
+      "window": {
+        "start": 0,
+        "end": 7.58
+      },
+      "layers": {
+        "speech": "0–2,54s hứa tiết lộ sự thật về điệu nhảy;3–7,58s mô tả hiện tượng giống một bụi cỏ xoay và đặt cách hiểu ngộ nghĩnh.",
+        "visual": "Ảnh0–3s: trang phục phủ lá trong sân đất; hình chuyển từ xa sang gần và lá bung ở tư thế khác.",
+        "screenText": "Thẻ đỏ đầu clip nhắc sự thật và Tây Phi; ảnh3s chuyển phụ đề mô tả chuyển động. Không có tên Kumpo trong những ảnh mở đã xem."
+      },
+      "attentionMethod": "Vật thể khó nhận diện được đặt trước tên gọi, cho người xem một nhiệm vụ nhận ra nguyên nhân chuyển động.",
+      "stopReason": "Giả thuyết biên tập: khối lá có hình dáng như tự di chuyển giữa người thật có thể khiến người xem dừng để nhận diện; chưa có retention xác nhận.",
+      "unresolvedQuestion": "Thứ đang xoay là gì, có người bên trong không?",
+      "withheldDetail": "Tên Kumpo, vật liệu trang phục và chức năng cộng đồng chưa xuất hiện trong cửa sổ mở.",
+      "retentionBridge": "8,04–18,88s không kéo bí ẩn mà gọi tên, đặt địa bàn theo nguồn và giải thích lớp lá che người; sau đó mở câu hỏi về ý nghĩa.",
+      "payoff": {
+        "start": 8.04,
+        "end": 44.2,
+        "summary": "Trả nhận diện qua trang phục/người diễn và chuyển động; bổ sung ý nghĩa cộng đồng, sửa cách gọi ma quỷ theo nguồn. Kỹ thuật diễn và chi tiết văn hoá chưa được kiểm chứng độc lập."
+      },
+      "twoSentenceBlueprint": [
+        "Đưa một hiện tượng khó nhận diện lên hình rồi gọi đúng câu hỏi mà vẻ ngoài gây ra.",
+        "Giải nhận diện bằng chi tiết thấy được, sau đó mở bối cảnh chức năng và sửa cách hiểu sai."
+      ],
+      "crossNicheTransfer": "Chuyển quan hệ hiện tượng bề ngoài–cơ chế bên dưới–ý nghĩa thực sang một biểu đồ hoặc giao dịch có dữ liệu kiểm tra. Sẽ hỏng nếu vẻ lạ được dùng để kết tội bên tham gia hay nếu cơ chế chỉ là suy đoán.",
+      "doNotTransfer": [
+        "Không dùng nhãn kỳ bí hay phóng đại cả thế giới để thay bằng chứng.",
+        "Không biến hình ảnh tài chính khó hiểu thành cáo buộc gian lận."
+      ],
+      "evidenceScope": "Đọc toàn ASR48s và xem12 ảnh có mốc; chưa nghe toàn âm/xem liên tục, chưa xác minh văn hoá gốc."
+    }
+  },
+  {
+    "id": "7667805587454971144",
+    "title": "Thông số pin trên quảng cáo và phần người dùng được sử dụng",
+    "deliveryStyle": "Người bình luận trong cửa sổ tròn phía trên, tư liệu thử và biểu đồ ở giữa, phụ đề ngắn phía dưới trên nền thương hiệu đen–xanh. Tư liệu có nhãn nguồn Geekerwan; cuối chuyển người nói ra toàn khung.",
+    "openingObservation": "0–5,66 giây ASR dựng quy mô phép kiểm: một YouTuber tháo pin78 máy rồi đo theo chuẩn được nguồn nêu. Từ5,66–10,44s mới phát biểu kết luận chỉ hai hãng trung thực nhất, sau đó hỏi thực hư. Ảnh0–3 cho thấy bàn nhiều điện thoại đồng thời với mặt người dẫn; ảnh5 chuyển sang thiết bị đo. Hook dựa vào quy mô bằng chứng trước kết luận gây tranh luận, không mở ngay bằng mệnh đề pin10.000 chỉ dùng8.500 như tiêu đề metadata.",
+    "visualEvidence": [
+      {
+        "time": 0,
+        "observation": "Người dẫn trong cửa sổ tròn, giữa khung là bàn nhiều điện thoại, có nhãn nguồn Geekerwan."
+      },
+      {
+        "time": 2,
+        "observation": "Người dẫn giơ tay, tư liệu vẫn nhiều máy trên bàn; phụ đề nêu số78 chiếc."
+      },
+      {
+        "time": 5,
+        "observation": "Tư liệu bàn có máy tính và thiết bị đo, nhãn nguồn giữ nguyên."
+      },
+      {
+        "time": 19.62,
+        "observation": "Đồ hoạ pin với ổ khoá phía trước, minh hoạ khái niệm bị giới hạn dung lượng."
+      },
+      {
+        "time": 39.24,
+        "observation": "Biểu đồ thanh so sánh nhiều dòng thiết bị; ảnh lấy mẫu không đủ đọc toàn phương pháp."
+      },
+      {
+        "time": 58.86,
+        "observation": "Một biểu đồ thanh khác với nhiều tên và mức số."
+      },
+      {
+        "time": 78.48,
+        "observation": "Biểu đồ công suất theo thời gian đi xuống dạng bậc, tư liệu chữ Trung Quốc."
+      },
+      {
+        "time": 98.1,
+        "observation": "Đồ thị nhiều đường tăng dần, minh hoạ so tốc độ tích luỹ năng lượng."
+      },
+      {
+        "time": 117.72,
+        "observation": "Tiếp tục đồ thị đường cùng cửa sổ người dẫn, không phải thí nghiệm tự thực hiện trước camera."
+      },
+      {
+        "time": 129.8,
+        "observation": "Người dẫn ra toàn khung tại bàn, tay đan và một điện thoại phía trước."
+      }
+    ],
+    "beats": [
+      {
+        "start": 0,
+        "end": 13.28,
+        "summary": "Giới thiệu phép đo78 máy và một kết luận về hãng; hỏi thực hư.",
+        "role": "Mượn quy mô kiểm tra để đặt chênh lệch quảng cáo–thực tế thành vấn đề."
+      },
+      {
+        "start": 13.28,
+        "end": 28.78,
+        "summary": "Nhận diện nguồn và định nghĩa khoá dung lượng theo người dẫn.",
+        "role": "Cho người xem từ vựng trước khi vào ví dụ."
+      },
+      {
+        "start": 28.88,
+        "end": 52.98,
+        "summary": "Đối chiếu các hãng và một mẫu pin10.000 nhưng ít dung lượng dùng hơn theo nguồn.",
+        "role": "Đưa nhận định xuống ví dụ định lượng và quyền lợi người dùng."
+      },
+      {
+        "start": 52.98,
+        "end": 69.36,
+        "summary": "Bổ sung các nhóm ngoại lệ và phần dự trữ được đánh giá chấp nhận.",
+        "role": "Thu hẹp cách nói bao trùm ở mở; ASR vài từ không chắc nên không xếp hạng lại ở đây."
+      },
+      {
+        "start": 69.36,
+        "end": 104.34,
+        "summary": "Mở thêm chênh lệch công suất quảng cáo, công suất đỉnh và tốc độ thực.",
+        "role": "Dùng vấn đề thứ hai để mở rộng cùng quan hệ thông số–trải nghiệm."
+      },
+      {
+        "start": 104.34,
+        "end": 124.52,
+        "summary": "Giải thích đánh đổi kỹ thuật rồi tách vấn đề minh bạch.",
+        "role": "Tránh dừng ở tố hãng; đổi từ có lý do sang có công bố đủ hay không."
+      },
+      {
+        "start": 124.52,
+        "end": 130.62,
+        "summary": "Hỏi ý kiến và nhắc lại chênh lệch dung lượng.",
+        "role": "Kết bằng tranh luận gắn quyền lợi người dùng."
+      }
+    ],
+    "ending": "Phần kết thừa nhận đánh đổi kỹ thuật có lý do theo nguồn, nhưng đặt trọng tâm vào minh bạch rồi mời bình luận. Không có kết luận sản phẩm nào nên mua trong phân tích này.",
+    "mechanism": "Quy mô phép kiểm → kết luận gây chú ý → định nghĩa biến đo → ví dụ và ngoại lệ → thêm biến công suất → lý do kỹ thuật → phân biệt giới hạn kỹ thuật với minh bạch. Điểm học được là đổi một cáo buộc tuyệt đối sang câu hỏi công bố điều kiện; ASR có chỗ tự mâu thuẫn nên không thể lấy clip làm bảng xếp hạng hãng.",
+    "transfer": "Chuyển được quan hệ thông số công bố–định nghĩa phần thực nhận–điều kiện đo–đánh đổi. Với tài chính cần công bố phí, thời hạn, giả định và mẫu so; không đổi ngôn ngữ quảng cáo thành kết luận gian dối nếu chưa xác minh.",
+    "limitations": [
+      "Đã đọc toàn bộ ASR có timestamp và xem 12 khung trích của cùng ID; chưa nghe toàn âm thanh hoặc xem video liên tục.",
+      "Không có retention, tỷ lệ xem hết hay thử nghiệm nhân quả; các nhận định giữ chân và chia sẻ là giả thuyết về cách trình bày.",
+      "Không kiểm nghiệm độc lập dung lượng, công suất, tên máy hay chuẩn thử; không xác nhận hãng nào trung thực hoặc che giấu.",
+      "ASR52,98–69,36s có từ nhận sai và quan hệ giữa các nhóm hãng chưa rõ; không dùng để xếp hạng hoặc trích kết luận theo hãng.",
+      "ASR82,24–87,68s về mức công suất có khả năng nhận sai số; không tái sử dụng làm dữ liệu kỹ thuật.",
+      "Tư liệu đo là nguồn được người bình luận dẫn, không phải thí nghiệm do tài khoản này tự làm trong video. Chưa biết tiếp cận tự nhiên/trả phí."
+    ],
+    "detail": {
+      "promise": "Giải thích chênh lệch giữa thông số pin/sạc công bố và cách nguồn đo phần thực dùng, rồi bàn minh bạch.",
+      "centralQuestion": "Khác biệt giữa con số trên quảng cáo và trải nghiệm là gì, do giới hạn kỹ thuật hay cách công bố?",
+      "emotionalArc": [
+        {
+          "start": 0,
+          "end": 13.28,
+          "emotion": "Nghi ngờ một lời quảng cáo",
+          "evidence": "Phép kiểm nhiều máy được nối với kết luận chỉ hai hãng trung thực theo nguồn.",
+          "interpretation": "Quy mô và mệnh đề mạnh có thể tạo nhu cầu kiểm tra, cũng đòi bằng chứng chặt."
+        },
+        {
+          "start": 13.28,
+          "end": 52.98,
+          "emotion": "Thấy chênh lệch cụ thể",
+          "evidence": "Định nghĩa giới hạn và ví dụ phần dung lượng người dùng được dùng.",
+          "interpretation": "Làm câu chuyện gắn với một đại lượng thay vì cảm giác chung."
+        },
+        {
+          "start": 52.98,
+          "end": 104.34,
+          "emotion": "Thêm điều kiện và so sánh",
+          "evidence": "Nguồn thêm ngoại lệ rồi chuyển sang công suất sạc.",
+          "interpretation": "Mở bề rộng nhưng cũng tăng gánh theo dõi và sai số diễn giải."
+        },
+        {
+          "start": 104.34,
+          "end": 130.62,
+          "emotion": "Đánh giá có phân biệt",
+          "evidence": "Nhận lý do kỹ thuật nhưng hỏi về minh bạch.",
+          "interpretation": "Người xem được gợi một tiêu chí đánh giá khác ngôn ngữ buộc tội ban đầu."
+        }
+      ],
+      "informationDesign": [
+        {
+          "start": 0,
+          "end": 13.28,
+          "move": "Nguồn phép đo trước kết luận",
+          "reason": "Hình bàn máy và thiết bị đo làm quy mô kiểm tra nhìn thấy được."
+        },
+        {
+          "start": 13.28,
+          "end": 52.98,
+          "move": "Định nghĩa rồi ví dụ",
+          "reason": "Trước khi so cần biết con số nào đang bị giới hạn theo lời nguồn."
+        },
+        {
+          "start": 52.98,
+          "end": 104.34,
+          "move": "Ngoại lệ và đại lượng thứ hai",
+          "reason": "Cùng vấn đề thông số được thử ở dung lượng lẫn công suất theo thời gian."
+        },
+        {
+          "start": 104.34,
+          "end": 130.62,
+          "move": "Lý do khác với minh bạch",
+          "reason": "Giải thích sự cần thiết kỹ thuật không tự xoá yêu cầu công bố điều kiện."
+        }
+      ],
+      "strengths": [
+        {
+          "point": "Hình mở cụ thể hoá quy mô",
+          "evidence": "Ảnh0–3s là nhiều điện thoại, ảnh5s là thiết bị đo, khớp lời78 máy và đo kiểm."
+        },
+        {
+          "point": "Khái niệm khó có hình",
+          "evidence": "Ảnh19,62s dùng pin kèm khoá trước biểu đồ so sánh."
+        },
+        {
+          "point": "Kết có phân biệt nguyên nhân và trách nhiệm",
+          "evidence": "104,34–124,52s giải lý do kỹ thuật rồi chuyển sang thông tin người dùng được biết."
+        }
+      ],
+      "weaknesses": [
+        {
+          "point": "Kết luận mở quá tuyệt đối so thân",
+          "evidence": "5,66–10,44s dùng tiêu chí trung thực nhất; phần sau thêm ngoại lệ và lý do kỹ thuật."
+        },
+        {
+          "point": "Nguồn thứ cấp và ASR không đủ kiểm thông số",
+          "evidence": "Ảnh39,24s và78,48s là biểu đồ từ nguồn khác; ASR phần hãng và công suất có đoạn cần nghe lại."
+        },
+        {
+          "point": "Hai vấn đề kỹ thuật trong một bài",
+          "evidence": "69,36s chuyển từ dung lượng sang sạc, có thể cần làm rõ mẫu so và điều kiện từng bài kiểm; chưa có retention."
+        }
+      ],
+      "shareabilityHypotheses": [
+        "Chênh lệch giữa lời công bố và phần nhận được có thể khơi thảo luận của người đang dùng các thiết bị tương tự.",
+        "Đồ thị và ví dụ có số có thể được gửi để hỏi lại về phương pháp đo, không phải bằng chứng clip đã gây phản ứng đó."
+      ],
+      "adaptationRules": [
+        "Chỉ rõ số công bố và số đo là hai đại lượng gì.",
+        "Dẫn nguồn phương pháp, không chỉ uy tín người thử.",
+        "Đưa ngoại lệ trước khi chốt một nhận định bao trùm.",
+        "Tách lý do kỹ thuật với yêu cầu minh bạch.",
+        "Không chuyển lời bình sản phẩm thành cáo buộc tài chính hoặc khuyến nghị mua."
+      ],
+      "mindmapBranches": [
+        {
+          "label": "Phép kiểm và tranh luận · 0–13,28s",
+          "children": [
+            "78 máy theo lời nguồn",
+            "Kết luận mạnh cần xem xét"
+          ]
+        },
+        {
+          "label": "Khái niệm · 13,28–28,78s",
+          "children": [
+            "Nguồn tư liệu",
+            "Giới hạn dung lượng"
+          ]
+        },
+        {
+          "label": "Ví dụ · 28,88–52,98s",
+          "children": [
+            "Thông số và phần dùng",
+            "Chênh lệch cụ thể theo nguồn"
+          ]
+        },
+        {
+          "label": "Điều kiện · 52,98–69,36s",
+          "children": [
+            "Có ngoại lệ",
+            "ASR chưa đủ xếp hãng"
+          ]
+        },
+        {
+          "label": "Biến thứ hai · 69,36–104,34s",
+          "children": [
+            "Đỉnh sạc và theo thời gian",
+            "Biểu đồ cần phương pháp"
+          ]
+        },
+        {
+          "label": "Lý do và minh bạch · 104,34–130,62s",
+          "children": [
+            "Đánh đổi kỹ thuật theo nguồn",
+            "Mời bàn về công bố"
+          ]
+        }
+      ]
+    },
+    "hookStudy": {
+      "window": {
+        "start": 0,
+        "end": 13.28
+      },
+      "layers": {
+        "speech": "0–3,14s nêu tháo pin78 máy;3,14–5,66s nêu cách đo theo chuẩn được dẫn;5,66–10,44s đưa kết luận chỉ hai hãng trung thực;10,44–13,28s hỏi thực hư.",
+        "visual": "Ảnh0–3s bàn nhiều máy với mặt người bình luận trong cửa sổ;ảnh5s bàn đo có máy tính và thiết bị.",
+        "screenText": "Phụ đề lần lượt nêu YouTuber, quốc gia, số78 và điện thoại; nhãn nguồn Geekerwan hiện dưới tư liệu. Không có bảng kết quả hoàn chỉnh trong các ảnh0–5s."
+      },
+      "attentionMethod": "Đưa độ lớn một cuộc kiểm tra và hình vật mẫu trước mệnh đề trái với kỳ vọng từ quảng cáo; người xem được hứa sẽ biết thực hư.",
+      "stopReason": "Giả thuyết biên tập: bàn dày điện thoại khiến con số78 có hình đối chiếu; kết luận hai hãng có thể khiến người đang dùng hãng khác muốn kiểm tra. Không suy ra được retention hay độ đúng.",
+      "unresolvedQuestion": "Phép đo phát hiện chênh lệch gì, và kết luận về minh bạch có đủ căn cứ không?",
+      "withheldDetail": "Định nghĩa phần dung lượng bị giới hạn, biểu đồ từng máy, ngoại lệ và lý do kỹ thuật chưa được giải trong hook.",
+      "retentionBridge": "13,28–28,78s giới thiệu nguồn rồi định nghĩa hành vi; ảnh19,62s có pin và khoá để làm khái niệm nhìn được.",
+      "payoff": {
+        "start": 104.34,
+        "end": 130.62,
+        "summary": "Nguồn giải thích đánh đổi kỹ thuật rồi tách vấn đề minh bạch và mời bình luận. Đây là lời giải lập luận của clip, chưa xác nhận kết luận kỹ thuật hay xếp hạng hãng; ASR phần so hãng còn không rõ."
+      },
+      "twoSentenceBlueprint": [
+        "Cho quy mô kiểm tra hiện ra trước khi nêu chênh lệch mà phép kiểm được cho là phát hiện.",
+        "Định nghĩa đại lượng, đối chiếu ví dụ và ngoại lệ, rồi tách nguyên nhân hợp lý khỏi mức công bố cho người dùng."
+      ],
+      "crossNicheTransfer": "Chuyển quan hệ số quảng bá–phần thực nhận–điều kiện đo sang phí, lãi hoặc quyền lợi tài chính có hồ sơ kiểm chứng. Sẽ hỏng nếu lấy một phép đo thứ cấp làm bằng chứng cố ý lừa dối hay bỏ sự khác nhau giữa lãi suất danh nghĩa và hiệu dụng.",
+      "doNotTransfer": [
+        "Không chuyển nhãn trung thực/giấu thành kết tội tổ chức tài chính khi thiếu bằng chứng.",
+        "Không dùng biểu đồ thiếu phương pháp làm xác nhận thông số.",
+        "Không lấy câu so hãng ASR không rõ làm dữ liệu."
+      ],
+      "evidenceScope": "Đọc toàn ASR131s, xem12 ảnh có mốc; tư liệu được dẫn từ Geekerwan, chưa kiểm nghiệm độc lập và chưa nghe toàn âm/xem liên tục."
+    }
+  },
+  {
+    "id": "7687220059579632903",
+    "title": "Người đang sở hữu máy nêu ba lý do không nâng cấp",
+    "deliveryStyle": "Người dẫn ngồi nói trực diện tại nền phòng màu đỏ, cầm điện thoại như vật chứng; xen cận máy trên tay ngoài đường, ốp và ảnh so camera hai máy. Phụ đề trắng nhỏ, riêng tiêu đề hỏi không nên mua được nhấn vàng.",
+    "openingObservation": "0–2,04 giây người dẫn nhận mình đang sở hữu dòng máy, rồi2,04–5,92s lại khuyên không mua bản lớn hơn;5,92–6,74s hỏi tại sao. Ảnh0–1 cho thấy người dẫn thực sự cầm máy trước khi hạ xuống ở2s. Sự căng nằm giữa vị thế người đã chọn mua và kết luận không khuyến khích người khác, không nằm ở một lời chê chưa có bối cảnh.",
+    "visualEvidence": [
+      {
+        "time": 0,
+        "observation": "Người dẫn ngồi cầm điện thoại trước người; ảnh có độ mờ chuyển động ở máy."
+      },
+      {
+        "time": 1,
+        "observation": "Đưa mặt lưng điện thoại lên sát mặt, phụ đề nhận đang sở hữu máy."
+      },
+      {
+        "time": 3,
+        "observation": "Hai tay diễn giải, điện thoại đã ra khỏi vị trí giơ cao."
+      },
+      {
+        "time": 5,
+        "observation": "Cận lưng điện thoại ngoài trời, chữ lớn hỏi không nên mua và tên dòng máy theo nguồn."
+      },
+      {
+        "time": 16.36,
+        "observation": "Cận một điện thoại màu đỏ tím trên tay ngoài đường, chưa có chứng từ giá."
+      },
+      {
+        "time": 32.73,
+        "observation": "Trở lại người dẫn ngồi với tay mở sang bên, phụ đề về độ khó khi chi tiền."
+      },
+      {
+        "time": 49.09,
+        "observation": "Hai máy trong ốp dày màu khác nhau đặt cạnh nhau trên tay; hỗ trợ lời về phụ kiện và trọng lượng."
+      },
+      {
+        "time": 65.46,
+        "observation": "Cận mặt trước điện thoại trên tay ngoài đường."
+      },
+      {
+        "time": 81.82,
+        "observation": "Hai hình người đứng ngoài trời xếp dọc với nhãn hai đời máy, minh hoạ so camera."
+      },
+      {
+        "time": 108.1,
+        "observation": "Người dẫn ngồi cùng nền đỏ, tay trước người, phụ đề mời bình luận."
+      }
+    ],
+    "beats": [
+      {
+        "start": 0,
+        "end": 6.74,
+        "summary": "Nhận đang sở hữu máy nhưng nêu kết luận không nên mua bản lớn.",
+        "role": "Đặt mâu thuẫn vị thế–lời khuyên rồi mở câu hỏi vì sao."
+      },
+      {
+        "start": 7.2,
+        "end": 24.1,
+        "summary": "Nêu mức giá và ví nó với xe máy theo lời nguồn.",
+        "role": "Lý do đầu được quy về khả năng chi trả và cách so có hình dung."
+      },
+      {
+        "start": 24.1,
+        "end": 36.12,
+        "summary": "Đổi cùng khoản tiền thành nhiều đồ gia dụng và hỏi có xứng đáng.",
+        "role": "Làm chi phí cơ hội thành các món đời thường."
+      },
+      {
+        "start": 36.8,
+        "end": 66.42,
+        "summary": "Nêu trọng lượng rồi cộng ốp, kính và cách mang máy.",
+        "role": "Chuyển từ giá ban đầu sang bất tiện lặp mỗi ngày."
+      },
+      {
+        "start": 66.42,
+        "end": 84.16,
+        "summary": "Cho rằng máy cũ đã đáp ứng hiệu năng và camera.",
+        "role": "Đặt lựa chọn mới cạnh phương án đang có thay vì đánh giá tuyệt đối."
+      },
+      {
+        "start": 84.16,
+        "end": 100.54,
+        "summary": "Nêu nhóm nhu cầu đặc biệt rồi đối chiếu người dùng phổ thông.",
+        "role": "Thu hẹp kết luận theo nhu cầu, không hoàn toàn phủ nhận sản phẩm."
+      },
+      {
+        "start": 100.54,
+        "end": 108.96,
+        "summary": "Tóm lại ba lý do tại thời điểm nguồn nói và mời bình luận.",
+        "role": "Kết bằng lập trường có điều kiện và câu hỏi cộng đồng."
+      }
+    ],
+    "ending": "Nguồn chốt lại lý do không mua tại thời điểm đang nói rồi mời ý kiến. Thân bài đã nêu ngoại lệ cho nhu cầu đặc biệt; đây là quan điểm đánh giá của người dẫn, không phải khuyến nghị mua thiết bị từ phân tích này.",
+    "mechanism": "Người đã sở hữu nói ngược kỳ vọng bán hàng → ba tiêu chí lần lượt là khoản chi, bất tiện dùng hằng ngày và phần nâng cấp cần thiết → thêm ngoại lệ theo nhu cầu → chốt có thời điểm. Hình vật thật và ví dụ đồ gia dụng khiến lý do có đối tượng cụ thể; không xác nhận được trải nghiệm sử dụng chỉ từ việc người dẫn cầm máy.",
+    "transfer": "Chuyển được quan hệ người đã chọn vẫn xét lại–so cùng nguồn lực với phương án khác–kiểm mức cần thiết–nêu ngoại lệ. Trong tài chính, vị thế người đang nắm giữ không tự xác nhận tính đúng của lời khuyên; phải khai báo lợi ích, mục tiêu, rủi ro và tránh dùng sở hữu làm chứng cứ hiệu quả.",
+    "limitations": [
+      "Đã đọc toàn bộ ASR có timestamp và xem 12 khung trích của cùng ID; chưa nghe toàn âm thanh hoặc xem video liên tục.",
+      "Không có retention, tỷ lệ xem hết hay thử nghiệm nhân quả; các nhận định giữ chân và chia sẻ là giả thuyết về cách trình bày.",
+      "Tên đời máy, giá, trọng lượng và tính năng là lời của nguồn; không xác nhận thông số, thời điểm phát hành hay mức giá hiện tại.",
+      "Một số ASR như đơn vị trọng lượng và mô tả camera chưa rõ; không dùng làm bảng thông số kỹ thuật.",
+      "Không có phép đo trải nghiệm do phân tích này thực hiện, không kết luận nên mua hay không mua. Metadata chưa cho biết tỷ lệ tiếp cận tự nhiên hoặc tài trợ."
+    ],
+    "detail": {
+      "promise": "Giải thích vì sao người đã sở hữu dòng máy vẫn không thấy việc mua bản lớn phù hợp số đông tại thời điểm nguồn nói.",
+      "centralQuestion": "Nếu đã dùng, vì sao người dẫn lại cho rằng người khác chưa cần mua?",
+      "emotionalArc": [
+        {
+          "start": 0,
+          "end": 6.74,
+          "emotion": "Bất ngờ về vị thế",
+          "evidence": "Người sở hữu lại đưa kết luận không mua, tay cầm máy xuất hiện ngay.",
+          "interpretation": "Mâu thuẫn này có thể khiến người xem muốn nghe căn cứ, không tự chứng minh người nói khách quan."
+        },
+        {
+          "start": 7.2,
+          "end": 36.12,
+          "emotion": "Cân chi phí",
+          "evidence": "Từ giá cao sang xe máy và đồ gia dụng.",
+          "interpretation": "Cho số tiền một nhóm phương án thay thế quen thuộc."
+        },
+        {
+          "start": 36.8,
+          "end": 66.42,
+          "emotion": "Hình dung bất tiện",
+          "evidence": "Khối lượng và phụ kiện nối cách mang trong người.",
+          "interpretation": "Đưa một tiêu chí vật lý vào trải nghiệm thường ngày."
+        },
+        {
+          "start": 66.42,
+          "end": 100.54,
+          "emotion": "Tự đối chiếu nhu cầu",
+          "evidence": "Nguồn so máy cũ và phân nhóm người cần tính năng riêng.",
+          "interpretation": "Câu hỏi chuyển từ máy tốt không sang cần phần thêm ấy không."
+        },
+        {
+          "start": 100.54,
+          "end": 108.96,
+          "emotion": "Có lập trường để trao đổi",
+          "evidence": "Tóm lý do ở thời điểm này và mời bình luận.",
+          "interpretation": "Mở thảo luận trên tiêu chí, không có dữ liệu phản ứng thực."
+        }
+      ],
+      "informationDesign": [
+        {
+          "start": 0,
+          "end": 6.74,
+          "move": "Vị thế rồi kết luận nghịch kỳ vọng",
+          "reason": "Cầm vật thật hỗ trợ nhận diện đối tượng nhưng không thay bằng chứng hiệu quả."
+        },
+        {
+          "start": 7.2,
+          "end": 36.12,
+          "move": "Đổi giá ra lựa chọn khác",
+          "reason": "Số tiền được so với món cụ thể để hình dung chi phí cơ hội."
+        },
+        {
+          "start": 36.8,
+          "end": 66.42,
+          "move": "Thêm chi phí sử dụng",
+          "reason": "Ốp, kính và việc mang theo nối thông số với trải nghiệm."
+        },
+        {
+          "start": 66.42,
+          "end": 100.54,
+          "move": "Phương án cũ và ngoại lệ",
+          "reason": "Giữ quan hệ giữa nâng cấp và nhu cầu thay vì chê sản phẩm toàn diện."
+        },
+        {
+          "start": 100.54,
+          "end": 108.96,
+          "move": "Chốt có thời điểm",
+          "reason": "Giới hạn phạm vi ý kiến rồi mời phản hồi."
+        }
+      ],
+      "strengths": [
+        {
+          "point": "Mâu thuẫn mở có vật thật",
+          "evidence": "0–2,04s nhận sở hữu, ảnh0–1s cầm máy, rồi kết luận không mua trong2,04–5,92s."
+        },
+        {
+          "point": "Lý do có chất liệu riêng",
+          "evidence": "24,1–36,12s đồ gia dụng;ảnh49,09s ốp dày;ảnh81,82s so camera."
+        },
+        {
+          "point": "Có ngoại lệ trước kết luận",
+          "evidence": "84,16–100,54s phân nhóm nhu cầu đặc biệt và cách dùng thông thường."
+        }
+      ],
+      "weaknesses": [
+        {
+          "point": "Giá và thông số cần bối cảnh thời gian",
+          "evidence": "11,72–21,88s nêu giá khác nhau theo nơi mua nhưng không có chứng từ trong ảnh mẫu; không kiểm tra mức hiện tại."
+        },
+        {
+          "point": "Vị thế sử dụng có thể bị hiểu là kiểm chứng đầy đủ",
+          "evidence": "Cầm máy và nhãn so camera không cho biết thời gian dùng hoặc điều kiện bài so."
+        },
+        {
+          "point": "Một số lời kỹ thuật ASR chưa rõ",
+          "evidence": "Đoạn53,22–54,96s và86,64–90,26s cần nghe lại trước khi trích số hoặc tính năng."
+        }
+      ],
+      "shareabilityHypotheses": [
+        "Một lập trường ngược kỳ vọng từ người đang sở hữu có thể được gửi cho người cân nhắc cùng một quyết định.",
+        "Các tiêu chí chi phí–mang theo–nhu cầu có thể khiến bình luận đưa thêm trường hợp riêng; chưa có dữ liệu bình luận để xác nhận."
+      ],
+      "adaptationRules": [
+        "Khai báo vị thế liên quan nhưng không dùng nó thay kiểm chứng.",
+        "Lý do phải có ví dụ riêng, không chỉ gọi đắt, nặng hay dư.",
+        "So với phương án sẵn có và cùng ngân sách.",
+        "Nêu ngoại lệ và thời điểm để giữ đúng phạm vi kết luận.",
+        "Với tài chính, không lấy việc sở hữu tài sản làm uy tín cho dự báo hay lời mời mua."
+      ],
+      "mindmapBranches": [
+        {
+          "label": "Mâu thuẫn · 0–6,74s",
+          "children": [
+            "Đang sở hữu",
+            "Vẫn không khuyên mua"
+          ]
+        },
+        {
+          "label": "Giá và lựa chọn · 7,2–36,12s",
+          "children": [
+            "Khoản tiền theo nguồn",
+            "Đồ thay thế cụ thể"
+          ]
+        },
+        {
+          "label": "Cách dùng · 36,8–66,42s",
+          "children": [
+            "Trọng lượng và phụ kiện",
+            "Bất tiện mang theo"
+          ]
+        },
+        {
+          "label": "Phương án cũ · 66,42–84,16s",
+          "children": [
+            "Hiệu năng",
+            "Camera có minh hoạ so"
+          ]
+        },
+        {
+          "label": "Ngoại lệ · 84,16–100,54s",
+          "children": [
+            "Nhu cầu riêng",
+            "Dùng phổ thông khác"
+          ]
+        },
+        {
+          "label": "Chốt · 100,54–108,96s",
+          "children": [
+            "Có giới hạn thời điểm",
+            "Mời bình luận"
+          ]
+        }
+      ]
+    },
+    "hookStudy": {
+      "window": {
+        "start": 0,
+        "end": 6.74
+      },
+      "layers": {
+        "speech": "0–2,04s tự nhận sở hữu dòng máy;2,04–5,92s nêu kết luận không nên mua bản lớn;5,92–6,74s hỏi tại sao.",
+        "visual": "Ảnh0–1s đưa điện thoại lên làm đối tượng trực tiếp;ảnh2–3s người dẫn nói và diễn giải bằng tay;ảnh5s cận sản phẩm.",
+        "screenText": "Ảnh1–2s phụ đề về sở hữu;ảnh5s câu hỏi không nên mua với tên máy được nhấn màu vàng."
+      },
+      "attentionMethod": "Dùng một người có liên quan trực tiếp đưa lập trường ngược kỳ vọng, rồi hứa lý do; vật đang cầm xác định đối tượng của tranh luận.",
+      "stopReason": "Giả thuyết biên tập: sự lệch giữa sở hữu và không khuyến khích mua có thể làm người xem muốn biết điều người trong cuộc thấy; không phải dữ liệu dừng lướt.",
+      "unresolvedQuestion": "Điều gì khiến người đang sở hữu máy vẫn nói việc mua chưa phù hợp?",
+      "withheldDetail": "Ba tiêu chí về khoản chi, bất tiện mang theo và mức cần nâng cấp chưa được nêu trong hook.",
+      "retentionBridge": "7,2–24,1s vào ngay lý do kinh tế và so số tiền với một vật quen, không tiếp tục lặp nhận định không mua.",
+      "payoff": {
+        "start": 84.16,
+        "end": 108.96,
+        "summary": "Nguồn giới hạn nhóm cần tính năng đặc biệt, đối chiếu nhu cầu phổ thông rồi nhắc lại lập trường tại thời điểm nói. Ba nhóm lý do đã được trình bày; không phải kết luận sản phẩm độc lập của phân tích."
+      },
+      "twoSentenceBlueprint": [
+        "Cho người đã có trải nghiệm liên quan đưa một kết luận trái kỳ vọng và đặt câu hỏi về lý do.",
+        "Trả bằng các tiêu chí có ví dụ riêng, so phương án thay thế rồi chỉ rõ ngoại lệ trước khi chốt."
+      ],
+      "crossNicheTransfer": "Chuyển quan hệ vị thế đã chọn–xem lại tiêu chí–so lựa chọn khác–nêu ngoại lệ sang thảo luận một quyết định có dữ liệu. Sẽ hỏng ở tài chính nếu vị thế đang nắm giữ được dùng để mời mua/bán hay thay cho phân tích rủi ro và xung đột lợi ích.",
+      "doNotTransfer": [
+        "Không dùng việc sở hữu như chứng cứ sinh lời hoặc khách quan.",
+        "Không chuyển ý kiến không mua thiết bị thành lời kêu gọi bán tài sản.",
+        "Không giữ giá và thông số của mẫu như dữ kiện hiện hành."
+      ],
+      "evidenceScope": "Toàn ASR109s và12 ảnh mới có mốc; chưa nghe toàn âm/xem liên tục, chưa kiểm tra giá, tên máy hoặc bài so kỹ thuật."
+    }
+  },
+  {
+    "id": "7657036293284629780",
+    "title": "Máy chạy thành sân khấu: vận động lệch kỳ vọng tập luyện",
+    "deliveryStyle": "Biểu diễn trực diện bằng cơ thể trên máy chạy, góc máy cố định thấp; người phía sau tạo lớp phản ứng.",
+    "openingObservation": "Khung 0–3 giây đặt một người ở máy chạy nhưng tay quấn trắng và biểu cảm/cử chỉ hướng máy quay làm hành động lệch khuôn tập luyện thông thường. ASR là lời bài hát, không có cơ sở coi đó là đối thoại dẫn hook. Nhìn từ các khung lấy mẫu, sự hấp dẫn nằm ở liên tiếp biến dáng đi thành màn trình diễn trong cùng một khung.",
+    "visualEvidence": [
+      {
+        "time": 0,
+        "observation": "Người mặc đồ thể thao đứng trên máy chạy, một tay quấn trắng; phía sau có người ngồi."
+      },
+      {
+        "time": 1,
+        "observation": "Người biểu diễn xoay người và giơ tay hướng camera."
+      },
+      {
+        "time": 3,
+        "observation": "Tay quấn trắng được đưa gần mặt trong tư thế diễn."
+      },
+      {
+        "time": 7.28,
+        "observation": "Thân người nghiêng, chân bắt chéo trên mặt máy chạy."
+      },
+      {
+        "time": 21.83,
+        "observation": "Người biểu diễn đưa tay về phía camera trong một tư thế khác."
+      },
+      {
+        "time": 47.51,
+        "observation": "Khung cuối lấy mẫu có tay đưa sau đầu và đầu cúi; bối cảnh vẫn là máy chạy."
+      }
+    ],
+    "beats": [
+      {
+        "start": 0,
+        "end": 3,
+        "summary": "Đặt người biểu diễn trên máy chạy, cử chỉ không giống nhịp tập thông thường.",
+        "role": "Sai lệch giữa bối cảnh và hành động."
+      },
+      {
+        "start": 5,
+        "end": 14.55,
+        "summary": "Các khung cho thấy đổi hướng đầu, nghiêng thân và chân bắt chéo.",
+        "role": "Duy trì biến tấu bằng cơ thể; đây là mốc quan sát."
+      },
+      {
+        "start": 21.83,
+        "end": 29.1,
+        "summary": "Đổi sang động tác chỉ camera rồi tư thế nghiêng thân.",
+        "role": "Thay hình dáng trong cùng bố cục."
+      },
+      {
+        "start": 36.38,
+        "end": 43.66,
+        "summary": "Đếm/chụm các ngón rồi đổi tư thế chạy biểu diễn.",
+        "role": "Thêm biến thể, chưa có câu chuyện lời thoại."
+      },
+      {
+        "start": 43.66,
+        "end": 47.51,
+        "summary": "Khung cuối chuyển sang tay sau đầu, đầu cúi.",
+        "role": "Đóng một chuỗi biểu diễn; không thấy cú giải bí mật riêng."
+      }
+    ],
+    "ending": "Ở khung 47,51 giây vẫn đang biểu diễn trên máy chạy. Không thấy thẻ kết hay một lời giải tách biệt; không xác định loop liền mạch chỉ từ khung lấy mẫu.",
+    "mechanism": "Không gian tập luyện tạo dự đoán động tác lặp đều; cử chỉ, chân bắt chéo và biểu cảm thay dự đoán đó bằng trình diễn. Người ở sau giữ thêm một lớp bối cảnh. Đây là sự bất thường thị giác có ngay đầu và được duy trì bằng biến thể, không phải câu hỏi giấu đáp án.",
+    "transfer": "Có thể học việc đưa một hành động lệch kỳ vọng vào bối cảnh người xem nhận ra ngay. Sang nội dung giải thích, cần biến lệch kỳ vọng thành một quan hệ có thể giải thích; chỉ thêm vũ đạo không tạo được bằng chứng hay giá trị kiến thức.",
+    "limitations": [
+      "Đã xem 12 khung trích có timestamp từ bản tải mới và đọc ASR khi có; chưa nghe âm hoặc xem video liên tục.",
+      "Cách gây chú ý và giữ chân là giả thuyết biên tập, không phải số đo retention hay quan hệ nhân quả.",
+      "ASR là lời bài hát; không dùng để xác nhận lời nói của người xuất hiện.",
+      "Không thể suy ra nhịp nhạc, tốc độ máy chạy hay tính an toàn từ ảnh lấy mẫu."
+    ],
+    "hookStudy": {
+      "window": {
+        "start": 0,
+        "end": 3
+      },
+      "layers": {
+        "speech": "ASR nhận lời bài hát; không dùng lyric làm phát biểu của nhân vật.",
+        "visual": "Máy chạy, tay quấn trắng, cử chỉ hướng camera.",
+        "screenText": "Không thấy chữ giải thích hook ở các khung mở."
+      },
+      "attentionMethod": "Sai lệch hành động trong không gian quen.",
+      "stopReason": "Giả thuyết: người xem dừng để xem vì sao một buổi tập có dáng biểu diễn.",
+      "unresolvedQuestion": "Nhân vật sẽ đổi động tác thế nào?",
+      "withheldDetail": "Không có bằng chứng một thông tin cụ thể bị giấu.",
+      "retentionBridge": "Đổi tư thế trong cùng khung thay cho mở vòng hỏi bằng lời.",
+      "payoff": {
+        "start": 43.66,
+        "end": 47.51,
+        "summary": "Chỉ có hồi đáp thị giác: thêm một tư thế; không có lời giải tự sự."
+      },
+      "twoSentenceBlueprint": [
+        "Đặt bối cảnh có hành động được kỳ vọng rõ.",
+        "Thay hành động đó bằng biến thể lạ rồi tiếp tục thay đổi hình dáng."
+      ],
+      "crossNicheTransfer": "Chuyển được quan hệ bối cảnh → hành động trái kỳ vọng; sang finance phải giải thích sự lệch bằng dữ kiện, vì vũ đạo không chứng minh nhận định.",
+      "doNotTransfer": [
+        "Động tác có rủi ro trên máy chạy",
+        "Lời bài hát",
+        "Giả định mọi hành động lạ đều có ích cho kịch bản"
+      ],
+      "evidenceScope": "12 khung + ASR chủ yếu nhạc; timeline hình theo các mốc đã lấy mẫu."
+    },
+    "detail": {
+      "promise": "Một màn biểu diễn tiếp tục biến đổi trong không gian tập luyện.",
+      "centralQuestion": "Trong khung tập luyện này, nhân vật còn biến tấu động tác ra sao?",
+      "emotionalArc": [
+        {
+          "start": 0,
+          "end": 3,
+          "emotion": "Sai lệch giữa bối cảnh và hành động.",
+          "evidence": "Đặt người biểu diễn trên máy chạy, cử chỉ không giống nhịp tập thông thường.",
+          "interpretation": "Đây là diễn giải tác dụng của trình tự, không xác nhận cảm xúc thực tế của khán giả."
+        },
+        {
+          "start": 5,
+          "end": 14.55,
+          "emotion": "Duy trì biến tấu bằng cơ thể; đây là mốc quan sát.",
+          "evidence": "Các khung cho thấy đổi hướng đầu, nghiêng thân và chân bắt chéo.",
+          "interpretation": "Đây là diễn giải tác dụng của trình tự, không xác nhận cảm xúc thực tế của khán giả."
+        },
+        {
+          "start": 21.83,
+          "end": 29.1,
+          "emotion": "Thay hình dáng trong cùng bố cục.",
+          "evidence": "Đổi sang động tác chỉ camera rồi tư thế nghiêng thân.",
+          "interpretation": "Đây là diễn giải tác dụng của trình tự, không xác nhận cảm xúc thực tế của khán giả."
+        },
+        {
+          "start": 36.38,
+          "end": 43.66,
+          "emotion": "Thêm biến thể, chưa có câu chuyện lời thoại.",
+          "evidence": "Đếm/chụm các ngón rồi đổi tư thế chạy biểu diễn.",
+          "interpretation": "Đây là diễn giải tác dụng của trình tự, không xác nhận cảm xúc thực tế của khán giả."
+        },
+        {
+          "start": 43.66,
+          "end": 47.51,
+          "emotion": "Đóng một chuỗi biểu diễn; không thấy cú giải bí mật riêng.",
+          "evidence": "Khung cuối chuyển sang tay sau đầu, đầu cúi.",
+          "interpretation": "Đây là diễn giải tác dụng của trình tự, không xác nhận cảm xúc thực tế của khán giả."
+        }
+      ],
+      "informationDesign": [
+        {
+          "start": 0,
+          "end": 3,
+          "move": "Sai lệch giữa bối cảnh và hành động.",
+          "reason": "Đặt người biểu diễn trên máy chạy, cử chỉ không giống nhịp tập thông thường."
+        },
+        {
+          "start": 5,
+          "end": 14.55,
+          "move": "Duy trì biến tấu bằng cơ thể; đây là mốc quan sát.",
+          "reason": "Các khung cho thấy đổi hướng đầu, nghiêng thân và chân bắt chéo."
+        },
+        {
+          "start": 21.83,
+          "end": 29.1,
+          "move": "Thay hình dáng trong cùng bố cục.",
+          "reason": "Đổi sang động tác chỉ camera rồi tư thế nghiêng thân."
+        },
+        {
+          "start": 36.38,
+          "end": 43.66,
+          "move": "Thêm biến thể, chưa có câu chuyện lời thoại.",
+          "reason": "Đếm/chụm các ngón rồi đổi tư thế chạy biểu diễn."
+        },
+        {
+          "start": 43.66,
+          "end": 47.51,
+          "move": "Đóng một chuỗi biểu diễn; không thấy cú giải bí mật riêng.",
+          "reason": "Khung cuối chuyển sang tay sau đầu, đầu cúi."
+        }
+      ],
+      "strengths": [
+        {
+          "point": "Bối cảnh được nhận ra ngay",
+          "evidence": "Máy chạy chiếm tiền cảnh từ khung 0 giây."
+        },
+        {
+          "point": "Biến tấu không cần đổi bối cảnh",
+          "evidence": "Các khung 3;7,28;21,83;47,51 giây cho những dáng người khác nhau."
+        }
+      ],
+      "weaknesses": [
+        {
+          "point": "Phụ thuộc diễn xuất cơ thể hơn cấu trúc lời",
+          "evidence": "Không có phần thoại giải thích đáng tin; các khung lấy mẫu là biểu diễn."
+        },
+        {
+          "point": "Không có đáp án tự sự độc lập để bê sang bài giải thích",
+          "evidence": "Khung cuối vẫn tiếp tục động tác, không thấy bước giải cơ chế."
+        }
+      ],
+      "shareabilityHypotheses": [
+        "Tình huống có thể được gửi vì người xem nhận ra hành vi quen thuộc; chưa đọc dữ liệu chia sẻ hay bình luận để xác nhận."
+      ],
+      "adaptationRules": [
+        "Giữ bối cảnh dễ nhận trước khi đưa hành động trái kỳ vọng.",
+        "Nếu chuyển thể, phải có ý nghĩa cho sự lệch đó; không chỉ chép dáng diễn.",
+        "Không dùng động tác trên máy chạy làm hướng dẫn tập luyện."
+      ],
+      "mindmapBranches": [
+        {
+          "label": "0–3s",
+          "children": [
+            "Đặt người biểu diễn trên máy chạy, cử chỉ không giống nhịp tập thông thường.",
+            "Sai lệch giữa bối cảnh và hành động."
+          ]
+        },
+        {
+          "label": "5–14.55s",
+          "children": [
+            "Các khung cho thấy đổi hướng đầu, nghiêng thân và chân bắt chéo.",
+            "Duy trì biến tấu bằng cơ thể; đây là mốc quan sát."
+          ]
+        },
+        {
+          "label": "21.83–29.1s",
+          "children": [
+            "Đổi sang động tác chỉ camera rồi tư thế nghiêng thân.",
+            "Thay hình dáng trong cùng bố cục."
+          ]
+        },
+        {
+          "label": "36.38–43.66s",
+          "children": [
+            "Đếm/chụm các ngón rồi đổi tư thế chạy biểu diễn.",
+            "Thêm biến thể, chưa có câu chuyện lời thoại."
+          ]
+        },
+        {
+          "label": "43.66–47.51s",
+          "children": [
+            "Khung cuối chuyển sang tay sau đầu, đầu cúi.",
+            "Đóng một chuỗi biểu diễn; không thấy cú giải bí mật riêng."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "7704655257149705473",
+    "title": "Hai lớp biểu diễn: tiền cảnh dẫn, hậu cảnh biến tấu",
+    "deliveryStyle": "Video ngắn biểu diễn đôi tại phòng gym; người nữ gần camera, người nam ở máy chạy phía sau, góc máy giữ nguyên.",
+    "openingObservation": "Khung 0–2 giây đã đặt hai người trên hai lớp không gian. Từ khung 3 giây người nữ giơ hai tay, phía sau người nam cũng có cử chỉ rộng; không cần lời giải mới thấy đây là màn diễn thay buổi tập. ASR một câu CTA kéo dài toàn clip không khớp kênh/cảnh, bị loại hoàn toàn.",
+    "visualEvidence": [
+      {
+        "time": 0,
+        "observation": "Người nữ đội mũ ở gần máy quay, phía sau là người nam trên máy chạy."
+      },
+      {
+        "time": 2,
+        "observation": "Người gần camera đặt tay quanh eo, hậu cảnh vẫn có người thứ hai."
+      },
+      {
+        "time": 3,
+        "observation": "Người nữ giơ hai tay gần ngực; người nam phía sau cũng giơ tay."
+      },
+      {
+        "time": 7.02,
+        "observation": "Hai lớp cùng có động tác tay hướng ra trước trong khung mẫu."
+      },
+      {
+        "time": 17.55,
+        "observation": "Người tiền cảnh bắt chéo tay phía trước thân, người phía sau đổi tư thế."
+      },
+      {
+        "time": 22.41,
+        "observation": "Khung cuối người nữ cười, hai người vẫn trong phòng gym."
+      }
+    ],
+    "beats": [
+      {
+        "start": 0,
+        "end": 3,
+        "summary": "Giới thiệu cặp tiền cảnh và hậu cảnh trong bối cảnh tập luyện.",
+        "role": "Tạo hai điểm để theo dõi."
+      },
+      {
+        "start": 3.51,
+        "end": 7.02,
+        "summary": "Các khung lấy mẫu cho thấy động tác tay ở cả hai lớp.",
+        "role": "Tạo đối chiếu biểu diễn đôi."
+      },
+      {
+        "start": 10.53,
+        "end": 17.55,
+        "summary": "Người gần camera đổi biểu cảm và đường tay; hậu cảnh tiếp tục diễn.",
+        "role": "Duy trì biến thể trong bố cục cố định."
+      },
+      {
+        "start": 21.06,
+        "end": 22.41,
+        "summary": "Chuỗi dáng tay chuyển sang nụ cười cuối.",
+        "role": "Đóng vui bằng biểu cảm; không có lời giải riêng."
+      }
+    ],
+    "ending": "Khung cuối 22,41 giây có nụ cười và chuyển động tay; không có thẻ kết hay thông tin mới. Không đủ khung để khẳng định vòng lặp khớp đầu.",
+    "mechanism": "Đặt người diễn chính sát camera và người thứ hai phía sau cho phép mắt so hai cách biểu diễn trong một cái nhìn. Mỗi biến thể tay/biểu cảm làm khung cố định bớt lặp; phần thưởng là màn diễn đôi, không phải một khái niệm được giải mã.",
+    "transfer": "Học bố trí hai lớp có quan hệ để người xem tự so. Với bài finance, hai lớp cần đại diện hai hành động hay hai kết quả có dữ kiện rõ; nền có người nhảy chỉ là trang trí nếu không giúp giải thích.",
+    "limitations": [
+      "Đã xem 12 khung trích có timestamp từ bản tải mới và đọc ASR khi có; chưa nghe âm hoặc xem video liên tục.",
+      "Cách gây chú ý và giữ chân là giả thuyết biên tập, không phải số đo retention hay quan hệ nhân quả.",
+      "ASR 0–23,3 giây là CTA về kênh khác, không khớp nguồn; không dùng bất cứ speech claim nào.",
+      "Mốc beats là các cửa sổ quan sát ảnh, không phải kết quả đo cắt cảnh."
+    ],
+    "hookStudy": {
+      "window": {
+        "start": 0,
+        "end": 3
+      },
+      "layers": {
+        "speech": "Không đủ bằng chứng ngữ âm; ASR CTA không khớp bị loại.",
+        "visual": "Hai người ở hai lớp, bối cảnh gym, động tác tay bắt đầu rõ tại 3 giây.",
+        "screenText": "Không có chữ giải thích đáng tin ở khung mở."
+      },
+      "attentionMethod": "Cho mắt hai hành động để so trong cùng cảnh.",
+      "stopReason": "Giả thuyết: cặp diễn lệch bối cảnh tập luyện và người ở sau tạo lý do nhìn thêm.",
+      "unresolvedQuestion": "Hậu cảnh sẽ làm gì so với người gần máy?",
+      "withheldDetail": "Không thấy thông tin thực tế bị giấu.",
+      "retentionBridge": "Biến thể cử chỉ của cả hai người trong khung giữ nguyên.",
+      "payoff": {
+        "start": 21.06,
+        "end": 22.41,
+        "summary": "Hồi đáp là biến thể cuối và nụ cười; không có đáp án bằng lời."
+      },
+      "twoSentenceBlueprint": [
+        "Đặt hai nhân vật trong một khung có thứ bậc nhìn rõ.",
+        "Để hành động của lớp sau tiếp tục đối chiếu với lớp trước."
+      ],
+      "crossNicheTransfer": "Chuyển được quan hệ hai hành động nhìn cùng lúc; sang finance cần cặp điều kiện/kết quả kiểm chứng được, không dựa vào tính vui của điệu nhảy.",
+      "doNotTransfer": [
+        "CTA do ASR ảo",
+        "Kết luận về độ đồng bộ nhạc",
+        "Cử chỉ không liên quan chủ đề"
+      ],
+      "evidenceScope": "12 khung; ASR bị loại vì một segment không khớp; chỉ phân tích hình."
+    },
+    "detail": {
+      "promise": "Một màn diễn đôi có biến thể tại phòng gym.",
+      "centralQuestion": "Hai người sẽ phối/đối chiếu động tác thế nào trong cùng một khung?",
+      "emotionalArc": [
+        {
+          "start": 0,
+          "end": 3,
+          "emotion": "Tạo hai điểm để theo dõi.",
+          "evidence": "Giới thiệu cặp tiền cảnh và hậu cảnh trong bối cảnh tập luyện.",
+          "interpretation": "Đây là diễn giải tác dụng của trình tự, không xác nhận cảm xúc thực tế của khán giả."
+        },
+        {
+          "start": 3.51,
+          "end": 7.02,
+          "emotion": "Tạo đối chiếu biểu diễn đôi.",
+          "evidence": "Các khung lấy mẫu cho thấy động tác tay ở cả hai lớp.",
+          "interpretation": "Đây là diễn giải tác dụng của trình tự, không xác nhận cảm xúc thực tế của khán giả."
+        },
+        {
+          "start": 10.53,
+          "end": 17.55,
+          "emotion": "Duy trì biến thể trong bố cục cố định.",
+          "evidence": "Người gần camera đổi biểu cảm và đường tay; hậu cảnh tiếp tục diễn.",
+          "interpretation": "Đây là diễn giải tác dụng của trình tự, không xác nhận cảm xúc thực tế của khán giả."
+        },
+        {
+          "start": 21.06,
+          "end": 22.41,
+          "emotion": "Đóng vui bằng biểu cảm; không có lời giải riêng.",
+          "evidence": "Chuỗi dáng tay chuyển sang nụ cười cuối.",
+          "interpretation": "Đây là diễn giải tác dụng của trình tự, không xác nhận cảm xúc thực tế của khán giả."
+        }
+      ],
+      "informationDesign": [
+        {
+          "start": 0,
+          "end": 3,
+          "move": "Tạo hai điểm để theo dõi.",
+          "reason": "Giới thiệu cặp tiền cảnh và hậu cảnh trong bối cảnh tập luyện."
+        },
+        {
+          "start": 3.51,
+          "end": 7.02,
+          "move": "Tạo đối chiếu biểu diễn đôi.",
+          "reason": "Các khung lấy mẫu cho thấy động tác tay ở cả hai lớp."
+        },
+        {
+          "start": 10.53,
+          "end": 17.55,
+          "move": "Duy trì biến thể trong bố cục cố định.",
+          "reason": "Người gần camera đổi biểu cảm và đường tay; hậu cảnh tiếp tục diễn."
+        },
+        {
+          "start": 21.06,
+          "end": 22.41,
+          "move": "Đóng vui bằng biểu cảm; không có lời giải riêng.",
+          "reason": "Chuỗi dáng tay chuyển sang nụ cười cuối."
+        }
+      ],
+      "strengths": [
+        {
+          "point": "Có hai điểm quan sát ngay mở",
+          "evidence": "Khung 0 giây thấy tiền cảnh và hậu cảnh rõ."
+        },
+        {
+          "point": "Cùng bối cảnh nhưng dáng đổi",
+          "evidence": "Khung 3;7,02;17,55 giây cho các đường tay khác nhau."
+        }
+      ],
+      "weaknesses": [
+        {
+          "point": "Không xác định quan hệ chính xác của các động tác bằng khung thưa",
+          "evidence": "Giữa các mốc lấy mẫu không có bằng chứng về mức đồng bộ liên tục."
+        },
+        {
+          "point": "Giá trị phụ thuộc biểu diễn và ngữ cảnh trend",
+          "evidence": "Không có câu chuyện hoặc giải thích độc lập trong hình để chuyển nguyên sang kiến thức."
+        }
+      ],
+      "shareabilityHypotheses": [
+        "Tình huống có thể được gửi vì người xem nhận ra hành vi quen thuộc; chưa đọc dữ liệu chia sẻ hay bình luận để xác nhận."
+      ],
+      "adaptationRules": [
+        "Cho hai lớp quan hệ dễ nhận; đừng để người phía sau chỉ gây nhiễu.",
+        "Chuyển bố cục so sánh, không chép điệu nhảy làm công thức hook.",
+        "Không suy ra nhịp nhạc hay mức đồng bộ khi chưa xem liên tục."
+      ],
+      "mindmapBranches": [
+        {
+          "label": "0–3s",
+          "children": [
+            "Giới thiệu cặp tiền cảnh và hậu cảnh trong bối cảnh tập luyện.",
+            "Tạo hai điểm để theo dõi."
+          ]
+        },
+        {
+          "label": "3.51–7.02s",
+          "children": [
+            "Các khung lấy mẫu cho thấy động tác tay ở cả hai lớp.",
+            "Tạo đối chiếu biểu diễn đôi."
+          ]
+        },
+        {
+          "label": "10.53–17.55s",
+          "children": [
+            "Người gần camera đổi biểu cảm và đường tay; hậu cảnh tiếp tục diễn.",
+            "Duy trì biến thể trong bố cục cố định."
+          ]
+        },
+        {
+          "label": "21.06–22.41s",
+          "children": [
+            "Chuỗi dáng tay chuyển sang nụ cười cuối.",
+            "Đóng vui bằng biểu cảm; không có lời giải riêng."
+          ]
+        },
+        {
+          "label": "Giới hạn chuyển thể",
+          "children": [
+            "Cho hai lớp quan hệ dễ nhận; đừng để người phía sau chỉ gây nhiễu.",
+            "Chuyển bố cục so sánh, không chép điệu nhảy làm công thức hook."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "7653107443475467527",
+    "title": "Lời quả quyết trước đám cưới bị montage cảm xúc bác lại",
+    "deliveryStyle": "Mở trực diện trong lúc chuẩn bị, rồi montage nhiều người và cảnh lễ cưới; tương phản lời nói với biểu cảm.",
+    "openingObservation": "ASR 0–3,04 giây nhận một lời quả quyết sẽ không khóc ở đám cưới; tên riêng nhận sai nên không trích. 3,04–4,98 giây có lý do liên quan trang điểm nhưng con số không đủ tin. Khung 2 giây người nói đưa lòng bàn tay ra như nhấn quyết tâm, đến khung 11,82 giây đã có cảnh ôm và nhắm mắt khóc. Câu chuyện dựng một lời hứa có thể bị hình ảnh sau đó phản chứng.",
+    "visualEvidence": [
+      {
+        "time": 0,
+        "observation": "Người mặc đồ ngủ đang chuẩn bị tóc/trang điểm trong phòng."
+      },
+      {
+        "time": 2,
+        "observation": "Người nhìn camera và đưa lòng bàn tay ra trước."
+      },
+      {
+        "time": 5.91,
+        "observation": "Chuyển sang nhóm người mặc trang phục dự cưới ngoài trời."
+      },
+      {
+        "time": 11.82,
+        "observation": "Người tóc ngắn ôm người khác, mắt nhắm và mặt có biểu cảm khóc."
+      },
+      {
+        "time": 17.73,
+        "observation": "Hai người đối diện lau vùng mắt trong bối cảnh ngoài trời."
+      },
+      {
+        "time": 35.46,
+        "observation": "Người tóc ngắn đứng cạnh cô dâu và cầm micro."
+      },
+      {
+        "time": 38.4,
+        "observation": "Khung cuối vẫn ở cạnh cô dâu, người cầm micro có biểu cảm xúc động."
+      }
+    ],
+    "beats": [
+      {
+        "start": 0,
+        "end": 4.98,
+        "summary": "Quả quyết không khóc khi còn chuẩn bị; lý do trang điểm được ASR nhận không trọn.",
+        "role": "Dựng một cam kết có thể kiểm chứng bằng hình sau."
+      },
+      {
+        "start": 5.91,
+        "end": 11.82,
+        "summary": "Từ nhóm dự cưới sang cảnh ôm và biểu cảm khóc.",
+        "role": "Hình ảnh bắt đầu bác lời quả quyết."
+      },
+      {
+        "start": 17.73,
+        "end": 23.64,
+        "summary": "Khung lau mắt rồi chân dung chú rể tại lễ cưới.",
+        "role": "Mở cảm xúc từ người nói sang sự kiện."
+      },
+      {
+        "start": 29.55,
+        "end": 35.46,
+        "summary": "Khung cô dâu rồi người nói đứng cạnh cô dâu cầm micro.",
+        "role": "Đưa quan hệ nhân vật trở lại trung tâm."
+      },
+      {
+        "start": 35.46,
+        "end": 38.4,
+        "summary": "Biểu cảm xúc động khi phát biểu cạnh cô dâu.",
+        "role": "Củng cố mâu thuẫn vui mà ấm với lời không khóc đầu clip."
+      }
+    ],
+    "ending": "Khung cuối người mở clip đang cầm micro bên cô dâu, có biểu cảm xúc động. ASR đoạn này vỡ nhiều từ, không đủ để tóm nội dung phát biểu; payoff có căn cứ nhất là đối lập lời quả quyết với chuỗi hình cảm xúc.",
+    "mechanism": "Cam kết chắc chắn trước sự kiện → đặt người nói vào sự kiện giàu tình cảm → montage phản chứng → kết ở vai người phát biểu. Hình sau tự tạo sự hài và xúc động, không cần người dẫn nói rằng lời đầu đã sai.",
+    "transfer": "Học quan hệ dự đoán của nhân vật với bằng chứng xuất hiện sau đó. Khi chuyển sang lĩnh vực dữ kiện, cần cùng chủ thể/cùng tiêu chí trước–sau và giải thích nguyên nhân; không dùng cảnh khóc làm bằng chứng về kết quả tài chính.",
+    "limitations": [
+      "Đã xem 12 khung trích có timestamp từ bản tải mới và đọc ASR khi có; chưa nghe âm hoặc xem video liên tục.",
+      "Cách gây chú ý và giữ chân là giả thuyết biên tập, không phải số đo retention hay quan hệ nhân quả.",
+      "ASR nhận sai tên riêng, chi phí trang điểm và lời phát biểu cuối; chỉ dùng diễn ý chắc ở mở, không trích số hay nội dung lời chúc."
+    ],
+    "hookStudy": {
+      "window": {
+        "start": 0,
+        "end": 4.98
+      },
+      "layers": {
+        "speech": "Lời quả quyết không khóc; đoạn lý do trang điểm nhận dạng kém nên không dùng số.",
+        "visual": "Đang chuẩn bị, nhìn camera, lòng bàn tay đưa ra ở 2 giây.",
+        "screenText": "Không thấy phụ đề hook ở khung mẫu."
+      },
+      "attentionMethod": "Lập cam kết rồi hứa ngầm một phép thử.",
+      "stopReason": "Giả thuyết: người xem muốn xem lời chắc chắn có bị sự kiện làm thay đổi.",
+      "unresolvedQuestion": "Đến lễ, người nói có giữ được lời không?",
+      "withheldDetail": "Phản ứng trong sự kiện chưa cho ở cảnh chuẩn bị.",
+      "retentionBridge": "Cắt từ phòng chuẩn bị sang lễ rồi đưa các phản ứng cảm xúc.",
+      "payoff": {
+        "start": 11.82,
+        "end": 17.73,
+        "summary": "Hình ôm, nhắm mắt và lau mắt trả lời bằng một phản ứng trái lời quả quyết; không suy diễn câu phát biểu cuối."
+      },
+      "twoSentenceBlueprint": [
+        "Cho nhân vật phát biểu một dự đoán về chính mình trước sự kiện.",
+        "Dùng hình sau sự kiện kiểm tra dự đoán thay vì đọc kết luận."
+      ],
+      "crossNicheTransfer": "Chuyển được quan hệ lời dự đoán → bằng chứng trái kỳ vọng; sang finance cần dữ liệu cùng tiêu chí và bối cảnh, vì nước mắt không kiểm chứng lợi nhuận hay chất lượng quyết định.",
+      "doNotTransfer": [
+        "Tên và số tiền ASR nhận sai",
+        "Suy đoán quan hệ cá nhân",
+        "Lấy xúc động làm chứng cứ tài chính"
+      ],
+      "evidenceScope": "12 khung và toàn ASR; lời mở dùng diễn ý, lời cuối không đủ rõ."
+    },
+    "detail": {
+      "promise": "Cho xem khoảng cách giữa lời tự tin trước lễ và phản ứng trong lễ.",
+      "centralQuestion": "Lời quyết không khóc có giữ được khi sự kiện diễn ra không?",
+      "emotionalArc": [
+        {
+          "start": 0,
+          "end": 4.98,
+          "emotion": "Dựng một cam kết có thể kiểm chứng bằng hình sau.",
+          "evidence": "Quả quyết không khóc khi còn chuẩn bị; lý do trang điểm được ASR nhận không trọn.",
+          "interpretation": "Đây là diễn giải tác dụng của trình tự, không xác nhận cảm xúc thực tế của khán giả."
+        },
+        {
+          "start": 5.91,
+          "end": 11.82,
+          "emotion": "Hình ảnh bắt đầu bác lời quả quyết.",
+          "evidence": "Từ nhóm dự cưới sang cảnh ôm và biểu cảm khóc.",
+          "interpretation": "Đây là diễn giải tác dụng của trình tự, không xác nhận cảm xúc thực tế của khán giả."
+        },
+        {
+          "start": 17.73,
+          "end": 23.64,
+          "emotion": "Mở cảm xúc từ người nói sang sự kiện.",
+          "evidence": "Khung lau mắt rồi chân dung chú rể tại lễ cưới.",
+          "interpretation": "Đây là diễn giải tác dụng của trình tự, không xác nhận cảm xúc thực tế của khán giả."
+        },
+        {
+          "start": 29.55,
+          "end": 35.46,
+          "emotion": "Đưa quan hệ nhân vật trở lại trung tâm.",
+          "evidence": "Khung cô dâu rồi người nói đứng cạnh cô dâu cầm micro.",
+          "interpretation": "Đây là diễn giải tác dụng của trình tự, không xác nhận cảm xúc thực tế của khán giả."
+        },
+        {
+          "start": 35.46,
+          "end": 38.4,
+          "emotion": "Củng cố mâu thuẫn vui mà ấm với lời không khóc đầu clip.",
+          "evidence": "Biểu cảm xúc động khi phát biểu cạnh cô dâu.",
+          "interpretation": "Đây là diễn giải tác dụng của trình tự, không xác nhận cảm xúc thực tế của khán giả."
+        }
+      ],
+      "informationDesign": [
+        {
+          "start": 0,
+          "end": 4.98,
+          "move": "Dựng một cam kết có thể kiểm chứng bằng hình sau.",
+          "reason": "Quả quyết không khóc khi còn chuẩn bị; lý do trang điểm được ASR nhận không trọn."
+        },
+        {
+          "start": 5.91,
+          "end": 11.82,
+          "move": "Hình ảnh bắt đầu bác lời quả quyết.",
+          "reason": "Từ nhóm dự cưới sang cảnh ôm và biểu cảm khóc."
+        },
+        {
+          "start": 17.73,
+          "end": 23.64,
+          "move": "Mở cảm xúc từ người nói sang sự kiện.",
+          "reason": "Khung lau mắt rồi chân dung chú rể tại lễ cưới."
+        },
+        {
+          "start": 29.55,
+          "end": 35.46,
+          "move": "Đưa quan hệ nhân vật trở lại trung tâm.",
+          "reason": "Khung cô dâu rồi người nói đứng cạnh cô dâu cầm micro."
+        },
+        {
+          "start": 35.46,
+          "end": 38.4,
+          "move": "Củng cố mâu thuẫn vui mà ấm với lời không khóc đầu clip.",
+          "reason": "Biểu cảm xúc động khi phát biểu cạnh cô dâu."
+        }
+      ],
+      "strengths": [
+        {
+          "point": "Lời mở tạo tiêu chí theo dõi cụ thể",
+          "evidence": "0–3,04 giây quyết không khóc; các khung 11,82;17,73;38,4 giây cho biểu cảm đối lập."
+        },
+        {
+          "point": "Đổi bối cảnh làm tiến trình rõ",
+          "evidence": "Khung 0–5 giây trong phòng, 5,91 giây chuyển ra nhóm dự cưới."
+        }
+      ],
+      "weaknesses": [
+        {
+          "point": "Lời phát biểu cuối không đọc được đáng tin qua ASR",
+          "evidence": "30–38,48 giây nhận dạng rời rạc, không kết luận nội dung lời chúc."
+        },
+        {
+          "point": "Cảm xúc phụ thuộc quan hệ cá nhân",
+          "evidence": "Montage có cô dâu và người thân/bạn bè nhưng quan hệ chi tiết không được kiểm chứng."
+        }
+      ],
+      "shareabilityHypotheses": [
+        "Tình huống có thể được gửi vì người xem nhận ra hành vi quen thuộc; chưa đọc dữ liệu chia sẻ hay bình luận để xác nhận."
+      ],
+      "adaptationRules": [
+        "Cho lời dự đoán có tiêu chí để hình sau thực sự kiểm tra được.",
+        "Đừng thêm lời giải thích nếu chuỗi hình đã làm rõ khoảng cách trước–sau.",
+        "Không dùng tên riêng hay con số trang điểm từ ASR lỗi.",
+        "Giữ cảm xúc người thật, không giả tạo nước mắt để tạo bằng chứng."
+      ],
+      "mindmapBranches": [
+        {
+          "label": "0–4.98s",
+          "children": [
+            "Quả quyết không khóc khi còn chuẩn bị; lý do trang điểm được ASR nhận không trọn.",
+            "Dựng một cam kết có thể kiểm chứng bằng hình sau."
+          ]
+        },
+        {
+          "label": "5.91–11.82s",
+          "children": [
+            "Từ nhóm dự cưới sang cảnh ôm và biểu cảm khóc.",
+            "Hình ảnh bắt đầu bác lời quả quyết."
+          ]
+        },
+        {
+          "label": "17.73–23.64s",
+          "children": [
+            "Khung lau mắt rồi chân dung chú rể tại lễ cưới.",
+            "Mở cảm xúc từ người nói sang sự kiện."
+          ]
+        },
+        {
+          "label": "29.55–35.46s",
+          "children": [
+            "Khung cô dâu rồi người nói đứng cạnh cô dâu cầm micro.",
+            "Đưa quan hệ nhân vật trở lại trung tâm."
+          ]
+        },
+        {
+          "label": "35.46–38.4s",
+          "children": [
+            "Biểu cảm xúc động khi phát biểu cạnh cô dâu.",
+            "Củng cố mâu thuẫn vui mà ấm với lời không khóc đầu clip."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "7660917957991779592",
+    "title": "Ý định ăn healthy chuyển ngay sang bữa mì và mukbang",
+    "deliveryStyle": "Tiểu phẩm tình huống mở bằng chữ trên màn hình, sau đó cận món ăn và ăn trước camera; ASR chủ yếu nhạc và đoạn lặp ảo.",
+    "openingObservation": "Chữ ở khung 0 giây định nghĩa tình huống mỗi lần tính ăn healthy; trước mặt nhân vật là chuối. Khung 3 giây mặt và thân giật sang bên, khung 5 giây đã là gói nguyên liệu bị tung lên ở bếp, rồi 27,42 giây thấy mì nhiều topping. Quan hệ hook là ý định tự kiểm soát bị hành động sau bẻ hướng; không có lời nói đủ tin để bổ sung động cơ.",
+    "visualEvidence": [
+      {
+        "time": 0,
+        "observation": "Chữ mở về ý định ăn healthy, đĩa chuối ở tiền cảnh, nhân vật tiến tới."
+      },
+      {
+        "time": 3,
+        "observation": "Nhân vật nghiêng mạnh sang bên với biểu cảm mở miệng; chuối vẫn ở trước."
+      },
+      {
+        "time": 5,
+        "observation": "Khung bếp với gói nguyên liệu trên không và cùng dòng chữ tình huống."
+      },
+      {
+        "time": 27.42,
+        "observation": "Cận bát mì phủ phô mai và topping."
+      },
+      {
+        "time": 54.84,
+        "observation": "Cận nhân vật ăn mì; bát có nhiều món ăn kèm."
+      },
+      {
+        "time": 82.26,
+        "observation": "Đưa một miếng thức ăn tới sát ống kính."
+      },
+      {
+        "time": 181.8,
+        "observation": "Khung cuối vẫn ăn trước camera; bát còn đồ ăn."
+      }
+    ],
+    "beats": [
+      {
+        "start": 0,
+        "end": 3,
+        "summary": "Ý định healthy được gắn với chuối rồi chuyển biểu cảm đột ngột.",
+        "role": "Đặt ý định trước khi bẻ hướng."
+      },
+      {
+        "start": 5,
+        "end": 27.42,
+        "summary": "Từ nguyên liệu ở bếp sang bát mì nhiều topping.",
+        "role": "Payoff thị giác cho việc lệch kế hoạch."
+      },
+      {
+        "start": 54.84,
+        "end": 82.26,
+        "summary": "Ăn mì và đưa thức ăn gần camera.",
+        "role": "Đổi sang phần thưởng nhìn món ăn."
+      },
+      {
+        "start": 109.68,
+        "end": 137.1,
+        "summary": "Các khung tiếp tục cận cảnh ăn cùng bát mì.",
+        "role": "Duy trì trải nghiệm ăn; mốc quan sát không phải điểm cắt."
+      },
+      {
+        "start": 164.52,
+        "end": 181.8,
+        "summary": "Tiếp tục ăn trong các khung cuối.",
+        "role": "Không có kết luận thay đổi ý định hay thông điệp dinh dưỡng."
+      }
+    ],
+    "ending": "Khung cuối vẫn ở bữa ăn. Không thấy cảnh quay lại chuối hay đánh giá dinh dưỡng, nên không gán một bài học sức khỏe cho clip.",
+    "mechanism": "Chữ tình huống tạo kế hoạch A, đạo cụ chuối khiến nó nhìn được; chuyển cảnh đưa sang hành động B trái với kế hoạch; cận cảnh món ăn kéo dài phần hưởng thụ. Payoff của mâu thuẫn tới sớm hơn nhiều so với toàn thời lượng mukbang.",
+    "transfer": "Học việc làm rõ ý định bằng một đạo cụ, rồi cho kết quả khác xuất hiện bằng hình. Sang finance chỉ chuyển quan hệ kế hoạch–hành động–kết quả với dữ liệu thật; không đánh giá món ăn hay suy ra đạo đức quản lý tiền từ thói quen ăn.",
+    "limitations": [
+      "Đã xem 12 khung trích có timestamp từ bản tải mới và đọc ASR khi có; chưa nghe âm hoặc xem video liên tục.",
+      "Cách gây chú ý và giữ chân là giả thuyết biên tập, không phải số đo retention hay quan hệ nhân quả.",
+      "ASR có lyric và hàng chục đoạn CTA về kênh khác, có đoạn quá duration; đã loại khỏi mọi kết luận lời nói.",
+      "Khung lấy mẫu thưa ở phần dài, không đo được nhịp cắt hay hành động giữa hai khung.",
+      "Không đưa hướng dẫn sức khỏe hay đánh giá dinh dưỡng."
+    ],
+    "hookStudy": {
+      "window": {
+        "start": 0,
+        "end": 5
+      },
+      "layers": {
+        "speech": "Không dùng speech; ASR nhạc và đoạn CTA lặp không khớp.",
+        "visual": "Chuối/tiến tới ở 0–2 giây, chuyển biểu cảm tại 3 giây, bếp ở 5 giây.",
+        "screenText": "Chữ mô tả ý định ăn healthy."
+      },
+      "attentionMethod": "Ý định được vật thể hóa rồi hành động đổi hướng.",
+      "stopReason": "Giả thuyết: khoảng cách giữa ý định quen thuộc và cú chuyển phi lý khiến người xem nhìn tiếp.",
+      "unresolvedQuestion": "Rốt cuộc nhân vật sẽ ăn gì?",
+      "withheldDetail": "Bữa ăn thay thế chưa xuất hiện ngay khi chữ mở nêu ý định.",
+      "retentionBridge": "Chuyển từ chuối sang bếp rồi bát mì.",
+      "payoff": {
+        "start": 5,
+        "end": 27.42,
+        "summary": "Các khung chuyển sang chuẩn bị rồi bát mì nhiều topping, trả lời bằng hình về bữa ăn thay thế."
+      },
+      "twoSentenceBlueprint": [
+        "Nêu một dự định quen thuộc và cho thấy đạo cụ của dự định.",
+        "Đổi hành động sang kết quả trái dự định rồi cho người xem nhìn kết quả."
+      ],
+      "crossNicheTransfer": "Chuyển được quan hệ kế hoạch → hành động thực tế; sang finance phải có số liệu và hoàn cảnh để xác nhận lệch kế hoạch, không dùng nhãn healthy như tiêu chí tài chính.",
+      "doNotTransfer": [
+        "Nội dung CTA ASR lặp ảo",
+        "Phán xét dinh dưỡng từ hình",
+        "Kéo thời lượng ăn thành công thức giữ chân finance"
+      ],
+      "evidenceScope": "12 khung trên clip 182,8 giây; ASR không dùng cho thoại, beats hình là cửa sổ quan sát."
+    },
+    "detail": {
+      "promise": "Một tình huống hài về khoảng cách giữa dự định ăn uống và bữa ăn thực tế.",
+      "centralQuestion": "Ý định đầu clip sẽ được thực hiện hay bị thay bằng việc khác?",
+      "emotionalArc": [
+        {
+          "start": 0,
+          "end": 3,
+          "emotion": "Đặt ý định trước khi bẻ hướng.",
+          "evidence": "Ý định healthy được gắn với chuối rồi chuyển biểu cảm đột ngột.",
+          "interpretation": "Đây là diễn giải tác dụng của trình tự, không xác nhận cảm xúc thực tế của khán giả."
+        },
+        {
+          "start": 5,
+          "end": 27.42,
+          "emotion": "Payoff thị giác cho việc lệch kế hoạch.",
+          "evidence": "Từ nguyên liệu ở bếp sang bát mì nhiều topping.",
+          "interpretation": "Đây là diễn giải tác dụng của trình tự, không xác nhận cảm xúc thực tế của khán giả."
+        },
+        {
+          "start": 54.84,
+          "end": 82.26,
+          "emotion": "Đổi sang phần thưởng nhìn món ăn.",
+          "evidence": "Ăn mì và đưa thức ăn gần camera.",
+          "interpretation": "Đây là diễn giải tác dụng của trình tự, không xác nhận cảm xúc thực tế của khán giả."
+        },
+        {
+          "start": 109.68,
+          "end": 137.1,
+          "emotion": "Duy trì trải nghiệm ăn; mốc quan sát không phải điểm cắt.",
+          "evidence": "Các khung tiếp tục cận cảnh ăn cùng bát mì.",
+          "interpretation": "Đây là diễn giải tác dụng của trình tự, không xác nhận cảm xúc thực tế của khán giả."
+        },
+        {
+          "start": 164.52,
+          "end": 181.8,
+          "emotion": "Không có kết luận thay đổi ý định hay thông điệp dinh dưỡng.",
+          "evidence": "Tiếp tục ăn trong các khung cuối.",
+          "interpretation": "Đây là diễn giải tác dụng của trình tự, không xác nhận cảm xúc thực tế của khán giả."
+        }
+      ],
+      "informationDesign": [
+        {
+          "start": 0,
+          "end": 3,
+          "move": "Đặt ý định trước khi bẻ hướng.",
+          "reason": "Ý định healthy được gắn với chuối rồi chuyển biểu cảm đột ngột."
+        },
+        {
+          "start": 5,
+          "end": 27.42,
+          "move": "Payoff thị giác cho việc lệch kế hoạch.",
+          "reason": "Từ nguyên liệu ở bếp sang bát mì nhiều topping."
+        },
+        {
+          "start": 54.84,
+          "end": 82.26,
+          "move": "Đổi sang phần thưởng nhìn món ăn.",
+          "reason": "Ăn mì và đưa thức ăn gần camera."
+        },
+        {
+          "start": 109.68,
+          "end": 137.1,
+          "move": "Duy trì trải nghiệm ăn; mốc quan sát không phải điểm cắt.",
+          "reason": "Các khung tiếp tục cận cảnh ăn cùng bát mì."
+        },
+        {
+          "start": 164.52,
+          "end": 181.8,
+          "move": "Không có kết luận thay đổi ý định hay thông điệp dinh dưỡng.",
+          "reason": "Tiếp tục ăn trong các khung cuối."
+        }
+      ],
+      "strengths": [
+        {
+          "point": "Chữ và đạo cụ cùng xác lập kỳ vọng",
+          "evidence": "Khung 0 có dòng healthy và đĩa chuối."
+        },
+        {
+          "point": "Kết quả tương phản nhìn thấy được",
+          "evidence": "Khung 27,42 giây bát mì nhiều topping thay trọng tâm chuối ban đầu."
+        }
+      ],
+      "weaknesses": [
+        {
+          "point": "Phần sau không phát triển tiếp mâu thuẫn đầu",
+          "evidence": "54,84–181,8 giây ở các khung lấy mẫu đều là ăn, không có bước ngoặt mới quan sát được."
+        },
+        {
+          "point": "Lời thoại không đủ tin để phân tích",
+          "evidence": "ASR nhiều lời nhạc và CTA kênh khác lặp kéo dài; không dùng làm speech evidence."
+        }
+      ],
+      "shareabilityHypotheses": [
+        "Tình huống có thể được gửi vì người xem nhận ra hành vi quen thuộc; chưa đọc dữ liệu chia sẻ hay bình luận để xác nhận."
+      ],
+      "adaptationRules": [
+        "Đặt ý định bằng chữ và đạo cụ phù hợp trước khi đảo hành động.",
+        "Phân biệt payoff của tiểu phẩm với thời lượng trải nghiệm mukbang.",
+        "Không biến tương phản đồ ăn thành lời khuyên sức khỏe.",
+        "Trong nội dung dữ kiện, cần đo được mức lệch kế hoạch thay vì chỉ dán nhãn."
+      ],
+      "mindmapBranches": [
+        {
+          "label": "0–3s",
+          "children": [
+            "Ý định healthy được gắn với chuối rồi chuyển biểu cảm đột ngột.",
+            "Đặt ý định trước khi bẻ hướng."
+          ]
+        },
+        {
+          "label": "5–27.42s",
+          "children": [
+            "Từ nguyên liệu ở bếp sang bát mì nhiều topping.",
+            "Payoff thị giác cho việc lệch kế hoạch."
+          ]
+        },
+        {
+          "label": "54.84–82.26s",
+          "children": [
+            "Ăn mì và đưa thức ăn gần camera.",
+            "Đổi sang phần thưởng nhìn món ăn."
+          ]
+        },
+        {
+          "label": "109.68–137.1s",
+          "children": [
+            "Các khung tiếp tục cận cảnh ăn cùng bát mì.",
+            "Duy trì trải nghiệm ăn; mốc quan sát không phải điểm cắt."
+          ]
+        },
+        {
+          "label": "164.52–181.8s",
+          "children": [
+            "Tiếp tục ăn trong các khung cuối.",
+            "Không có kết luận thay đổi ý định hay thông điệp dinh dưỡng."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "7644445587944836370",
+    "title": "Nêu điều hối hận nhất, rồi trả lời bằng quan điểm cá nhân dễ tranh luận",
+    "deliveryStyle": "Tự quay cận mặt trong phòng, cử chỉ tay và biểu cảm chiếm gần toàn khung; không có biểu đồ hay cảnh minh họa.",
+    "openingObservation": "ASR 0,42–5,8 giây nêu điều hối hận nhất ở tuổi hiện tại và lặp câu hỏi; 5,8–8,76 giây mới nêu hình xăm. Khung 1 giây tay chỉ lên, 2–3 giây che trán, làm lời hối hận hiện ra qua biểu cảm. Phần mở dùng tự bộc lộ với mức độ cực đại, sau đó chủ động báo đây là ý kiến có thể gây tranh cãi. Đánh giá thẩm mỹ trong lời là quan điểm tác giả, không phải kết luận về người có hình xăm.",
+    "visualEvidence": [
+      {
+        "time": 0,
+        "observation": "Cận mặt trong phòng, trang phục ở nhà, chưa có chữ dẫn nội dung."
+      },
+      {
+        "time": 1,
+        "observation": "Một ngón tay giơ trước mặt như nhấn một điểm."
+      },
+      {
+        "time": 2,
+        "observation": "Bàn tay che một phần mặt và trán; mắt nhắm."
+      },
+      {
+        "time": 14.02,
+        "observation": "Tay gần miệng khi ASR nói khả năng có tranh cãi."
+      },
+      {
+        "time": 42.05,
+        "observation": "Vẫn cận mặt, tay ở vùng miệng trong phần kể mong muốn thay đổi."
+      },
+      {
+        "time": 70.08,
+        "observation": "Biểu cảm nhấn mạnh khi ASR chuyển sang người trẻ cân nhắc quyết định."
+      },
+      {
+        "time": 92.43,
+        "observation": "Cùng bố cục cận mặt ở cuối, không có thẻ kết."
+      }
+    ],
+    "beats": [
+      {
+        "start": 0.42,
+        "end": 8.76,
+        "summary": "Hỏi điều hối hận nhất rồi nêu hình xăm.",
+        "role": "Mở khoảng trống cá nhân và trả danh tính vấn đề."
+      },
+      {
+        "start": 8.76,
+        "end": 17.38,
+        "summary": "Nhấn mức hối hận, báo trước quan điểm có thể gây tranh cãi.",
+        "role": "Đặt người xem trước một quan điểm nhạy cảm."
+      },
+      {
+        "start": 18.12,
+        "end": 47.64,
+        "summary": "Nêu cảm nhận thẩm mỹ chủ quan và mong muốn xóa xăm.",
+        "role": "Giải thích lý do cá nhân; không xác nhận tính đúng hay phương pháp xóa."
+      },
+      {
+        "start": 47.64,
+        "end": 62.98,
+        "summary": "Kể hồi trẻ và môi trường học, đối chiếu cảm nhận hiện tại.",
+        "role": "Tạo trục thời gian giữa lựa chọn cũ và góc nhìn mới."
+      },
+      {
+        "start": 62.98,
+        "end": 82.82,
+        "summary": "Chuyển sang lời kêu gọi cân nhắc trước quyết định.",
+        "role": "Mở trải nghiệm cá nhân thành thông điệp rộng hơn."
+      },
+      {
+        "start": 82.82,
+        "end": 92.96,
+        "summary": "Kết bằng ước muốn quay lại và mức hối hận lặp mạnh.",
+        "role": "Khép cảm xúc, không đưa bằng chứng ngoài tự thuật."
+      }
+    ],
+    "ending": "Kết bằng tự thuật hối hận được nhấn lại. Không có đối chiếu quan điểm khác hay bằng chứng khái quát; clip trả câu hỏi cá nhân, không xác lập kết luận về giá trị hình xăm.",
+    "mechanism": "Cực đại hóa một trải nghiệm cá nhân → trả đối tượng hối hận → tự báo ranh giới tranh cãi → lý do và đối chiếu tuổi trước/sau → kêu gọi người khác cân nhắc. Độ căng đến từ góc nhìn đổi qua thời gian và khả năng bất đồng, không phải phát hiện khoa học.",
+    "transfer": "Có thể học việc đặt một lựa chọn quá khứ cạnh góc nhìn hiện tại, nêu lý do đổi ý. Với finance phải có điều kiện và dữ liệu để tránh biến cảm giác cá nhân thành kết luận về mọi nhà đầu tư; không học lời hạ thấp thẩm mỹ hay tạo tranh cãi nhằm công kích.",
+    "limitations": [
+      "Đã xem 12 khung trích có timestamp từ bản tải mới và đọc ASR khi có; chưa nghe âm hoặc xem video liên tục.",
+      "Cách gây chú ý và giữ chân là giả thuyết biên tập, không phải số đo retention hay quan hệ nhân quả.",
+      "Đánh giá hình xăm là quan điểm thẩm mỹ cá nhân của tác giả; không đồng nhất với sự thật hay giá trị con người.",
+      "Không kiểm chứng chuyện tuổi, nghề nghiệp hay trải nghiệm, và không đưa lời khuyên y tế."
+    ],
+    "hookStudy": {
+      "window": {
+        "start": 0.42,
+        "end": 8.76
+      },
+      "layers": {
+        "speech": "Câu hỏi điều hối hận nhất rồi trả hình xăm ở 5,8–8,76 giây.",
+        "visual": "Cận mặt, ngón tay nhấn tại 1 giây, che trán tại 2–3 giây.",
+        "screenText": "Không thấy chữ hook trong khung mở."
+      },
+      "attentionMethod": "Bộc lộ điều cực đại trong trải nghiệm cá nhân, rồi hé đối tượng.",
+      "stopReason": "Giả thuyết: người xem muốn biết điều gì khiến một người bộc lộ hối hận mạnh như vậy.",
+      "unresolvedQuestion": "Lựa chọn nào, và vì sao hiện tại người nói nghĩ khác?",
+      "withheldDetail": "Đối tượng chỉ được nêu sau câu hỏi; nguyên nhân kéo sang phần sau.",
+      "retentionBridge": "Nêu đối tượng xong chuyển sang lý do thẩm mỹ và hoàn cảnh quá khứ.",
+      "payoff": {
+        "start": 18.12,
+        "end": 62.98,
+        "summary": "Có lời giải cá nhân: cảm nhận hiện tại và đối chiếu hồi trẻ; chưa có bằng chứng kết luận chung về hình xăm."
+      },
+      "twoSentenceBlueprint": [
+        "Nêu một lựa chọn quá khứ mà góc nhìn hiện tại đã đổi.",
+        "Trả lựa chọn sớm rồi giải thích điều gì thay đổi giữa hai thời điểm."
+      ],
+      "crossNicheTransfer": "Chuyển được quan hệ lựa chọn trước → tiêu chí sau đã đổi; sang finance phải bổ sung bối cảnh và dữ liệu, không lấy hối tiếc cá nhân làm khuyến nghị đầu tư.",
+      "doNotTransfer": [
+        "Ngôn ngữ hạ thấp người có hình xăm",
+        "Dùng tranh cãi như mục tiêu duy nhất",
+        "Tư vấn sức khỏe hoặc điều trị từ lời kể"
+      ],
+      "evidenceScope": "12 khung + toàn ASR, chưa nghe giọng để xác định sắc thái."
+    },
+    "detail": {
+      "promise": "Nói rõ lựa chọn nào khiến tác giả hối hận nhất và vì sao góc nhìn đã đổi.",
+      "centralQuestion": "Điều gì đã khiến người nói đổi cách nhìn về một lựa chọn cá nhân?",
+      "emotionalArc": [
+        {
+          "start": 0.42,
+          "end": 8.76,
+          "emotion": "Mở khoảng trống cá nhân và trả danh tính vấn đề.",
+          "evidence": "Hỏi điều hối hận nhất rồi nêu hình xăm.",
+          "interpretation": "Đây là diễn giải tác dụng của trình tự, không xác nhận cảm xúc thực tế của khán giả."
+        },
+        {
+          "start": 8.76,
+          "end": 17.38,
+          "emotion": "Đặt người xem trước một quan điểm nhạy cảm.",
+          "evidence": "Nhấn mức hối hận, báo trước quan điểm có thể gây tranh cãi.",
+          "interpretation": "Đây là diễn giải tác dụng của trình tự, không xác nhận cảm xúc thực tế của khán giả."
+        },
+        {
+          "start": 18.12,
+          "end": 47.64,
+          "emotion": "Giải thích lý do cá nhân; không xác nhận tính đúng hay phương pháp xóa.",
+          "evidence": "Nêu cảm nhận thẩm mỹ chủ quan và mong muốn xóa xăm.",
+          "interpretation": "Đây là diễn giải tác dụng của trình tự, không xác nhận cảm xúc thực tế của khán giả."
+        },
+        {
+          "start": 47.64,
+          "end": 62.98,
+          "emotion": "Tạo trục thời gian giữa lựa chọn cũ và góc nhìn mới.",
+          "evidence": "Kể hồi trẻ và môi trường học, đối chiếu cảm nhận hiện tại.",
+          "interpretation": "Đây là diễn giải tác dụng của trình tự, không xác nhận cảm xúc thực tế của khán giả."
+        },
+        {
+          "start": 62.98,
+          "end": 82.82,
+          "emotion": "Mở trải nghiệm cá nhân thành thông điệp rộng hơn.",
+          "evidence": "Chuyển sang lời kêu gọi cân nhắc trước quyết định.",
+          "interpretation": "Đây là diễn giải tác dụng của trình tự, không xác nhận cảm xúc thực tế của khán giả."
+        },
+        {
+          "start": 82.82,
+          "end": 92.96,
+          "emotion": "Khép cảm xúc, không đưa bằng chứng ngoài tự thuật.",
+          "evidence": "Kết bằng ước muốn quay lại và mức hối hận lặp mạnh.",
+          "interpretation": "Đây là diễn giải tác dụng của trình tự, không xác nhận cảm xúc thực tế của khán giả."
+        }
+      ],
+      "informationDesign": [
+        {
+          "start": 0.42,
+          "end": 8.76,
+          "move": "Mở khoảng trống cá nhân và trả danh tính vấn đề.",
+          "reason": "Hỏi điều hối hận nhất rồi nêu hình xăm."
+        },
+        {
+          "start": 8.76,
+          "end": 17.38,
+          "move": "Đặt người xem trước một quan điểm nhạy cảm.",
+          "reason": "Nhấn mức hối hận, báo trước quan điểm có thể gây tranh cãi."
+        },
+        {
+          "start": 18.12,
+          "end": 47.64,
+          "move": "Giải thích lý do cá nhân; không xác nhận tính đúng hay phương pháp xóa.",
+          "reason": "Nêu cảm nhận thẩm mỹ chủ quan và mong muốn xóa xăm."
+        },
+        {
+          "start": 47.64,
+          "end": 62.98,
+          "move": "Tạo trục thời gian giữa lựa chọn cũ và góc nhìn mới.",
+          "reason": "Kể hồi trẻ và môi trường học, đối chiếu cảm nhận hiện tại."
+        },
+        {
+          "start": 62.98,
+          "end": 82.82,
+          "move": "Mở trải nghiệm cá nhân thành thông điệp rộng hơn.",
+          "reason": "Chuyển sang lời kêu gọi cân nhắc trước quyết định."
+        },
+        {
+          "start": 82.82,
+          "end": 92.96,
+          "move": "Khép cảm xúc, không đưa bằng chứng ngoài tự thuật.",
+          "reason": "Kết bằng ước muốn quay lại và mức hối hận lặp mạnh."
+        }
+      ],
+      "strengths": [
+        {
+          "point": "Có câu hỏi giới hạn trong chính trải nghiệm người kể",
+          "evidence": "0,42–8,76 giây điều hối hận được nêu rồi trả."
+        },
+        {
+          "point": "Có đối chiếu trước–sau",
+          "evidence": "47,64–62,98 giây kể hoàn cảnh trẻ và góc nhìn hiện tại."
+        }
+      ],
+      "weaknesses": [
+        {
+          "point": "Quan điểm cá nhân bị phát biểu như đánh giá bao quát",
+          "evidence": "18,12–33,2 giây dùng đánh giá thẩm mỹ hạ thấp; không đủ bằng chứng khái quát."
+        },
+        {
+          "point": "Lặp cường độ cảm xúc nhiều hơn thêm bằng chứng",
+          "evidence": "Các nhịp 8,76–10,32;46,34–47,64;57,48–62,98;90,1–92,96 cùng nhấn hối hận."
+        }
+      ],
+      "shareabilityHypotheses": [
+        "Tình huống có thể được gửi vì người xem nhận ra hành vi quen thuộc; chưa đọc dữ liệu chia sẻ hay bình luận để xác nhận."
+      ],
+      "adaptationRules": [
+        "Giữ chủ thể tôi và nêu hoàn cảnh khi kể thay đổi quan điểm.",
+        "Cho lý do đổi ý, không coi mức cảm xúc mạnh là bằng chứng phổ quát.",
+        "Không chuyển công kích thẩm mỹ hay kích động tranh cãi sang kịch bản.",
+        "Không đưa tư vấn xóa xăm hay hứa kết quả điều trị từ tự thuật."
+      ],
+      "mindmapBranches": [
+        {
+          "label": "0.42–8.76s",
+          "children": [
+            "Hỏi điều hối hận nhất rồi nêu hình xăm.",
+            "Mở khoảng trống cá nhân và trả danh tính vấn đề."
+          ]
+        },
+        {
+          "label": "8.76–17.38s",
+          "children": [
+            "Nhấn mức hối hận, báo trước quan điểm có thể gây tranh cãi.",
+            "Đặt người xem trước một quan điểm nhạy cảm."
+          ]
+        },
+        {
+          "label": "18.12–47.64s",
+          "children": [
+            "Nêu cảm nhận thẩm mỹ chủ quan và mong muốn xóa xăm.",
+            "Giải thích lý do cá nhân; không xác nhận tính đúng hay phương pháp xóa."
+          ]
+        },
+        {
+          "label": "47.64–62.98s",
+          "children": [
+            "Kể hồi trẻ và môi trường học, đối chiếu cảm nhận hiện tại.",
+            "Tạo trục thời gian giữa lựa chọn cũ và góc nhìn mới."
+          ]
+        },
+        {
+          "label": "62.98–82.82s",
+          "children": [
+            "Chuyển sang lời kêu gọi cân nhắc trước quyết định.",
+            "Mở trải nghiệm cá nhân thành thông điệp rộng hơn."
+          ]
+        },
+        {
+          "label": "82.82–92.96s",
+          "children": [
+            "Kết bằng ước muốn quay lại và mức hối hận lặp mạnh.",
+            "Khép cảm xúc, không đưa bằng chứng ngoài tự thuật."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "7692026934426979602",
+    "title": "Gọi nhóm khán giả rồi gom dàn người vào lịch livestream",
+    "deliveryStyle": "Tiểu phẩm/biểu diễn nhóm tại quán ăn, camera đổi hướng, cuối xuất hiện thẻ sự kiện thương mại.",
+    "openingObservation": "Khung 0–2 giây người mặc vàng ở giữa quán đưa tay gọi; ASR 0–2 giây nhận lời gọi một nhóm nữ khán giả. Đến 3–5 giây camera đã hướng sang phần khác của quán. Cuối clip có dàn người và thẻ SuperLive20h10.10 cùng ưu đãi. Vì thế đây là nội dung quảng bá lịch sự kiện bằng biểu diễn, không được gắn là viral thuần hữu cơ.",
+    "visualEvidence": [
+      {
+        "time": 0,
+        "observation": "Người mặc vàng đứng giữa quán ăn, tay ở eo; có dòng chữ nhỏ chú thích giải trí ở dưới."
+      },
+      {
+        "time": 1,
+        "observation": "Người mặc vàng đặt tay cạnh miệng như gọi."
+      },
+      {
+        "time": 3,
+        "observation": "Khung chuyển hướng qua khu bàn ăn, người ở xa và hình bị nhòe chuyển động."
+      },
+      {
+        "time": 8.59,
+        "observation": "Một người mặc hồng hoa ở quán trở thành trung tâm khung."
+      },
+      {
+        "time": 17.18,
+        "observation": "Có nhiều người gập/nghiêng người cùng trong một khung rộng."
+      },
+      {
+        "time": 34.36,
+        "observation": "Người mặc hồng hoa phía trước, nhiều người phía sau cùng hướng camera."
+      },
+      {
+        "time": 51.53,
+        "observation": "Dàn người đứng cùng người mặc vàng ở trước; thẻ SuperLive20h10.10 ở phía trên và chữ ưu đãi phía dưới."
+      },
+      {
+        "time": 56.26,
+        "observation": "Thẻ lịch sự kiện và đội hình nhóm vẫn hiện ở khung cuối."
+      }
+    ],
+    "beats": [
+      {
+        "start": 0,
+        "end": 2,
+        "summary": "Người ở giữa quán gọi nhóm khán giả.",
+        "role": "Mở bằng lời triệu tập và cử chỉ gọi."
+      },
+      {
+        "start": 3,
+        "end": 8.59,
+        "summary": "Khung quay chuyển sang người khác trong quán.",
+        "role": "Gợi hành động có người đáp lại; chỉ thấy các mốc lấy mẫu."
+      },
+      {
+        "start": 17.18,
+        "end": 25.77,
+        "summary": "Nhiều người cùng xuất hiện với các tư thế biểu diễn.",
+        "role": "Mở quy mô từ một người sang nhóm."
+      },
+      {
+        "start": 34.36,
+        "end": 42.94,
+        "summary": "Người mặc hồng hoa ở trước đội hình.",
+        "role": "Giữ sự thay đổi vai trung tâm."
+      },
+      {
+        "start": 51.53,
+        "end": 56.26,
+        "summary": "Gom nhóm với thẻ lịch livestream và ưu đãi.",
+        "role": "Payoff thương mại: từ màn gọi sang thông báo sự kiện."
+      }
+    ],
+    "ending": "Khung cuối công khai lịch SuperLive và ưu đãi; ASR đoạn cuối cũng có lời nhắc lịch nhưng có nhiều từ lỗi nên ưu tiên chữ nhìn thấy. Payoff là nhận ra sự kiện đang được quảng bá, không phải kiểm chứng ưu đãi.",
+    "mechanism": "Lời gọi có đối tượng → camera và đội hình mở rộng qua nhiều người → gom nhóm → thẻ lịch sự kiện. Nhân vật và thay đổi không gian gánh phần giải trí trước khi mục đích thương mại hiển thị rõ; không có cơ sở suy ra phần lớn reach là hữu cơ.",
+    "transfer": "Học cách một lời gọi mở ra chuỗi đáp lại rồi hội tụ vào một thông tin kết. Với nội dung finance, sự hội tụ cần làm rõ vấn đề/dữ kiện chung; không dùng số người tham gia như bảo chứng lợi ích sản phẩm hay quyết định tài chính.",
+    "limitations": [
+      "Đã xem 12 khung trích có timestamp từ bản tải mới và đọc ASR khi có; chưa nghe âm hoặc xem video liên tục.",
+      "Cách gây chú ý và giữ chân là giả thuyết biên tập, không phải số đo retention hay quan hệ nhân quả.",
+      "Nội dung thương mại quảng bá lịch livestream và ưu đãi; không biết tỷ lệ reach trả phí/hữu cơ hay hình thức hợp tác.",
+      "ASR đoạn30–56,44 giây có lỗi tên sự kiện và thông điệp; không trích nguyên văn.",
+      "Không đánh giá tính đúng, giá trị hay điều kiện của ưu đãi và không đưa hướng dẫn mua."
+    ],
+    "hookStudy": {
+      "window": {
+        "start": 0,
+        "end": 3
+      },
+      "layers": {
+        "speech": "ASR0–2 giây nhận lời gọi nhóm nữ khán giả; không kéo thành một câu giải thích dài.",
+        "visual": "Người ở giữa quán đưa tay bên miệng, rồi khung3 giây đổi hướng.",
+        "screenText": "Chữ nhỏ ghi tính giải trí và cảm hứng trend; không thấy lịch lớn ở mở."
+      },
+      "attentionMethod": "Gọi trực tiếp rồi mở hướng nhìn sang người đáp.",
+      "stopReason": "Giả thuyết: người xem muốn xem lời gọi sẽ kéo ai vào màn diễn.",
+      "unresolvedQuestion": "Ai sẽ xuất hiện và nhóm được gọi để làm gì?",
+      "withheldDetail": "Lịch sự kiện chưa có trong các khung mở.",
+      "retentionBridge": "Đổi người trung tâm và mở dàn người trước khi gom lại.",
+      "payoff": {
+        "start": 51.53,
+        "end": 56.26,
+        "summary": "Đội hình tập thể và thẻ lịch SuperLive20h10.10 trả lời mục đích quảng bá; không xác minh ưu đãi."
+      },
+      "twoSentenceBlueprint": [
+        "Cho một người gọi và mở khung tới các nhân vật đáp lại.",
+        "Gom nhóm vào cuối để hé mục đích chung bằng thông tin rõ."
+      ],
+      "crossNicheTransfer": "Chuyển được quan hệ một tín hiệu → nhiều phản hồi → thông tin hội tụ; sang finance phải dùng bằng chứng độc lập cho kết luận, không coi đám đông là bằng chứng hiệu quả hay an toàn.",
+      "doNotTransfer": [
+        "Lời ưu đãi chưa kiểm chứng",
+        "Giả định reach hữu cơ",
+        "Đám đông như bảo chứng mua hàng"
+      ],
+      "evidenceScope": "12 khung + toàn ASR có lỗi; lịch ưu tiên chữ nhìn thấy ở51,53/56,26 giây."
+    },
+    "detail": {
+      "promise": "Cho thấy màn biểu diễn tập thể dẫn tới một lời nhắc lịch livestream.",
+      "centralQuestion": "Lời gọi đầu clip dẫn tới tập hợp nào và nhằm mục đích gì?",
+      "emotionalArc": [
+        {
+          "start": 0,
+          "end": 2,
+          "emotion": "Mở bằng lời triệu tập và cử chỉ gọi.",
+          "evidence": "Người ở giữa quán gọi nhóm khán giả.",
+          "interpretation": "Đây là diễn giải tác dụng của trình tự, không xác nhận cảm xúc thực tế của khán giả."
+        },
+        {
+          "start": 3,
+          "end": 8.59,
+          "emotion": "Gợi hành động có người đáp lại; chỉ thấy các mốc lấy mẫu.",
+          "evidence": "Khung quay chuyển sang người khác trong quán.",
+          "interpretation": "Đây là diễn giải tác dụng của trình tự, không xác nhận cảm xúc thực tế của khán giả."
+        },
+        {
+          "start": 17.18,
+          "end": 25.77,
+          "emotion": "Mở quy mô từ một người sang nhóm.",
+          "evidence": "Nhiều người cùng xuất hiện với các tư thế biểu diễn.",
+          "interpretation": "Đây là diễn giải tác dụng của trình tự, không xác nhận cảm xúc thực tế của khán giả."
+        },
+        {
+          "start": 34.36,
+          "end": 42.94,
+          "emotion": "Giữ sự thay đổi vai trung tâm.",
+          "evidence": "Người mặc hồng hoa ở trước đội hình.",
+          "interpretation": "Đây là diễn giải tác dụng của trình tự, không xác nhận cảm xúc thực tế của khán giả."
+        },
+        {
+          "start": 51.53,
+          "end": 56.26,
+          "emotion": "Payoff thương mại: từ màn gọi sang thông báo sự kiện.",
+          "evidence": "Gom nhóm với thẻ lịch livestream và ưu đãi.",
+          "interpretation": "Đây là diễn giải tác dụng của trình tự, không xác nhận cảm xúc thực tế của khán giả."
+        }
+      ],
+      "informationDesign": [
+        {
+          "start": 0,
+          "end": 2,
+          "move": "Mở bằng lời triệu tập và cử chỉ gọi.",
+          "reason": "Người ở giữa quán gọi nhóm khán giả."
+        },
+        {
+          "start": 3,
+          "end": 8.59,
+          "move": "Gợi hành động có người đáp lại; chỉ thấy các mốc lấy mẫu.",
+          "reason": "Khung quay chuyển sang người khác trong quán."
+        },
+        {
+          "start": 17.18,
+          "end": 25.77,
+          "move": "Mở quy mô từ một người sang nhóm.",
+          "reason": "Nhiều người cùng xuất hiện với các tư thế biểu diễn."
+        },
+        {
+          "start": 34.36,
+          "end": 42.94,
+          "move": "Giữ sự thay đổi vai trung tâm.",
+          "reason": "Người mặc hồng hoa ở trước đội hình."
+        },
+        {
+          "start": 51.53,
+          "end": 56.26,
+          "move": "Payoff thương mại: từ màn gọi sang thông báo sự kiện.",
+          "reason": "Gom nhóm với thẻ lịch livestream và ưu đãi."
+        }
+      ],
+      "strengths": [
+        {
+          "point": "Lời gọi được cử chỉ hỗ trợ",
+          "evidence": "ASR0–2 giây và khung1 giây tay bên miệng cùng biểu thị gọi."
+        },
+        {
+          "point": "Kết có thông tin hành động rõ",
+          "evidence": "Khung51,53 và56,26 giây có lịch sự kiện dễ nhìn hơn chữ ưu đãi nhỏ."
+        }
+      ],
+      "weaknesses": [
+        {
+          "point": "Mục đích quảng bá rõ chủ yếu ở cuối trong các khung quan sát",
+          "evidence": "Thẻ sự kiện lớn chỉ thấy ở51,53–56,26 giây."
+        },
+        {
+          "point": "Chữ ưu đãi dày và nhỏ",
+          "evidence": "Khung cuối nhiều dòng dưới đội hình; cần ảnh gốc lớn để đọc điều kiện, không xác nhận nội dung."
+        }
+      ],
+      "shareabilityHypotheses": [
+        "Tình huống có thể được gửi vì người xem nhận ra hành vi quen thuộc; chưa đọc dữ liệu chia sẻ hay bình luận để xác nhận."
+      ],
+      "adaptationRules": [
+        "Gắn rõ bối cảnh thương mại khi dùng làm nguồn nghiên cứu.",
+        "Chuyển quan hệ gọi → đáp lại → hội tụ, không chép tên sự kiện hay ưu đãi.",
+        "Để thông tin quan trọng đọc được, không dùng chữ nhỏ thay điều kiện.",
+        "Không coi đội hình đông là bằng chứng sản phẩm đáng mua."
+      ],
+      "mindmapBranches": [
+        {
+          "label": "0–2s",
+          "children": [
+            "Người ở giữa quán gọi nhóm khán giả.",
+            "Mở bằng lời triệu tập và cử chỉ gọi."
+          ]
+        },
+        {
+          "label": "3–8.59s",
+          "children": [
+            "Khung quay chuyển sang người khác trong quán.",
+            "Gợi hành động có người đáp lại; chỉ thấy các mốc lấy mẫu."
+          ]
+        },
+        {
+          "label": "17.18–25.77s",
+          "children": [
+            "Nhiều người cùng xuất hiện với các tư thế biểu diễn.",
+            "Mở quy mô từ một người sang nhóm."
+          ]
+        },
+        {
+          "label": "34.36–42.94s",
+          "children": [
+            "Người mặc hồng hoa ở trước đội hình.",
+            "Giữ sự thay đổi vai trung tâm."
+          ]
+        },
+        {
+          "label": "51.53–56.26s",
+          "children": [
+            "Gom nhóm với thẻ lịch livestream và ưu đãi.",
+            "Payoff thương mại: từ màn gọi sang thông báo sự kiện."
+          ]
+        }
+      ]
+    }
   }
 ]

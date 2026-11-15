@@ -45,6 +45,27 @@ def story_flow(analysis):
     return '\n'.join(lines) + '\n'
 
 
+def render_hook_study(study):
+    out = ['## Nghiên cứu phần mở',
+           'Diễn giải từ bằng chứng đã lưu; lý do gây chú ý là giả thuyết biên tập, chưa đo retention.',
+           '**Cửa sổ quan sát:** ' + timestamp(study['window']['start']) + '–' + timestamp(study['window']['end'])]
+    table = '| Lớp | Quan sát/diễn giải |\n|---|---|\n'
+    for key, name in [('speech', 'Lời'), ('visual', 'Hình'), ('screenText', 'Chữ trên hình')]:
+        table += '| ' + name + ' | ' + cell(study['layers'][key]) + ' |\n'
+    out.append(table)
+    for key, name in [('attentionMethod', 'Động tác gây chú ý'), ('stopReason', 'Vì sao có thể muốn dừng lại'),
+                      ('unresolvedQuestion', 'Điều còn muốn biết'), ('withheldDetail', 'Thông tin chưa cho biết'),
+                      ('retentionBridge', 'Nhịp nối có gì mới')]:
+        out.append('**' + name + ':** ' + study[key])
+    payoff = study['payoff']
+    out.append('**Mốc trả/giới hạn giải đáp:** ' + timestamp(payoff['start']) + '–' + timestamp(payoff['end']) + ' — ' + payoff['summary'])
+    out += ['**Tóm cấu trúc bằng hai câu:** ' + ' '.join(study['twoSentenceBlueprint']),
+            '**Chuyển sang ngách khác:** ' + study['crossNicheTransfer'],
+            '**Điều không chuyển theo:**\n\n' + '\n'.join('- ' + x for x in study['doNotTransfer']),
+            '**Phạm vi:** ' + study['evidenceScope']]
+    return '\n\n'.join(out)
+
+
 def render_case(v, a):
     d, ev = a['detail'], v['evidence']
     out = [f'# {a["title"]}',
@@ -57,6 +78,7 @@ def render_case(v, a):
            '```mermaid\n' + story_flow(a).rstrip() + '\n```',
            '## Dữ liệu và nguồn',
            '**Cách thể hiện:** ' + v.get('deliveryStyle', 'Xem quan sát hình bên dưới'),
+           '**Phạm vi học:** ' + v.get('recommendedUse', 'Xem phạm vi kiểm và giới hạn từng ca.'),
            '**Ngữ cảnh thương mại:** ' + v.get('commercialContext', 'Chưa xác nhận hợp tác thương mại; xem các đoạn tự quảng bá/giới hạn được ghi riêng.'),
            f'- Đăng: {v["publishedAt"]}. Metadata lấy: {v["collectedAt"]}.\n'
            f'- **{v["views"]:,} view**; thích {v["likes"]:,}; bình luận {v["comments"]:,}; chia sẻ {v["shares"]:,}; lưu {v["saves"]:,}. Dấu phẩy tách hàng nghìn.\n'
@@ -66,18 +88,20 @@ def render_case(v, a):
            '## Phạm vi kiểm',
            f'Đã tải media, xem khung chọn lọc và đọc ASR có mốc lưu lúc {ev["transcriptCacheAt"]}. '
            f'Đối chiếu cùng ID và thời lượng, lệch {ev["durationDifferenceSeconds"]}s. '
-           '**Chưa nghe toàn âm hoặc xem chuyển động liên tục; chưa xác nhận toàn văn ASR hay mọi dữ kiện kinh tế trong clip.**',
+           '**Chưa nghe toàn âm hoặc xem chuyển động liên tục; chưa xác nhận toàn văn ASR hay mọi dữ kiện trong clip.**',
            f'Media SHA256: `{ev["sourceMediaSha256"]}`. [Metadata và các hash khác](../videos.json). '
            'Video/ASR đầy đủ giữ ở bộ nghiên cứu cục bộ; bản chia sẻ giữ link gốc, trích ngắn và phân tích riêng.',
            '## Lời hứa và câu hỏi trung tâm',
            '**Lời hứa:** ' + d['promise'] + '\n\n**Câu hỏi:** ' + d['centralQuestion'],
            '## Mở đầu: lời và hình', a['openingObservation']]
+    if a.get('hookStudy'):
+        out += [render_hook_study(a['hookStudy'])]
     if v['hookExcerpt']:
         out += ['> ' + v['hookExcerpt'],
                 f'Trích ASR ngắn từ segment {timestamp(v["openingSegment"]["start"])}–{timestamp(v["openingSegment"]["end"])}. '
                 + v['hookExcerptStatus'] + ' Dấu … nghĩa là bỏ bớt, không khẳng định toàn câu vừa ba giây.']
     else:
-        out += ['Không dùng câu ASR mở làm nguyên văn vì nhận dạng lỗi; xem diễn giải và đối chiếu nguồn.']
+        out += [v.get('hookExcerptStatus') or 'Không dùng nguyên văn ASR mở; xem diễn giải và đối chiếu nguồn.']
     table = '| Mốc khung đã xem | Điều quan sát được |\n|---|---|\n'
     table += '\n'.join(f'| {timestamp(e["time"])} | {cell(e["observation"])} |' for e in a['visualEvidence'])
     out += [table, 'Không suy chuyển động giữa các khung từ ảnh tĩnh.', '<a id="dien-bien"></a>\n\n## Diễn biến và nhiệm vụ từng beat']
@@ -127,10 +151,18 @@ def main():
             v = by[vid]
             links.append(f'- [Phân tích {vid}](cases/{vid}.md) · [Video @{v["handle"]}]({v["url"]}) · {v["views"]:,} view · [Sơ đồ](cases/{vid}.md#mindmap).')
         chunks += ['\n'.join(links), '**Không học máy móc:** ' + p['limit']]
+    studies = ['# Nghiên cứu phần mở ngoài ngách',
+               'Đọc từng ca để kiểm lời/hình/chữ, điều còn thiếu, nhịp nối và mốc trả. Hai câu bên dưới tóm cấu trúc nguồn, không phải kịch bản sáng tác đã được duyệt.',
+               '| Ca | Ngách | Động tác mở | Cấu trúc hai câu |\n|---|---|---|---|']
+    for a in analyses:
+        if a.get('hookStudy'):
+            v = by[a['id']]
+            studies.append(f'| [{cell(a["title"])}](cases/{a["id"]}.md) | {cell(v.get("contentNiche", "Xem ca"))} | {cell(a["hookStudy"]["attentionMethod"])} | {cell(" ".join(a["hookStudy"]["twoSentenceBlueprint"]))} |')
+    (CORPUS / 'hook-studies.md').write_text('\n\n'.join(studies[:2]) + '\n\n' + '\n'.join(studies[2:]) + '\n', encoding='utf-8')
     (CORPUS / 'patterns.md').write_text('\n\n'.join(chunks).rstrip() + '\n', encoding='utf-8')
     intro = (f'# Kho TikTok tiếng Việt đã thu thập trước\n\n'
              f'**{collection["channelRecords"]} bản ghi · {collection["channels"]} kênh · {len(videos)} clip phân tích · {len(patterns)} nhóm hook · {len(analyses)} sơ đồ diễn biến.**\n\n'
-             '[Phân bố kênh và cách thể hiện](channels.md) · [Chọn nhóm hook](patterns.md) · [Metadata clip](videos.json) · [Phân tích JSON](analyses.json) · [Dữ liệu kênh](channel-videos.json) · [Baseline](channels.json) · [Phạm vi thu thập](collection.json)\n\n'
+             '[Nghiên cứu phần mở ngoài ngách](hook-studies.md) · [Phân bố kênh và cách thể hiện](channels.md) · [Chọn nhóm hook](patterns.md) · [Metadata clip](videos.json) · [Phân tích JSON](analyses.json) · [Dữ liệu kênh](channel-videos.json) · [Baseline](channels.json) · [Phạm vi thu thập](collection.json)\n\n'
              'Skill đọc corpus tại chỗ. Chọn các ca phù hợp để đưa mặc định 10 lựa chọn hook, không tự cào. '
              'Mỗi ca có diễn biến, nhịp cảm xúc giả thuyết, phân phối thông tin, điểm mạnh/yếu, cách chuyển thể và sơ đồ diễn biến dọc Mermaid.\n\n'
              'Tiêu chí Việt Nam là kênh/lời tiếng Việt, không có analytics địa lý người xem. Mẫu có chủ đích, không đại diện toàn TikTok VN. '
@@ -142,14 +174,15 @@ def main():
               'Request danh sách và clip có timestamp riêng. Xem metadata từng ca; không suy causal uplift từ tỷ lệ view.\n')
     (CORPUS / 'index.md').write_text(intro, encoding='utf-8')
     rows = ['# Phân bố kênh và cách thể hiện',
-            'Kho có mẫu từ **' + str(collection['channels']) + ' kênh**. Đợt mới thêm 8 kênh, mỗi kênh 2 clip; giữ các ca trước để đối chiếu. Không đánh đồng số bản ghi thu thập với số clip đã phân tích.',
+            'Kho có mẫu từ **' + str(collection['channels']) + ' kênh**. Các đợt đa dạng hóa lấy 2 clip mỗi kênh mới; giữ các ca trước để đối chiếu. Không đánh đồng số bản ghi thu thập với số clip đã phân tích.',
             'Với 10 hook, ưu tiên ít nhất 5 kênh, 3 cách thể hiện và tối đa 2 option/kênh khi có đủ nguồn hợp brief. Chủ đề và chỉ định người dùng được ưu tiên.',
-            '| Kênh | Bản ghi | Clip phân tích | Tỷ trọng ca | Cách thể hiện đã quan sát | Mở ca |\n|---|---:|---:|---:|---|---|']
+            '| Kênh | Bản ghi | Clip phân tích | Tỷ trọng ca | Ngách | Cách thể hiện đã quan sát | Mở ca |\n|---|---:|---:|---:|---|---|---|']
     for ch in load('channels'):
         vv = [v for v in videos if v['handle'] == ch['handle']]
         styles = ' / '.join(dict.fromkeys(v.get('deliveryStyle', 'Xem ca') for v in vv))
+        niches = ' / '.join(dict.fromkeys(v.get('contentNiche', 'Kinh tế/tài chính') for v in vv))
         cases = ' · '.join(f'[Ca {i+1}](cases/{v["id"]}.md)' for i,v in enumerate(vv))
-        rows.append(f'| [@{ch["handle"]}]({ch["url"]}) | {ch["videoCountCollected"]} | {len(vv)} | {100*len(vv)/len(videos):.1f}% | {cell(styles)} | {cases} |')
+        rows.append(f'| [@{ch["handle"]}]({ch["url"]}) | {ch["videoCountCollected"]} | {len(vv)} | {100*len(vv)/len(videos):.1f}% | {cell(niches)} | {cell(styles)} | {cases} |')
     rows += ['', 'Các nhãn mô tả cách thể hiện quan sát được, không phải đánh giá chất lượng kênh. Mỗi nguồn có timestamp riêng; view không được so như cùng tuổi bài. Ca hợp tác thương mại được ghi tại trang phân tích.']
     (CORPUS / 'channels.md').write_text('\n\n'.join(rows[:3]) + '\n\n' + '\n'.join(rows[3:]) + '\n', encoding='utf-8')
     print(f'Rendered {len(analyses)} cases and vertical story diagrams, {len(patterns)} hook groups; no network.')

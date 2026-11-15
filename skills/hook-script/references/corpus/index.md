@@ -1,8 +1,8 @@
 # Kho TikTok tiếng Việt đã thu thập trước
 
-**1949 bản ghi · 14 kênh · 40 clip phân tích · 26 nhóm hook · 40 sơ đồ diễn biến.**
+**3149 bản ghi · 22 kênh · 56 clip phân tích · 35 nhóm hook · 56 sơ đồ diễn biến.**
 
-[Phân bố kênh và cách thể hiện](channels.md) · [Chọn nhóm hook](patterns.md) · [Metadata clip](videos.json) · [Phân tích JSON](analyses.json) · [Dữ liệu kênh](channel-videos.json) · [Baseline](channels.json) · [Phạm vi thu thập](collection.json)
+[Nghiên cứu phần mở ngoài ngách](hook-studies.md) · [Phân bố kênh và cách thể hiện](channels.md) · [Chọn nhóm hook](patterns.md) · [Metadata clip](videos.json) · [Phân tích JSON](analyses.json) · [Dữ liệu kênh](channel-videos.json) · [Baseline](channels.json) · [Phạm vi thu thập](collection.json)
 
 Skill đọc corpus tại chỗ. Chọn các ca phù hợp để đưa mặc định 10 lựa chọn hook, không tự cào. Mỗi ca có diễn biến, nhịp cảm xúc giả thuyết, phân phối thông tin, điểm mạnh/yếu, cách chuyển thể và sơ đồ diễn biến dọc Mermaid.
 
@@ -50,5 +50,21 @@ Tiêu chí Việt Nam là kênh/lời tiếng Việt, không có analytics đị
 | [Tách phản hồi về việc làm khỏi bản sắc: tự tin qua lặp lại](https://www.tiktok.com/@vietcetera_/video/7688299045974052112) | @vietcetera_ | 617,100 | 199.77× | [Ca](cases/7688299045974052112.md) · [Sơ đồ](cases/7688299045974052112.md#mindmap) |
 | [Năm tài sản người trẻ: từ lời nhắn tuổi 18 đến các vai trò và rủi ro](https://www.tiktok.com/@quocthichkinhte/video/7692042220106468660) | @quocthichkinhte | 342,100 | 22.14× | [Ca](cases/7692042220106468660.md) · [Sơ đồ](cases/7692042220106468660.md#mindmap) |
 | [Sau lợi nhuận kỷ lục Techcombank: đổi từ kết quả sang nguồn thu](https://www.tiktok.com/@quocthichkinhte/video/7672004205518933255) | @quocthichkinhte | 316,300 | 20.47× | [Ca](cases/7672004205518933255.md) · [Sơ đồ](cases/7672004205518933255.md#mindmap) |
+| [Người lạ ở Madagascar: giấu một hành động tử tế trong trải nghiệm nước mía](https://www.tiktok.com/@khoailangthang/video/7429725622441659649) | @khoailangthang | 8,800,000 | 3.67× | [Ca](cases/7429725622441659649.md) · [Sơ đồ](cases/7429725622441659649.md#mindmap) |
+| [Cực quang Iceland: phần thưởng thị giác xuất hiện trước lời giải](https://www.tiktok.com/@khoailangthang/video/7593064718789512456) | @khoailangthang | 11,300,000 | 4.71× | [Ca](cases/7593064718789512456.md) · [Sơ đồ](cases/7593064718789512456.md#mindmap) |
+| [Trứng sốt mắm: chọn cách làm rồi cho xem một phiên bản](https://www.tiktok.com/@genjadao/video/7620769376920145160) | @genjadao | 10,800,000 | 25.75× | [Ca](cases/7620769376920145160.md) · [Sơ đồ](cases/7620769376920145160.md#mindmap) |
+| [Cheese Ball tại nhà: giá bên ngoài đối chiếu với một mẻ tự làm](https://www.tiktok.com/@genjadao/video/7691642587522010388) | @genjadao | 2,000,000 | 4.77× | [Ca](cases/7691642587522010388.md) · [Sơ đồ](cases/7691642587522010388.md#mindmap) |
+| [Xe mui trần gặp mưa: lời đồn được thử qua nhiều tốc độ](https://www.tiktok.com/@kienkhongngu_official/video/7691281157266132231) | @kienkhongngu_official | 1,100,000 | 6.26× | [Ca](cases/7691281157266132231.md) · [Sơ đồ](cases/7691281157266132231.md#mindmap) |
+| [Kumpo: từ vật thể kỳ lạ đến bối cảnh cộng đồng](https://www.tiktok.com/@kienkhongngu_official/video/7680097632626248968) | @kienkhongngu_official | 708,800 | 4.03× | [Ca](cases/7680097632626248968.md) · [Sơ đồ](cases/7680097632626248968.md#mindmap) |
+| [Thông số pin trên quảng cáo và phần người dùng được sử dụng](https://www.tiktok.com/@vatvostudio/video/7667805587454971144) | @vatvostudio | 935,000 | 16.37× | [Ca](cases/7667805587454971144.md) · [Sơ đồ](cases/7667805587454971144.md#mindmap) |
+| [Người đang sở hữu máy nêu ba lý do không nâng cấp](https://www.tiktok.com/@vatvostudio/video/7687220059579632903) | @vatvostudio | 653,900 | 11.45× | [Ca](cases/7687220059579632903.md) · [Sơ đồ](cases/7687220059579632903.md#mindmap) |
+| [Lời quả quyết trước đám cưới bị montage cảm xúc bác lại](https://www.tiktok.com/@vietphuongthoa98/video/7653107443475467527) | @vietphuongthoa98 | 10,200,000 | 4.08× | [Ca](cases/7653107443475467527.md) · [Sơ đồ](cases/7653107443475467527.md#mindmap) |
+| [Ý định ăn healthy chuyển ngay sang bữa mì và mukbang](https://www.tiktok.com/@vietphuongthoa98/video/7660917957991779592) | @vietphuongthoa98 | 12,300,000 | 4.92× | [Ca](cases/7660917957991779592.md) · [Sơ đồ](cases/7660917957991779592.md#mindmap) |
+| [Máy chạy thành sân khấu: vận động lệch kỳ vọng tập luyện](https://www.tiktok.com/@thunglongfamily/video/7657036293284629780) | @thunglongfamily | 3,000,000 | 11.18× | [Ca](cases/7657036293284629780.md) · [Sơ đồ](cases/7657036293284629780.md#mindmap) |
+| [Hai lớp biểu diễn: tiền cảnh dẫn, hậu cảnh biến tấu](https://www.tiktok.com/@thunglongfamily/video/7704655257149705473) | @thunglongfamily | 2,100,000 | 7.83× | [Ca](cases/7704655257149705473.md) · [Sơ đồ](cases/7704655257149705473.md#mindmap) |
+| [Nêu điều hối hận nhất, rồi trả lời bằng quan điểm cá nhân dễ tranh luận](https://www.tiktok.com/@halinhofficial/video/7644445587944836370) | @halinhofficial | 12,300,000 | 4.32× | [Ca](cases/7644445587944836370.md) · [Sơ đồ](cases/7644445587944836370.md#mindmap) |
+| [Gọi nhóm khán giả rồi gom dàn người vào lịch livestream](https://www.tiktok.com/@halinhofficial/video/7692026934426979602) | @halinhofficial | 11,700,000 | 4.11× | [Ca](cases/7692026934426979602.md) · [Sơ đồ](cases/7692026934426979602.md#mindmap) |
+| [Bò bía của “đại tá” Thành: từ vẻ nghiêm đến tương tác thân thiện](https://www.tiktok.com/@quankhonggo/video/7691640756704005384) | @quankhonggo | 4,400,000 | 5.46× | [Ca](cases/7691640756704005384.md) · [Sơ đồ](cases/7691640756704005384.md#mindmap) |
+| [Gánh đậu hũ Hội An: lời hứa nhiều ngôn ngữ được đưa thẳng vào cuộc gặp](https://www.tiktok.com/@quankhonggo/video/7694998594134281480) | @quankhonggo | 4,000,000 | 4.97× | [Ca](cases/7694998594134281480.md) · [Sơ đồ](cases/7694998594134281480.md#mindmap) |
 
 P50 dùng bài >=48h trong tối đa 150 bài thu được mỗi kênh, không phải cả lịch sử. Có clip cũ ngoài cửa sổ baseline. Request danh sách và clip có timestamp riêng. Xem metadata từng ca; không suy causal uplift từ tỷ lệ view.

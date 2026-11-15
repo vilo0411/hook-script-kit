@@ -1,0 +1,17 @@
+%%{init: {"htmlLabels": false, "themeVariables": {"fontSize": "18px"}, "flowchart": {"padding": 16, "rankSpacing": 22, "wrappingWidth": 360}}}%%
+flowchart TD
+  n0["01 · 00:00.00–00:03.00<br/>Ý định healthy được gắn với chuối rồi<br/>chuyển biểu cảm đột ngột."]
+  n1["02 · 00:05.00–00:27.42<br/>Từ nguyên liệu ở bếp sang bát mì nhiều<br/>topping."]
+  n0 --> n1
+  n2["03 · 00:54.84–01:22.26<br/>Ăn mì và đưa thức ăn gần camera."]
+  n1 --> n2
+  n3["04 · 01:49.68–02:17.10<br/>Các khung tiếp tục cận cảnh ăn cùng<br/>bát mì."]
+  n2 --> n3
+  n4["05 · 02:44.52–03:01.80<br/>Tiếp tục ăn trong các khung cuối."]
+  n3 --> n4
+  classDef phase fill:#F8FAFC,stroke:#CBD5E1,color:#0F172A,font-size:18px;
+  classDef opening fill:#DBEAFE,stroke:#2563EB,color:#172554,font-size:18px;
+  classDef ending fill:#DCFCE7,stroke:#16A34A,color:#14532D,font-size:18px;
+  class n0,n1,n2,n3,n4 phase;
+  class n0 opening;
+  class n4 ending;

@@ -1,0 +1,19 @@
+%%{init: {"htmlLabels": false, "themeVariables": {"fontSize": "18px"}, "flowchart": {"padding": 16, "rankSpacing": 22, "wrappingWidth": 360}}}%%
+flowchart TD
+  n0["01 · 00:00.00–00:07.58<br/>Hỏi có ướt không, rồi thêm lời đồn<br/>chạy nhanh sẽ khác."]
+  n1["02 · 00:07.98–00:20.08<br/>Đưa mô hình và lần thử tốc độ thấp,<br/>nguồn kể rằng ghế bị ướt."]
+  n0 --> n1
+  n2["03 · 00:20.60–00:26.62<br/>Tăng tốc mô hình, nguồn mô tả dòng khí<br/>giảm nước lọt vào."]
+  n1 --> n2
+  n3["04 · 00:27.08–00:42.70<br/>Chuyển sang xe thật với vật đo nước và<br/>hai mốc tốc độ cao hơn."]
+  n2 --> n3
+  n4["05 · 00:43.14–00:53.16<br/>Kết luận có điều kiện rồi nhắc nguy cơ<br/>tốc độ trong mưa."]
+  n3 --> n4
+  n5["06 · 00:53.62–00:57.64<br/>Mở câu hỏi bẻ mì Ý cho phần sau."]
+  n4 --> n5
+  classDef phase fill:#F8FAFC,stroke:#CBD5E1,color:#0F172A,font-size:18px;
+  classDef opening fill:#DBEAFE,stroke:#2563EB,color:#172554,font-size:18px;
+  classDef ending fill:#DCFCE7,stroke:#16A34A,color:#14532D,font-size:18px;
+  class n0,n1,n2,n3,n4,n5 phase;
+  class n0 opening;
+  class n5 ending;

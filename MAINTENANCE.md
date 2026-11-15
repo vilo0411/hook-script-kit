@@ -39,3 +39,13 @@ Tiêu chí Việt Nam: lời/kênh tiếng Việt, ngữ cảnh hướng tới k
 Chỉ thực hiện khi có yêu cầu cập nhật riêng. Giữ timestamp từng request; không dùng ngày render báo cáo làm ngày crawl. Tách metadata cũ/mới, không đè ngày cũ nếu không lấy lại. Đọc và kiểm nguồn trước khi thêm nhóm hook; thiếu evidence thì chưa đưa vào nhóm dùng cho viết.
 
 Khi cập nhật skill đã cài, thay cả thư mục skill để các ca, metadata và chỉ dẫn cùng phiên bản. Chạy `python3 scripts/check.py` và `python3 scripts/check-corpus.py`. Hai kiểm tra chỉ xác nhận liên kết và tính nhất quán của gói dữ liệu, không chứng minh chất lượng sáng tác.
+
+## Đợt ngoài ngách sau phản hồi loại 10 hook
+
+Đã đọc lại SKILL/database của rediumvex, README và ba breakdown tháng11 của shixinzhang, ghi rõ giá trị lẫn giới hạn tại `references/reference-audit.md`. Không nhập nội dung breakdown CC BY-NC-SA vào corpus MIT. Ghi phản hồi bộ hook là bị loại, không dùng làm nguồn mẫu.
+
+Thêm 8 snapshot x150 bài: `khoailangthang`, `genjadao`, `kienkhongngu_official`, `vatvostudio`, `vietphuongthoa98`, `thunglongfamily`, `halinhofficial`, `quankhonggo`. Mỗi kênh hai ca, tổng 3.149 bản ghi, 22 kênh, 56 ca. Khám phá từ nguồn công khai rồi kiểm handle bằng dữ liệu thật; tài khoản trùng tên hoặc không đạt ngưỡng không tính vào tổng. Hai ứng viên genjadao chỉ có MP3 bị loại khỏi phân tích.
+
+16 ca mới có `hookStudy`: mốc phần mở thực tế, lớp lời/hình/chữ, giả thuyết động tác gây chú ý, thông tin còn thiếu, nhịp nối, mốc trả hoặc giới hạn chưa trả, hai câu tóm cấu trúc, điều chuyển được/không chuyển theo. Một số ca là biểu diễn không có câu hỏi tự sự; không gán open-loop giả. Bốn ca đánh dấu `sampled-visual-only`, bỏ ASR ảo/nhạc khỏi nguyên văn và phân tích lời. Các ca có hợp tác/tài trợ hoặc bán hàng ghi ngữ cảnh riêng; không suy reach organic.
+
+Sửa workflow viết để tìm chi tiết có thể thấy, cảm giác bài có thể tạo, nhịp nối có thông tin mới và payoff trước khi gắn công thức. Đa dạng nguồn chỉ là phương tiện; không dùng số kênh hoặc test kỹ thuật để tuyên bố câu hook mới hay.

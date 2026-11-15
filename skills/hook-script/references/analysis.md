@@ -35,3 +35,9 @@ Dùng bảng `Mốc/vị trí | Quan sát | Vai trò | Suy luận | Cách chuy�
 So các clip cùng loại: cửa vào, tốc độ cung cấp thông tin, chỗ căng/thả và cách trả lời. Ghi khác biệt, không gộp mọi clip vào một công thức. Clip không nổi bật hoặc có nhịp yếu cũng có ích làm đối chứng nếu dữ liệu cho phép; không bịa trung vị hoặc kết quả A/B.
 
 Khi dùng vào bài mới, chỉ chuyển cơ chế phục vụ đúng khán giả/giọng. Một đoạn giật gân có nhiều view không tự trở thành lựa chọn phù hợp bài giáo dục tài chính.
+
+## Nghiên cứu phần mở có thể kiểm lại
+
+Với ca mới, ghi `hookStudy`: cửa sổ phần mở thực tế, ba lớp lời/hình/chữ, động tác gây chú ý, giả thuyết lý do dừng, câu hỏi còn mở, thông tin giữ lại, nhịp nối và mốc trả. Tóm lược quan hệ giữa các bước bằng **hai câu cấu trúc**, không tự tạo một hook tài chính rồi nhập làm mẫu học. Ghi riêng điều chuyển được và điều phụ thuộc ngách/người nổi tiếng/nhạc/diễn xuất/sản phẩm.
+
+Khung 0/1/2/3/5 giây chỉ đủ nhận xét những gì quan sát tại mốc ấy. ASR gộp câu dài không xác định được từng từ ở giây thứ ba. Clip nhạc/diễn không lời vẫn có thể có hook hình; bỏ nguyên văn ASR bị ảo, ghi nhịp theo khung và giới hạn. Các mốc 7/14/21 trong repo tham khảo là gợi ý đọc diễn biến, không phải mốc bắt buộc.

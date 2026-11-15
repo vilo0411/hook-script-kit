@@ -1,0 +1,17 @@
+%%{init: {"htmlLabels": false, "themeVariables": {"fontSize": "18px"}, "flowchart": {"padding": 16, "rankSpacing": 22, "wrappingWidth": 360}}}%%
+flowchart TD
+  n0["01 · 00:00.00–00:05.00<br/>Mẫu khung0 nêu lời hứa nhiều ngôn<br/>ngữ;1–5 giây có lời chào và từđậu hũ<br/>bằng phụ đềHàn/Việt khi người dẫn tới<br/>gánh rồi ngồi xuống."]
+  n1["02 · 00:05.00–00:37.55<br/>Hai mốc đều cho thấy người dẫn và<br/>người bán ngồi gần gánh;37,55s có phụ<br/>đề pha từVietnamese. Không có căn cứ<br/>để chép toàn cuộc trao đổi giữa hai<br/>mốc."]
+  n0 --> n1
+  n2["03 · 00:37.55–01:52.65<br/>Mốc75,1s cận người bán với phụ<br/>đềTrung/Việt về mangvề;112,65s thấy nụ<br/>cười."]
+  n1 --> n2
+  n3["04 · 01:52.65–03:07.75<br/>Mốc150,2s ra cảnh phố với nhận xét về<br/>tiếngTrung;187,75s có người bán giơtay<br/>và danh sách tênmón quốc tế."]
+  n2 --> n3
+  n4["05 · 03:07.75–04:09.33<br/>Mốc225,3s hai người trò chuyện cạnh<br/>gánh;249,33s cùng cười, người bán<br/>giơtay."]
+  n3 --> n4
+  classDef phase fill:#F8FAFC,stroke:#CBD5E1,color:#0F172A,font-size:18px;
+  classDef opening fill:#DBEAFE,stroke:#2563EB,color:#172554,font-size:18px;
+  classDef ending fill:#DCFCE7,stroke:#16A34A,color:#14532D,font-size:18px;
+  class n0,n1,n2,n3,n4 phase;
+  class n0 opening;
+  class n4 ending;

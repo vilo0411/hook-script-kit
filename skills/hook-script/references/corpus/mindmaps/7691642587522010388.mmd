@@ -1,0 +1,19 @@
+%%{init: {"htmlLabels": false, "themeVariables": {"fontSize": "18px"}, "flowchart": {"padding": 16, "rankSpacing": 22, "wrappingWidth": 360}}}%%
+flowchart TD
+  n0["01 · 00:00.00–00:09.18<br/>Đặt giá3 viên ngoài hàng cạnh lựa chọn<br/>tự làm được nhiều/rẻ hơn; hình là<br/>nhiều viên thành phẩm và các bước hoàn<br/>thiện."]
+  n1["02 · 00:09.18–00:18.20<br/>Báo sẽ làm tại nhà, cho phản ứng/nếm;<br/>khung12,2s có phô mai kéo sợi."]
+  n0 --> n1
+  n2["03 · 00:18.20–00:31.74<br/>Liệt kê nguyên liệu vào bột, thêm nước<br/>rồi nhào tới hết dính và chờ theo thời<br/>gian tác giả nêu."]
+  n1 --> n2
+  n3["04 · 00:31.74–00:49.56<br/>Cắt phô mai, định lượng bột và bọc<br/>nhân; một câu hỏi về viên to dẫn tới<br/>câu đùa ăn cho đã."]
+  n2 --> n3
+  n4["05 · 00:49.56–01:08.82<br/>Giải thích thay nhiệt khi chiên theo<br/>tác giả, rồi hoàn thiện bằng bột và<br/>gia vị."]
+  n3 --> n4
+  n5["06 · 01:08.82–01:21.33<br/>Nêu mẻ khoảng15 viên và chưa tới10<br/>nghìn/viên rồi chúc làm thành công;<br/>các khung73,2 và80,34s bẻ bánh, kéo<br/>sợi."]
+  n4 --> n5
+  classDef phase fill:#F8FAFC,stroke:#CBD5E1,color:#0F172A,font-size:18px;
+  classDef opening fill:#DBEAFE,stroke:#2563EB,color:#172554,font-size:18px;
+  classDef ending fill:#DCFCE7,stroke:#16A34A,color:#14532D,font-size:18px;
+  class n0,n1,n2,n3,n4,n5 phase;
+  class n0 opening;
+  class n5 ending;

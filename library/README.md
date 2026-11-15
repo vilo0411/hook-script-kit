@@ -1,10 +1,7 @@
-# Thư viện đã thu thập trước
+# Kho mẫu đã thu thập
 
-Kho chính nằm [bên trong skill](../skills/hook-script/references/corpus/index.md) để cài riêng vẫn đủ nguồn đọc. Có **1.949 bản ghi kênh, 40 ca phân tích sâu, 40 sơ đồ diễn biến và 26 nhóm hook có clip đối chiếu**, thu thập ngày 2026-11-15.
+Dữ liệu nằm [bên trong skill](../skills/hook-script/references/corpus/index.md) để cài riêng vẫn đủ đọc: **3,149 bản ghi, 22 kênh, 56 phân tích, 35 nhóm**, trong đó 16 mẫu ngoài ngách có [nghiên cứu phần mở](../skills/hook-script/references/corpus/hook-studies.md).
 
-- [Nhóm hook](../skills/hook-script/references/corpus/patterns.md).
-- [40 video và bằng chứng](../skills/hook-script/references/corpus/videos.json).
-- [Dữ liệu 1.949 video kênh](../skills/hook-script/references/corpus/channel-videos.json).
-- [Phương pháp cập nhật riêng](../MAINTENANCE.md).
+[Phân bố nguồn](../skills/hook-script/references/corpus/channels.md) · [Metadata](../skills/hook-script/references/corpus/videos.json) · [Phương pháp](../MAINTENANCE.md).
 
-Skill viết đọc những file này, không cào tại thời điểm viết. Metadata/media đã được tải lại; phạm vi review hiện là các khung chọn lọc + ASR cache có mốc, chưa nghe toàn âm/xem liên tục. Từng ca ghi giới hạn và link gốc. Đây chưa phải bộ bao phủ toàn TikTok Việt Nam.
+Không nhập kịch bản AI chưa duyệt hoặc bị người dùng loại làm mẫu học. Không cào trong tác vụ viết.

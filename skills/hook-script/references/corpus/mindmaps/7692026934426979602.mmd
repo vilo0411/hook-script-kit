@@ -1,0 +1,17 @@
+%%{init: {"htmlLabels": false, "themeVariables": {"fontSize": "18px"}, "flowchart": {"padding": 16, "rankSpacing": 22, "wrappingWidth": 360}}}%%
+flowchart TD
+  n0["01 · 00:00.00–00:02.00<br/>Người ở giữa quán gọi nhóm khán giả."]
+  n1["02 · 00:03.00–00:08.59<br/>Khung quay chuyển sang người khác<br/>trong quán."]
+  n0 --> n1
+  n2["03 · 00:17.18–00:25.77<br/>Nhiều người cùng xuất hiện với các tư<br/>thế biểu diễn."]
+  n1 --> n2
+  n3["04 · 00:34.36–00:42.94<br/>Người mặc hồng hoa ở trước đội hình."]
+  n2 --> n3
+  n4["05 · 00:51.53–00:56.26<br/>Gom nhóm với thẻ lịch livestream và ưu<br/>đãi."]
+  n3 --> n4
+  classDef phase fill:#F8FAFC,stroke:#CBD5E1,color:#0F172A,font-size:18px;
+  classDef opening fill:#DBEAFE,stroke:#2563EB,color:#172554,font-size:18px;
+  classDef ending fill:#DCFCE7,stroke:#16A34A,color:#14532D,font-size:18px;
+  class n0,n1,n2,n3,n4 phase;
+  class n0 opening;
+  class n4 ending;

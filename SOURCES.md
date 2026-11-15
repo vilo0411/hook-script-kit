@@ -17,4 +17,7 @@ Nội dung repo thứ hai theo [CC BY-NC-SA 4.0](https://github.com/shixinzhang/
 
 Bản đầu đã đặt bài và hook AI tự viết làm ví dụ. Chủ repo chưa ưng ý và không chấp nhận dùng làm mẫu. Bản hiện hành gỡ năm bài đó, bảng 20 hook, năm cấu trúc định sẵn và phần tự chấm đi kèm khỏi nguồn dùng hiện tại. Lịch sử Git giữ thay đổi để truy vết, không phải thư viện mẫu.
 
-Đã bổ sung [corpus TikTok tiếng Việt](skills/hook-script/references/corpus/index.md): 1.949 bản ghi 14 kênh, 40 ca có media được tải lại, 40 sơ đồ diễn biến và 26 nhóm hook có bằng chứng. Skill đọc kho này khi viết, không tự cào. Xem [phương pháp](MAINTENANCE.md) về cách tuyển mẫu, reuse ASR và giới hạn review.
+Đợt trước đã bổ sung [corpus TikTok tiếng Việt](skills/hook-script/references/corpus/index.md): 1.949 bản ghi 14 kênh, 40 ca có media được tải lại, 40 sơ đồ diễn biến và 26 nhóm hook có bằng chứng. Skill đọc kho này khi viết, không tự cào. Xem [phương pháp](MAINTENANCE.md) về cách tuyển mẫu, reuse ASR và giới hạn review.
+
+
+Đợt ngoài ngách: corpus hiện 3,149 bản ghi, 22 kênh, 56 ca và 35 nhóm; 16 ca mới có nghiên cứu lời/hình/chữ và cấu trúc hai câu. Đọc [đối chiếu nguồn tham khảo](skills/hook-script/references/reference-audit.md) và [phạm vi từng ca](skills/hook-script/references/corpus/hook-studies.md). Không coi nhãn hiệu quả/thuật toán của repo tham khảo là dữ liệu retention đã đo.

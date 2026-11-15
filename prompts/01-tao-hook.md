@@ -32,3 +32,5 @@ thực tế của bài mới cần nguồn riêng, ví dụ giả định cần 
 
 
 Đa dạng nguồn: với 10 hook, ưu tiên ≥5 kênh, ≥3 cách thể hiện, ≤2 option/kênh khi có đủ ca phù hợp. Brief và yêu cầu người dùng được ưu tiên; ghi rõ khi kho chưa đủ.
+
+Trước câu chữ, tìm chi tiết/sự việc đáng xem và câu trả lời phần sau thực sự có. Với mỗi option ghi câu mở, khung đầu gợi ý, điều còn muốn biết và nguồn/đoạn học từ. Dùng được nguồn ngoài ngách khi chuyển cách chia thông tin; không chỉ thay danh từ. Nhịp nối của ba hướng phát triển phải có thông tin mới.

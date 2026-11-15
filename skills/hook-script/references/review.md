@@ -34,3 +34,5 @@ Kiểm bản thật để ghi lỗi theo mốc. Khi có số liệu đăng, lưu
 
 
 Đa dạng nguồn: với 10 hook, ưu tiên ≥5 kênh, ≥3 cách thể hiện, ≤2 option/kênh khi có đủ ca phù hợp. Brief và yêu cầu người dùng được ưu tiên; ghi rõ khi kho chưa đủ.
+
+Trước khi giao hook: xác định được sự việc cụ thể, lời/hình mở, điều còn thiếu, nhịp nối có thông tin mới và payoff. Đối chiếu nguồn theo quan hệ diễn biến, không chỉ nhãn nhóm. Bộ 10 hook lương tăng đã bị người dùng loại; không dùng làm mẫu đạt chất lượng. Đọc [đối chiếu](reference-audit.md) khi sửa kiểu lỗi này.

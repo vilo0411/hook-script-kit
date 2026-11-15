@@ -1,0 +1,21 @@
+%%{init: {"htmlLabels": false, "themeVariables": {"fontSize": "18px"}, "flowchart": {"padding": 16, "rankSpacing": 22, "wrappingWidth": 360}}}%%
+flowchart TD
+  n0["01 · 00:00.00–00:13.28<br/>Giới thiệu phép đo78 máy và một kết<br/>luận về hãng; hỏi thực hư."]
+  n1["02 · 00:13.28–00:28.78<br/>Nhận diện nguồn và định nghĩa khoá<br/>dung lượng theo người dẫn."]
+  n0 --> n1
+  n2["03 · 00:28.88–00:52.98<br/>Đối chiếu các hãng và một mẫu<br/>pin10.000 nhưng ít dung lượng dùng hơn<br/>theo nguồn."]
+  n1 --> n2
+  n3["04 · 00:52.98–01:09.36<br/>Bổ sung các nhóm ngoại lệ và phần dự<br/>trữ được đánh giá chấp nhận."]
+  n2 --> n3
+  n4["05 · 01:09.36–01:44.34<br/>Mở thêm chênh lệch công suất quảng<br/>cáo, công suất đỉnh và tốc độ thực."]
+  n3 --> n4
+  n5["06 · 01:44.34–02:04.52<br/>Giải thích đánh đổi kỹ thuật rồi tách<br/>vấn đề minh bạch."]
+  n4 --> n5
+  n6["07 · 02:04.52–02:10.62<br/>Hỏi ý kiến và nhắc lại chênh lệch dung<br/>lượng."]
+  n5 --> n6
+  classDef phase fill:#F8FAFC,stroke:#CBD5E1,color:#0F172A,font-size:18px;
+  classDef opening fill:#DBEAFE,stroke:#2563EB,color:#172554,font-size:18px;
+  classDef ending fill:#DCFCE7,stroke:#16A34A,color:#14532D,font-size:18px;
+  class n0,n1,n2,n3,n4,n5,n6 phase;
+  class n0 opening;
+  class n6 ending;

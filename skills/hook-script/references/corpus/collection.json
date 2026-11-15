@@ -1,20 +1,20 @@
 {
   "schemaVersion": 1,
-  "collectionCompletedAt": "2026-11-15T04:13:44.061324+00:00",
+  "collectionCompletedAt": "2026-11-15T04:43:16.669194+00:00",
   "platform": "TikTok",
-  "scope": "Kinh tế, tài chính và hành vi tiếng Việt; 14 kênh được chọn có chủ đích",
-  "channels": 14,
-  "channelRecords": 1949,
-  "videosDownloaded": 40,
-  "videosAnalyzed": 40,
+  "scope": "TikTok tiếng Việt: tài chính/kinh tế và corpus ngoài ngách (ẩm thực, du lịch, công nghệ, kiến thức, hài/biểu diễn, làm đẹp/bán hàng, phỏng vấn)",
+  "channels": 22,
+  "channelRecords": 3149,
+  "videosDownloaded": 56,
+  "videosAnalyzed": 56,
   "viralOperationalRule": ">=100.000 view và >=3× trung vị snapshot kênh sau lọc tuổi 48h; ngưỡng tuyển mẫu thực dụng, không chứng minh nhân quả.",
-  "samplingLimit": "Mẫu có chủ đích; 24 ca trước từ kho ứng viên, 16 ca mới từ 8 snapshot kênh mới. Không đại diện toàn TikTok VN; một số ca ngoài cửa sổ baseline 150 bài.",
+  "samplingLimit": "Mẫu có chủ đích qua nhiều đợt; tối đa 150 bài mỗi kênh, không đại diện toàn TikTok VN. Có clip cũ ngoài cửa sổ baseline. Một số ca chỉ đủ đọc hình vì ASR ảo hoặc nhạc; xem evidence từng ca.",
   "evidenceLimit": "Đã tải media, kiểm các khung chọn lọc và đọc ASR có mốc; chưa nghe toàn âm/xem liên tục. Không có retention hoặc analytics địa lý.",
   "publicData": "Metadata chuẩn hóa, đoạn hook ngắn và phân tích tự viết; không xuất signed CDN URLs, cookie, raw info.json, toàn transcript hoặc media của tác giả.",
   "ytDlpVersion": "2026.08.19",
-  "hookGroups": 26,
-  "mindmaps": 40,
-  "expansionNote": "Đợt đa dạng hóa: thêm 8 kênh, hai clip/kênh, ASR mới và khung hình. Giữ 24 ca trước; đổi toàn bộ sơ đồ sang một cột theo thời gian. Mỗi nguồn giữ timestamp riêng.",
+  "hookGroups": 35,
+  "mindmaps": 56,
+  "expansionNote": "Giữ 40 ca trước; thêm corpus ngoài ngách có nghiên cứu lời/hình/chữ, thông tin còn thiếu, nhịp nối, mốc trả và hai câu tóm cấu trúc. Không coi nguồn thương mại là viral tự nhiên. Mỗi nguồn giữ timestamp riêng.",
   "excludedCandidates": [
     {
       "id": "7472734993308060948",
@@ -24,7 +24,36 @@
       "id": "7703890632300973364",
       "handle": "taichinhcanhan2026",
       "reason": "Lượt tải chỉ trả media audio MP3, không có video để kiểm khung trong lượt này. Không đếm là clip đã phân tích."
+    },
+    {
+      "id": "7610739429686381845",
+      "handle": "genjadao",
+      "reason": "Lượt tải trả MP3, không có video kiểm hình; thay bằng clip khác cùng kênh."
+    },
+    {
+      "id": "7587002123091496212",
+      "handle": "genjadao",
+      "reason": "Lượt tải chỉ trả MP3, không có video kiểm hình; thay bằng clip khác cùng kênh."
     }
   ],
-  "diagramType": "chronological-flowchart-TD"
+  "diagramType": "chronological-flowchart-TD",
+  "hookStudies": 16,
+  "hookStudyVideoIds": [
+    "7429725622441659649",
+    "7620769376920145160",
+    "7593064718789512456",
+    "7691640756704005384",
+    "7694998594134281480",
+    "7691642587522010388",
+    "7691281157266132231",
+    "7680097632626248968",
+    "7667805587454971144",
+    "7687220059579632903",
+    "7657036293284629780",
+    "7704655257149705473",
+    "7653107443475467527",
+    "7660917957991779592",
+    "7644445587944836370",
+    "7692026934426979602"
+  ]
 }

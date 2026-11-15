@@ -1,0 +1,21 @@
+%%{init: {"htmlLabels": false, "themeVariables": {"fontSize": "18px"}, "flowchart": {"padding": 16, "rankSpacing": 22, "wrappingWidth": 360}}}%%
+flowchart TD
+  n0["01 · 00:00.00–00:06.74<br/>Nhận đang sở hữu máy nhưng nêu kết<br/>luận không nên mua bản lớn."]
+  n1["02 · 00:07.20–00:24.10<br/>Nêu mức giá và ví nó với xe máy theo<br/>lời nguồn."]
+  n0 --> n1
+  n2["03 · 00:24.10–00:36.12<br/>Đổi cùng khoản tiền thành nhiều đồ gia<br/>dụng và hỏi có xứng đáng."]
+  n1 --> n2
+  n3["04 · 00:36.80–01:06.42<br/>Nêu trọng lượng rồi cộng ốp, kính và<br/>cách mang máy."]
+  n2 --> n3
+  n4["05 · 01:06.42–01:24.16<br/>Cho rằng máy cũ đã đáp ứng hiệu năng<br/>và camera."]
+  n3 --> n4
+  n5["06 · 01:24.16–01:40.54<br/>Nêu nhóm nhu cầu đặc biệt rồi đối<br/>chiếu người dùng phổ thông."]
+  n4 --> n5
+  n6["07 · 01:40.54–01:48.96<br/>Tóm lại ba lý do tại thời điểm nguồn<br/>nói và mời bình luận."]
+  n5 --> n6
+  classDef phase fill:#F8FAFC,stroke:#CBD5E1,color:#0F172A,font-size:18px;
+  classDef opening fill:#DBEAFE,stroke:#2563EB,color:#172554,font-size:18px;
+  classDef ending fill:#DCFCE7,stroke:#16A34A,color:#14532D,font-size:18px;
+  class n0,n1,n2,n3,n4,n5,n6 phase;
+  class n0 opening;
+  class n6 ending;
